@@ -1,5 +1,5 @@
 ---
-title: "New wave network management buzz comparison"
+title: '"New wave" network management buzz comparison'
 date: "2007-09-13T16:41:48+00:00"
 categories: []
 tags: []
