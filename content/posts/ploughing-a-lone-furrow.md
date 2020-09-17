@@ -3,6 +3,7 @@ title: "Ploughing a lone furrow"
 date: "2007-03-01T16:45:59+00:00"
 categories: []
 tags: []
+---
 
 It occurred to me that a number of the things we sell have an unusual, and totally accidental, common theme. They are made by companies that are not afraid of doing things differently, companies that are prepared to look at things fom a different angle, to plough a lone furrow.
 

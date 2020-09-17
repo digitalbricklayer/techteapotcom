@@ -3,6 +3,7 @@ title: "Brian Clough book fest"
 date: "2008-10-09T08:00:50+00:00"
 categories: []
 tags: []
+---
 
 Occasionally, when the mood takes me, I read up on a topic to a reasonable depth. This time it was <a href="http://en.wikipedia.org/wiki/Brian_Clough">Brian Clough</a>, the eponymous ex-manager of football clubs <a href="http://en.wikipedia.org/wiki/Derby_County_F.C.">Derby County</a> &amp; <a href="http://en.wikipedia.org/wiki/Nottingham_Forest_F.C.">Nottingham Forest</a>.
 

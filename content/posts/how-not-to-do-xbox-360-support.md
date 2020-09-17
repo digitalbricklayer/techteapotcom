@@ -3,6 +3,7 @@ title: "How not to do XBox 360 support"
 date: "2008-10-29T13:35:34+00:00"
 categories: []
 tags: []
+---
 
 I've had a <a href="http://www.xbox.com/">XBox 360</a> for around a year now and I have to say it has been a fine console. I can't get enough of <a href="http://www.commandandconquer.com/">Command &amp; Conquor</a>.
 

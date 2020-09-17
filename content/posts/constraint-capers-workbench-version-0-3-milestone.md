@@ -3,6 +3,7 @@ title: "Constraint Capers Workbench Version 0.3 Milestone"
 date: "2016-11-03T13:39:37+00:00"
 categories: []
 tags: []
+---
 
 It has taken quite a while, but version 0.3 of Constraint Capers Workbench is coming together pretty well.
 

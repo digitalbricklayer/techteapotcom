@@ -3,6 +3,7 @@ title: "Whither Met Office openness update"
 date: "2008-05-06T11:38:30+00:00"
 categories: []
 tags: []
+---
 
 A couple of months ago or so <a href="http://techteapot.com/whither-met-office-openness/">I lamented the fact that the raw temperature data from the UK met office is not publicly available</a>.
 

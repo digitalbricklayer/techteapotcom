@@ -3,6 +3,7 @@ title: "New blog email subscription option"
 date: "2007-06-08T12:12:22+00:00"
 categories: []
 tags: []
+---
 
 The more observant among you may have noticed some changes on this 'ere blog. The blog was a wee bit anonymous so I've added an <a href="http://techteapot.com/about/">About link at the top of each page</a>. I've also added a link through to the <a href="http://www.openxtra.co.uk/products/">products section too</a>. Just so new visitors landing on the blog get an idea of what we're about.
 

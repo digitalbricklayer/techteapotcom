@@ -3,6 +3,7 @@ title: "YouTube OPENXTRA channel"
 date: "2008-09-19T10:36:28+00:00"
 categories: []
 tags: []
+---
 
 OPENXTRA now have a <a href="http://www.youtube.com/user/OPENXTRA">channel on YouTube</a>. We've started with three videos so far, more will follow soon. We're monitoring how well things go and would be interested in any feedback you have. Either comment on here or leave your feedback on YouTube if you've got an account.
 

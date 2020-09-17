@@ -3,6 +3,7 @@ title: "Power line networking: my experience"
 date: "2007-10-09T09:07:39+00:00"
 categories: []
 tags: []
+---
 
 <a href="http://techteapot.com/wp-content/uploads/2007/10/highspeed.jpg" title="Devolo Homeplug High Speed Starter Kits"><img src="http://techteapot.com/wp-content/uploads/2007/10/highspeed.jpg" alt="Devolo Homeplug High Speed Starter Kits" style="border: 4px solid white" align="right" /></a>
 

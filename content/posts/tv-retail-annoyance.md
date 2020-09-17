@@ -3,6 +3,7 @@ title: "TV retail annoyance"
 date: "2007-08-14T09:01:55+00:00"
 categories: []
 tags: []
+---
 
 <a href="http://techteapot.com/wp-content/uploads/2007/08/mytv_s.jpg" title="My home entertainment system"><img src="http://techteapot.com/wp-content/uploads/2007/08/mytv_s.jpg" alt="My home entertainment system" style="margin: 10px" align="right" /></a>
 

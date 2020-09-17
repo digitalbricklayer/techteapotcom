@@ -3,6 +3,7 @@ title: "Wordpress Bad Behavior hack scare"
 date: "2007-12-06T12:06:34+00:00"
 categories: []
 tags: []
+---
 
 <a href="http://techteapot.com/wp-content/uploads/2007/12/bad-behaviour-bug1.jpg" title="Bad Behavior wordpress plug-in error message"><img src="http://techteapot.com/wp-content/uploads/2007/12/bad-behaviour-bug1.jpg" alt="Bad Behavior wordpress plug-in error message" height="75%" width="75%" /></a>
 

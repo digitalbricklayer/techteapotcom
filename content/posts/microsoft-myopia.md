@@ -3,6 +3,7 @@ title: "Microsoft myopia"
 date: "2008-04-08T11:44:45+00:00"
 categories: []
 tags: []
+---
 
 <img style="border-left:solid 4px white" title="Cross Eyed" src="http://techteapot.com/wp-content/uploads/2008/04/istock_000004306521xsmall.jpg" alt="" width="198" height="300" align="right" />
 

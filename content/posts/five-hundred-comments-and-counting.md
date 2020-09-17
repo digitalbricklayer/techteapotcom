@@ -3,6 +3,7 @@ title: "Five hundred comments and counting..."
 date: "2009-06-08T14:52:58+00:00"
 categories: []
 tags: []
+---
 
 [caption id="attachment_1312" align="aligncenter" width="543" caption="500 Comments"]<img class="size-full wp-image-1312" title="500 Comments" src="http://techteapot.com/wp-content/uploads/2009/06/500-comments.png" alt="500 Comments" width="543" height="259" />[/caption]
 

@@ -3,6 +3,7 @@ title: "Google reader wrinkles"
 date: "2007-01-24T09:32:57+00:00"
 categories: []
 tags: []
+---
 
 I've just got into using RSS readers (yes, I know I'm very late on this one!) to keep track of various industry feeds, forums and blogs. I use <a href="http://www.google.com/reader">Google Reader</a>. It is a great example of what web 2 can deliver to enhance our user experience. I bet it's a pig to program though, if it's easy to use it always is.
 

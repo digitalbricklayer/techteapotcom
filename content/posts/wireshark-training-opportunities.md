@@ -3,6 +3,7 @@ title: "Wireshark training opportunities"
 date: "2007-09-18T15:41:31+00:00"
 categories: []
 tags: []
+---
 
 <img src='http://techteapot.com/wp-content/uploads/2007/09/lostpkts-246x147.png' alt='Wireshark in action' align="right" />
 

@@ -3,6 +3,7 @@ title: "SpamAssassin just works..."
 date: "2007-09-27T09:00:29+00:00"
 categories: []
 tags: []
+---
 
 <a href='http://techteapot.com/wp-content/uploads/2007/09/arrowlogo.png' title='SpamAssassin Logo'><img src='http://techteapot.com/wp-content/uploads/2007/09/arrowlogo.png' align="right" alt='SpamAssassin Logo' /></a>
 

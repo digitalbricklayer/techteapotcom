@@ -3,6 +3,7 @@ title: "Observations on 8 Issues of C# Weekly"
 date: "2015-04-23T15:10:23+00:00"
 categories: []
 tags: []
+---
 
 At the end of 2013 I thought it would be interesting to create a <a href="http://csharpweekly.co/">C# focused weekly newsletter</a>. I registered the domain and created a website and hooked it up to the excellent <a href="http://mailchimp.com/">MailChimp email service</a>. The site went live (or at least Google Analytics was added to the site) on the 18th December 2013.
 

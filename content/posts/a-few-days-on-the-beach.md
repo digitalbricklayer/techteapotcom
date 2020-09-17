@@ -3,6 +3,7 @@ title: "A few days on the beach"
 date: "2008-10-14T09:14:04+00:00"
 categories: []
 tags: []
+---
 
 <a href="http://techteapot.com/wp-content/uploads/2008/10/istock_000007333629xsmall.jpg"><img class="size-medium wp-image-900" title="A beach" alt="Where I'm going won't look anything like this!" src="http://techteapot.com/wp-content/uploads/2008/10/istock_000007333629xsmall.jpg" width="300" height="201" align="right" /></a>
 

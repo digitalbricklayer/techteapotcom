@@ -3,6 +3,7 @@ title: "Scam of the week"
 date: "2015-07-13T08:00:35+00:00"
 categories: []
 tags: []
+---
 
 Last week we had to fend off a scam attempt. The scam worked like this:
 <ol>

@@ -3,6 +3,7 @@ title: "Blog Action Day: The server power double whammy"
 date: "2007-10-15T15:23:25+00:00"
 categories: []
 tags: []
+---
 
 Servers are getting faster and faster, consuming more and more power, producing more and more heat. Removing heat from the data centre uses even more power.
 

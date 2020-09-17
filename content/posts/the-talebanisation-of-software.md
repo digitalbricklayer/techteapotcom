@@ -3,6 +3,7 @@ title: "The talibanisation of software"
 date: "2009-10-30T14:52:21+00:00"
 categories: []
 tags: []
+---
 
 Why is software becoming so political? Sometimes it feels like the tech industry is being infiltrated by a "software taliban" determined to root out all non-believers in the one true path.
 

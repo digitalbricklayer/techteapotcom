@@ -3,6 +3,7 @@ title: "Musings upon the open core functionality ceiling"
 date: "2010-03-02T12:37:55+00:00"
 categories: []
 tags: []
+---
 
 One of the things you'd expect from an active open source project is that the code base is likely to grow as more and more features are added.
 

@@ -3,6 +3,7 @@ title: "Resource section makeover"
 date: "2007-02-20T09:41:02+00:00"
 categories: []
 tags: []
+---
 
 The resource section has been rather unloved and untouched of late. It hasn't been updated for over a year and I think it is in need of a makeover.
 

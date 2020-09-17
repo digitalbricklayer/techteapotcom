@@ -3,6 +3,7 @@ title: "Ain't no such thing as SMB class kit"
 date: "2008-01-17T14:35:45+00:00"
 categories: []
 tags: []
+---
 
 <p><img height="149" alt="Network outage" src="http://techteapot.com/wp-content/uploads/2008/01/net-downtime.jpg" width="225" align="right" />Every bout of downtime teaches you a lesson. At least one. :)</p>
 <h2>The lesson...</h2>

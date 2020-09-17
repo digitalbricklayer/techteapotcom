@@ -3,6 +3,7 @@ title: "Discoverable data centre infrastructure"
 date: "2008-09-30T08:00:03+00:00"
 categories: []
 tags: []
+---
 
 David Cuthbertson of <a href="http://www.squaremilesystems.com/">Square Mile Systems</a> was kind enough to demonstrate his <a href="http://www.squaremilesystems.com/p_assetgensysmap.html">AssetGen</a> software to myself and Denis last week.
 

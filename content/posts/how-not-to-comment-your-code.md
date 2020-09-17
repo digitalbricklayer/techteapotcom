@@ -3,6 +3,7 @@ title: "How not to comment your code"
 date: "2007-10-29T09:01:54+00:00"
 categories: []
 tags: []
+---
 
 I was talking to an old time programmer a while ago and he reminisced about a colleague who used to comment his code using <a href="http://en.wikipedia.org/wiki/Ancient_Greek">Ancient Greek</a>.
 

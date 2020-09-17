@@ -3,6 +3,7 @@ title: "Not the Dud but the Dude"
 date: "2006-12-01T15:31:03+00:00"
 categories: []
 tags: []
+---
 
 Brendan from <a href="http://www.secure-eserver.com/">Sentinal</a> was kind enough to point out a new <a href="http://en.wikipedia.org/wiki/Open_source">open source </a> network mapping tool. It looks really good and so far seems to work! It's called <a href="http://www.mikrotik.com/thedude.php">The Dude</a>, probably sounds better in an American accent, and I tried it on our test network with the following results.
 

@@ -3,6 +3,7 @@ title: "Test-Um training roundup"
 date: "2007-09-28T13:23:28+00:00"
 categories: []
 tags: []
+---
 
 <a href="http://www.jdsu.com/">JDSU</a> were kind enough to invite myself and Denis to a Test-Um product training day at the JDSU offices in Basingstoke. Michael, the Test-Um trainer, is extremely knowledgeable about cable testing in general (as an ex-installer himself) and about the whole Test-Um range in particular.
 

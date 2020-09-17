@@ -3,6 +3,7 @@ title: "The elephant and the cloud"
 date: "2007-12-19T11:06:43+00:00"
 categories: []
 tags: []
+---
 
 <a href="http://techteapot.com/wp-content/uploads/2007/12/elephant.gif"><img style="border-left: solid 4px white;" alt="Elephant flying on clouds" src="http://techteapot.com/wp-content/uploads/2007/12/elephant.gif" align="right" /></a>
 

@@ -3,6 +3,7 @@ title: "Data centre heating effects"
 date: "2007-11-19T14:32:53+00:00"
 categories: []
 tags: []
+---
 
 One of the side effects of the <a href="http://www.rackspace.com/information/announcements/datacenter.php">recent RackSpace outage in their Dallas/Fort Worth data centre</a> has been finding out just how quickly their data centre heats up when the air conditioning system fails.
 

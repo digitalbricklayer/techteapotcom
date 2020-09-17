@@ -3,6 +3,7 @@ title: "Season's greetings from OPENXTRA"
 date: "2007-12-24T12:50:42+00:00"
 categories: []
 tags: []
+---
 
 <a title="OPENXTRA Christmas Party" href="http://techteapot.com/wp-content/uploads/2007/12/office-christmas-party-2007.png"><img style="border-left: solid 4px white;" src="http://techteapot.com/wp-content/uploads/2007/12/office-christmas-party-2007_tn.png" alt="OPENXTRA Christmas Party" align="right" /></a>
 

@@ -3,6 +3,7 @@ title: "New domain and last chance to subscribe via email"
 date: "2015-03-03T13:31:03+00:00"
 categories: []
 tags: []
+---
 
 If you receive <em>The Tech Teapot</em> via email, this is your last chance to continue doing so. From now <em>The Tech Teapot</em> is moving over to use <a href="http://mailchimp.com/">MailChimp</a> instead of <a href="http://feedburner.google.com/">Google Feedburner</a> for delivering email with the latest posts.
 

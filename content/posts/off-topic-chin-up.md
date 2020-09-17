@@ -3,6 +3,7 @@ title: "Off Topic: Chin up"
 date: "2008-10-10T14:34:01+00:00"
 categories: []
 tags: []
+---
 
 I personally think the <a href="http://www.independent.co.uk/opinion/commentators/hamish-mcrae/hamish-mcrae-its-bad-may-get-worse-but-its-no-great-depression-955492.html">doom &amp; gloom is being overplayed at the moment</a>, every bit as much as the euphoria overshot during the boom years.
 

@@ -3,6 +3,7 @@ title: "I've a feeling we're not in Kansas any more"
 date: "2014-05-01T14:43:30+00:00"
 categories: []
 tags: []
+---
 
 I was researching a follow up to <a href="http://techteapot.com/how-will-cloud-computing-change-network-management/">how will cloud computing change network management</a> post and I came across something rather odd I'd like to share with you.
 

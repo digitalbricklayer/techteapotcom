@@ -3,6 +3,7 @@ title: "The Last of the Savages"
 date: "2014-03-14T10:21:19+00:00"
 categories: []
 tags: []
+---
 
 Ray Kurzweil has a history of <a href="http://slumz.boxden.com/f244/google-s-ray-kurzweil-predicts-how-world-will-change-2023326/">making accurate future forecasts</a>. One of them is that the 3D printer is coming and the current ones are but a small hint of what is to come.
 

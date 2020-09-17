@@ -3,6 +3,7 @@ title: "RE: Microsoft Wake Up--Apple is gaining Intellectual Capital and Market"
 date: "2007-08-08T15:19:27+00:00"
 categories: []
 tags: []
+---
 
 <a href="http://forbesontech.typepad.com/my_weblog/">Jim Forbes</a> wrote an interesting piece <em><a href="http://forbesontech.typepad.com/my_weblog/2007/08/microsoft-wake-.html">Microsoft Wake Up--Apple is gaining Intellectual Capital and Market</a></em> over on his blog.
 

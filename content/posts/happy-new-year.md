@@ -3,6 +3,7 @@ title: "Happy new year!"
 date: "2008-01-02T16:31:22+00:00"
 categories: []
 tags: []
+---
 
 <p>I actually refused some chocolate last night...not often that happens! Geese, I need to get down the gym today. :)</p>
 <p><img height="192" alt="uglysisters372" src="http://techteapot.com/wp-content/uploads/2008/01/uglysisters372.jpg" width="372" align="right" />I must confess that I've been looking forward to going back to work for the last few days. The highlight of my holiday was the annual family trip to the <a title="Pantomime review" href="http://yorktheatreroyal.wordpress.com/2007/12/19/review-sinbad-the-sailor-8/">pantomime</a> at the <a title="Theatre Royal York" href="http://www.yorktheatreroyal.co.uk/">Theatre Royal in York</a>. The <a href="http://arts.guardian.co.uk/theatre/drama/reviews/story/0,,2229144,00.html">award winning performance</a> was up to its usual high standard and I recommend a visit if you can make it...the performance runs until the 2nd February.</p>

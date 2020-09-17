@@ -3,6 +3,7 @@ title: "Off Topic: Autumn switch"
 date: "2008-09-04T15:46:43+00:00"
 categories: []
 tags: []
+---
 
 It was uncanny yesterday. I entered the office in summer and when I left to go buy an espresso mid-morning the air had changed to an early autumn chill. The nice summer smell had gone too, replaced by a fresher autumn bite.
 

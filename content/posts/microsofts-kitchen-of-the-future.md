@@ -3,6 +3,7 @@ title: "Microsoft's Kitchen of the Future"
 date: "2007-01-25T12:22:39+00:00"
 categories: []
 tags: []
+---
 
 I couldn't help but laugh at the kitchen in Microsoft's Home of the Future. Everybody knows that nothing dates like visions of the future, but this takes the biscuit (or the <a href="http://en.wikipedia.org/wiki/Focaccia">focaccia</a>, see below). I'm still waiting for my jetpack and my nuclear powered million-miles-to-the-gallon car that I was promised when I was a child, but it looks like I'll have to wait a while yet.
 

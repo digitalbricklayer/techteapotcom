@@ -3,6 +3,7 @@ title: "Are operating systems important anymore?"
 date: "2007-08-15T09:01:53+00:00"
 categories: []
 tags: []
+---
 
 I was thinking about <a href="http://forbesontech.typepad.com/my_weblog/2007/08/microsoft-wake-.html">Jim Forbes post</a>, and <a href="http://techteapot.com/re-microsoft-wake-up-apple-is-gaining-intellectual-capital-and-market/">my reply to it</a>. The more I think about it, the more the Windows vs OSX battle really is getting kinda irrelevant.
 

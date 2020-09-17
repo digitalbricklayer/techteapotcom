@@ -3,6 +3,7 @@ title: "ANN: New blog theme..."
 date: "2007-08-06T16:45:59+00:00"
 categories: []
 tags: []
+---
 
 Hope you like the new theme! We were bored with the bog <a href="http://themes.wordpress.net/columns/2-columns/727/nikynik-orange-2/">standard Wordpress theme</a> so we thought we'd custom build our own.
 

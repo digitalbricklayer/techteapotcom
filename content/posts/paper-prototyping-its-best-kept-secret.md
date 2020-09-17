@@ -3,6 +3,7 @@ title: "Paper prototyping: IT's best kept secret?"
 date: "2007-10-11T12:57:00+00:00"
 categories: []
 tags: []
+---
 
 <img src="http://techteapot.com/wp-content/uploads/2007/10/paper-prototyping.jpg" alt="Paper Prototyping Book Cover" style="border-left: 4px solid white" align="right" />
 

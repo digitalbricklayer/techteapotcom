@@ -3,6 +3,7 @@ title: "Alarms as easy as 1,2,3?"
 date: "2006-12-19T16:40:57+00:00"
 categories: []
 tags: []
+---
 
 I've been trying to get my head round what the Alarm Numbers mean in  Intellipool INM. Just when I think I've got it everything just slips away. 
 

@@ -3,6 +3,7 @@ title: "Quantum Computing - Is this the Future?"
 date: "2007-02-22T13:26:19+00:00"
 categories: []
 tags: []
+---
 
 Having dipped my toe into trying to understand quantum physics (in books designed to explain such concepts to the ordinary wo/man in the street) and ending up with not inconsiderable brain-ache, I don't stand a hope of understanding the development announced last week by Canadian start-up <a href="http://www.dwavesys.com/">D-Wave Systems</a> of the world's first commercially viable quantum computer, the "16-qubit" Orion. Apparently, it uses an analogue processor that uses the laws of quantum mechanics rather than utilising the rather more conventional laws of physics.
 

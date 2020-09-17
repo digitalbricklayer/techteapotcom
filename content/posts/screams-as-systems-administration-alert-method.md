@@ -3,6 +3,7 @@ title: "Screams as systems administration alert method"
 date: "2008-10-31T08:00:46+00:00"
 categories: []
 tags: []
+---
 
 <a href="http://techteapot.com/wp-content/uploads/2008/10/istock_000005466936xsmall.jpg"><img class="alignright size-medium wp-image-939" title="istock_000005466936xsmall" src="http://techteapot.com/wp-content/uploads/2008/10/istock_000005466936xsmall.jpg" alt="" width="300" height="225" align="right" /></a>
 

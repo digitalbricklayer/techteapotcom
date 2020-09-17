@@ -3,6 +3,7 @@ title: "Looking forward to 2008"
 date: "2008-01-08T15:58:53+00:00"
 categories: []
 tags: []
+---
 
 <p>We expect two main trends to continue to drive business throughout 2008:</p>
 <ul>

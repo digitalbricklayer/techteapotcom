@@ -3,6 +3,7 @@ title: "Would love to have been at this pitch..."
 date: "2008-04-10T09:00:24+00:00"
 categories: []
 tags: []
+---
 
 You wanna do what? <a href="http://en.wikipedia.org/wiki/Ventriloquist">Ventriloquism</a> on radio? Oh sure...sounds great. You can start next week!
 

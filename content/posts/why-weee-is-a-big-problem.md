@@ -3,6 +3,7 @@ title: "Why WEEE is a big problem"
 date: "2007-01-11T10:50:48+00:00"
 categories: []
 tags: []
+---
 
 WEEE as you all know (you do know don't you?) stands for Waste Electrical and Electronic Equipment. The EU alone produces over 6 million tonnes of waste electrical equipment per year, much of it toxic, and it's growing fast. Separating all this from other waste and reusing, recycling or disposing of it is a major problem. The WEEE regulations are intended to address this issue. Good background information is available from the <a href="http://www.netregs.gov.uk/netregs/275207/1631119/1631184/?lang=_e">Environment Agency</a> or from the <a href="http://web.archive.org/web/20100121003658/http://www.dti.gov.uk:80/innovation/sustainability/weee/page30269.html">DTI website</a> 
 

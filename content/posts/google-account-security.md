@@ -3,6 +3,7 @@ title: "Google account security"
 date: "2008-12-11T09:45:56+00:00"
 categories: []
 tags: []
+---
 
 Here at Teapot Towers we are pretty paranoid about security. One of the things we've done to improve our security is lock down our web sites with a nice phat firewall.
 

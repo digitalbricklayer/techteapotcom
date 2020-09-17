@@ -3,6 +3,7 @@ title: "BUG now available in Europe"
 date: "2009-09-23T09:27:52+00:00"
 categories: []
 tags: []
+---
 
 <img class="alignright" title="Bug Labs Logo" src="http://techteapot.com/wp-content/uploads/2007/11/bug_logo_whiteback_sm.jpg" alt="Bug Labs Logo" width="150" height="105" align="right" />
 

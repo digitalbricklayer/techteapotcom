@@ -3,6 +3,7 @@ title: "Back to the future with 8-bit microcontrollers"
 date: "2007-12-05T14:32:50+00:00"
 categories: []
 tags: []
+---
 
 I've been hanging around with the 8-bit crowd lately! Yes, it does still exist, though is now largely restricted to the embedded market. What has surprised me is the level of functionality you can implement with very modest hardware. You can create fully functional web server, email servers and pretty well everything else all with off the shelf 8-bit microcontrollers.
 

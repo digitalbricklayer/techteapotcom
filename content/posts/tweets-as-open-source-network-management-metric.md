@@ -3,6 +3,7 @@ title: "Tweets as open source network management metric"
 date: "2008-03-10T09:01:07+00:00"
 categories: []
 tags: []
+---
 
 The folks over at <a href="http://www.tweetvolume.com/">TweetVOLUME</a> have produced a tool for counting the mentions of words or phrases on the <a href="http://twitter.com/">Twitter</a> <a href="http://en.wikipedia.org/wiki/Micro-blogging">micro-blogging</a> platform.
 

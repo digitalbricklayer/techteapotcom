@@ -3,6 +3,7 @@ title: "How Green Is Your Valley?"
 date: "2007-10-05T08:30:14+00:00"
 categories: []
 tags: []
+---
 
 <img src="http://techteapot.com/wp-content/uploads/2007/10/datacenter.jpg" style="border-left: 4px solid white" align="right" />
 

@@ -1,8 +1,9 @@
 ---
-title: "Free Tools to Police your "no wireless" Policy"
+title: "Free Tools to Police your no wireless Policy"
 date: "2013-07-31T13:33:16+00:00"
 categories: []
 tags: []
+---
 
 If you don't have a wireless network and you do not need to validate that you <em>don't</em> have a wireless network, you can blithely ignore what I'm going to say here.
 

@@ -3,6 +3,7 @@ title: "Real time log visualization using glTail.rb"
 date: "2007-10-19T14:38:03+00:00"
 categories: []
 tags: []
+---
 
 <img src="http://techteapot.com/wp-content/uploads/2007/10/gltail-partial.gif" alt="Partial screenshot of glTail.rb in action" align="right" style="border-left:solid 4px white" />
 

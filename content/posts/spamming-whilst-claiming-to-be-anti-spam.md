@@ -3,6 +3,7 @@ title: "Spamming whilst claiming to be anti-spam!"
 date: "2008-01-11T16:15:00+00:00"
 categories: []
 tags: []
+---
 
 Isn't it a little bit silly to post spammy comments onto this blog whilst purporting to invent a search engine that eliminates spam?
 

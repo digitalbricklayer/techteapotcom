@@ -3,6 +3,7 @@ title: "The Tech Teapot Three Today"
 date: "2009-11-30T09:50:01+00:00"
 categories: []
 tags: []
+---
 
 <img class="alignright size-full wp-image-1510" title="The Tech Teapot Third Birthday Cake" src="http://techteapot.com/wp-content/uploads/2009/11/phpRrWWSsAM.jpg" alt="The Tech Teapot Third Birthday Cake" width="233" height="350" align="right" />The Tech Teapot is three years old today. Well, if you want to be pedantic, it was three years old last Thursday but I forgot all about it!
 

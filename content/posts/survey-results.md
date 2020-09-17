@@ -3,6 +3,7 @@ title: "Survey results"
 date: "2008-10-20T14:26:25+00:00"
 categories: []
 tags: []
+---
 
 I ran a <a href="http://techteapot.com/give-me-your-feedback/">survey a couple of weeks ago asking for feedback on The Tech Teapot</a>. A number of you were kind enough to take the time to fill it in.
 

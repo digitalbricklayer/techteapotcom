@@ -3,6 +3,7 @@ title: "Open source network management comparison 2007"
 date: "2008-01-03T10:32:35+00:00"
 categories: []
 tags: []
+---
 
 <a href="http://socializedsoftware.com/">Mark Hinkle</a> from <a href="http://zenoss.org/">Zenoss</a> sent me a link to an <a href="http://docs.google.com/Doc?id=dgrmj57q_9g8pjxpdp">interesting document he prepared</a> yesterday.
 

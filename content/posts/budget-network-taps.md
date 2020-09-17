@@ -3,6 +3,7 @@ title: "Budget network taps"
 date: "2008-02-20T12:33:33+00:00"
 categories: []
 tags: []
+---
 
 <img src="http://techteapot.com/wp-content/uploads/2008/02/ntap1.jpg" alt="NTap Network Tap" width="144" height="144" align="right" />Sometimes you fall over a product and it blows you away. Network taps have until now been exotic hardware affordable only by large IT departments with the budget to match.
 

@@ -1,8 +1,9 @@
 ---
-title: "A recovering "wunderkind""
+title: "A recovering wunderkind"
 date: "2015-07-01T12:30:42+00:00"
 categories: []
 tags: []
+---
 
 If there is anything the IT industry loves above anything else it is youth.
 

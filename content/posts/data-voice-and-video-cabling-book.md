@@ -3,6 +3,7 @@ title: "Data, Voice, and Video Cabling book"
 date: "2007-07-31T09:01:47+00:00"
 categories: []
 tags: []
+---
 
 <a href="http://techteapot.com/wp-content/uploads/2007/07/d-v-book.jpg" title="Data, Voice, and Video Cabling book cover"><img src="http://techteapot.com/wp-content/uploads/2007/07/d-v-book.jpg" alt="Data, Voice, and Video Cabling book cover" style="margin: 10px" align="right" /></a>
 

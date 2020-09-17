@@ -3,6 +3,7 @@ title: "RE: Why Only Two?"
 date: "2008-04-25T14:53:13+00:00"
 categories: []
 tags: []
+---
 
 John Willis over at <a href="http://www.johnmwillis.com/">IT Management and Cloud Blog</a> posted an <a href="http://www.johnmwillis.com/nagios/why-only-two/">interesting post</a> I'd like to reply to.
 <blockquote><em>The key question is will â€œEnterpriseâ€ customers make an investment in companies like OpenNMS and Nagios with out the warm and fuzzy that â€œSoftware Companiesâ€ provide.</em></blockquote>

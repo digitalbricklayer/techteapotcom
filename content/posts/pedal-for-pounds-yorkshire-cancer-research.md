@@ -3,6 +3,7 @@ title: "Pedal for Pounds - Yorkshire Cancer Research"
 date: "2009-09-01T11:07:45+00:00"
 categories: []
 tags: []
+---
 
 On September 13th I will be taking part in the Pedal for Pounds North event raising money for theÂ  cancer research charity <a href="http://www.yorkshirecancerresearch.org.uk/">Yorkshire Cancer Research</a>. This will be the third time I've taken part in the sponsored bike ride, it is always very enjoyable cycling through 50 miles worth of beautiful, rolling countryside around <a href="http://www.harewood.org/">Harewood House</a>.
 

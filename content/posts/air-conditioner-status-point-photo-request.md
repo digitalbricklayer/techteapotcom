@@ -3,6 +3,7 @@ title: "Air conditioner status point photo request"
 date: "2009-10-28T15:46:23+00:00"
 categories: []
 tags: []
+---
 
 This may sound like an odd request but I'm going to make it anyway... ;)
 

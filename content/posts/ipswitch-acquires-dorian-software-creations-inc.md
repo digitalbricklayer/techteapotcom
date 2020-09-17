@@ -3,6 +3,7 @@ title: "Ipswitch acquires Dorian Software Creations Inc"
 date: "2010-01-27T16:05:11+00:00"
 categories: []
 tags: []
+---
 
 Ipswitch, the people responsible for creating What's Up Gold, have acquired <a href="http://www.doriansoft.com/">Dorian Software Creations</a>. Dorian Software are publishers of event log management software.
 

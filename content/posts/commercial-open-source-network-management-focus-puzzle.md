@@ -3,6 +3,7 @@ title: "Commercial open source network management focus puzzle"
 date: "2007-05-15T12:35:39+00:00"
 categories: []
 tags: []
+---
 
 One of the interesting things to emerge in network management over the last year or two has been the commercial open source vendors like <a href="http://www.groundworkopensource.com/">Groundwork</a> & <a href="http://www.zenoss.com/">Zenoss</a>.
 

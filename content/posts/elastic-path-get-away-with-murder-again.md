@@ -3,6 +3,7 @@ title: "Elastic Path get away with murder *again*"
 date: "2008-01-18T17:31:45+00:00"
 categories: []
 tags: []
+---
 
 <a href="http://www.elasticpath.com/">Elastic Path</a> are enterprise e-commerce software developers. We use Elastic Path software as the e-commerce platform on this website. For the second release in a row they haven't provided a mechanism to import an existing product database into their new release.
 

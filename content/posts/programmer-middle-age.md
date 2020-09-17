@@ -3,6 +3,7 @@ title: "Programmer middle age"
 date: "2008-01-21T13:36:16+00:00"
 categories: []
 tags: []
+---
 
 <p><img height="330" alt="iStock 000004300948XSmall" src="http://techteapot.com/wp-content/uploads/2008/01/istock-000004300948xsmall.jpg" width="225" align="right" />You know when you've reached programmer middle age, a new operating system/IDE drops through your letter box and you don't run off to install it. ;)</p>
 <p>I received <a href="http://en.wikipedia.org/wiki/Microsoft_Visual_Studio">Visual Studio 2008</a> via <a href="http://msdn2.microsoft.com/">MSDN</a> last week and it is still sitting on my desk unopened. Is there any hope for me?</p>

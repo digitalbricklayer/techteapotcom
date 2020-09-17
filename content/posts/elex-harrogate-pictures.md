@@ -3,6 +3,7 @@ title: "ELEX Harrogate Pictures"
 date: "2008-03-18T11:41:01+00:00"
 categories: []
 tags: []
+---
 
 Many thanks to everybody who attended the <a href="http://www.elexshow.info/">ELEX show in Harrogate</a> last week. OPENXTRA had a stand and we enjoyed meeting you all.
 <p align="center"><img src="http://techteapot.com/wp-content/uploads/2008/03/p2190204-small.jpg" alt="Denis and Annie at ELEX" height="337" width="450" /></p>

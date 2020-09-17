@@ -3,6 +3,7 @@ title: "Affordable wireless packet capture solution"
 date: "2007-09-04T09:30:56+00:00"
 categories: []
 tags: []
+---
 
 <a title="Airpcap capture" href="http://techteapot.com/wp-content/uploads/2007/09/wireshark_ampdu_big.png"><img alt="Airpcap capture" src="http://techteapot.com/wp-content/uploads/2007/09/wireshark_ampdu_small.gif" align="right" /></a>
 

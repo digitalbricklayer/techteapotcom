@@ -3,6 +3,7 @@ title: "RiverMuse: open source enterprise fault management system"
 date: "2008-11-14T16:51:08+00:00"
 categories: []
 tags: []
+---
 
 John Willis on his excellent CloudDroplets #7 podcast <a href="http://www.johnmwillis.com/droplets/clouddroplets-7-we-had-to-let-jenny-go/">mentioned a very interesting development in the enterprise open source network management space</a>.
 

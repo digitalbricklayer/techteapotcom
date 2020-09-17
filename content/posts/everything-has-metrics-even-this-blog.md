@@ -3,6 +3,7 @@ title: "Everything has metrics, even this blog"
 date: "2013-08-09T08:52:59+00:00"
 categories: []
 tags: []
+---
 
 I was struck by something that Tim Nash said in the <a href="http://lanyrd.com/2013/wpleeds/">August Wordpress Leeds meeting</a>. He did an interesting talk about blog metrics. One of those metrics was the number of subscribers.
 

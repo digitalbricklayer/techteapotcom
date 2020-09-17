@@ -3,6 +3,7 @@ title: "Agent less monitoring equals standards based monitoring"
 date: "2007-02-05T14:17:23+00:00"
 categories: []
 tags: []
+---
 
 Why is <em>agent less</em> network monitoring called agent less? An agent is required! Pretty confusing really. I don't suppose <em>non-proprietary agent</em> has quite the same ring to it.
 

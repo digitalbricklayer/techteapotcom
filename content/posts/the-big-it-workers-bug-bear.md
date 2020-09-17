@@ -3,6 +3,7 @@ title: "The big IT worker's bug bear"
 date: "2008-08-29T09:45:04+00:00"
 categories: []
 tags: []
+---
 
 Looks like I'm not the only one to have <a href="http://www.reddit.com/r/programming/comments/6ygwg/how_do_you_deal_wfriends_and_family_constantly/">problems with friends and family wanting help with their computers</a>. I've <a href="http://techteapot.com/my-worst-nightmare/">talked about this before</a> and, whilst my own problem has been much reduced, plainly a lot of people in IT have problems associated with people expecting unreasonable amounts of help with their home electrical equipment.
 

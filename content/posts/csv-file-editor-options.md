@@ -3,6 +3,7 @@ title: "CSV file editor options"
 date: "2007-08-17T14:08:33+00:00"
 categories: []
 tags: []
+---
 
 I need to create a CSV file using pipe (|) field separators and caret (~) field delimiters to feed some data into our e-commerce system. The format of the file is not under my control.
 

@@ -3,6 +3,7 @@ title: "What's Up Rises to Top in Bake-Off"
 date: "2007-08-28T08:32:33+00:00"
 categories: []
 tags: []
+---
 
 <a href="http://web.archive.org/web/20110703224346/http://www.openxtra.co.uk/images/productphotos/additional/whatsup/homewkspc-remote2.gif" title="Whatâ€™s Up Gold screenshot"><img src="http://techteapot.com/wp-content/uploads/2007/08/homewkspc-remote_sm.gif" alt="Whatâ€™s Up Gold screenshot" align="right" /></a>
 

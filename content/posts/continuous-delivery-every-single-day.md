@@ -3,6 +3,7 @@ title: "Continuous delivery every single day"
 date: "2012-08-14T10:41:40+00:00"
 categories: []
 tags: []
+---
 
 It has taken 20 years as a professional programmer to get to this point, but I have finally taken the final step to continuous delivery.
 

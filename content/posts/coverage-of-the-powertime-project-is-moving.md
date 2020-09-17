@@ -3,6 +3,7 @@ title: "Coverage of the TimeTag project is moving..."
 date: "2008-08-28T13:45:11+00:00"
 categories: []
 tags: []
+---
 
 I've decided to move coverage of the <a title="Continuous delivery every single day" href="http://github.com/openxtra/TimeTag">TimeTag time series database project</a> over onto its own blog (or at least my own personal blog).
 

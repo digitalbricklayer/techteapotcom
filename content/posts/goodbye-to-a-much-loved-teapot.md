@@ -3,6 +3,7 @@ title: "Goodbye to a much loved teapot :)"
 date: "2007-07-23T09:01:29+00:00"
 categories: []
 tags: []
+---
 
 I must announce, with much sorrow, the sad loss of our first tea pot. :)
 

@@ -3,6 +3,7 @@ title: "Update on version 0.2 of Constraint Capers Workbench"
 date: "2015-12-23T13:25:09+00:00"
 categories: []
 tags: []
+---
 
 The project has been renamed. It was called the Dyna Project, it is now called the <a href="https://github.com/constraint-capers">Constraint Capers project</a> due to a name clash with another project on GitHub. The other project didn't object or anything, it just seemed like the right thing to do.
 

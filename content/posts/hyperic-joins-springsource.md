@@ -3,6 +3,7 @@ title: "Hyperic joins SpringSource"
 date: "2009-05-06T09:32:27+00:00"
 categories: []
 tags: []
+---
 
 Congrats to <a href="http://www.hyperic.com/blog/springsource/">Hyperic for the purchase by SpringSource</a>. If you'd bet me which of the <a href="http://techteapot.com/network-managements-new-wave/">new wave</a> were going to be bought first I would have bet on <a href="http://www.hyperic.com/">Hyperic</a> every time.
 

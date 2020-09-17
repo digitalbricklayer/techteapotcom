@@ -3,6 +3,7 @@ title: "My worst nightmare..."
 date: "2007-09-20T14:24:38+00:00"
 categories: []
 tags: []
+---
 
 <img src="http://techteapot.com/wp-content/uploads/2007/09/headhold.gif" alt="IT person regretting he agreed to fix somebody else's PC" align="right" style="border-left:solid 4px white" />
 

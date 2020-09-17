@@ -3,6 +3,7 @@ title: "Your business model is not a software feature"
 date: "2015-07-22T11:21:00+00:00"
 categories: []
 tags: []
+---
 
 I created a product a few years ago and whilst it is doing fine on new sales it is really bad at monetising the existing customer base. The reason it is doing so badly at monetising our existing customers is because I assumed that the business model could be plugged in later, like any other software feature.
 

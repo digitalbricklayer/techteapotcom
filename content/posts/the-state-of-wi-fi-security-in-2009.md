@@ -3,6 +3,7 @@ title: "The state of Wi-Fi security in 2009"
 date: "2010-01-08T08:00:38+00:00"
 categories: []
 tags: []
+---
 
 Wireless networks, as we all know, are everywhere today. All the way back in 2004 Denis did a wardriving exercise to check how widespread the use of encryption and other security measures were in wireless networks deployed in and around Leeds. The results were summarised in the article <a href="http://www.openxtra.co.uk/articles/wardriving-leeds">Open all Hours - Wardriving in Leeds, West Yorkshire, England</a>.
 

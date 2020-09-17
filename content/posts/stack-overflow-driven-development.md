@@ -3,6 +3,7 @@ title: "Stack Overflow Driven Development"
 date: "2014-04-15T12:53:52+00:00"
 categories: []
 tags: []
+---
 
 The rise of <a href="http://stackoverflow.com/">Stack Overflow</a> has certainly changed how many programmers go about their trade.
 

@@ -3,6 +3,7 @@ title: "Introducing PowerGUI..."
 date: "2007-07-04T09:01:16+00:00"
 categories: []
 tags: []
+---
 
 Whilst we are on the topic of PowerShell, may as well mention <a href="http://powergui.org/">PowerGUI</a> as well.
 

@@ -3,6 +3,7 @@ title: "Open source network management activity comparison"
 date: "2009-05-27T13:04:46+00:00"
 categories: []
 tags: []
+---
 
 The recent <a href="http://techteapot.com/nagios-begets-icinga/">controversy over the ICINGA Nagios fork</a> brought into focus the relative activity of the various network management projects.
 

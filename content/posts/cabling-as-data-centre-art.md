@@ -3,6 +3,7 @@ title: "Cabling as data centre art"
 date: "2008-01-25T12:14:02+00:00"
 categories: []
 tags: []
+---
 
 The folks over at <a href="http://royal.pingdom.com/">Pingdom</a> spotted some <a href="http://royal.pingdom.com/?p=240">great data centre cabling art</a>.
 <p align="center"><img src="http://techteapot.com/wp-content/uploads/2008/01/208731724-7bd1fa539d-o.jpg" alt="208731724 7bd1fa539d o" width="336" height="448" /></p>

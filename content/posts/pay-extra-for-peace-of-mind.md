@@ -3,6 +3,7 @@ title: "Pay extra for peace of mind"
 date: "2008-01-11T14:39:23+00:00"
 categories: []
 tags: []
+---
 
 <p><img height="149" alt="iStock 000003886153XSmall" src="http://techteapot.com/wp-content/uploads/2008/01/istock-000003886153xsmall.jpg" width="225" align="right" /></p>
 <p>Sometimes you're glad you spent that little bit more money on resiliency. Today is that day. I've just been informed by our ISP that one of the disks in the server that brought you this page has died and gone to hard disk heaven.</p>

@@ -3,6 +3,7 @@ title: "Burnout is the enemy of all professionals"
 date: "2008-08-19T10:05:21+00:00"
 categories: []
 tags: []
+---
 
 The chances are that the vast majority of the people reading this post are professional IT people in some capacity or another.
 

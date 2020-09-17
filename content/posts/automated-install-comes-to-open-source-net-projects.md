@@ -3,6 +3,7 @@ title: "Automated install comes to open source .NET projects"
 date: "2010-03-10T16:49:07+00:00"
 categories: []
 tags: []
+---
 
 One of the nice things about Linux is the ability to install apps (and dependencies) very easily using apt-get or similar. Windows users have been <a href="http://mikehadlow.blogspot.com/2009/11/make-working-with-open-source-breeze.html">missing a similar tool for a long time</a>. Never fear, the <a href="http://twitter.com/scotaltnet">Scottish Alt.Net group</a> have written <a href="http://code.google.com/p/hornget/">Hornget</a>, a tool for installing open source .NET projects.
 

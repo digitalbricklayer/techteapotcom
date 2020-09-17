@@ -3,6 +3,7 @@ title: "Bring the phone in from the cold"
 date: "2007-08-13T09:01:12+00:00"
 categories: []
 tags: []
+---
 
 <a href="http://techteapot.com/wp-content/uploads/2007/08/telephone.png" title="An old telephone"><img src="http://techteapot.com/wp-content/uploads/2007/08/telephone.png" alt="An old telephone" style="margin: 10px" align="right" /></a>
 

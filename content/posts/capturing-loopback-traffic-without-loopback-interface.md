@@ -3,6 +3,7 @@ title: "Capturing loopback traffic without a loopback interface"
 date: "2014-03-20T16:37:01+00:00"
 categories: []
 tags: []
+---
 
 Wireshark is a wonderful tool, no doubt about it. But, on Microsoft Windows, there is one thing it isn't so good at.
 

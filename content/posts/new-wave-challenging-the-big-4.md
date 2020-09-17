@@ -3,6 +3,7 @@ title: "New wave challenging the Big 4"
 date: "2007-08-03T09:01:04+00:00"
 categories: []
 tags: []
+---
 
 There does seem to be a lot of heat in whether or not the <a href="http://techteapot.com/network-managements-new-wave/">new wave open source systems management players</a> are going to take on the Big 4 (IBM, CA, BMC &amp; HP). You can get more info <a href="http://web.archive.org/web/20080410055547/http://blogs.zdnet.com:80/BTL/?p=5815">here</a> and <a href="http://web.archive.org/web/20080417014830/http://blogs.zdnet.com:80/open-source/?p=1269">here</a>.
 

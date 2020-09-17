@@ -3,6 +3,7 @@ title: "Why do I need a network tap?"
 date: "2007-10-01T15:06:52+00:00"
 categories: []
 tags: []
+---
 
 One of the big problems in a switched network is to access reliably network traffic for analysis or monitoring purposes. Many solutions require changes either to the hosts being monitored or require modifications to your network infrastructure.
 

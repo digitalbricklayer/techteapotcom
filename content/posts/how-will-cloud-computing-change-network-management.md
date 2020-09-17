@@ -3,6 +3,7 @@ title: "How will cloud computing change network management"
 date: "2008-09-24T15:32:49+00:00"
 categories: []
 tags: []
+---
 
 The big selling point with <a href="http://en.wikipedia.org/wiki/Cloud_computing">cloud computing</a> is that computing capacity grows and shrinks depending upon the load being put upon it. You typically only pay for CPU (by the hour) and storage (by the month) you actually use.
 

@@ -1,8 +1,9 @@
 ---
-title: "Do enterprise network management apps have a "low surface area"?"
+title: "Do enterprise network management apps have a low surface area?"
 date: "2007-06-15T09:01:21+00:00"
 categories: []
 tags: []
+---
 
 I was interested to read Open Source: What Makes for Success? by Gordon Haff. Alex Fletcher has written <a href="http://alexfletcher.typepad.com/all_bets_off/2007/06/the_real_comple.html">an interesting follow up</a>.
 

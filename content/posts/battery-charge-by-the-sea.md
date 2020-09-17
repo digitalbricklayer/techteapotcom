@@ -3,6 +3,7 @@ title: "Battery charge by the sea"
 date: "2007-10-25T12:54:44+00:00"
 categories: []
 tags: []
+---
 
 <a href="http://techteapot.com/wp-content/uploads/2007/10/ravenhall4_large.jpg" title="View of Robin Hoods Bay from Raven Hall Hotel"><img src="http://techteapot.com/wp-content/uploads/2007/10/ravenhall4_large.jpg" alt="View of Robin Hoods Bay from Raven Hall Hotel" align="right" style="border-left:solid 4px white" height="40%" width="40%" /></a>
 

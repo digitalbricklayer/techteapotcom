@@ -1,8 +1,9 @@
 ---
-title: "Windows users kill "free" open source"
+title: 'Windows users kill "free" open source'
 date: "2008-03-12T15:16:14+00:00"
 categories: []
 tags: []
+---
 
 I read Bryce Harrington's The paradox of FOSS projects supporting Windows with some interest. If you're a Linux enthusiast it should scare you.
 

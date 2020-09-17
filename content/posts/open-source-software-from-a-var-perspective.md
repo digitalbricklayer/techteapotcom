@@ -3,6 +3,7 @@ title: "Open source software from a VAR perspective"
 date: "2008-03-04T12:00:54+00:00"
 categories: []
 tags: []
+---
 
 How can a network &amp; systems management <a href="http://en.wikipedia.org/wiki/Value-added_reseller">Value Added Reseller</a> (VAR) benefit from offering <a href="http://en.wikipedia.org/wiki/Open_source">open source</a> solutions and what are the potential problems?
 

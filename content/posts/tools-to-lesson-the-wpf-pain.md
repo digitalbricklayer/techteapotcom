@@ -3,6 +3,7 @@ title: "Tools to lesson the WPF pain"
 date: "2015-10-13T14:18:02+00:00"
 categories: []
 tags: []
+---
 
 I'm back writing GUI code at the moment. I don't think it would be an exaggeration to say that I hate writing GUIs. But, there's nobody else to do it, so it has to be me.
 

@@ -3,6 +3,7 @@ title: "Open source network management comparison: Introduction"
 date: "2008-07-17T12:44:59+00:00"
 categories: []
 tags: []
+---
 
 One side effect of the <a href="http://techteapot.com/network-managements-new-wave/">increased competition in open source network management</a> is that it is becoming increasingly hard to choose which tool is right for you.
 

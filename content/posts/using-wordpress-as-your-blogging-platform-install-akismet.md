@@ -3,6 +3,7 @@ title: "Using Wordpress as your blogging platform? Install Akismet"
 date: "2007-03-21T16:56:33+00:00"
 categories: []
 tags: []
+---
 
 We've recently been getting a lot of comment spam on the OPENXTRA Blog. You will never have seen the spam because we have manually deleted it all.
 

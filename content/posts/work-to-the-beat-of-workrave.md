@@ -3,6 +3,7 @@ title: "Work to the beat of WorkRave"
 date: "2007-09-11T09:01:59+00:00"
 categories: []
 tags: []
+---
 
 <a href="http://techteapot.com/wp-content/uploads/2007/09/prelude.gif" title="WorkRave prompting you to take a break"><img src="http://techteapot.com/wp-content/uploads/2007/09/prelude.gif" alt="WorkRave prompting you to take a break" align="right" /></a>
 

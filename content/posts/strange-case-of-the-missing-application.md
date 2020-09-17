@@ -3,6 +3,7 @@ title: "Strange case of the missing application"
 date: "2008-03-07T12:43:42+00:00"
 categories: []
 tags: []
+---
 
 Many moons ago, around about 1989 or so, my brother-in-law asked me to solve a problem for him. He was the secretary responsible for assigning referees to football matches in a local football league.
 

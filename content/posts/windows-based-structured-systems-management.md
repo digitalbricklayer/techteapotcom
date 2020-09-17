@@ -3,6 +3,7 @@ title: "Windows based structured systems management"
 date: "2009-06-11T09:27:32+00:00"
 categories: []
 tags: []
+---
 
 Found a post whilst reading a <a href="http://standalone-sysadmin.blogspot.com/2009/06/opsview-nagios-is-simpler-better.html">post by the Standalone Sysadmin</a>... and it is a beauty. <a href="http://lastinfirstout.blogspot.com/">Michael Janke</a> has a post comparing <a href="http://lastinfirstout.blogspot.com/2008/04/ad-hoc-verses-structured-system.html">ad-hoc versus structured systems management</a>.
 

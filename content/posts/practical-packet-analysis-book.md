@@ -3,6 +3,7 @@ title: "Practical Packet Analysis Book"
 date: "2007-06-22T09:01:17+00:00"
 categories: []
 tags: []
+---
 
 <a href='http://techteapot.com/wp-content/uploads/2007/06/packet_big.jpg' title='Practical Packet Analysis'><img src='http://techteapot.com/wp-content/uploads/2007/06/packet_big.jpg' alt='Practical Packet Analysis' /></a>
 

@@ -3,6 +3,7 @@ title: "Re: Show Me Da Money (a Cautionary Tale)"
 date: "2008-01-23T17:15:31+00:00"
 categories: []
 tags: []
+---
 
 <p><img height="289" alt="A piggy bank stuffed with money" src="http://techteapot.com/wp-content/uploads/2008/01/piggy-bank-1.jpg" width="225" align="right" />This is a reply to Tarus Balog's Show Me Da Money (a Cautionary Tale) post.</p>
 <p>Tarus has labelled the business model of giving away an open source core but selling proprietary extensions as <em><strong>shareware open source</strong></em>.</p>

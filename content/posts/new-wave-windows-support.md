@@ -1,8 +1,9 @@
 ---
-title: ""New wave" Windows support"
+title: '"New wave" Windows support'
 date: "2007-06-14T09:51:11+00:00"
 categories: []
 tags: []
+---
 
 One of the odd things <a href="http://techteapot.com/network-managements-new-wave/">about the three new wave players</a> is that, of the three, only one (<a href="http://www.hyperic.com/">Hyperic</a>) supports Windows natively.
 

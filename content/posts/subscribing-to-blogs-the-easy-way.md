@@ -3,6 +3,7 @@ title: "Subscribing to blogs the easy way"
 date: "2008-11-19T09:00:02+00:00"
 categories: []
 tags: []
+---
 
 <img class="alignright size-thumbnail wp-image-1053" title="rss" src="http://techteapot.com/wp-content/uploads/2008/11/rss.jpg" alt="" width="130" height="129" align="right" />
 

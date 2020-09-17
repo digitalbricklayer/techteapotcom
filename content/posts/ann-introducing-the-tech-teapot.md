@@ -1,8 +1,9 @@
 ---
-title: "ANN: Introducing "The Tech Teapot""
+title: "ANN: Introducing The Tech Teapot"
 date: "2007-07-30T13:58:58+00:00"
 categories: []
 tags: []
+---
 
 Some of you may have noticed a name change. This blog is now called <strong>The Tech Teapot</strong>. Why? Well, we are pretty obsessed with tea :)
 

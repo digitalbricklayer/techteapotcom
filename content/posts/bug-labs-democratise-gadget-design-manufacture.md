@@ -3,6 +3,7 @@ title: "bug labs democratise gadget design &amp; manufacture"
 date: "2007-11-05T10:36:37+00:00"
 categories: []
 tags: []
+---
 
 <img src="http://techteapot.com/wp-content/uploads/2007/11/bug_logo_whiteback_sm.jpg" alt="Bug Labs Logo" align="right" />
 

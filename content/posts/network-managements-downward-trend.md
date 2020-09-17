@@ -3,6 +3,7 @@ title: "Network management's downward trend?"
 date: "2007-09-17T14:48:29+00:00"
 categories: []
 tags: []
+---
 
 The most puzzling aspect of the <a href="http://techteapot.com/new-wave-network-management-buzz-comparison/">â€œNew waveâ€ network management buzz comparison</a> is the OpenView &amp; NetIQ graph. I find it hard to believe that either OpenView or NetIQ are losing traction in the marketplace. So, how do you explain the fall in their respective number of searches?
 

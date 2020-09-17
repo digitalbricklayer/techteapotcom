@@ -3,6 +3,7 @@ title: "My tech hero: Alan Kay"
 date: "2007-12-20T17:10:53+00:00"
 categories: []
 tags: []
+---
 
 There are very few people who really influence the world. I think one of those people is <a href="http://en.wikipedia.org/wiki/Alan_Kay">Alan Kay</a>. If you're a programmer I would suggest that you <a href="http://www.mprove.de/diplom/referencesKay.html">familiarise yourself with his work</a>. He's got some very interesting things to say about IT and programming in particular.
 

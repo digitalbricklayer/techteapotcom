@@ -3,6 +3,7 @@ title: "Pay as you go SIMs can be disabled -- please check"
 date: "2007-05-17T10:56:33+00:00"
 categories: []
 tags: []
+---
 
 Most <a href="http://www.openxtra.co.uk/products/temperature-monitors/index.html">temperature monitoring equipment</a> is purchased in order for you to be alerted when things go wrong. Quite often you want to be alerted using SMS.
 

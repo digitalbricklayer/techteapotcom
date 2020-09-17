@@ -3,6 +3,7 @@ title: "Gadget Ahoy"
 date: "2006-12-06T18:57:59+00:00"
 categories: []
 tags: []
+---
 
 <img alt="OPENXTRA Console Screenshot" src="http://techteapot.com/wp-content/uploads/2006/12/openxtra-console.gif" align="right" />
 I've been seeing lots of activity on the Desktop recently. <a href="http://www.apple.com/">Apple</a> started it all off with their <a href="http://www.apple.com/macosx/leopard/dashboard.html">Dashboard</a> built into <a href="http://www.apple.com/macosx/">OSX</a>. All very impressive but hardly of much interest to <a href="http://www.microsoft.com/windows/">Microsoft Windows</a> users.

@@ -3,6 +3,7 @@ title: "A perspective on open source network monitoring tools..."
 date: "2008-12-01T12:28:48+00:00"
 categories: []
 tags: []
+---
 
 ...by <a href="http://agiletesting.blogspot.com/">Grig Gheorghiu</a> over on the Agile Testing blog: <a href="http://agiletesting.blogspot.com/2008/11/sad-state-of-open-source-monitoring.html">The sad state of open source monitoring tools</a>.
 <blockquote><em><strong>"I wish there was a standard nomenclature for this stuff, as well as a standard way for these tools to inter-operate. As it is, you have to learn each tool and train your brain to ignore all the weirdness that it encounters."</strong></em></blockquote>

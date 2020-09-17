@@ -3,6 +3,7 @@ title: "My 2014 Reading Log"
 date: "2015-01-20T12:43:22+00:00"
 categories: []
 tags: []
+---
 
 A <a href="http://www.goodreads.com/review/list/5896009-jack?shelf=read">list of all of the books I read in 2014 and logged in Good Reads</a>, I read a few more technical books but didn't log them for whatever reason.
 
