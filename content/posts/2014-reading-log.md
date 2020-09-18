@@ -5,7 +5,7 @@ categories: []
 tags: []
 ---
 
-A <a href="http://www.goodreads.com/review/list/5896009-jack?shelf=read">list of all of the books I read in 2014 and logged in Good Reads</a>, I read a few more technical books but didn't log them for whatever reason.
+A [list of all of the books I read in 2014 and logged in Good Reads](http://www.goodreads.com/review/list/5896009-jack?shelf=read), I read a few more technical books but didn't log them for whatever reason.
 
 <span style="color: #ff0000;">January</span>
 

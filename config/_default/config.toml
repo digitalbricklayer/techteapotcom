@@ -1,0 +1,28 @@
+baseURL = "http://techteapot.com/"
+languageCode = "en-us"
+title = "The Tech Teapot"
+theme = "ananke"
+[taxonomies]
+   tag = "tags"
+   category = "categories"
+[menu]
+
+  [[menu.main]]
+   name = "Home"
+   url = "/"
+   weight = -110
+
+  [[menu.main]]
+   name = "Contact"
+   url = "/contact/"
+   weight = -100
+
+  [[menu.main]]
+   name = "About"
+   url = "/about/"
+   weight = -90
+
+  [[menu.main]]
+   name = "Subscribe"
+   url = "/sign-up/"
+   weight = -80
