@@ -1,6 +1,8 @@
 ---
 title: "Inch forward a bit, a bit more..."
 date: "2006-12-19T17:45:39+00:00"
+aliases:
+    - /posts/21/
 categories: []
 tags: []
 ---
