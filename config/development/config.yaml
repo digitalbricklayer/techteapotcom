@@ -2,4 +2,3 @@ buildDrafts: true
 minify: false
 params:
   DebugMenu: true
-  

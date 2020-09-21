@@ -1,7 +1,8 @@
 baseURL: "http://techteapot.com/"
 languageCode: "en-us"
 title: "The Tech Teapot"
-theme: "ananke"
+#theme: "ananke"
+theme: "eclectic"
 enableEmoji: true
 #[taxonomies]
 #   tag = "tags"
