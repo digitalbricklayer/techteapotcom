@@ -9,7 +9,7 @@ tags: []
 <ol>
  	<li><strong><a href="http://www.ntop.org/">NTop</a></strong> - a traffic analyser that runs on most UNIX variants and Microsoft Windows. In addition, ntop includes Cisco NetFlow and sFlow support. For an introduction to NTop, please see this <a href="http://techteapot.com/heads-up-introduction-to-ntop-video/">introduction to NTop</a> video.</li>
  	<li><a href="http://code.google.com/p/flow-tools/"><strong>Flow-tools</strong></a> - a library and a collection of programs used to collect, send, process, and generate reports from NetFlow data.</li>
- 	<li><a href="http://pages.cs.wisc.edu/~plonka/FlowScan/"><strong>FlowScan</strong></a> - FlowScan processes IP flows recorded in cflowd format raw flow files and reports on what it finds. <a href="http://jkflow.sourceforge.net/"><strong>JKFlow</strong></a>Â  is aÂ  XML-configurable Flowscan perl module for reading / analyzing your NetFlow data.</li>
+ 	<li><a href="http://pages.cs.wisc.edu/~plonka/FlowScan/"><strong>FlowScan</strong></a> - FlowScan processes IP flows recorded in cflowd format raw flow files and reports on what it finds. <a href="http://jkflow.sourceforge.net/"><strong>JKFlow</strong></a> is a XML-configurable Flowscan perl module for reading / analyzing your NetFlow data.</li>
  	<li><strong><a href="http://ehnt.sourceforge.net/">EHNT</a></strong> - or Extreme Happy NetFlow Tool, turns streams of Netflow data into something useful and human-readable.</li>
  	<li><strong><a href="http://bpft4.sourceforge.net/">BPFT</a></strong> - The BPFT daemon builds on top of libpcap and uses the BPF (Berkeley Packet Filter) mechanism for capturing IP traffic.</li>
 </ol>

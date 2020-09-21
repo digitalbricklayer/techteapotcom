@@ -15,6 +15,6 @@ I was surprised just how smoothly the installation went, everything worked witho
 
 If you are using DHCP, the power line networking would have been completely configuration free. Just plug-in and go!
 
-The only downside I can see is the price.  Two adapters for around Â£85-90 is marginally above the cost of an equivalent wireless network. Though, you don't have to worry about security or wireless reception. Both good reasons to pay a little more money for peace of mind.
+The only downside I can see is the price.  Two adapters for around £85-90 is marginally above the cost of an equivalent wireless network. Though, you don't have to worry about security or wireless reception. Both good reasons to pay a little more money for peace of mind.
 
 If you are wary of wireless, give power line networking a try. Recommended!

@@ -5,7 +5,7 @@ categories: []
 tags: []
 ---
 
-A number of mid-level network monitoring products, like <a href="http://www.whatsupgold.com/">What's Up Gold</a> &amp; Intellipool for instance, have recently implemented distributed monitoring features. Mid-level network monitoring products are now implementingÂ  distributed monitoring so it is affordable by a lot more companies.
+A number of mid-level network monitoring products, like <a href="http://www.whatsupgold.com/">What's Up Gold</a> &amp; Intellipool for instance, have recently implemented distributed monitoring features. Mid-level network monitoring products are now implementing distributed monitoring so it is affordable by a lot more companies.
 <h2>Single Poller Monitoring</h2>
 With regular network monitoring you have a single poller measuring network and server performance from a single location on your network.
 

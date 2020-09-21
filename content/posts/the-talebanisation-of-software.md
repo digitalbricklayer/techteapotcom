@@ -7,7 +7,7 @@ tags: []
 
 Why is software becoming so political? Sometimes it feels like the tech industry is being infiltrated by a "software taliban" determined to root out all non-believers in the one true path.
 
-A great example of the talibanisation of softwareÂ is the reaction of parts of the open source community towards the Mono project. Why doesÂ Mono get the goat of the software taliban? Well, Mono is an open source implementation of a standard originally developed by the great satan Microsoft.
+A great example of the talibanisation of software is the reaction of parts of the open source community towards the Mono project. Why does Mono get the goat of the software taliban? Well, Mono is an open source implementation of a standard originally developed by the great satan Microsoft.
 
 Whilst the software taliban's fixation with Mono is unfortunate, their targeting of applications written using Mono is far worse. Many developers have chosen to use C# as their preferred language for application development on Linux. And a number of high quality applications has been the result. Why should the developers' perfectly reasonable language choice result in the Mono uninstall fest that greets every new version of Ubuntu for reasons that have nothing to do with the quality of the application itself?
 

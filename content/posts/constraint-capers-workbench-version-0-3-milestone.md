@@ -48,7 +48,7 @@ Here's example from the n-queens solution:
 
 <strong>for x,y in 1..8,1..8: if &lt;cols,x&gt; = y: board(x:x,y:y,side:white,piece:Queen)</strong>
 
-The above expression loops through each position on an 8x8 chess board and checks to see if it should place a queen in that square. The <strong>&lt;cols,x&gt;</strong> expression gets the xth variable from the <em>cols</em> value ie the values bound to the <em>cols</em> variable. The <strong>board</strong> part is the name of the chessboard visualizer. It assigns a white queenÂ to the x, y location.
+The above expression loops through each position on an 8x8 chess board and checks to see if it should place a queen in that square. The <strong>&lt;cols,x&gt;</strong> expression gets the xth variable from the <em>cols</em> value ie the values bound to the <em>cols</em> variable. The <strong>board</strong> part is the name of the chessboard visualizer. It assigns a white queen to the x, y location.
 <h2>What's Next?</h2>
 The next release will also concentrate on a single constraint problem again, the map colouring puzzle.
 

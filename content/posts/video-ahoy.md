@@ -15,7 +15,7 @@ The video is hosted on YouTube because it is cheap and very, very available. We 
 
 As the recent extensive BBC website video integration has proved, all websites will be TV channels in one form or another soon, so we may as well try to be at the forefront of the trend rather than trailing behind. None of us has any experience of producing videos so it has been a steep learning curve. As usual in small companies you get to do everything with very little time and precious few resources. I guess that's probably what makes things fun!
 
-Equipment bought so far: 1x <a href="http://www.sony.co.uk/product/sdh-hard-disk-drive/dcr-sr55e">Sony DCR-SR55E</a> &amp; 1 x <a href="http://www.amazon.co.uk/Sony-Vegas-Movie-Studio-Platinum/dp/B000U71HP0">VegasÂ® Move Studio</a>
+Equipment bought so far: 1x <a href="http://www.sony.co.uk/product/sdh-hard-disk-drive/dcr-sr55e">Sony DCR-SR55E</a> &amp; 1 x <a href="http://www.amazon.co.uk/Sony-Vegas-Movie-Studio-Platinum/dp/B000U71HP0">Vegas® Move Studio</a>
 
 Equipment required: 1 x PC microphone
 

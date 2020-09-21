@@ -11,6 +11,6 @@ One of the main complaints aimed at Nagios <a href="http://www.vertical-visions.
 
 [gallery]
 
-I've used OpenNMS, Wireshark and Nagios as the basis for the comparison because all three are mature, successful open source network management projects of similar age. Wireshark and OpenNMS dwarf Nagios both in the number of contributors and the number of commits. Commits themselves can be misleading, a commit into the source repository doesn't indicate what the commit contained, whether it was a simple bug fix to a single fileÂ  or a very large new feature requiring hundreds of changes. There is no reason to think that Nagios commits are inherently larger than Wireshark or OpenNMS commits.
+I've used OpenNMS, Wireshark and Nagios as the basis for the comparison because all three are mature, successful open source network management projects of similar age. Wireshark and OpenNMS dwarf Nagios both in the number of contributors and the number of commits. Commits themselves can be misleading, a commit into the source repository doesn't indicate what the commit contained, whether it was a simple bug fix to a single file or a very large new feature requiring hundreds of changes. There is no reason to think that Nagios commits are inherently larger than Wireshark or OpenNMS commits.
 
 Looking at the graphs, perhaps there was a problem with the structure of the Nagios project.

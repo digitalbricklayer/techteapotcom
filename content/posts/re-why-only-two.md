@@ -6,7 +6,7 @@ tags: []
 ---
 
 John Willis over at <a href="http://www.johnmwillis.com/">IT Management and Cloud Blog</a> posted an <a href="http://www.johnmwillis.com/nagios/why-only-two/">interesting post</a> I'd like to reply to.
-<blockquote><em>The key question is will â€œEnterpriseâ€ customers make an investment in companies like OpenNMS and Nagios with out the warm and fuzzy that â€œSoftware Companiesâ€ provide.</em></blockquote>
+<blockquote><em>The key question is will Enterprise customers make an investment in companies like OpenNMS and Nagios with out the warm and fuzzy that Software Companies provide.</em></blockquote>
 That's certainly an interesting perspective John...
 
 It isn't that Nagios/OpenNMS aren't hitting enterprise customers. It is the nature of the sale that is different.

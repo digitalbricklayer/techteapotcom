@@ -2,7 +2,7 @@ color: "#71B180"
 copyright: "Copyright &copy; 2006-2020 Jack Hughes. All Rights Reserved."
 footer:
   - title: About
-    content: Acme Corporation is the world's leading manufacturer of digital shapes. From squares and circles to triangles and hexagons, we have it all. Browse through our collection of various forms with different thickness and line styles. We shape the world. You live in it.
+    content: This site is the digital home of Jack Hughes. He is a professional software developer specialising in the .NET stack. He currently works for [OPENXTRA Ltd](https://www.openxtra.co.uk/)...
   - title: Recent Blog Posts
     recents: blog
     recentCount: 7
@@ -11,6 +11,6 @@ footer:
 style: green
 logo: /image/logo.png
 logo_small: /image/logo.png
-about_us: Acme Corporation is the world's leading manufacturer of digital shapes. From squares and circles to triangles and hexagons, we have it all. Browse through our collection of various forms with different thickness and line styles. We shape the world. You live in it.
+about_us: This site is the digital home of Jack Hughes. He is a professional software developer specialising in the .NET stack. He currently works for [OPENXTRA Ltd](https://www.openxtra.co.uk/)...
 recent_posts:
   enable: true

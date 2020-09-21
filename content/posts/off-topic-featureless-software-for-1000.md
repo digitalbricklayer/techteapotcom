@@ -5,4 +5,4 @@ categories: []
 tags: []
 ---
 
-So <a href="http://latimesblogs.latimes.com/technology/2008/08/iphone-i-am-ric.html">that's where I've been going wrong all of these years</a> ... if only I'd known this earlier I'd currently be sunning myselfÂ  on a beach in the Bahamas.
+So <a href="http://latimesblogs.latimes.com/technology/2008/08/iphone-i-am-ric.html">that's where I've been going wrong all of these years</a> ... if only I'd known this earlier I'd currently be sunning myself on a beach in the Bahamas.

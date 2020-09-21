@@ -7,7 +7,7 @@ tags: []
 
 First of all a little bit of background will make the post a little bit more understandable to non I.T. folks.
 <h2>A bit of background</h2>
-<a href="http://www.zenoss.com/">Zenoss</a> is a network management software vendor with an open source core product, called <a href="http://community.zenoss.org/">Zenoss Core</a>, and a closed source product called <a title="Network managementâ€™s â€œnew waveâ€ six years on" href="http://www.zenoss.com/">Zenoss Enterprise</a>.
+<a href="http://www.zenoss.com/">Zenoss</a> is a network management software vendor with an open source core product, called <a href="http://community.zenoss.org/">Zenoss Core</a>, and a closed source product called <a title="Network management's new wave six years on" href="http://www.zenoss.com/">Zenoss Enterprise</a>.
 
 Zenoss is written in the <a href="http://www.python.org/">Python</a> programming language and uses the <a href="http://www.zope.org/">Zope</a> web application framework.
 
@@ -26,11 +26,11 @@ Phew, now we've got the introductions over, what the heck has all of the above g
 The following is part of a <a href="http://community.zenoss.org/docs/DOC-10312">conversation on the dev IRC channel</a> run by Zenoss.
 
 rmatte:
-<blockquote>"... A decision was made some time ago to move from standard zopedb to relstorage to improve performance.Â  Recently, a decision was made to remove the relstorage code from Zenoss Core."</blockquote>
+<blockquote>"... A decision was made some time ago to move from standard zopedb to relstorage to improve performance. Recently, a decision was made to remove the relstorage code from Zenoss Core."</blockquote>
 <a href="http://www.zenoss.com/about/team/management">Bill Karpovitch</a> Co-founder and CEO of Zenoss Inc.
-<blockquote>"a mistake we made in the process was that product management had it slated for an enterprise feature but we began development in the core trunk.Â  for better or worse, our decision was to pull it back. we are continuing to look this as part of the plan forward."
+<blockquote>"a mistake we made in the process was that product management had it slated for an enterprise feature but we began development in the core trunk. for better or worse, our decision was to pull it back. we are continuing to look this as part of the plan forward."
 
-"all good points.Â  to be clear, the Core/Enterprise feature decisions are challenging and involve tough trade offs."</blockquote>
+"all good points. to be clear, the Core/Enterprise feature decisions are challenging and involve tough trade offs."</blockquote>
 As Bill Karpovitch says above, the relstorage feature wasn't intended to go into Core, it was supposed to be an Enterprise only feature.
 
 Unfortunately, it kind of snuck into Core accidentally and was removed. This upset the Zenoss community quite a lot as they believed that it would effectively create a fork between the Core and Enterprise products. A fork would make creating add-ons more difficult because potentially Core and Enterprise would need to be tested seperately. Supporting both would also be more difficult due to the core of the Enterprise product being different from Zenoss Core.

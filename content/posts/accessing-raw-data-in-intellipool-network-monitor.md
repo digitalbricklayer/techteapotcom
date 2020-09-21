@@ -13,7 +13,7 @@ Whilst you've asked about outputting temperature logs, the same procedure works 
 
 <strong>In the Customized reports section click New customized report</strong>
 
-Type in a name for the new report. For this example Iâ€™ve used the name, Raw Values Report.
+Type in a name for the new report. For this example I've used the name, Raw Values Report.
 
 <strong>Click Save</strong>
 

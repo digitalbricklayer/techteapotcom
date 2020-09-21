@@ -1,7 +1,7 @@
 ---
 title: "A few days on the beach"
 date: "2008-10-14T09:14:04+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

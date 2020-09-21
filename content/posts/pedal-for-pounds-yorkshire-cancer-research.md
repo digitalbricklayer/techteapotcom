@@ -5,7 +5,7 @@ categories: []
 tags: []
 ---
 
-On September 13th I will be taking part in the Pedal for Pounds North event raising money for theÂ  cancer research charity <a href="http://www.yorkshirecancerresearch.org.uk/">Yorkshire Cancer Research</a>. This will be the third time I've taken part in the sponsored bike ride, it is always very enjoyable cycling through 50 miles worth of beautiful, rolling countryside around <a href="http://www.harewood.org/">Harewood House</a>.
+On September 13th I will be taking part in the Pedal for Pounds North event raising money for the cancer research charity <a href="http://www.yorkshirecancerresearch.org.uk/">Yorkshire Cancer Research</a>. This will be the third time I've taken part in the sponsored bike ride, it is always very enjoyable cycling through 50 miles worth of beautiful, rolling countryside around <a href="http://www.harewood.org/">Harewood House</a>.
 
 This year has a little more significance to it because my Father has recently been diagnosed with cancer. So, whilst I will be enjoying the country side, I will also be thinking about my Father and his looming battle.
 

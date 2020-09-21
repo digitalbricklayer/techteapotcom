@@ -19,4 +19,4 @@ Normally, in circumstances where toning on the cable pins is impossible, I'd use
 
 So, I don't know how to track live network cables. I have a suspicion that it can't be done. If you know how, please put this poor sap out of his misery. :)
 
-<strong>Update September 2014</strong>: you can tone a live network cable if you use anÂ asymmetric toner. AnÂ asymmetric toner produces tones well above those used by network traffic so does not interfere with it.
+<strong>Update September 2014</strong>: you can tone a live network cable if you use an asymmetric toner. An asymmetric toner produces tones well above those used by network traffic so does not interfere with it.

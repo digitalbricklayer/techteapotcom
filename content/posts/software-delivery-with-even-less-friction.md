@@ -11,7 +11,7 @@ Well, I've been building a couple of micro sites recently and thought it would b
 
 Firstly, I've built them with <a href="http://en.wikipedia.org/wiki/HTML5">HTML5</a> and the <a href="http://getbootstrap.com/"><del>Twitter</del> Bootstrap</a> framework, there's a very good tutorial <a href="http://www.w3resource.com/twitter-bootstrap/tutorial.php">here</a>. Bootstrap provides a combination of CSS and Javascript to make building a clean, responsive site without having to worry about cross browser compatibility.
 
-We use TeamCityÂ and <a href="http://octopusdeploy.com/">Octopus Deploy</a> for another much larger site. For micro sites I think that Octopus is overkill. A large complicated deployment workflow isn't necessary for a simple micro site. Octopus really comes into its own when you need to deploy to a large web farm, or you need a workflow prior to releasing the website into production.
+We use TeamCity and <a href="http://octopusdeploy.com/">Octopus Deploy</a> for another much larger site. For micro sites I think that Octopus is overkill. A large complicated deployment workflow isn't necessary for a simple micro site. Octopus really comes into its own when you need to deploy to a large web farm, or you need a workflow prior to releasing the website into production.
 
 I thought I'd give <a href="http://appharbor.com/">Appharbor</a> a go. Appharbor is a newish form of web hosting. They host your website as you'd expect, but they've also integrated source code control and source code building into their offering.
 

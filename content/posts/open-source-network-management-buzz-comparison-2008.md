@@ -9,7 +9,7 @@ As it's the start of a new year I thought it would be an ideal time to look back
 
 Whilst search volume is an interesting metric for network management tools, it is not intended to be in any way indicative of the usefulness of a particular tool. If you want to choose a tool, start from your own requirements first and select a tool from that.
 <h2>Open Source Network Management System Trends</h2>
-First up is a comparison of the major open source network management systems. <a href="http://www.nagios.org/">Nagios</a>, as one of the oldest open source projects in network management,Â  still has a huge community of users and, in spite of a number of very good competitors, appears to be holding its own.
+First up is a comparison of the major open source network management systems. <a href="http://www.nagios.org/">Nagios</a>, as one of the oldest open source projects in network management, still has a huge community of users and, in spite of a number of very good competitors, appears to be holding its own.
 
 <a href="http://oss.oetiker.ch/mrtg/">MRTG</a> during 2008 does show signs of continued decline. Hardly surprising given that a number of very capable competitors exist that are much easier to install and configure.
 

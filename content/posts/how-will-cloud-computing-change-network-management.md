@@ -37,7 +37,7 @@ The obvious place is to put your service oriented monitoring in the cloud right 
 
 An alternative to deploying your own monitoring solution could be to use one of the many vendors promoting SaaS based online monitoring solutions. Whilst that is probably going to be a more robust solution, it may be difficult to know precisely how the vendor has deployed their solution. What if the vendor is using the same cloud computing vendor that you have chosen? Then it won't be any better than deploying your own monitoring solution in the cloud.
 
-One of the side effects of managing in a cloud world is that vendors will need to be more open about their infrastructure arrangements. If your management vendor is using a cloud then they need to be open about it.Â  Otherwise, when the 800 pound gorilla of the cloud computing space inevitably develops, there may be a danger that both management and managed services use exactly the same infrastructure.
+One of the side effects of managing in a cloud world is that vendors will need to be more open about their infrastructure arrangements. If your management vendor is using a cloud then they need to be open about it.  Otherwise, when the 800 pound gorilla of the cloud computing space inevitably develops, there may be a danger that both management and managed services use exactly the same infrastructure.
 <h2>Clouds are made of data centres, right?</h2>
 Compute clouds are going to be housed in data centres, big ones too <em>and</em> lots of them. That's good news for the enterprise network management vendors because those data centres are going to need managing.
 
@@ -47,6 +47,6 @@ It is hard to see the transition as anything other than <em>party time</em> for 
 <h2>Conclusion</h2>
 Cloud computing is very much in its infancy. Clouds in their current form are likely to appeal to companies who would otherwise have opted for shared or virtual machine hosting in the case of Google Apps or one or more dedicated servers in the case of Amazon EC2. In either case, neither would be in the market for network management systems.
 
-The next wave, when the early adopters have ironed out the problems,Â  will be from companies replacing small or medium sized data centres with a compute cloud. These companies will still require a management system, but one tuned to managing in a cloud environment not a data centre environment. They'll need to monitor the services they are providing and manage their interaction with the cloud.
+The next wave, when the early adopters have ironed out the problems, will be from companies replacing small or medium sized data centres with a compute cloud. These companies will still require a management system, but one tuned to managing in a cloud environment not a data centre environment. They'll need to monitor the services they are providing and manage their interaction with the cloud.
 
 On the other hand, the cloud computing vendors themselves will require full blown enterprise grade network management systems. A great opportunity is being presented to the more nimble vendors, able to quickly fine tune their products to the particular requirements of the cloud vendors. The open source, enterprise oriented network management vendors will find their offerings chime well with the cloud vendors. The cloud vendors are already heavy open source software users.

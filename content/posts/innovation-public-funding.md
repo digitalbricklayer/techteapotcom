@@ -10,8 +10,8 @@ I was amused to read <a href="http://www.yorkshireeveningpost.co.uk/business-new
 The following are quotes from David Gillies, director of technology at <a href="http://www.pacemicro.com/">Pace Micro</a>:
 <blockquote>"We work in an extremely fast-paced and competitive market,
 and the grant from Yorkshire Forward allowed us to get this product from concept to market faster than we could otherwise have done."</blockquote>
-<blockquote>"The grant made up about 50 per cent of investment in the project â€“ the balance of which was made up by ourselves â€“ allowing us to draft in the specialist expertise and resources that meant we could significantly reduce our time to market."</blockquote>
-Basically, Pace Micro got 50% (Â£600,000) of the cost of developing Multidweller from the tax payer, in order to <em>speed up</em> the development of something they would have done anyway.
+<blockquote>"The grant made up about 50 per cent of investment in the project the balance of which was made up by ourselves allowing us to draft in the specialist expertise and resources that meant we could significantly reduce our time to market."</blockquote>
+Basically, Pace Micro got 50% (£600,000) of the cost of developing Multidweller from the tax payer, in order to <em>speed up</em> the development of something they would have done anyway.
 
 Pace Micro is quoted on the stock exchange and has access to capital markets just like all other public companies.
 

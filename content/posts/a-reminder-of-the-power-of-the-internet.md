@@ -1,13 +1,13 @@
 ---
 title: "A reminder of the power of the internet"
 date: "2015-10-01T13:12:17+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 
 It is very easy to become jaded about technology, I had a reminder this week of just how wonderful it can be.
 
-Last Thursday I started a beginners astronomy class at the <a href="http://www.princehenrys.co.uk/">local secondary school</a>. I was more than a little surprised to learn that you can subscribe for a mere Â£3 per month and have access to three telescopes situated on top of a mountain in Tenerife through the <a href="http://www.telescope.org/">Bradford Robotic Telescope</a>.
+Last Thursday I started a beginners astronomy class at the <a href="http://www.princehenrys.co.uk/">local secondary school</a>. I was more than a little surprised to learn that you can subscribe for a mere £3 per month and have access to three telescopes situated on top of a mountain in Tenerife through the <a href="http://www.telescope.org/">Bradford Robotic Telescope</a>.
 
 You submit your astronomical target(s) via the telescope website and the telescope, without human intervention, schedules your job and, when it can, takes an observation and sends you the result(s) via email.
 

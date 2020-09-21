@@ -1,5 +1,5 @@
 ---
-title: "Planet Network Management Highlights â€“ Week 46"
+title: "Planet Network Management Highlights Week 46"
 date: "2009-11-13T13:09:54+00:00"
 categories: []
 tags: []

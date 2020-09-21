@@ -1,11 +1,11 @@
 ---
 title: "A retrospective on Dyna Project version 0.1"
 date: "2015-08-05T15:46:49+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 
-Whilst version 0.1 of the Dyna Project isn't quite finished, I thought it would make sense to take stock before workÂ starts on version 0.2.
+Whilst version 0.1 of the Dyna Project isn't quite finished, I thought it would make sense to take stock before work starts on version 0.2.
 
 But first some introductions would probably be helpful.
 <h2>What is the Dyna Project?</h2>

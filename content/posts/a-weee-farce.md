@@ -1,11 +1,11 @@
 ---
 title: "A WEEE farce"
 date: "2008-12-03T16:21:18+00:00"
-categories: []
-tags: []
+categories: [General]
+tags: ["WEEE"]
 ---
 
-Over the last couple of years we've donated around Â£2,000 in order to be Waste Electrical and Electronic Equipment (WEEE) registered.
+Over the last couple of years we've donated around £2,000 in order to be Waste Electrical and Electronic Equipment (WEEE) registered.
 
 In the same period how much toxic electrical waste have we saved from landfill? <strong><em>None</em></strong>. Not a single solitary chip or board.
 

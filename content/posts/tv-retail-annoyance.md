@@ -13,6 +13,6 @@ I was browsing the TV selection of <a href="http://www.currys.co.uk/">my local e
 
 What annoys me is that the retailer misses such an obvious trick. Because all of the TVs are hi-def widescreen LCDs you don't get a feel for just how much better these babies are than the heap of junk you've got sitting at home.
 
-If I were the retailer, I'd stick a big ugly, regular TV slap bang in the middle of the whole display, right next to the Sony ultra hi-def kit. Then you'd see why you should shell out over Â£1,000 for one of those babies.
+If I were the retailer, I'd stick a big ugly, regular TV slap bang in the middle of the whole display, right next to the Sony ultra hi-def kit. Then you'd see why you should shell out over £1,000 for one of those babies.
 
 Right now, the display enables me to compare the shop's range of TVs, but it doesn't give me a reason for ditching my ten year old TV. I'd say that persuading me that I need a new TV is a far bigger and more important task for the retailer than helping me understand which TV is the best in their showroom.

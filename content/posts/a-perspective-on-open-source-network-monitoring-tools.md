@@ -1,8 +1,8 @@
 ---
 title: "A perspective on open source network monitoring tools..."
 date: "2008-12-01T12:28:48+00:00"
-categories: []
-tags: []
+categories: ["Network Management", "Open Source"]
+tags: [comparison, "Groundwork Open Source", Hyperic, Nagios, "Open Source", "OpenNMS", Zabbix, Zenoss]
 ---
 
 ...by <a href="http://agiletesting.blogspot.com/">Grig Gheorghiu</a> over on the Agile Testing blog: <a href="http://agiletesting.blogspot.com/2008/11/sad-state-of-open-source-monitoring.html">The sad state of open source monitoring tools</a>.

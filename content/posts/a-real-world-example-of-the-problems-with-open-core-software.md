@@ -1,8 +1,8 @@
 ---
 title: "A real world example of the problems with open core software"
 date: "2009-05-21T10:42:32+00:00"
-categories: []
-tags: []
+categories: ["Network Management", "Open Source"]
+tags: ["fauxpen source", Hyperic, "Open Core", "OpenNMS", Zenoss]
 ---
 
 A <a href="http://a1emic.wordpress.com/2009/05/15/opennms-so-far/">real world example</a> of what Tarus Balog from <a href="http://www.opennms.org/">OpenNMS</a> has been banging on about recently with his critique of <em>open core</em> or <em>fauxpen source</em>.

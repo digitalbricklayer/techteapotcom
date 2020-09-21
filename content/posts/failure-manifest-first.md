@@ -21,7 +21,7 @@ Depends a lot on how often you poll the end point. If you are polling every minu
 
 But it isn't just that you will be informed more quickly by going to the source of the failure, you will also get better information.
 
-Monitoring an end point will only tell you so much: whetherÂ  it is workingÂ  and the response time and maybe, if you're lucky, a response code.
+Monitoring an end point will only tell you so much: whether it is working  and the response time and maybe, if you're lucky, a response code.
 
 In the case of our logs when a 5XX status code is returned, we'll probably get the full exception message plus stack trace. Altogether a lot more useful.
 

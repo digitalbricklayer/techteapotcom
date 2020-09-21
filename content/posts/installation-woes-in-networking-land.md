@@ -13,6 +13,6 @@ We've tried everything...software upgrades, support forums the works. It is stil
 
 Anyway, this post isn't intended to rubbish Cisco. It is more to compare and contrast my experience between our Cisco router with the Belkin router I recently installed for my parents. I doubt the Belkin took more than 5 minutes to set-up and most of that was getting it out of its box.
 
-I suppose, in a Â£50 product you can't afford the support requirements of a difficult to use product, but with a Â£300-400 product you can. In fact, you make your customers pay extra for support. We had to pay another Â£50 or so just to download some updated software.
+I suppose, in a £50 product you can't afford the support requirements of a difficult to use product, but with a £300-400 product you can. In fact, you make your customers pay extra for support. We had to pay another £50 or so just to download some updated software.
 
 Hard to see where Cisco's motivation for making their products easier to use might come from.

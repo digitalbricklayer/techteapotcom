@@ -23,11 +23,11 @@ The design characteristics of the network cable are working against you. The des
 
 The best way to minimise the effective damping effect of the cable twists is to place the signal on a single wire within the cable whilst the other pair is earthed. If a signal is placed onto both pairs in a cable the twists in the cable will work to dampen the signal, placing the signal onto a single wire will help to avoid the dampening effect.
 
-Tone tracers have traditionally been analog. More recently digital orÂ asymmetric tone tracers have arrived onto the market. Asymmetric toners have a number of advantages over more traditional analog tracers.
+Tone tracers have traditionally been analog. More recently digital or asymmetric tone tracers have arrived onto the market. Asymmetric toners have a number of advantages over more traditional analog tracers.
 
 [caption id="" align="aligncenter" width="600"]<img title="Tone Generator and Trace" src="http://techteapot.com/wp-content/uploads/2015/02/ToneGen_Trace.png" alt="Tone Generator and Trace Diagram" width="600" height="240" /> A diagram showing how a tone generator and tone tracer works.[/caption]
 
-Tone tracing provides the only cable tracing technology that can be performed on a live cable. More modernÂ asymmetric tone tracers operate at frequencies well above the level that even very modern cable like CAT7 operate. Consequently, the tone signal does not interfere with a network signal.
+Tone tracing provides the only cable tracing technology that can be performed on a live cable. More modern asymmetric tone tracers operate at frequencies well above the level that even very modern cable like CAT7 operate. Consequently, the tone signal does not interfere with a network signal.
 
 Locating exactly where the fault lies can be very useful in deciding whether a cable run needs replacing or repairing. A fault close to the end of the cable may be repairable. Conversely, a fault in the middle of the cable would, in all likelihood, require a replacement. A tone tracer can be used to locate a fault, though it is a laborious process tracing each wire until the break is located. A full featured cable tester or TDR tester would be much faster and consequently a much better use of your time.
 <h2>Continuity Testing</h2>
@@ -49,7 +49,7 @@ Of course, this feature is only useful if the cables you wish to locate are conn
 <h2>Conclusion</h2>
 Which technology you find a best fit is largely dictated by a few factors like how many cables you need to track and whether the cables are live.
 
-If you are tracking cables that are not terminated, your options are traditional tone generator and tracer or continuity tester. Ditto if the cable is live, your only option is to use anÂ asymmetric toner.
+If you are tracking cables that are not terminated, your options are traditional tone generator and tracer or continuity tester. Ditto if the cable is live, your only option is to use an asymmetric toner.
 
 Hub blinking is also fine so long as your switch is relatively small. If you've got a huge switch with hundreds of ports, you may well struggle to identify exactly which port is blinking.
 

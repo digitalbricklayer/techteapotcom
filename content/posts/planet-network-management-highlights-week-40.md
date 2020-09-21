@@ -1,5 +1,5 @@
 ---
-title: "Planet Network Management Highlights â€“ Week 40"
+title: "Planet Network Management Highlights Week 40"
 date: "2009-10-02T14:32:00+00:00"
 categories: []
 tags: []
@@ -14,10 +14,10 @@ Highlights from Planet Network Management + <a href="http://planetsysadmin.com/"
 	<li><a href="http://www.nagios.org/news/77-news-announcements/232-three-chances-to-win-a-50-amazon-gift-certificatea">Three Chances to Win a $50 Amazon Gift Certificate</a> - Nagios want to know what you think!</li>
 	<li><a href="http://www.monolith-software.com/blog/?p=476">Best Practices, KPIs for Network Management</a></li>
 	<li><a href="http://www.paessler.com/blog/2009/09/30/prtg-7/what-to-do-when-ping-sensors-show-astronomical-or-negative-request-times-in-prtg/">What to Do When PING Sensors Show Astronomical or Negative Request Times in PRTG</a></li>
-	<li><a href="http://thenetworkzone.blogspot.com/2009/09/3-key-steps-to-actively-monitoring-hsrp.html">3 Key Steps to Actively Monitoring HSRPâ€¦</a></li>
+	<li><a href="http://thenetworkzone.blogspot.com/2009/09/3-key-steps-to-actively-monitoring-hsrp.html">3 Key Steps to Actively Monitoring HSRP</a></li>
 	<li>User driven verses technology driven UI design</li>
 	<li><a href="http://www.standalone-sysadmin.com/blog/2009/10/net-diagram-resource/">Network Diagramming Resouce</a></li>
-	<li><a href="http://chuvakin.blogspot.com/2009/09/book-review-practical-intrusion.html">Book Review â€œPractical Intrusion Analysis: Prevention and Detection for the Twenty-First Centuryâ€</a></li>
+	<li><a href="http://chuvakin.blogspot.com/2009/09/book-review-practical-intrusion.html">Book Review Practical Intrusion Analysis: Prevention and Detection for the Twenty-First Century</a></li>
 	<li><a href="http://blogs.techrepublic.com.com/networking/?p=2026">What does the new Power over Ethernet standard mean for IT pros?</a></li>
 	<li><a href="http://www.standalone-sysadmin.com/blog/2009/09/the-importance-of-community/">The importance of community</a></li>
 </ul>

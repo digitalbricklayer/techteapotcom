@@ -9,7 +9,7 @@ I was clearing out my old bedroom after many years nagging by my parents when I 
 
 [gallery columns="2" ids="2984,2985,2986,2987"]
 
-The archive contains loads of backups of work I produced, <a href="https://github.com/digitalbricklayer">now stored on Github,</a> as well as public domain / shareware software, magazine cover disks and commercial software I purchased. Yes, people used to actually buy software. With real money. A PC game back in the late 1980s cost around Â£50 in 1980s money. According to this <a href="http://www.thisismoney.co.uk/money/bills/article-1633409/Historic-inflation-calculator-value-money-changed-1900.html">historic inflation calculator</a>, that would be Â£117 now. Pretty close to a week's salary for me at the time.
+The archive contains loads of backups of work I produced, <a href="https://github.com/digitalbricklayer">now stored on Github,</a> as well as public domain / shareware software, magazine cover disks and commercial software I purchased. Yes, people used to actually buy software. With real money. A PC game back in the late 1980s cost around £50 in 1980s money. According to this <a href="http://www.thisismoney.co.uk/money/bills/article-1633409/Historic-inflation-calculator-value-money-changed-1900.html">historic inflation calculator</a>, that would be £117 now. Pretty close to a week's salary for me at the time.
 
 One of my better discoveries from the late 1980s was public domain and shareware software libraries. Back then there were a number of libraries, usually advertised in the small ads at the back of computer magazines.
 
@@ -20,7 +20,7 @@ This is a run down of how you'd use your typical software library:
  	<li>Receive a small, photocopied catalog with lists of floppies and a brief description of the contents;</li>
  	<li>Send the order form back to the library with payment, usually by cheque;</li>
  	<li>Wait for another week or two;</li>
- 	<li>ReceiveÂ  a small padded envelope through the post with my selection of floppies;</li>
+ 	<li>Receive a small padded envelope through the post with my selection of floppies;</li>
  	<li>Explore and enjoy!</li>
 </ol>
 If you received your order in two weeks you were doing well. After the first order, when you have your catalog to hand, you could get your order in around a week. A week was pretty quick for pretty well anything back then.

@@ -17,7 +17,7 @@ Problem...how do I fix the problem?
 
 [gallery]
 
-One thing I know for sure is that you don't optimise code without a way to find out exactly where the time is being spent. Fortunately, I have a trial of <a href="http://www.jetbrains.com/profiler/">JetBrains dotTrace</a> on hand. Of the tools I've tried this is by far the easiest I've used. No special builds nothing. I just launchÂ  <a href="http://www.nunit.org/">NUnit</a> from dotTrace with a debug version of the PowerTime test DLL auto-loading and it just works.
+One thing I know for sure is that you don't optimise code without a way to find out exactly where the time is being spent. Fortunately, I have a trial of <a href="http://www.jetbrains.com/profiler/">JetBrains dotTrace</a> on hand. Of the tools I've tried this is by far the easiest I've used. No special builds nothing. I just launch  <a href="http://www.nunit.org/">NUnit</a> from dotTrace with a debug version of the PowerTime test DLL auto-loading and it just works.
 
 The two images of dotTrace show a run of PowerTime prior to an optimisation and the next a version that had an optimisation done. That one optimisation saved ~12 seconds. :)
 

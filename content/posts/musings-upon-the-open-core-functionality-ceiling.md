@@ -13,7 +13,7 @@ A <em>functionality ceiling</em> is a level of functionality beyond which the <e
 
 That got me thinking, if a <em>functionality ceiling</em> does exist, how can I demonstrate it?
 
-The graphs below are taken from the <a href="http://www.ohloh.net/">Ohloh open source project directory</a>. The rather useful thing about Ohloh is, in addition to cataloguing open source projects, it also performsÂ  extensive code analysis.
+The graphs below are taken from the <a href="http://www.ohloh.net/">Ohloh open source project directory</a>. The rather useful thing about Ohloh is, in addition to cataloguing open source projects, it also performs extensive code analysis.
 
 The two graphs below are taken from the <a href="http://www.ohloh.net/p/hyperic/analyses/latest">Hyperic code analysis</a> and the <a href="http://www.ohloh.net/p/zenoss/analyses/latest">Zenoss code analysis</a> pages on Ohloh.
 

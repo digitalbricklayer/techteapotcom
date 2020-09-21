@@ -27,5 +27,5 @@ I am currently in the process of broadening my knowledge of Windows Powershell a
 	<li><a href="http://blogs.msdn.com/powershell/">PowerShell team blog</a> -- <strong>*the*</strong> blog by the people who are writing Powershell</li>
 	<li><a href="http://thepowershellguy.com/blogs/posh/">The Powershell Guy</a></li>
 	<li><a href="http://marcoshaw.blogspot.com/">Get-Powershell blog</a></li>
-	<li><a href="http://dmitrysotnikov.wordpress.com/">Dmitryâ€™s PowerBlog</a> -- Dmitry Sotnikovâ€™s view on PowerShell, PowerGUI and much else</li>
+	<li><a href="http://dmitrysotnikov.wordpress.com/">Dmitry's PowerBlog</a> -- Dmitry Sotnikov's view on PowerShell, PowerGUI and much else</li>
 </ul>

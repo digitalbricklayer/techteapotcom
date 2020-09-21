@@ -15,7 +15,7 @@ The good news from a security perspective is that most now have some kind of sec
 
 All but one network was broadcasting its SSID the vast majority were using the manufacturer default SSID. Strangely most shops and businesses that changed the default seem to view the SSID as an advertising opportunity, making the SSID the business name. I'm not entirely sure this is a good thing, though it must be said that hiding the SSID is hardly the greatest security measure you could take and makes configuring wireless enabled devices that much harder for very little real gain so far as security is concerned.
 
-It would appear that most access points are set to the default channel,Â  9 of those detected were using channel 11, 7 used channel 1, and 4 were on channel 6. I expect with all this interference on the same channels that the effective throughput may not be as good as it could be.
+It would appear that most access points are set to the default channel, 9 of those detected were using channel 11, 7 used channel 1, and 4 were on channel 6. I expect with all this interference on the same channels that the effective throughput may not be as good as it could be.
 
 WPA was the most commonly used encryption, which is also good news and fine for most users. Only one network used WPA2, presumably a new access point/router. Reasonably enough most users will accept whatever security comes preconfigured in their access point.
 

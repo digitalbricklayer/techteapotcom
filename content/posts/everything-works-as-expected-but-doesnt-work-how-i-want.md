@@ -19,7 +19,7 @@ What is interesting is how dumb all of the tools actually are in the chain. Elma
 
 Its works precisely how it is supposed to. Unfortunately, how it is supposed to work isn't really very useful.
 
-What would have been useful is something that sits in the middle of all of this and figures out what is useful for me to know. Takes those 10 thousand odd emails and says, OK I see what's going on here,Â  I'll create one issue on the issue tracker, and then tell me about the problem. Then when it sees more similar emails, ignore them or summarise them once a day.
+What would have been useful is something that sits in the middle of all of this and figures out what is useful for me to know. Takes those 10 thousand odd emails and says, OK I see what's going on here, I'll create one issue on the issue tracker, and then tell me about the problem. Then when it sees more similar emails, ignore them or summarise them once a day.
 
 Effectively, what I've described is a cloud based event correlation tool. If you know of such a tool, please leave a comment.
 

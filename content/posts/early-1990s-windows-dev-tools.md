@@ -7,7 +7,7 @@ tags: []
 
 The early 1990s were an interesting time for software developers. Many of the tools that are taken for granted today made their debut for a mass market audience.
 
-I don't mean that the tools were not available previously. Both SmalltalkÂ  and LISP sported what would today be considered modern development environments all the way back in the 1970s, but hardware requirements put the tools well beyond the means of regular joe programmers. Not too many people had workstations at home or in the office for that matter.
+I don't mean that the tools were not available previously. Both Smalltalk and LISP sported what would today be considered modern development environments all the way back in the 1970s, but hardware requirements put the tools well beyond the means of regular joe programmers. Not too many people had workstations at home or in the office for that matter.
 
 I spent the early 1990s giving most of my money to software development tool companies of one flavour or another.
 
@@ -21,7 +21,7 @@ I bought <a href="http://www.drdobbs.com/windows/optimizing-with-microsoft-c-60/
 
 <a href="http://en.wikipedia.org/wiki/ToolBook">Asymetrix Toolbook</a> was marketed in the early 1990s as a generic Microsoft Windows development tool. There are old Info World reviews <a href="http://books.google.co.uk/books?id=plAEAAAAMBAJ&amp;pg=PA60">here</a> and <a href="http://books.google.co.uk/books?id=RlAEAAAAMBAJ&amp;pg=PT51">here</a>. Asymetrix later moved the product to be a learning authorship tool. I rather liked the tool, though it didn't really have the performance and flexibility I was looking for. Distributing your finished work was also not a strong point.
 
-<a href="http://en.wikipedia.org/wiki/QuickC">Microsoft Quick C for Windows</a> version 1.0 was released in late 1991. Quick C bundled a C compiler with the Windows SDK so that you could build 16 bit Windows software. It also sported an integrated C text editor, resource editorÂ  and debugger.
+<a href="http://en.wikipedia.org/wiki/QuickC">Microsoft Quick C for Windows</a> version 1.0 was released in late 1991. Quick C bundled a C compiler with the Windows SDK so that you could build 16 bit Windows software. It also sported an integrated C text editor, resource editor and debugger.
 
 The first version of <a href="http://en.wikipedia.org/wiki/Visual_Basic">Visual Basic</a> was released in 1991. I am not sure why I didn't buy it, I imagine there was some programming language snobbery on my part. I know there are plenty of programmers of a certain age who go all glassy eyed at the mere thought of BASIC, but I'm not one of them. Visual Basic also had an integrated editor and debugger.
 

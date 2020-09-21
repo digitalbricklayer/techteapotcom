@@ -18,9 +18,9 @@ The unit  can be used as a point and shoot device - plug in the adsl connection 
 <ul>
 	<li>In service,</li>
 	<li>Is ADSL2+ or adls on the  line</li>
-	<li>Line voltage present ? The rates and values for Line  speed,Â  Snr margin and line attenuation (bearing in mind you can set the  thresholds to suit the geographical area you work in many of my lines  are rural and at a greater distance from the local exchange)</li>
+	<li>Line voltage present ? The rates and values for Line speed, Snr margin and line attenuation (bearing in mind you can set the  thresholds to suit the geographical area you work in many of my lines  are rural and at a greater distance from the local exchange)</li>
 </ul>
-As  in my case when testing,Â  the indicators variously indicated  - pass /  fail - across a range of lines where the key values differed quite  extensively but it is a great time saver before having to dig into  internal  communications and routers to get a definitive answer. The  actual detailed values  found during the tests can be viewed on the LCD  two line panel on the front of the unit using the cursor pad.
+As  in my case when testing, the indicators variously indicated  - pass /  fail - across a range of lines where the key values differed quite  extensively but it is a great time saver before having to dig into  internal  communications and routers to get a definitive answer. The  actual detailed values  found during the tests can be viewed on the LCD  two line panel on the front of the unit using the cursor pad.
 
 The  more expansive tests available after checking the line and service  status, all  relate to DNS / Ping  / FTP and HTTP tests, with a tracert  facility thrown in for good measure.
 
