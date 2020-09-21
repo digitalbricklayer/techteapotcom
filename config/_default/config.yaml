@@ -1,0 +1,8 @@
+baseURL: "http://techteapot.com/"
+languageCode: "en-us"
+title: "The Tech Teapot"
+theme: "ananke"
+enableEmoji: true
+#[taxonomies]
+#   tag = "tags"
+#   category = "categories"
