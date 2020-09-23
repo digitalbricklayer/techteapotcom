@@ -1,7 +1,7 @@
 ---
 title: "Open source and the computer press"
 date: "2007-07-16T12:11:23+00:00"
-categories: []
+categories: ["Open Source"]
 tags: []
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Windows based structured systems management"
 date: "2009-06-11T09:27:32+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

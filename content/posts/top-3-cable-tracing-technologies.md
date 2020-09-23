@@ -1,7 +1,7 @@
 ---
 title: "Top 3 Cable Tracing Technologies"
 date: "2015-02-27T17:39:57+00:00"
-categories: []
+categories: [Cabling]
 tags: []
 ---
 

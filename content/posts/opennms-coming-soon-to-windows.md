@@ -1,8 +1,8 @@
 ---
 title: "OpenNMS coming soon to Windows"
 date: "2007-10-26T09:30:31+00:00"
-categories: []
-tags: []
+categories: [General]
+tags: ["OpenNMS"]
 ---
 
 <a href="http://www.opennms.org/">OpenNMS</a> is one of the original enterprise grade open source network management tools. For the Windows based admin, it has had one huge problem: it only runs on Unix based systems.

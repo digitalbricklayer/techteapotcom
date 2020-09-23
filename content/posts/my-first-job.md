@@ -1,7 +1,7 @@
 ---
 title: "My first job"
 date: "2008-02-28T11:28:21+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

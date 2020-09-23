@@ -1,8 +1,8 @@
 ---
 title: "Copper vs Fibre cabling costs"
 date: "2007-09-06T08:00:25+00:00"
-categories: []
-tags: []
+categories: [Cabling, General]
+tags: ["copper cabling", "fibre cabling"]
 ---
 
 <a title="180px-fibreoptic.jpg" href="http://techteapot.com/wp-content/uploads/2007/09/180px-fibreoptic.jpg"><img src="http://techteapot.com/wp-content/uploads/2007/09/180px-fibreoptic.jpg" alt="180px-fibreoptic.jpg" align="right" /></a>

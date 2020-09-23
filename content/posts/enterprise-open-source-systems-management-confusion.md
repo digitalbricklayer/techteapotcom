@@ -1,8 +1,8 @@
 ---
 title: "Enterprise open source systems management confusion"
 date: "2007-05-22T13:40:10+00:00"
-categories: []
-tags: []
+categories: ["Network Management", "Open Source"]
+tags: [hyperic]
 ---
 
 Another commercial open source systems management software product has recently appeared on our radar. <a href="http://www.hyperic.com/">Hyperic</a>, founded in 2004, is going after the enterprise market.

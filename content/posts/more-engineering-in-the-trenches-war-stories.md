@@ -1,7 +1,7 @@
 ---
 title: "More engineering in the trenches war stories"
 date: "2008-04-10T12:52:21+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

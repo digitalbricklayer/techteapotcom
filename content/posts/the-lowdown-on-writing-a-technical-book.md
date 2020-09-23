@@ -1,7 +1,7 @@
 ---
 title: "The lowdown on writing a technical book"
 date: "2009-07-14T09:40:50+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Firefox 3 enhanced SSL certificate support"
 date: "2008-06-18T11:48:08+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

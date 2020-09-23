@@ -1,8 +1,8 @@
 ---
 title: "Elastic clouds with elastic bills"
 date: "2008-11-07T12:55:59+00:00"
-categories: []
-tags: []
+categories: ["Cloud Computing"]
+tags: [amazon]
 ---
 
 I mentioned <a href="http://www.johnmwillis.com/amazon/clouddroplets/#comments">this in a comment</a> over on <a href="http://www.johnmwillis.com/">John M Willis ESM Blog</a>. I thought it deserved a post all to itself because I think it's important.

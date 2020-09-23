@@ -1,8 +1,8 @@
 ---
 title: "Mahalo Firefox integration broken"
 date: "2007-08-20T10:19:30+00:00"
-categories: []
-tags: []
+categories: [General]
+tags: [Firefox]
 ---
 
 Hey Mahalo, your Firefox integrated search is broken. Look at the images...<a href="http://techteapot.com/wp-content/uploads/2007/08/add-mahalo.JPG" title="Add Mahalo to Firefox integrated search">Add Mahalo to Firefox integrated search</a> &amp; <a href="http://techteapot.com/wp-content/uploads/2007/08/downloaderror.JPG" title="The Firefox error message">The Firefox error message</a>

@@ -1,8 +1,8 @@
 ---
 title: "Back to Windows 3 with Web 2.0"
 date: "2007-10-04T12:15:48+00:00"
-categories: []
-tags: []
+categories: [General]
+tags: [AJAX, "operating systems", "system reliability", "web browsers"]
 ---
 
 <img style="border-left: 4px solid white;" src="http://techteapot.com/wp-content/uploads/2007/10/browser-look.jpg" alt="" align="right" />

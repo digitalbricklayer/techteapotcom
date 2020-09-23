@@ -1,7 +1,7 @@
 ---
 title: "The talibanisation of software"
 date: "2009-10-30T14:52:21+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

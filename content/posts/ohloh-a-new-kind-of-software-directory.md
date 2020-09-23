@@ -1,7 +1,7 @@
 ---
 title: "Ohloh, a new kind of software directory?"
 date: "2007-08-02T09:01:35+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Tracking live network cables"
 date: "2007-08-24T09:01:39+00:00"
-categories: []
+categories: [Cabling]
 tags: []
 ---
 

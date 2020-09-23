@@ -1,7 +1,7 @@
 ---
 title: "The network & systems management blogosphere"
 date: "2008-09-22T15:14:12+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

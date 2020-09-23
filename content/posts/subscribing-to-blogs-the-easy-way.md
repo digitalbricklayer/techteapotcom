@@ -1,7 +1,7 @@
 ---
 title: "Subscribing to blogs the easy way"
 date: "2008-11-19T09:00:02+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

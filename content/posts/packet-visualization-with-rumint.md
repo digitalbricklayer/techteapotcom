@@ -1,7 +1,7 @@
 ---
 title: "Packet visualization with Rumint"
 date: "2007-08-23T14:56:33+00:00"
-categories: []
+categories: [General, "Protocol Analysis"]
 tags: []
 ---
 

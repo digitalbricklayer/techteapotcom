@@ -1,7 +1,7 @@
 ---
 title: "Open source software from a VAR perspective"
 date: "2008-03-04T12:00:54+00:00"
-categories: []
+categories: ["Open Source"]
 tags: []
 ---
 

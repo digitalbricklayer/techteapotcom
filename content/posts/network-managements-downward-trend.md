@@ -1,7 +1,7 @@
 ---
 title: "Network management's downward trend?"
 date: "2007-09-17T14:48:29+00:00"
-categories: []
+categories: ["Network Management"]
 tags: []
 ---
 

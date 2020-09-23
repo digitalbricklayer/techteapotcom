@@ -1,7 +1,7 @@
 ---
 title: "ELEX Harrogate Pictures"
 date: "2008-03-18T11:41:01+00:00"
-categories: []
+categories: [Cabling]
 tags: []
 ---
 

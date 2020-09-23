@@ -1,7 +1,7 @@
 ---
 title: "Seen the Apollo anniversary on TV? Now read the source code..."
 date: "2009-07-21T13:08:51+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

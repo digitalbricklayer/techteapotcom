@@ -1,7 +1,7 @@
 ---
 title: "Ipswitch acquires Dorian Software Creations Inc"
 date: "2010-01-27T16:05:11+00:00"
-categories: []
+categories: [General, "Network Management"]
 tags: []
 ---
 

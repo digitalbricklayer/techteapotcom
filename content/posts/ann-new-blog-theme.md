@@ -1,7 +1,7 @@
 ---
 title: "ANN: New blog theme..."
 date: "2007-08-06T16:45:59+00:00"
-categories: []
+categories: [Announcements]
 tags: []
 ---
 

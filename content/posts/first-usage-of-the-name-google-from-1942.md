@@ -1,7 +1,7 @@
 ---
 title: 'First usage of the name "Google" from 1942?'
 date: "2007-11-08T13:42:22+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

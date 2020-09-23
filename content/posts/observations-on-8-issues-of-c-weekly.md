@@ -1,7 +1,7 @@
 ---
 title: "Observations on 8 Issues of C# Weekly"
 date: "2015-04-23T15:10:23+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

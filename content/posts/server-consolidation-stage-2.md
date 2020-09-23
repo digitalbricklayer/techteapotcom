@@ -1,7 +1,7 @@
 ---
 title: "Server consolidation: Stage 2"
 date: "2007-02-07T10:42:57+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Data, Voice, and Video Cabling book"
 date: "2007-07-31T09:01:47+00:00"
-categories: []
+categories: [Cabling, General]
 tags: []
 ---
 

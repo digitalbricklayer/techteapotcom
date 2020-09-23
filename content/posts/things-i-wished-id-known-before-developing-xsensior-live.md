@@ -1,7 +1,7 @@
 ---
 title: "Things I Wished I'd Known Before Developing Xsensior Live"
 date: "2015-03-10T09:00:18+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

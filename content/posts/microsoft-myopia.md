@@ -1,7 +1,7 @@
 ---
 title: "Microsoft myopia"
 date: "2008-04-08T11:44:45+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

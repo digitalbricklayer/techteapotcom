@@ -1,7 +1,7 @@
 ---
 title: "Vista voice MP3...the next scripting revolution?"
 date: "2007-02-01T16:01:22+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

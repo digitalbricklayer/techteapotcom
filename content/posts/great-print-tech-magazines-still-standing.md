@@ -1,7 +1,7 @@
 ---
 title: "Great print tech magazines still standing"
 date: "2007-08-01T09:01:25+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

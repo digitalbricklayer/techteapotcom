@@ -1,7 +1,7 @@
 ---
 title: "Googlebot thrashing"
 date: "2007-11-01T09:29:19+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

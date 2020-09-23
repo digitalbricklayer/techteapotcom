@@ -1,8 +1,8 @@
 ---
 title: "Tivoli vs open source network management buzz 2008"
 date: "2009-01-07T14:19:28+00:00"
-categories: []
-tags: []
+categories: [General]
+tags: [Tivoli]
 ---
 
 As suggested by Jane Curry <a href="http://techteapot.com/open-source-network-management-buzz-comparison-2008/comment-page-1/#comment-7092">in her comment</a> on the <a title="Permanent Link to Open source network management buzz comparison 2008" rel="bookmark" href="http://techteapot.com/open-source-network-management-buzz-comparison-2008/">Open source network management buzz comparison 2008</a> post I've compared Tivoli related keywords and selected open source projects. Tivoli covers a lot of ground so comparing it on its own doesn't really tell you very much.

@@ -1,7 +1,7 @@
 ---
 title: "bug labs democratise gadget design &amp; manufacture"
 date: "2007-11-05T10:36:37+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

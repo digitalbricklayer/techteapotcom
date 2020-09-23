@@ -1,7 +1,7 @@
 ---
 title: "Installation woes in networking land"
 date: "2006-12-21T16:20:43+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

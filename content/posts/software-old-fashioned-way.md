@@ -1,7 +1,7 @@
 ---
 title: "Software the old fashioned way"
 date: "2014-07-24T07:00:51+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

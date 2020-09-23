@@ -1,7 +1,7 @@
 ---
 title: "How not to manage your internet server"
 date: "2007-09-25T15:45:04+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

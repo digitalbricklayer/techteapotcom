@@ -1,8 +1,8 @@
 ---
 title: "RiverMuse FreeCool slipped until late Jan/early Feb"
 date: "2009-01-08T09:00:10+00:00"
-categories: []
-tags: []
+categories: [General]
+tags: [Rivermuse]
 ---
 
 ... <a href="http://www.rivermuse.com/trial/">at least the public release anyway</a>. I expect if you work somewhere interesting, then it may be worthwhile contacting them in the meantime.

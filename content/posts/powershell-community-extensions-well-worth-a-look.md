@@ -1,8 +1,8 @@
 ---
 title: "PowerShell Community Extensions well worth a look"
 date: "2007-07-03T12:14:41+00:00"
-categories: []
-tags: []
+categories: [General]
+tags: [powershell]
 ---
 
 I'm a fan of Windows PowerShell <a href="http://techteapot.com/heads-up-windows-powershell/">as I've mentioned before</a>. I think it is going to be a boon for Windows admins everywhere.

@@ -1,8 +1,8 @@
 ---
 title: "OpenNMS training in Europe"
 date: "2008-04-16T09:22:24+00:00"
-categories: []
-tags: []
+categories: [General]
+tags: ["OpenNMS"]
 ---
 
 Are you wanting to get into <a href="http://www.opennms.org/">OpenNMS</a> but are struggling to get started? OpenNMS are running a series of training courses in Europe during May.

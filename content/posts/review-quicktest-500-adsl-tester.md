@@ -1,7 +1,7 @@
 ---
 title: "Review of the Quicktest 500 ADSL Tester"
 date: "2010-02-17T12:58:51+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

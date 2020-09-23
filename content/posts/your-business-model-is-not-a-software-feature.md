@@ -1,7 +1,7 @@
 ---
 title: "Your business model is not a software feature"
 date: "2015-07-22T11:21:00+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Back to normal redux, again"
 date: "2008-01-16T16:16:50+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

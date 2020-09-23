@@ -1,7 +1,7 @@
 ---
 title: "Wordpress Bad Behavior hack scare"
 date: "2007-12-06T12:06:34+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Recommendations for a mid-market broadband router"
 date: "2008-03-31T10:08:54+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

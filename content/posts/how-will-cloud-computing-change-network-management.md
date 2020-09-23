@@ -1,7 +1,7 @@
 ---
 title: "How will cloud computing change network management"
 date: "2008-09-24T15:32:49+00:00"
-categories: []
+categories: ["Cloud Computing", "Network Management"]
 tags: []
 ---
 

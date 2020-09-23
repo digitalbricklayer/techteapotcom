@@ -1,7 +1,7 @@
 ---
 title: "Hub projects in open source network management"
 date: "2008-05-08T09:09:06+00:00"
-categories: []
+categories: ["Open Source", "Network Management"]
 tags: []
 ---
 

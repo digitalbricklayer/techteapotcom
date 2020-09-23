@@ -1,7 +1,7 @@
 ---
 title: "Where does a failure manifest itself first"
 date: "2014-03-14T10:38:16+00:00"
-categories: []
+categories: ["Network Monitoring"]
 tags: []
 ---
 

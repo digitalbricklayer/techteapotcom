@@ -1,7 +1,7 @@
 ---
 title: "Summer holiday roundup"
 date: "2007-08-22T13:10:50+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

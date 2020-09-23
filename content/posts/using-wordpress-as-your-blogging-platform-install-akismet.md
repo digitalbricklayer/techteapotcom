@@ -1,7 +1,7 @@
 ---
 title: "Using Wordpress as your blogging platform? Install Akismet"
 date: "2007-03-21T16:56:33+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

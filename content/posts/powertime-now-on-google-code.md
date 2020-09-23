@@ -1,8 +1,8 @@
 ---
 title: "PowerTime now on Google Code"
 date: "2008-06-10T14:46:35+00:00"
-categories: []
-tags: []
+categories: [General]
+tags: [powershell]
 ---
 
 PowerTime is now available on Google Code. You can even browse the code without having to download anything.

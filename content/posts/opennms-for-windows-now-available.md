@@ -1,8 +1,8 @@
 ---
 title: "OpenNMS for Windows now available"
 date: "2007-11-08T10:19:04+00:00"
-categories: []
-tags: []
+categories: [General]
+tags: ["OpenNMS"]
 ---
 
 As promised in the <a href="http://techteapot.com/opennms-coming-soon-to-windows/">OpenNMS coming soon to Windows</a> post, OpenNMS 1.3.8 has now been released with Windows support &amp; an installer.

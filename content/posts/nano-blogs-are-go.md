@@ -1,7 +1,7 @@
 ---
 title: "Nano blogs are go!"
 date: "2008-03-05T11:36:02+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

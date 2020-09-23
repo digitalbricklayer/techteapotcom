@@ -1,7 +1,7 @@
 ---
 title: "When open source goes wrong..."
 date: "2008-10-30T12:51:20+00:00"
-categories: []
+categories: ["Open Source"]
 tags: []
 ---
 

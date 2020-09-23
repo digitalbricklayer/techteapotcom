@@ -1,7 +1,7 @@
 ---
 title: "Screams as systems administration alert method"
 date: "2008-10-31T08:00:46+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

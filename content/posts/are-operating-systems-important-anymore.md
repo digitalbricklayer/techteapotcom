@@ -1,7 +1,7 @@
 ---
 title: "Are operating systems important anymore?"
 date: "2007-08-15T09:01:53+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

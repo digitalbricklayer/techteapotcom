@@ -1,7 +1,7 @@
 ---
 title: "Odd insurance bar to dealing with USA"
 date: "2008-06-09T10:30:20+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

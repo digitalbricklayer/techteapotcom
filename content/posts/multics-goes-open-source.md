@@ -1,7 +1,7 @@
 ---
 title: "Multics goes open source"
 date: "2008-06-25T09:01:00+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

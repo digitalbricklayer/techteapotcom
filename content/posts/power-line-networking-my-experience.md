@@ -1,7 +1,7 @@
 ---
 title: "Power line networking: my experience"
 date: "2007-10-09T09:07:39+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

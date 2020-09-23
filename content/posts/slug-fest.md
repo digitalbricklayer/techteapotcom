@@ -1,7 +1,7 @@
 ---
 title: "Off Topic: Slug fest"
 date: "2008-06-02T08:26:31+00:00"
-categories: []
+categories: ["Off Topic"]
 tags: []
 ---
 

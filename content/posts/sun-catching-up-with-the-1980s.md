@@ -1,7 +1,7 @@
 ---
 title: "Sun catching up with the 1980s"
 date: "2008-01-16T16:52:37+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

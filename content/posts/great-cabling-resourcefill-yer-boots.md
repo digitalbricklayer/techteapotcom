@@ -1,7 +1,7 @@
 ---
 title: "Great cabling resource...fill yer boots"
 date: "2007-05-31T10:29:00+00:00"
-categories: []
+categories: [Cabling]
 tags: []
 ---
 

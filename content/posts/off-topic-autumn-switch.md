@@ -1,7 +1,7 @@
 ---
 title: "Off Topic: Autumn switch"
 date: "2008-09-04T15:46:43+00:00"
-categories: []
+categories: ["Off Topic"]
 tags: []
 ---
 

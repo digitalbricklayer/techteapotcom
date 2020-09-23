@@ -1,7 +1,7 @@
 ---
 title: "My server uptime"
 date: "2009-06-26T12:09:47+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

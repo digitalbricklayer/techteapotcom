@@ -1,7 +1,7 @@
 ---
 title: "Surviving a hobby open source project"
 date: "2008-08-13T12:19:12+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

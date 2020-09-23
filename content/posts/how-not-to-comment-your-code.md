@@ -1,7 +1,7 @@
 ---
 title: "How not to comment your code"
 date: "2007-10-29T09:01:54+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

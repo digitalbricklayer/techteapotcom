@@ -1,7 +1,7 @@
 ---
 title: "The Tech Teapot's first birthday"
 date: "2007-11-27T14:01:42+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

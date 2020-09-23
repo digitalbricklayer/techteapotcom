@@ -1,7 +1,7 @@
 ---
 title: 'Free Tools to Police your "no wireless" Policy'
 date: "2013-07-31T13:33:16+00:00"
-categories: []
+categories: [Security, Wireless]
 tags: []
 ---
 

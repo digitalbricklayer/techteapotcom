@@ -1,7 +1,7 @@
 ---
 title: "The state of Wi-Fi security in 2009"
 date: "2010-01-08T08:00:38+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

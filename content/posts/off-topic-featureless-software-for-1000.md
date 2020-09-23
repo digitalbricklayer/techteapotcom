@@ -1,7 +1,7 @@
 ---
 title: "Off Topic: Featureless software for $1,000"
 date: "2008-08-08T09:46:37+00:00"
-categories: []
+categories: ["Off Topic"]
 tags: []
 ---
 

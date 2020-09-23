@@ -1,7 +1,7 @@
 ---
 title: "New blog email subscription option"
 date: "2007-06-08T12:12:22+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

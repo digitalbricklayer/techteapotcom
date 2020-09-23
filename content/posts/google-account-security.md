@@ -1,7 +1,7 @@
 ---
 title: "Google account security"
 date: "2008-12-11T09:45:56+00:00"
-categories: []
+categories: [Security]
 tags: []
 ---
 

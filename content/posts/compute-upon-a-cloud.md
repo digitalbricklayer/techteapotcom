@@ -1,8 +1,8 @@
 ---
 title: "Compute upon a cloud"
 date: "2007-12-17T09:01:50+00:00"
-categories: []
-tags: []
+categories: ["Data Center"]
+tags: [amazon, "cloud computing", "data center"]
 ---
 
 <a href="http://techteapot.com/wp-content/uploads/2007/12/20141000_bah0036_s.jpg" title="Data centre worker"><img src="http://techteapot.com/wp-content/uploads/2007/12/20141000_bah0036_s.jpg" alt="Data centre worker" align="right" style="border-left:solid 4px white" /></a>

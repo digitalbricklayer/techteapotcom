@@ -1,7 +1,7 @@
 ---
 title: "Why selling on the web is hard"
 date: "2006-11-27T16:58:43+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

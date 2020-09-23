@@ -1,7 +1,7 @@
 ---
 title: "BUG now available in Europe"
 date: "2009-09-23T09:27:52+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

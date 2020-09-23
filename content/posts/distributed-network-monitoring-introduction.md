@@ -1,8 +1,8 @@
 ---
 title: "Distributed network monitoring introduction"
 date: "2008-09-03T08:47:59+00:00"
-categories: []
-tags: []
+categories: ["Network Monitoring"]
+tags: ["network management", "open source"]
 ---
 
 A number of mid-level network monitoring products, like <a href="http://www.whatsupgold.com/">What's Up Gold</a> &amp; Intellipool for instance, have recently implemented distributed monitoring features. Mid-level network monitoring products are now implementing distributed monitoring so it is affordable by a lot more companies.

@@ -1,7 +1,7 @@
 ---
 title: "SSL certificates with extended validation: know who you're dealing with"
 date: "2008-02-01T16:25:18+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Microsoft as 60s IBM or 80s IBM?"
 date: "2008-04-09T11:01:17+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

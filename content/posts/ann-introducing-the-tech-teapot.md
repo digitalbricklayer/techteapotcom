@@ -1,7 +1,7 @@
 ---
 title: 'ANN: Introducing "The Tech Teapot"'
 date: "2007-07-30T13:58:58+00:00"
-categories: []
+categories: [Announcements, General]
 tags: []
 ---
 

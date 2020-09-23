@@ -1,8 +1,8 @@
 ---
 title: "Drupal 6 book recommendations"
 date: "2009-07-30T13:31:08+00:00"
-categories: []
-tags: []
+categories: [General]
+tags: [drupal, book]
 ---
 
 As we've just delivered a big lump of functionality onto our website using Drupal, in fact everything is now managed through Drupal except this blog, I thought that you might appreciate a heads up on the books we used during the development process. Getting hold of the right books early in your project will make things a lot easier.

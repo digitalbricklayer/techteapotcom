@@ -1,7 +1,7 @@
 ---
 title: "Oodles of disk space, just not in the right place"
 date: "2014-03-13T14:47:20+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

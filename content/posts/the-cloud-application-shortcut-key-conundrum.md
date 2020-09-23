@@ -1,7 +1,7 @@
 ---
 title: "The cloud application shortcut key conundrum"
 date: "2009-04-01T09:00:41+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Adding anything external to your software will triple support"
 date: "2013-07-30T14:41:55+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

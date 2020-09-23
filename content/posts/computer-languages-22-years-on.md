@@ -1,8 +1,8 @@
 ---
 title: "Computer Languages 22 years on"
 date: "2008-02-19T13:02:59+00:00"
-categories: []
-tags: []
+categories: [General]
+tags: ["artificial intelligence", "computer language"]
 ---
 
 Many moons ago in the late 1980s, right at the start of my interest in computers, I bought a book about computer languages. The book titled <a href="http://www.amazon.com/Computer-Languages-Perplexed-Naomi-Baron/dp/0385232144/ref=sr_1_7">Computer Languages: A Guide for the Perplexed</a> by <a href="http://en.wikipedia.org/wiki/Naomi_Baron">Naomi S Baron</a> inspired me to get into programming and eventually led me to program professionally (in the sense that somebody paid me :) .)

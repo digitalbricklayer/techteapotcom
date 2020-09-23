@@ -3,7 +3,7 @@ title: "The Test-Um Tri-Porter is now available online"
 date: "2007-01-31T11:07:27+00:00"
 aliases:
     - /posts/37/
-categories: []
+categories: [General]
 tags: []
 ---
 

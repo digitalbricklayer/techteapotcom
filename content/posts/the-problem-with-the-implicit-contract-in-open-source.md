@@ -1,7 +1,7 @@
 ---
 title: "The problem with the implicit contract in open source"
 date: "2009-08-06T14:50:56+00:00"
-categories: []
+categories: ["Open Source"]
 tags: []
 ---
 

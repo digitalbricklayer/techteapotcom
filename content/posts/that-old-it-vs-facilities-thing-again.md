@@ -1,7 +1,7 @@
 ---
 title: "That old I.T. vs facilities thing again"
 date: "2008-10-02T15:52:47+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

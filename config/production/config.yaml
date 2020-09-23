@@ -1,2 +1,3 @@
+baseURL: "http://techteapot.com/"
 enableRobotsTXT: true
 minify: true

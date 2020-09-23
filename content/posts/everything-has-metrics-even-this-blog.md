@@ -1,7 +1,7 @@
 ---
 title: "Everything has metrics, even this blog"
 date: "2013-08-09T08:52:59+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

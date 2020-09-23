@@ -1,7 +1,7 @@
 ---
 title: "The great blog arms race"
 date: "2007-12-11T10:23:16+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

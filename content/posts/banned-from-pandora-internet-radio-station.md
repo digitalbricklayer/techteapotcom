@@ -1,7 +1,7 @@
 ---
 title: "Banned from Pandora internet radio station"
 date: "2008-01-08T11:05:04+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

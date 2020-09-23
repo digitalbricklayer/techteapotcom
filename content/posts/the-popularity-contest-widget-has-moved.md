@@ -1,7 +1,7 @@
 ---
 title: "The popularity contest widget has moved..."
 date: "2008-12-02T15:52:43+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

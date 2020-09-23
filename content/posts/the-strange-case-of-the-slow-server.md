@@ -1,7 +1,7 @@
 ---
 title: "The strange case of the slow server"
 date: "2008-10-23T08:00:47+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

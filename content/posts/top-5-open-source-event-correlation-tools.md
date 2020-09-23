@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Open Source Event Correlation Tools"
 date: "2013-08-07T14:18:26+00:00"
-categories: []
+categories: ["Event Correlation"]
 tags: []
 ---
 

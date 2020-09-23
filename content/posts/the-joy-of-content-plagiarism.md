@@ -1,7 +1,7 @@
 ---
 title: "The joy of content plagiarism"
 date: "2009-04-22T11:55:54+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 
@@ -11,4 +11,4 @@ Things are complicated slightly because the article is hosted by an article subm
 
 Fortunately, that's where the <a href="http://en.wikipedia.org/wiki/DMCA">DMCA</a> comes in. Google, among many others, will <a href="http://www.google.com/dmca.html#notification">respond to valid DMCA infringement notifications</a> and remove the pages in question from their index.
 
-It is a sad fact that many people believe that the internet is a smÃ¶rgÃ¥sbord of content they can steal with impunity to monetise however they please.
+It is a sad fact that many people believe that the internet is a smorgasbord of content they can steal with impunity to monetise however they please.

@@ -1,7 +1,7 @@
 ---
 title: "The big IT worker's bug bear"
 date: "2008-08-29T09:45:04+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

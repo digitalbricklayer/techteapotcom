@@ -1,7 +1,7 @@
 ---
 title: "Software delivery with even less friction"
 date: "2013-12-18T09:00:34+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

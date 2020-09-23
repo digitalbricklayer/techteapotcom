@@ -1,7 +1,7 @@
 ---
 title: "Whither Met Office openness update"
 date: "2008-05-06T11:38:30+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

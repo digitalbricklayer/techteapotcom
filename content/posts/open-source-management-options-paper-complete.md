@@ -1,7 +1,7 @@
 ---
 title: "Open Source Management Options paper complete"
 date: "2008-10-03T08:47:13+00:00"
-categories: []
+categories: ["Network Management", "Open Source"]
 tags: []
 ---
 

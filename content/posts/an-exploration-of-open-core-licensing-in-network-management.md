@@ -1,8 +1,8 @@
 ---
 title: "An exploration of open core licensing in network management"
 date: "2010-02-25T10:18:52+00:00"
-categories: []
-tags: []
+categories: ["Network Management", "Open Source"]
+tags: ["open core"]
 ---
 
 Open core refers to a business strategy employed by some commercial open source companies. The open core strategy is popular amongst companies within network management.
@@ -65,7 +65,7 @@ One of the most difficult balancing acts for product managers of open core produ
 
 Does having an open core strategy mean that there are features that will never appear in the <em>community</em> product? Does the requirement to provide sufficient leverage to the sales VP provide an artificial ceiling for the functionality of the <em>community</em> product?
 
-In a fully functioning open source eco system, the community would tend to close the gap between the <em>community</em> product and the <em>enterprise</em> product. Plainly an open core company is not going to be very comfortable with the value proposition of the <em>enterprise</em> product being undermined by the community.
+In a fully functioning open source eco-system, the community would tend to close the gap between the <em>community</em> product and the <em>enterprise</em> product. Plainly an open core company is not going to be very comfortable with the value proposition of the <em>enterprise</em> product being undermined by the community.
 <h3>Community contributions in an open core world</h3>
 One of the problems with the open core strategy from the vendor perspective is that you need to be careful with how you handle community contributions. In the case where the company takes no third party contributions this isn't going to be a problem, all of the engineers are on the company payroll.
 

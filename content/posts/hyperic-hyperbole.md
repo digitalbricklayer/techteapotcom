@@ -1,8 +1,8 @@
 ---
 title: "Hyperic hyperbole"
 date: "2008-12-16T14:02:27+00:00"
-categories: []
-tags: []
+categories: [General]
+tags: [hyperic]
 ---
 
 <p style="text-align: left;">I was researching a post when I was amused to come across the <a href="http://www.hyperic.com/">Hyperic</a> advert in the image below. Even by marketing department standards, to claim Hyperic is the <strong><em>"world's most popular systems monitoring software"</em></strong> does seem a teeny, weeny bit over the top. :)</p>

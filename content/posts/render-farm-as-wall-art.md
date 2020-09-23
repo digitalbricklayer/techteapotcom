@@ -1,7 +1,7 @@
 ---
 title: "Render farm as wall art"
 date: "2008-10-02T08:00:28+00:00"
-categories: []
+categories: [General]
 tags: []
 ---
 

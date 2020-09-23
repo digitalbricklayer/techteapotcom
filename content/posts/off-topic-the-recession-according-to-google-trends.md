@@ -1,7 +1,7 @@
 ---
 title: "Off Topic: The recession according to Google Trends..."
 date: "2008-11-18T11:17:09+00:00"
-categories: []
+categories: ["Off Topic"]
 tags: []
 ---
 

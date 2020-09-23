@@ -1,7 +1,7 @@
 ---
 title: "Commercial open source network management focus puzzle"
 date: "2007-05-15T12:35:39+00:00"
-categories: []
+categories: ["Network Management"]
 tags: []
 ---
 

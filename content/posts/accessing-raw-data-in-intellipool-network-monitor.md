@@ -1,7 +1,7 @@
 ---
 title: "Accessing raw data in Intellipool Network Monitor"
 date: "2007-06-19T14:34:05+00:00"
-categories: []
+categories: [General, "Network Monitoring"]
 tags: []
 ---
 
