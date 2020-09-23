@@ -5,7 +5,7 @@ categories: [Cabling]
 tags: []
 ---
 
-<img src="http://techteapot.com/wp-content/uploads/2007/08/200px-cat5.jpg" alt="Category 5 cable" align="right" />
+<img src="/image/uploads/2007/08/200px-cat5.jpg" alt="Category 5 cable" align="right" />
 
 I'm often asked how to track live network cables. I have a confession: I don't know how to do it! There, honesty is always the best policy!
 

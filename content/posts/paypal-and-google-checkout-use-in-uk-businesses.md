@@ -5,7 +5,7 @@ categories: [General]
 tags: []
 ---
 
-<img src="http://techteapot.com/wp-content/uploads/2007/10/google_checkout.gif" alt="Google Checkout Logo" style="border-left: 4px solid white" align="right" />
+<img src="/image/uploads/2007/10/google_checkout.gif" alt="Google Checkout Logo" style="border-left: 4px solid white" align="right" />
 
 It's technical planning week this week, so <strong>I need to know about payment options you'd like to see</strong>.
 

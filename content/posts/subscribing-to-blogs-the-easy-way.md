@@ -5,7 +5,7 @@ categories: [General]
 tags: []
 ---
 
-<img class="alignright size-thumbnail wp-image-1053" title="rss" src="http://techteapot.com/wp-content/uploads/2008/11/rss.jpg" alt="" width="130" height="129" align="right" />
+<img class="alignright size-thumbnail wp-image-1053" title="rss" src="/image/uploads/2008/11/rss.jpg" alt="" width="130" height="129" align="right" />
 
 One of the things that has surprised me about running this blog has been the number of people who subscribe via email.
 

@@ -17,10 +17,10 @@ Dean is a <a href="http://www.formula1.com/">Formula 1</a> fan, so he spent the 
 
 For my sins, I haven't had a summer holiday yet, I hope to get away in the autumn. I will be cycling over to <a href="http://en.wikipedia.org/wiki/Helmsley">Helmsley</a> youth hostel with my nephew for a night though. I spent a few days there last year and it was gorgeous.
 
-<img src="http://techteapot.com/wp-content/uploads/2007/08/180px-helmsley_castle3.jpg" alt="Helmsley Castle" />Helmsley Castle
+<img src="/image/uploads/2007/08/180px-helmsley_castle3.jpg" alt="Helmsley Castle" />Helmsley Castle
 
-<img src="http://techteapot.com/wp-content/uploads/2007/08/360px-alfabia2.jpg" alt="Typical scenery in Mallorca" />Typical scenery in Mallorca
+<img src="/image/uploads/2007/08/360px-alfabia2.jpg" alt="Typical scenery in Mallorca" />Typical scenery in Mallorca
 
-<img src="http://techteapot.com/wp-content/uploads/2007/08/250px-dubra.JPG" alt="Dubrovnik" />Dubrovnik from the air
+<img src="/image/uploads/2007/08/250px-dubra.JPG" alt="Dubrovnik" />Dubrovnik from the air
 
-<img src="http://techteapot.com/wp-content/uploads/2007/08/320px-lakeland_view.jpg" alt="Typical scenery in English Lake District" />Typical scenery in the English Lake District
+<img src="/image/uploads/2007/08/320px-lakeland_view.jpg" alt="Typical scenery in English Lake District" />Typical scenery in the English Lake District

@@ -12,7 +12,7 @@ Well, you just look for the SSL certificate and that <em>proves</em> that the we
 A scammer can very easily install a traditional SSL certificate for their website with the minimum of checks.
 
 Fortunately, the security industry has come up with an improved SSL certificate that not only validates the domain, but verifies that the domain is owned by a bona fide company as well.
-<p align="center"><a href="http://techteapot.com/wp-content/uploads/2008/02/sslevlg.JPG"><img src="http://techteapot.com/wp-content/uploads/2008/02/sslev-small.jpg" alt="OPENXTRA SSL Extended Validation certificate in action" border="0" height="13" width="450" /></a></p>
+<p align="center"><a href="/image/uploads/2008/02/sslevlg.JPG"><img src="/image/uploads/2008/02/sslev-small.jpg" alt="OPENXTRA SSL Extended Validation certificate in action" border="0" height="13" width="450" /></a></p>
 Unfortunately, browsers haven't been keeping up too well with the new <a href="http://en.wikipedia.org/wiki/Extended_Validation_Certificate">extended validation certificates</a>.
 
 Only IE 7 currently displays the extended certificate information including the company name, location and certificate registrar.

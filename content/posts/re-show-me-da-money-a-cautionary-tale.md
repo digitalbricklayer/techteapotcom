@@ -5,7 +5,7 @@ categories: [General]
 tags: []
 ---
 
-<p><img height="289" alt="A piggy bank stuffed with money" src="http://techteapot.com/wp-content/uploads/2008/01/piggy-bank-1.jpg" width="225" align="right" />This is a reply to Tarus Balog's Show Me Da Money (a Cautionary Tale) post.</p>
+<p><img height="289" alt="A piggy bank stuffed with money" src="/image/uploads/2008/01/piggy-bank-1.jpg" width="225" align="right" />This is a reply to Tarus Balog's Show Me Da Money (a Cautionary Tale) post.</p>
 <p>Tarus has labelled the business model of giving away an open source core but selling proprietary extensions as <em><strong>shareware open source</strong></em>.</p>
 <p>It's a great term, but I don't think it's wholly appropriate.</p>
 <p>If the <a href="http://www.hyperic.com/blog/hyperic/">Hyperic</a> &amp; <a href="http://blog.zenoss.com/">Zenoss</a> communities have a problem with the licensing terms of the commercial extensions then they are in a great position to circumvent it.</p>

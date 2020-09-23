@@ -5,7 +5,7 @@ categories: [General]
 tags: ["data center"]
 ---
 
-<img src="http://techteapot.com/wp-content/uploads/2007/10/datacenter.jpg" style="border-left: 4px solid white" align="right" />
+<img src="/image/uploads/2007/10/datacenter.jpg" style="border-left: 4px solid white" align="right" />
 
 "<strong>Few have made the connection between IT efficiency and green compliance</strong>" so says <a href="http://news.bbc.co.uk/1/hi/sci/tech/7010539.stm">Steve Nunn in The Green Room</a>, BBC's green issues series. But <strong>I'm not so sure</strong>. I have noticed a significant increase in awareness at least in the IT press of the need to reduce power costs particularly in the Data centre environment, no doubt aided by the introduction of <a href="http://news.zdnet.co.uk/security/0,1000000189,39170099,00.htm">virtualisation</a> which can reduce a Data centre's energy bill by as much as 60%.
 

@@ -37,6 +37,6 @@ PS All of the floppies I've tried so far still work :) Not bad after 23 years.
 
 PPS I found a letter from October 1990 ordering ten disks from the library.
 
-<a href="http://techteapot.com/wp-content/uploads/2014/07/pdsl-letter.png"><img class="aligncenter wp-image-2995 size-medium" src="http://techteapot.com/wp-content/uploads/2014/07/pdsl-letter-300x123.png" alt="Letter ordering disks" width="300" height="123" /></a>
+<a href="/image/uploads/2014/07/pdsl-letter.png"><img class="aligncenter wp-image-2995 size-medium" src="/image/uploads/2014/07/pdsl-letter-300x123.png" alt="Letter ordering disks" width="300" height="123" /></a>
 
 &nbsp;

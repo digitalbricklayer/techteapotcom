@@ -5,7 +5,7 @@ categories: [General]
 tags: []
 ---
 
-<img class="alignright size-medium wp-image-943" title="Birthday Cake" src="http://techteapot.com/wp-content/uploads/2008/10/istock_000007188544xsmall.jpg" alt="Birthday Cake" width="200" height="300" align="right" />
+<img class="alignright size-medium wp-image-943" title="Birthday Cake" src="/image/uploads/2008/10/istock_000007188544xsmall.jpg" alt="Birthday Cake" width="200" height="300" align="right" />
 
 The Tech Teapot is two years old today. Now we've got 13 categories, 334 posts &amp; 412 comments.
 

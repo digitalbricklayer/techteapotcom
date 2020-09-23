@@ -5,7 +5,7 @@ categories: [General]
 tags: [AJAX, "operating systems", "system reliability", "web browsers"]
 ---
 
-<img style="border-left: 4px solid white;" src="http://techteapot.com/wp-content/uploads/2007/10/browser-look.jpg" alt="" align="right" />
+<img style="border-left: 4px solid white;" src="/image/uploads/2007/10/browser-look.jpg" alt="" align="right" />
 
 With the move to more applications being accessed via the web browser I am becoming more and more reminded of the bad old days under Windows 3.
 

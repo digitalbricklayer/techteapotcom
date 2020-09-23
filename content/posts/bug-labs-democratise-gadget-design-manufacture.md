@@ -5,7 +5,7 @@ categories: [General]
 tags: []
 ---
 
-<img src="http://techteapot.com/wp-content/uploads/2007/11/bug_logo_whiteback_sm.jpg" alt="Bug Labs Logo" align="right" />
+<img src="/image/uploads/2007/11/bug_logo_whiteback_sm.jpg" alt="Bug Labs Logo" align="right" />
 
 <a href="http://buglabs.net/">bug labs</a> has come out of stealth mode at last. If you've got a gadget in you screaming to get out then I've got good news. :)
 
@@ -13,7 +13,7 @@ tags: []
 
 The basic concept behind Bug is that you have a basic gadget chassis called BUGbase which you program. You can then plug into the chassis a number of add on modules called BUGmodules like GPS, touch sensitive LCD, accelerometer motion detector &amp; digital camera. More BUGmodules like a mini-keyboard and speaker, are due early next year.
 
-<a href="http://techteapot.com/wp-content/uploads/2007/11/ph_bug_handled_hirop_med.jpg" title="BUGbase plus BUGmodule"><img src="http://techteapot.com/wp-content/uploads/2007/11/ph_bug_handled_hirop_med.jpg" alt="BUGbase plus BUGmodule" height="50%" width="50%" /></a>
+<a href="/image/uploads/2007/11/ph_bug_handled_hirop_med.jpg" title="BUGbase plus BUGmodule"><img src="/image/uploads/2007/11/ph_bug_handled_hirop_med.jpg" alt="BUGbase plus BUGmodule" height="50%" width="50%" /></a>
 
 <h2>What will BUG mean for you?</h2>
 

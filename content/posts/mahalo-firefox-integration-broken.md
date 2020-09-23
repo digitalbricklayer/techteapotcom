@@ -5,7 +5,7 @@ categories: [General]
 tags: [Firefox]
 ---
 
-Hey Mahalo, your Firefox integrated search is broken. Look at the images...<a href="http://techteapot.com/wp-content/uploads/2007/08/add-mahalo.JPG" title="Add Mahalo to Firefox integrated search">Add Mahalo to Firefox integrated search</a> &amp; <a href="http://techteapot.com/wp-content/uploads/2007/08/downloaderror.JPG" title="The Firefox error message">The Firefox error message</a>
+Hey Mahalo, your Firefox integrated search is broken. Look at the images...<a href="/image/uploads/2007/08/add-mahalo.JPG" title="Add Mahalo to Firefox integrated search">Add Mahalo to Firefox integrated search</a> &amp; <a href="/image/uploads/2007/08/downloaderror.JPG" title="The Firefox error message">The Firefox error message</a>
 
 The error message is a bit misleading, because you can manually download the file <a href="http://www.mahalo.com/opensearch_desc.xml">opensearch_desc.xml</a>.
 

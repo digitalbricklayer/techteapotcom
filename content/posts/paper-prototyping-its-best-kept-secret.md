@@ -5,7 +5,7 @@ categories: [General]
 tags: []
 ---
 
-<img src="http://techteapot.com/wp-content/uploads/2007/10/paper-prototyping.jpg" alt="Paper Prototyping Book Cover" style="border-left: 4px solid white" align="right" />
+<img src="/image/uploads/2007/10/paper-prototyping.jpg" alt="Paper Prototyping Book Cover" style="border-left: 4px solid white" align="right" />
 
 One of the biggest problems when developing a system, be it software or a website, is getting the customer to visualise how your proposed solution is going to work.
 

@@ -5,7 +5,7 @@ categories: [General]
 tags: []
 ---
 
-<img src="http://techteapot.com/wp-content/uploads/2007/09/headhold.gif" alt="IT person regretting he agreed to fix somebody else's PC" align="right" style="border-left:solid 4px white" />
+<img src="/image/uploads/2007/09/headhold.gif" alt="IT person regretting he agreed to fix somebody else's PC" align="right" style="border-left:solid 4px white" />
 
 Every IT person I've ever met has at least one nightmare story about being roped into fixing somebody's home PC/network/broadband and everything going wrong.
 

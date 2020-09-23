@@ -5,7 +5,7 @@ categories: [General]
 tags: []
 ---
 
-<img src="http://techteapot.com/wp-content/uploads/2007/10/gltail-partial.gif" alt="Partial screenshot of glTail.rb in action" align="right" style="border-left:solid 4px white" />
+<img src="/image/uploads/2007/10/gltail-partial.gif" alt="Partial screenshot of glTail.rb in action" align="right" style="border-left:solid 4px white" />
 
 Hat tip to <a href="http://dougal.gunters.org/about-this-site">Dougal Campbell</a> over at <a href="http://dougal.gunters.org/">Geek Ramblings</a> for finding this.
 

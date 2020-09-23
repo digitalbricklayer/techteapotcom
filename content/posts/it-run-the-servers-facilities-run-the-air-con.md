@@ -5,7 +5,7 @@ categories: [General, "Data Center"]
 tags: []
 ---
 
-<img src="http://techteapot.com/wp-content/uploads/2007/10/thermometer.jpg" alt="An analog thermometer" style="border-left: 4px solid white" align="right" />
+<img src="/image/uploads/2007/10/thermometer.jpg" alt="An analog thermometer" style="border-left: 4px solid white" align="right" />
 
 Facilities running the air-con in a datacentre  has to be one of the classical IT <a href="http://en.wikipedia.org/wiki/Anti-pattern">anti-patterns</a>. You've got your nice shiny data centre, rows and rows of cabinets full to the brim with IT kit. Problem is, you don't run the air conditioning, the facilities people do.
 
