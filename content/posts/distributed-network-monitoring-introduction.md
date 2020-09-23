@@ -9,7 +9,7 @@ A number of mid-level network monitoring products, like <a href="http://www.what
 <h2>Single Poller Monitoring</h2>
 With regular network monitoring you have a single poller measuring network and server performance from a single location on your network.
 
-[caption id="attachment_595" align="aligncenter" width="400"]<a href="http://techteapot.com/wp-content/uploads/2008/09/central-polling.png"><img class="wp-image-595" title="central-polling" src="http://techteapot.com/wp-content/uploads/2008/09/central-polling.png" alt="Architecture of a central polling in a distributed network" width="400" height="429" /></a> Architecture of a central poller in a distributed network[/caption]
+{{< figure src="/image/uploads/2008/09/central-polling.png" width="400" height="429" title="Architecture of a central polling in a distributed network" alt="Architecture of a central polling in a distributed network" link="/image/uploads/2008/09/central-polling.png" >}}
 
 Single poller monitoring works well when the network is small or only has a single site. Every request is made from a single location to each of the resources being measured.
 
@@ -17,7 +17,7 @@ Whilst single poller network monitoring is well suited to single site performanc
 <h2>What is Distributed Network Monitoring</h2>
 Distributed network monitoring involves multiple pollers distributed around your network measuring performance from multiple locations on your network
 
-[caption id="attachment_594" align="aligncenter" width="440"]<a href="http://techteapot.com/wp-content/uploads/2008/09/distributed-polling.png"><img class="wp-image-594" title="distributed-polling" src="http://techteapot.com/wp-content/uploads/2008/09/distributed-polling.png" alt="Architecture of Distributed Polling in a Distributed Network" width="440" height="471" /></a> Architecture of Distributed Polling in a Distributed Network[/caption]
+{{< figure src="/image/uploads/2008/09/distributed-polling.png" width="400" height="429" title="Architecture of Distributed Polling in a Distributed Network" alt="Architecture of Distributed Polling in a Distributed Network" link="/image/uploads/2008/09/distributed-polling.png" >}}
 
 Multi-campus networks typically have WAN links interlinking the various sites. WAN links are usually much slower and more expensive than LAN links. By placing your network monitoring probe in a single central location you are inevitably going to send more traffic over your WAN links.
 

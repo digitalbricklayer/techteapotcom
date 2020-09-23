@@ -35,7 +35,7 @@ If you have a team of people, then using some kind of agile board is a great ide
 
 I've found the very minimal <a href="https://guides.github.com/features/issues/">GitHub Issue </a>tracker to be ideal. You can't spend a long time configuring it because there's very little to configure. You can create issues, label them and add your requirements in the issue text. You can organise your requirements into milestones. When you've completed all of the issues attached to a milestone, you're done. Move on to the next milestone.
 
-[caption id="attachment_3481" align="aligncenter" width="300"]<a href="http://techteapot.com/wp-content/uploads/2015/05/dyna-github-issue-tracker.png"><img class="size-medium wp-image-3481" src="http://techteapot.com/wp-content/uploads/2015/05/dyna-github-issue-tracker-300x152.png" alt="Dyna Issue Tracker" width="300" height="152" /></a> Dyna project issue tracker.[/caption]
+{{< figure src="/image/uploads/2015/05/dyna-github-issue-tracker.png" width="300" height="152" title="Dyna project issue tracker." alt="Dyna Issue Tracker" link="/image/uploads/2015/05/dyna-github-issue-tracker.png" >}}
 
 Make issues that take a small amount of time to complete. A single issue that takes many months to implement will prove hard to gauge progress. But, taking a large task and breaking it down into lots of smaller issues begins to give you some momentum. You'll feel like you're achieving something when you are continually marking issues as closed. If you feel like you're making progress, then you'll have momentum and are more likely to finish.
 <h2>Realistic Expectations</h2>

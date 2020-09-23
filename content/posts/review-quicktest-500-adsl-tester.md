@@ -5,7 +5,7 @@ categories: [General]
 tags: []
 ---
 
-[caption id="attachment_1644" align="alignright" width="215" caption="Front of the Vonaq Quicktest 500"]<em><em><a href="http://techteapot.com/wp-content/uploads/2010/02/quicktest-500.jpg"><img class="size-medium wp-image-1644" title="Quicktest 500" src="http://techteapot.com/wp-content/uploads/2010/02/quicktest-500-215x300.jpg" alt="Quicktest 500 Front Photo" width="215" height="300" /></a></em></em>[/caption]
+{{< figure src="/image/uploads/2010/02/quicktest-500.jpg" width="550" height="413" title="Front of the Vonaq Quicktest 500" alt="Quicktest 500 Front Photo" link="/image/uploads/2010/02/quicktest-500.jpg" >}}
 
 <em>Quicktest 500 is reviewed by Brendan Mulvaney of <a href="http://www.sentinel-is.com/">Sentinel Information Systems</a>. Brendan also blogs as <a href="http://www.secure-eserver.com/">Sentinel - the fix is out there</a>.
 </em>
@@ -24,7 +24,7 @@ As  in my case when testing, the indicators variously indicated  - pass /  fail 
 
 The  more expansive tests available after checking the line and service  status, all  relate to DNS / Ping  / FTP and HTTP tests, with a tracert  facility thrown in for good measure.
 
-I didn't get a chance to test  the IPTV and VOIP checking features but know that these will save me  time when diagnosing these more esoteric tests. The transfer of test  data  is facilitated through a usb connector on the unit and through a whizzy web interface when the unit is plugged in to a LAN via the inbuilt  ethernet connection.
+I didn't get a chance to test  the IPTV and VOIP checking features but know that these will save me  time when diagnosing these more esoteric tests. The transfer of test  data  is facilitated through a usb connector on the unit and through a whizzy web interface when the unit is plugged in to a LAN via the inbuilt ethernet connection.
 
 All in all the unit is pretty much on the  nose as to what an adsl tester should be - compact - sturdy - accurate -  fast and easy to use. The speed of the tests will encourage me to use  the unit to test when I'm on each site I visit  to ensure that the ADSL  service is performing as expected!!!  Definitely one for the toolkit!!  And I may have to disguise it since I think it will be coveted by other  engineers who see the power of it.
 

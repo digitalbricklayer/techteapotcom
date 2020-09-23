@@ -15,7 +15,8 @@ First up is a comparison of the major open source network management systems. <a
 
 <a href="http://www.zenoss.com/">Zenoss</a>, <a href="http://www.hyperic.com/">Hyperic</a> and <a href="http://www.opennms.org/">OpenNMS</a> are all doing well, retaining substantial levels of searches with Zenoss retaining its early lead.
 
-[caption id="attachment_1155" align="aligncenter" width="591"]<img class="size-full wp-image-1155" title="Open Source NMS Trend 2008" src="http://techteapot.com/wp-content/uploads/2009/01/open-source-nms-trend-2008.png" alt="Open Source Network Management System Trend 2008" width="591" height="328" /> Open Source Network Management System Trend 2008[/caption]
+{{< figure src="/image/uploads/2009/01/open-source-nms-trend-2008.png" width="591" height="328" title="Open Source NMS Trend 2008" alt="Open Source NMS Trend 2008" link="/image/uploads/2009/01/open-source-nms-trend-2008.png" >}}
+
 <h2>A Comparison of the Nagios Ecosystem</h2>
 Nagios is a significant open source project in and of itself. In addition, it also has an ecosystem of tools built on top of it as well. There are three main nagios core tools: <a href="http://www.groundworkopensource.com/">GroundWork Open Source</a>, <a href="http://www.centreon.com/">Centreon</a> and <a href="http://opsview.org/">OpsView</a>.
 
@@ -23,12 +24,14 @@ I haven't been able to use Groundwork Open Source because a comparison wouldn't 
 
 Configuration is one area Nagios is not very user friendly to new users, relying upon editing configuration files for changes. Both Centreon and OpsView provide an improved configuration experience, reducing or completely removing the need to directly edit configuration files. Surprisingly both Centreon and OpsView receive substantially fewer searches than Nagios.
 
-[caption id="attachment_1154" align="aligncenter" width="592"]<img class="size-full wp-image-1154" title="Nagios World 2008" src="http://techteapot.com/wp-content/uploads/2009/01/nagios-world-2008.png" alt="A Comparison of the Nagios Ecosystem 2008" width="592" height="326" /> A Comparison of the Nagios Ecosystem 2008[/caption]
+{{< figure src="/image/uploads/2009/01/nagios-world-2008.png" width="592" height="326" title="A Comparison of the Nagios Ecosystem 2008" alt="A Comparison of the Nagios Ecosystem 2008" link="/image/uploads/2009/01/nagios-world-2008.png" >}}
+
 <h2>Open vs Closed Network Management Systems</h2>
 A comparison between a representative sample of both open source and proprietary tools shows an interesting trend.
 
 Both NetIQ and OpenView are losing searches whilst the open tools are holding up well. Perhaps, money was tighter in 2008 due to the economic woes befalling many economies. OpenView has been particularly badly hit, being well down over the year as a whole.
 
-[caption id="attachment_1153" align="aligncenter" width="587"]<img class="size-full wp-image-1153" title="Open vs Closed Network Management Systems 2008" src="http://techteapot.com/wp-content/uploads/2009/01/open-vs-closed-nms-2008.png" alt="Open vs Closed Network Management Systems 2008" width="587" height="323" /> Open vs Closed Network Management Systems 2008[/caption]
+{{< figure src="/image/uploads/2009/01/open-vs-closed-nms-2008.png" width="587" height="323" title="Open vs Closed Network Management Systems 2008" alt="Open vs Closed Network Management Systems 2008" link="/image/uploads/2009/01/open-vs-closed-nms-2008.png" >}}
+
 <h2>Conclusion</h2>
 The open source network management tools search volume has held up very well throughout 2008. The same cannot be said for either proprietary tools, OpenView and NetIQ. Both of the proprietary tools have seen their search volume fall. A recession started during 2008 in many countries worldwide. So, that people are searching less for expensive software tools, maybe isn't that surprising. I doubt the Google Trends data could evidence a shift from proprietary to open source tools though, given the absence of an upshift in searches for open source tools.
