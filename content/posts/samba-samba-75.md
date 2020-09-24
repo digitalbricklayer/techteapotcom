@@ -9,4 +9,4 @@ More fun with <a href="http://www.openxtra.co.uk/products/sms-modems/index.html"
 
 Mind you the screen image of the phone that turns up is different.
 
-Installation instructions are <a href="http://techteapot.com/strictly-fun-dancing-with-the-falcom-samba-55/">here</a>.
+Installation instructions are <a href="{{< ref "posts/strictly-fun-dancing-with-the-falcom-samba-55.md" >}}">here</a>.

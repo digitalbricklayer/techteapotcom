@@ -13,7 +13,7 @@ From a development point of view, a good portion of the early part of the year w
 <h2>Hotspot SDK updates</h2>
 Nothing ground breaking on the Hotspot SDK front, but a series of small changes that makes the SDK more and more useful. We've added support for Senturion, converted the key component into a much more easily deployable form, ported to Microsoft Vista, added more samples and included PowerShell support.
 
-We've also recently introduced a <a href="http://www.openxtra.co.uk/downloads/hotspot-vista-sidebar-gadget.php">Vista desktop gadget</a> too. You can now see the Sensatronics temperature monitor readings live on your Vista desktop.
+We've also recently introduced a Vista desktop gadget too. You can now see the Sensatronics temperature monitor readings live on your Vista desktop.
 <h2>OWL fibre testers</h2>
 One of the nice things about 2007 has been the emergence of fibre. OWL have a great range of fibre testers from fibre specialists...fibre is what they do.
 
@@ -25,4 +25,4 @@ We've had the German Sensatronics site for several years. Thought that the rest 
 <h2>Blog highlights</h2>
 When I did the review of 2006 the blog was just over a month old. The blog recently celebrated its first birthday. I must confess that the blog has been a steep learning curve. One of the problems with a blog is that, whilst it might look easy from the outside, it isn't easy to do well.
 
-The <a href="http://techteapot.com/category/open-source/">open source</a> posts seem to have been well received. The most trafficed post was about <a href="http://techteapot.com/paper-prototyping-its-best-kept-secret/">paper prototyping</a>!
+The <a href="/categories/open-source/">open source</a> posts seem to have been well received. The most trafficed post was about <a href="{{< ref "/posts/paper-prototyping-its-best-kept-secret.md" >}}">paper prototyping</a>!

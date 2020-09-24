@@ -5,7 +5,7 @@ categories: [General]
 tags: []
 ---
 
-I was researching a follow up to <a href="http://techteapot.com/how-will-cloud-computing-change-network-management/">how will cloud computing change network management</a> post and I came across something rather odd I'd like to share with you.
+I was researching a follow up to <a href="{{< ref "posts/how-will-cloud-computing-change-network-management.md" >}}">how will cloud computing change network management</a> post and I came across something rather odd I'd like to share with you.
 
 Below are a series of graphs culled from Google Trends showing the relative search levels of various network management related keywords.
 

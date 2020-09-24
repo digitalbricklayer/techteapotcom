@@ -5,7 +5,7 @@ categories: ["Network Management", "Open Source"]
 tags: [Hyperic, Zenoss, "Groundwork Open Source"]
 ---
 
-One of the odd things <a href="http://techteapot.com/network-managements-new-wave/">about the three new wave players</a> is that, of the three, only one (<a href="http://www.hyperic.com/">Hyperic</a>) supports Windows natively.
+One of the odd things <a href="{{< ref "posts/network-managements-new-wave.md" >}}">about the three new wave players</a> is that, of the three, only one (<a href="http://www.hyperic.com/">Hyperic</a>) supports Windows natively.
 
 The lack of native Windows support in the other two (<a href="http://www.zenoss.org/">Zenoss</a>/<a href="http://www.groundworkopensource.com/">Groundwork</a>) seems like quite an oversight. It will be interesting to see whether the lack of native Windows support hinders their adoption. I'd be surprised if it doesn't.
 

@@ -5,7 +5,7 @@ categories: ["Network Management", "Open Source"]
 tags: [Zenoss, Hyperic, "Groundwork Open Source"]
 ---
 
-<a href="http://www.google.com/trends">Google Trends</a> is an on-line service for comparing the search volumes for up to five keywords. I thought it would be interesting to compare the relative buzz of the <a href="http://techteapot.com/network-managements-new-wave/">"<strong>new wave</strong>" open source network management players</a> between themselves, but also between other open source projects and commercial products.
+<a href="http://www.google.com/trends">Google Trends</a> is an on-line service for comparing the search volumes for up to five keywords. I thought it would be interesting to compare the relative buzz of the <a href="{{< ref "posts/network-managements-new-wave.md" >}}">"<strong>new wave</strong>" open source network management players</a> between themselves, but also between other open source projects and commercial products.
 
 Google Trends doesn't supply the search volumes themselves, so no quantitative data will be presented. The data that is presented is solely comparative. You can see, over time, which keywords are being searched for the most. Please note: you cannot infer any intent from the search volume. The searchers may be looking for general product information, installation notes or just about anything else. I have assumed that the search patterns are the same between the various projects/products.
 

@@ -5,7 +5,7 @@ categories: [General]
 tags: ["CMS", drupal]
 ---
 
-I blogged about <a href="http://techteapot.com/selecting-a-content-management-system/">choosing a content management system</a> and we've finally managed to deploy the resulting system. It would be fair to say that choosing a content management system is a nightmare. And, anybody else's experience probably won't help you very much unless you share the same set of requirements.
+I blogged about <a href="{{< ref "posts/selecting-a-content-management-system.md" >}}">choosing a content management system</a> and we've finally managed to deploy the resulting system. It would be fair to say that choosing a content management system is a nightmare. And, anybody else's experience probably won't help you very much unless you share the same set of requirements.
 
 Our requirement was largely shaped by the e-commerce system we run on our main website. It is a big blob of a <a href="http://www.java.com/">Java </a>system running under <a href="http://www.jboss.org/">JBoss</a> all front ended by Apache.
 

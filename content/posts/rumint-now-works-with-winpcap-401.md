@@ -5,4 +5,4 @@ categories: [General]
 tags: [Rumint]
 ---
 
-Greg Conti has released a new version of <a href="http://www.rumint.org/">rumint</a> that now works with <a href="http://www.winpcap.org/">WinPcap</a> 4.0.1. If you <a href="http://techteapot.com/packet-visualization-with-rumint/">tried rumint before and had problems</a>, I suggest you give it another go.
+Greg Conti has released a new version of <a href="http://www.rumint.org/">rumint</a> that now works with <a href="http://www.winpcap.org/">WinPcap</a> 4.0.1. If you <a href="{{< ref "posts/packet-visualization-with-rumint.md" >}}">tried rumint before and had problems</a>, I suggest you give it another go.

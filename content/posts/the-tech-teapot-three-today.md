@@ -9,10 +9,10 @@ tags: []
 
 A selection of my favourite posts from the last year:
 <ul>
- 	<li><a title="Permanent Link to Open source network management buzz comparison 2008" href="http://techteapot.com/open-source-network-management-buzz-comparison-2008/" rel="bookmark">Open source network management buzz comparison 2008</a></li>
- 	<li><a title="Permanent Link to Tivoli vs open source network management buzz 2008" href="http://techteapot.com/tivoli-vs-open-source-network-management-buzz-2008/" rel="bookmark">Tivoli vs open source network management buzz 2008</a></li>
- 	<li><a title="Permanent Link to Open source network management activity comparison" href="http://techteapot.com/open-source-network-management-activity-comparison/" rel="bookmark">Open source network management activity comparison</a></li>
- 	<li><a title="Permanent Link: Vendor bloggers in Network Management; or" href="http://techteapot.com/vendor-bloggers-in-network-management/" rel="bookmark">Vendor bloggers in Network Management; or</a></li>
+ 	<li><a title="Permanent Link to Open source network management buzz comparison 2008" href="{{< ref "posts/open-source-network-management-buzz-comparison-2008.md" >}}" rel="bookmark">Open source network management buzz comparison 2008</a></li>
+ 	<li><a title="Permanent Link to Tivoli vs open source network management buzz 2008" href="{{< ref "posts/tivoli-vs-open-source-network-management-buzz-2008.md" >}}" rel="bookmark">Tivoli vs open source network management buzz 2008</a></li>
+ 	<li><a title="Permanent Link to Open source network management activity comparison" href="{{< ref "posts/open-source-network-management-activity-comparison.md" >}}" rel="bookmark">Open source network management activity comparison</a></li>
+ 	<li><a title="Permanent Link: Vendor bloggers in Network Management; or" href="{{ ref "posts/vendor-bloggers-in-network-management.md" >}}" rel="bookmark">Vendor bloggers in Network Management; or</a></li>
 </ul>
 It has been a thin blogging year, mainly because my time has been squeezed by a combination of my regular work and TimeTag.
 

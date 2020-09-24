@@ -17,9 +17,9 @@ A relational database does not need to run on the same server as Zope, you can r
 
 Zope's native database format limits how scalable Zope can be, which in turn limits how scalable Zenoss can be.
 <h2>A bit more background</h2>
-Way back in 2010 <a href="http://techteapot.com/a-real-world-example-of-the-problems-with-open-core-software/">myself</a> and <a href="http://www.adventuresinoss.com/?p=1523">others</a> suggested that an open core strategy would lead to some <a href="http://techteapot.com/an-exploration-of-open-core-licensing-in-network-management/">difficult decisions about which features</a> go into the open source product and the closed enterprise product.
+Way back in 2010 <a href="{{< ref "posts/a-real-world-example-of-the-problems-with-open-core-software.md">}}">myself</a> and <a href="http://www.adventuresinoss.com/?p=1523">others</a> suggested that an open core strategy would lead to some <a href="{{< ref "posts/an-exploration-of-open-core-licensing-in-network-management.md" >}}">difficult decisions about which features</a> go into the open source product and the closed enterprise product.
 
-I suggested that a feature ceiling could be reached in the open source product and <a href="http://techteapot.com/musings-upon-the-open-core-functionality-ceiling/">offered some modest proof</a> that it existed.
+I suggested that a feature ceiling could be reached in the open source product and <a href="{{< ref "posts/musings-upon-the-open-core-functionality-ceiling.md" >}}">offered some modest proof</a> that it existed.
 <h2>The ceiling fell in... a bit</h2>
 Phew, now we've got the introductions over, what the heck has all of the above got to do with open core software and lowering the functionality ceiling?
 

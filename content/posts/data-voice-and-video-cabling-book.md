@@ -9,7 +9,7 @@ tags: []
 
 If you are involved in installing data, voice or video cabling then you won't be disappointed by <a href="http://www.jimhayes.com/writings/dvvc.htm">Data, Voice, and Video Cabling</a> by Jim Hayes and Paul Rosenberg.
 
-Jim Hayes, as <a href="http://techteapot.com/great-cabling-resourcefill-yer-boots/">we've recommended before</a>, also has a <a href="http://www.jimhayes.com/vdvacademy/instructors.html">couple of online tutorials</a> available. Well worth a look!
+Jim Hayes, as <a href="{{< ref "posts/great-cabling-resourcefill-yer-boots.md" >}}">we've recommended before</a>, also has a <a href="http://www.jimhayes.com/vdvacademy/instructors.html">couple of online tutorials</a> available. Well worth a look!
 
 The book gives a nice overview of the various technologies involved as well as more practical chapters on wiring installation, testing and termination. The book covers both copper and fibre cabling too.
 

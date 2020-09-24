@@ -5,7 +5,7 @@ categories: [General]
 tags: [cisco]
 ---
 
-As we have mentioned in a previous post, our <a href="http://techteapot.com/installation-woes-in-networking-land/">recent purchase of a Cisco router</a> has not been entirely a happy one.
+As we have mentioned in a previous post, our <a href="{{< ref "posts/installation-woes-in-networking-land.md" >}}">recent purchase of a Cisco router</a> has not been entirely a happy one.
 
 To rub insult into injury, even when I switched it off it still caused us downtime :(
 

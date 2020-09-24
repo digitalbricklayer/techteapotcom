@@ -7,7 +7,7 @@ tags: []
 
 How time flies.
 
-It has been six years since I wrote about <a href="http://techteapot.com/network-managements-new-wave/">Network management's "new wave"</a> and thought it would be interesting to go back and see what has happened. We are now at the outer envelope of the VC funding cycle so things should be sorting themselves out one way or another.
+It has been six years since I wrote about <a href="{{< ref "posts/network-managements-new-wave.md" >}}">Network management's "new wave"</a> and thought it would be interesting to go back and see what has happened. We are now at the outer envelope of the VC funding cycle so things should be sorting themselves out one way or another.
 
 The "<em>new wave</em>" was <a href="http://www.hyperic.com/">Hyperic</a>,<a href="http://www.zenoss.com/"> Zenoss</a> and <a href="http://www.gwos.com/">Groundwork Open Source</a> VC funded, open source network management companies.
 
@@ -29,7 +29,7 @@ Looks like Groundwork isn't that open. Groundwork Monitor Core product is restri
 
 The open source moniker has gone. Hard to tell that, say Zenoss for instance, is actually open source by looking at their home page. If you were an alien just off the mother ship and only had the home page to look at, you wouldn't know that the core product is open source.
 <h2>Effects upon closed source competitors</h2>
-I suggested that the "<em>new wave</em>" would <a href="http://techteapot.com/new-wave-challenging-the-big-4/">have the effect of opening up the "big 4"</a>. I can see no evidence of this at all. I also thought that the "big 4" would be good candidates to buy the "new wave" and that hasn't happened either.
+I suggested that the "<em>new wave</em>" would <a href="{{< ref "posts/new-wave-challenging-the-big-4.md" >}}">have the effect of opening up the "big 4"</a>. I can see no evidence of this at all. I also thought that the "big 4" would be good candidates to buy the "new wave" and that hasn't happened either.
 <h2>Effects upon consumers</h2>
 The one big winner has been users. Open source network management software ten years ago could be hard work with no proper packaging and woeful documentation. Now, there are some really nice options that are much easier to work with. There are also large communities as well to offer support and guidance where necessary.
 <h2>Conclusion</h2>

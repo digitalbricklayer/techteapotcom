@@ -5,7 +5,7 @@ categories: ["Network Management", "Open Source"]
 tags: []
 ---
 
-There does seem to be a lot of heat in whether or not the <a href="http://techteapot.com/network-managements-new-wave/">new wave open source systems management players</a> are going to take on the Big 4 (IBM, CA, BMC &amp; HP). You can get more info <a href="http://web.archive.org/web/20080410055547/http://blogs.zdnet.com:80/BTL/?p=5815">here</a> and <a href="http://web.archive.org/web/20080417014830/http://blogs.zdnet.com:80/open-source/?p=1269">here</a>.
+There does seem to be a lot of heat in whether or not the <a href="{{< ref "posts/network-managements-new-wave.md" >}}">new wave open source systems management players</a> are going to take on the Big 4 (IBM, CA, BMC &amp; HP). You can get more info <a href="http://web.archive.org/web/20080410055547/http://blogs.zdnet.com:80/BTL/?p=5815">here</a> and <a href="http://web.archive.org/web/20080417014830/http://blogs.zdnet.com:80/open-source/?p=1269">here</a>.
 
 If the <em>new wave</em> do end up undercutting the Big 4, won't the Big 4 just buy the new wave companies?
 
