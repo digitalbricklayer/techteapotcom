@@ -3,8 +3,8 @@ main:                                       #    - Name of the menu
     name: Home
     url: /
     weight: 1
-  - identifier: posts
-    name: Posts
+  - identifier: blog
+    name: Blog
     url: /posts/
     weight: 2
   - identifier: contact
@@ -13,7 +13,7 @@ main:                                       #    - Name of the menu
     weight: 3
   - identifier: about
     name: About
-    url: /about
+    url: /about/
     weight: 4
   - identifier: subscribe
     name: Subscribe
