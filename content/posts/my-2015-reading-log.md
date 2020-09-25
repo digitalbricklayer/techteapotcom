@@ -23,23 +23,23 @@ Gary Johnson: <strong>Brightly Shone The Dawn: Some Experiences Of The Invasion 
 
 <span style="color: #ff0000;">May</span>
 
-Robert Llewellyn: <strong>News from the Clouds</strong> (Fiction)<strong>
-</strong>
+Robert Llewellyn: <strong>News from the Clouds</strong> (Fiction)
 
-Claire North: <strong>The First Fifteen Lives of Harry August</strong> (Fiction)<strong>
-</strong>
+Claire North: <strong>The First Fifteen Lives of Harry August</strong> (Fiction)
 
 Stephen Baxter: <strong>Proxima</strong> (Fiction)
 
 <span style="color: #ff0000;">June</span>
-<span style="color: #ff0000;"> July</span>
+
+<span style="color: #ff0000;">July</span>
 
 Max Arthur: <strong>The Silent Day: A Landmark Oral History of D-Day on the Home Front</strong> (Non-Fiction)
 
 Ernest Cline: <strong>Ready Player One</strong> (Fiction)
 
 <span style="color: #ff0000;">August</span>
-<span style="color: #ff0000;"> September</span>
+
+<span style="color: #ff0000;">September</span>
 
 James Blish: <strong>A Case of Conscience</strong> (Fiction)
 
@@ -51,7 +51,7 @@ David Nobbs: <strong>The Fall and Rise of Reginald Perrin</strong> (Fiction)
 
 M.R. Carey: <strong>The Girl with All the Gifts</strong> (Fiction)
 
-Randy Henderson: <strong>Finn Fancy Necromancy </strong>(Fiction)
+Randy Henderson: <strong>Finn Fancy Necromancy</strong> (Fiction)
 
 <span style="color: #ff0000;">November</span>
 

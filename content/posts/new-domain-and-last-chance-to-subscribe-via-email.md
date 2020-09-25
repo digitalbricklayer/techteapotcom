@@ -13,6 +13,6 @@ Sorry about that, but fear not, you can <a href="{{< ref "subscribe.md" >}}">sig
 
 P.S. The more observant may have noticed the change of domain, I've owned the domain for a while and thought it about time the blog was moved onto its very own domain. Hope you like it.
 
-P.P.S. <del>Feed subscribers will also need to update the feed URL to <strong>{{.Site.BaseURL}}/feed/</strong></del>
+P.P.S. <del>Feed subscribers will also need to update the feed URL to <strong><a href="{{< ref "/" >}}index.xml">here</a></strong></del>
 
 <strong>Update 5 March 2015</strong>: turns out that when you delete your feed in Feedburner you are given the option to redirect the Feedburner feed back to the original feed. So, if you're subscribed to the feed through your feed reader, you will <strong>not</strong> need to change anything in order to continue receiving new updates :)
