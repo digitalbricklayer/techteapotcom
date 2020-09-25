@@ -1,2 +1,6 @@
 User-agent: *
 Disallow: /
+
+# Allow the linkchecker tool to access the website
+User-Agent: LinkChecker
+Allow: /
