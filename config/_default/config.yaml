@@ -3,6 +3,7 @@ languageCode: "en-gb"
 title: "The Tech Teapot"
 theme: "ananke"
 #theme: "eclectic"
+#theme: "introduction"
 enableEmoji: true
 taxonomies:
   category: categories
