@@ -3,3 +3,5 @@
 
 # Emacs backup files
 *~
+/static/image/galleries/**/*-thumb.jpg
+/static/image/galleries/**/*-thumb.png

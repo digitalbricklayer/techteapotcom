@@ -9,4 +9,4 @@ A series of box opening photos of the newly released <a href="http://www.openxtr
 
 The new model is higher powered, supports Wi-Fi, live charts display the value of WH (Watt per hour), current amp , voltage &amp; temperature and the LCD display shows temperature, voltage, IP address and current for each port.
 
-[gallery ids="2917,2919,2920,2911,2915,2913,2912"]
+{{< foldergallery src="image/galleries/aviosys-ip-power-9820-box-opening/" >}}

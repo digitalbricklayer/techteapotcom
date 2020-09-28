@@ -7,7 +7,7 @@ tags: []
 
 I was clearing out my old bedroom after many years nagging by my parents when I came across two of my old floppy disk boxes. Contained within is a small snapshot of my personal computing starting from 1990 through until late 1992. Everything before and after those dates doesn't survive I'm afraid.
 
-[gallery columns="2" ids="2984,2985,2986,2987"]
+{{< foldergallery src="image/galleries/software-old-fashioned-way/" >}}
 
 The archive contains loads of backups of work I produced, <a href="https://github.com/digitalbricklayer">now stored on Github,</a> as well as public domain / shareware software, magazine cover disks and commercial software I purchased. Yes, people used to actually buy software. With real money. A PC game back in the late 1980s cost around £50 in 1980s money. According to this <a href="http://www.thisismoney.co.uk/money/bills/article-1633409/Historic-inflation-calculator-value-money-changed-1900.html">historic inflation calculator</a>, that would be £117 now. Pretty close to a week's salary for me at the time.
 
