@@ -11,7 +11,7 @@ I don't mean that the tools were not available previously. Both Smalltalk and LI
 
 I spent the early 1990s giving most of my money to software development tool companies of one flavour or another.
 
-{{< foldergallery src="image/galleries/early-1990s-software-development-tools/" >}}
+{{< foldergallery src="images/galleries/early-1990s-software-development-tools/" >}}
 
 <a href="http://en.wikipedia.org/wiki/Actor_%28programming_language%29">Actor</a> was a combination of object oriented language and programming environment for very early versions of Microsoft Windows. There is a <a href="http://books.google.co.uk/books?id=LjwEAAAAMBAJ&amp;pg=PT86">review in Info World magazine of Actor version 3</a> that makes interesting reading. It was somewhat similar to Smalltalk, but rather more practical for building distributable programs. Unlike Smalltalk, it was not cross platform but on the plus side, programs did look like native Windows programs. It was very much ahead of its time in terms of both the language and the programming environment and ran on pretty modest hardware.
 

@@ -9,4 +9,4 @@ A series of box opening photos of the new <a href="http://www.openxtra.co.uk/p/a
 
 The new model supports WiFi (802.11n-b/g and WPS for easy WiFi setup), auto reboot on ping failure, time of day scheduler and internal temperature sensor. Aviosys have also built apps for iOS and Android, so you can now manage your power switch on the move. Together with the 8 port <a href="{{< ref "posts/aviosys-9820-box-opening.md" >}}">Aviosys IP Power 9820</a> they provide very handy tools for remote power management of devices. Say goodbye to travelling to a remote site just to reboot a broadband router.
 
-{{< foldergallery src="image/galleries/aviosys-ip-power-9858-box-opening/" >}}
+{{< foldergallery src="images/galleries/aviosys-ip-power-9858-box-opening/" >}}

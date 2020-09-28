@@ -9,4 +9,4 @@ Great find by <a href="http://www.knowing.net/">Larry O'Brien</a>, a game to pla
 
 I just can't imagine springing out of bed on a morning to go program a urinal game. They must have had industrial quantities of water around for the developers to drink!
 
-{{< figure src="/image/uploads/2007/08/piss-screen.jpg" width="300" height="201" align="right" alt="Urinal game in action" title="Urinal game in action" >}}
+{{< figure src="/images/uploads/2007/08/piss-screen.jpg" width="300" height="201" align="right" alt="Urinal game in action" title="Urinal game in action" >}}

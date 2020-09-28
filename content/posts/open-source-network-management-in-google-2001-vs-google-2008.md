@@ -7,7 +7,7 @@ tags: []
 
 Google have released a fully searchable version of their first available index from 2001 to celebrate their 10th birthday. I thought it would be interesting to compare and contrast a search for "<strong><em>open source network management</em></strong>" using the 2001 index and the <a href="http://www.google.com/search?q=open+source+network+management&amp;ie=utf-8&amp;oe=utf-8&amp;aq=t&amp;rls=org.mozilla:en-GB:official&amp;client=firefox-a">current index</a>.
 
-{{< foldergallery src="image/galleries/open-source-network-management-in-google/" >}}
+{{< foldergallery src="images/galleries/open-source-network-management-in-google/" >}}
 
 The first thing that springs out are all of the adverts in the 2008 version. My guestimate is that you're going to be bidding well north of $5 per click for the top spot on there.
 

@@ -5,4 +5,4 @@ categories: ["Off Topic"]
 tags: []
 ---
 
-{{< foldergallery src="image/galleries/otley-on-a-snowy-day/" >}}
+{{< foldergallery src="images/galleries/otley-on-a-snowy-day/" >}}

@@ -25,4 +25,4 @@ An easy way to increase your available bandwidth would be to check for other net
 
 As for the NT1155 Validator it could hardly be easier to use for wireless detection, just select the menu option, let it scan and watch the networks appear. Press the Save button to record the results onto an external USB memory stick in CSV format. It's a very useful addition to the Validator for those installing and maintaining networks.
 
-{{< figure src="/image/uploads/2010/01/wifi-scan.png" width="300" height="169" title="Wi-Fi Scan Result in Excel" alt="Wi-Fi Scan Result in Excel" link="/image/uploads/2010/01/wifi-scan.png" >}}
+{{< figure src="/images/uploads/2010/01/wifi-scan.png" width="300" height="169" title="Wi-Fi Scan Result in Excel" alt="Wi-Fi Scan Result in Excel" link="/image/uploads/2010/01/wifi-scan.png" >}}

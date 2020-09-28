@@ -5,7 +5,7 @@ categories: ["Open Source", "Protocol Analysis", Wireless]
 tags: ["packet capture", wireless]
 ---
 
-{{< figure src="/image/uploads/2007/09/wireshark_ampdu_big.png" alt="Airpcap capture" >}}
+{{< figure src="/images/uploads/2007/09/wireshark_ampdu_big.png" alt="Airpcap capture" >}}
 
 Tools like the Test-Um Wi-Net are great for trouble shooting wireless networks. But, Wi-Net falls a long way short of giving you real technical insight into your wireless network. What do you do if you need more? Say, you need to capture packets and the like.
 

@@ -9,10 +9,10 @@ footer:
   - title: Contact Us
     contact: true
 style: green
-logo: /image/logo.png
-logo_small: /image/logo.png
+logo: /images/logo.png
+logo_small: /images/logo.png
 about_us: This site is the digital home of Jack Hughes. He is a professional software developer specialising in the .NET stack. He currently works for [OPENXTRA Ltd](https://www.openxtra.co.uk/)...
 #recent_posts:
 #  enable: true
 # ananke specific property
-featured_image: "/image/cropped-14889914_10154725381259540_7668554272423940695_o-3.jpg"
+featured_image: "/images/cropped-14889914_10154725381259540_7668554272423940695_o-3.jpg"

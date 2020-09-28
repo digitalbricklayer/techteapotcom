@@ -9,4 +9,4 @@ tags: ["AVTECH Software"]
 
 The new monitor will connect easily to the <a href="https://gotomydevices.com/">GoToMyDevices</a> cloud service. Just configure the unit with your wireless network details, and the monitor will start uploading your sensor readings to your private data store in the cloud. You can of course switch off the cloud offering if you don't want it. You can also use your existing on premise Device ManageR to centralise your data collection and alarming.
 
-{{< foldergallery src="image/galleries/new-avtech-room-alert-3w-box-opening/" >}}
+{{< foldergallery src="images/galleries/new-avtech-room-alert-3w-box-opening/" >}}

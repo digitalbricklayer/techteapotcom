@@ -7,7 +7,7 @@ tags: []
 
 One of the great discoveries I made whilst writing this blog has been the ease with which I can create posts using Wordpress as the content management system (CMS). It started good and it just keeps on getting better.
 
-{{< foldergallery src="image/galleries/selecting-content-management-system/" >}}
+{{< foldergallery src="images/galleries/selecting-content-management-system/" >}}
 
 I'd love to be able to update content on the rest of the site just as easily. Unfortunately, as things stand at the moment, updating the site means wading waste deep in PHP. All changes to the website need to go through either myself or Dean, slowing things down considerably.
 

@@ -15,7 +15,7 @@ Just one unit test in the <a href="https://github.com/openxtra/TimeTag/blob/334b
 
 Problem...how do I fix the problem?
 
-{{< foldergallery src="image/galleries/dotnet-performance-tuning/" >}}
+{{< foldergallery src="images/galleries/dotnet-performance-tuning/" >}}
 
 One thing I know for sure is that you don't optimise code without a way to find out exactly where the time is being spent. Fortunately, I have a trial of <a href="http://www.jetbrains.com/profiler/">JetBrains dotTrace</a> on hand. Of the tools I've tried this is by far the easiest I've used. No special builds nothing. I just launch  <a href="http://www.nunit.org/">NUnit</a> from dotTrace with a debug version of the PowerTime test DLL auto-loading and it just works.
 

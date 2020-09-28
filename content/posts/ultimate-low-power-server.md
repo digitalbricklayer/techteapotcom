@@ -9,6 +9,6 @@ Want a home server but don't want the electric bills that come from leaving a hi
 
 The <a href="http://www.fit-pc.com/">fit-PC</a> is a miniature, noiseless, extremely power efficient PC capable of running either Windows XP or Linux. And there's built in WiFi too.
 
-{{< foldergallery src="image/galleries/ultimate-low-power-server/" >}}
+{{< foldergallery src="images/galleries/ultimate-low-power-server/" >}}
 
 Make a great small, inexpensive network management server too! :)
