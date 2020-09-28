@@ -1,4 +1,5 @@
 #!/bin/sh
+# Run the script from the root of the hugo site
 # Script requires imagemagick
 if ! [ -x "$(command -v convert)" ]; then
     echo "Error: imagemagick is not installed"
