@@ -1,7 +1,7 @@
 ---
 title: "Where is Java's CPAN?"
 date: "2008-02-15T11:17:38+00:00"
-categories: [Gen]
+categories: [General]
 tags: []
 ---
 
