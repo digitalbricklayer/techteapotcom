@@ -2,8 +2,7 @@
 title: "Open source network management comparison: Platform"
 date: "2008-06-19T09:00:14+00:00"
 categories: ["Network Management", "Open Source"]
-tags: [nagios, Zenoss, Zabbix, "OpenNMS",]
-
+tags: [nagios, Zenoss, Zabbix, "OpenNMS"]
 ---
 
 <table class="attribute-tbl" border="0">

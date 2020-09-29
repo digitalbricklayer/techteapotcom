@@ -2,8 +2,7 @@
 title: "Open source network management comparison: Introduction"
 date: "2008-07-17T12:44:59+00:00"
 categories: ["Network Management", "Open Source"]
-tags: [nagios, Zenoss, Zabbix, "OpenNMS",]
-series: ["Open Source Network Management Comparison"]
+tags: [nagios, Zenoss, Zabbix, "OpenNMS"]
 ---
 
 One side effect of the <a href="{{< ref "posts/network-managements-new-wave.md" >}}">increased competition in open source network management</a> is that it is becoming increasingly hard to choose which tool is right for you.
