@@ -1,12 +1,10 @@
 baseURL: "http://techteapot.com/"
 languageCode: "en-gb"
 title: "The Tech Teapot"
-#theme: "ananke"
-#theme: "eclectic"
-#theme: "introduction"
 theme: "mainroad"
 enableEmoji: true
 taxonomies:
   category: categories
   tag: tags
-  series: series
+disqusShortname: "" # Enable Disqus comments by entering your Disqus shortname
+googleAnalytics: "" # Enable Google Analytics by entering your tracking id

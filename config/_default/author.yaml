@@ -1,7 +1,4 @@
-#facebook: "https://facebook.com/example"
-#twitter: "https://twitter.com/example"
 email: "jack@techteapot.com"
 name: "Jack Hughes"
-#location: New York
-#phone: (999) 999-9999
-#hours: "**Mon-Fri:** 9:00AM - 6:00PM, ET"
+bio: "An experienced software engineer with 20+ years experience writing products for Microsoft Windows based operating systems as well as 12+ years experience hosting websites on Linux and Windows including e-commerce and CMS systems."
+avatar: "images/uploads/2007/06/jack.jpg"
