@@ -20,7 +20,7 @@ sidebar:
   list: "left"  # Configure layout for list pages
   single: false # Configure layout for single pages
   # Enable widgets in given order
-  widgets: ["authorbio", "authorstackoverflow", "recent", "categories", "taglist"]
+  widgets: ["authorbio", "authorstackoverflow", "recent", "categories", "links", "taglist"]
 
 widgets:
   recent_num: 5 # Set the number of articles in the "Recent articles" widget
