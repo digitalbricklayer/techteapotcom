@@ -7,7 +7,7 @@ tags: []
 
 We're in the process of producing a bunch of videos explaining the features on some of our more specialised products...what am I saying? They're all specialised!
 
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="src" value="http://www.youtube.com/v/aPkpIJy1vFY&amp;hl=en&amp;fs=1" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/aPkpIJy1vFY&amp;hl=en&amp;fs=1" allowfullscreen="true"></embed></object>
+{{< youtube aPkpIJy1vFY >}}
 
 There are a lot of concepts in the cabling world that many IT workers haven't come across before. We're determined to make it as easy as possible for them to learn the dark secrets of cable testing and cable locating.
 

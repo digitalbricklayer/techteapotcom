@@ -39,13 +39,15 @@ In addition, a continuity tester is also capable of simple cable testing ensurin
 
 Most continuity testers have a tone generator built in, so, with the addition of a tone tracer, can be used for tone tracing as well. Using the built in tone generator on a continuity tester can save you from carrying around a tool, saving you space and weight in your kit bag.
 
-<iframe src="http://www.youtube.com/embed/aPkpIJy1vFY" width="420" height="315" frameborder="0"></iframe>
+{{< youtube aPkpIJy1vFY >}}
+
 <h2>Hub Blink</h2>
 Most modern hubs and switches have activity lights for each port indicating the traffic level and status. A recent addition to many cable testers and outlet identifiers has been the ability to blink the lights on a port. This feature is called hub blink.
 
 Of course, this feature is only useful if the cables you wish to locate are connected to a live network. Hub blink is completely useless if you are trying to locate bare wire cables or before the network infrastructure has been installed.
 
-<iframe src="http://www.youtube.com/embed/wRgWlJjOR7Q" width="420" height="315" frameborder="0"></iframe>
+{{< youtube wRgWlJjOR7Q >}}
+
 <h2>Conclusion</h2>
 Which technology you find a best fit is largely dictated by a few factors like how many cables you need to track and whether the cables are live.
 

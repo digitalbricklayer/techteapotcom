@@ -9,13 +9,13 @@ Hat tip to the <a href="http://www.elasticpath.com/">Elastic Path</a> folks for 
 
 If you want a simple introduction to all of the new social media buzz flying around at the moment, I strongly recommend you check out these short tutorial videos by <a href="http://leelefever.tumblr.com/">Lee Lefever</a> at <a href="http://www.commoncraft.com/">Common Craft</a>.
 
-<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/x66lV7GOcNU"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/x66lV7GOcNU" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object><br />Social Bookmarking in Plain English
+{{< youtube x66lV7GOcNU >}}
 
-<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/0klgLsSxGsU"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/0klgLsSxGsU" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object><br />RSS in Plain English
+{{< youtube 0klgLsSxGsU >}}
 
-<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/-dnL00TdmLY"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/-dnL00TdmLY" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object><br />Wikis in Plain English
+{{< youtube -dnL00TdmLY >}}
 
-<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/6a_KF7TYKVc"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/6a_KF7TYKVc" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object><br />Social Networking in Plain English
+{{< youtube 6a_KF7TYKVc >}}
 
 A lot of you may already be familiar with social media. If you're not, then I recommend you check out the videos. Social bookmarking  &amp; <a href="http://en.wikipedia.org/wiki/RSS_(file_format)">RSS</a> are great time savers, especially when you work on more than one computer.
 
