@@ -26,4 +26,6 @@ widgets:
   tags_counter: false # Enable counter for each tag in "Tags" widget
 
 authorbox: true # Show authorbox at bottom of pages if true
-customJS = ["https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.4.0/jquery.fancybox.min.js"] # Used by gallery shortcode
+
+# Used by gallery shortcode
+customJS: ["https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.4.0/jquery.fancybox.min.js"]
