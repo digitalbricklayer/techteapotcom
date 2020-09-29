@@ -1,6 +1,7 @@
 color: "#71B180"
 copyright: "Copyright © 2006-2020 Jack Hughes. All Rights Reserved."
 about_us: This site is the digital home of Jack Hughes. He is a professional software developer specialising in the .NET stack. He currently works for [OPENXTRA Ltd](https://www.openxtra.co.uk/)...
+
 style:
   vars:
     highlightColor: "#e22d30" # Override highlight color
@@ -29,3 +30,7 @@ authorbox: true # Show authorbox at bottom of pages if true
 
 # Used by gallery shortcode
 customJS: ["https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.4.0/jquery.fancybox.min.js"]
+
+# Order of post meta information
+post_meta: ["author", "date", "categories", "translations"]
+dateformat: "2006-01-02"
