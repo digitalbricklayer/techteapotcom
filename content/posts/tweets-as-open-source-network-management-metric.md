@@ -9,7 +9,7 @@ The folks over at <a href="http://www.tweetvolume.com/">TweetVOLUME</a> have pro
 
 I thought that it would be an interesting, though not especially significant, metric for comparing open source projects.
 
-<a href="/image/uploads/2008/03/twitter-volume-ossnms-comparison.JPG" title="twitter-volume-ossnms-comparison.JPG"><img src="/image/uploads/2008/03/twitter-volume-ossnms-comparison.JPG" alt="twitter-volume-ossnms-comparison.JPG" /></a>
+<a href="/images/uploads/2008/03/twitter-volume-ossnms-comparison.JPG" title="twitter-volume-ossnms-comparison.JPG"><img src="/image/uploads/2008/03/twitter-volume-ossnms-comparison.JPG" alt="twitter-volume-ossnms-comparison.JPG" /></a>
 
 The graph above shows the number of twits in which <a href="http://www.zenoss.org/">Zenoss</a>, <a href="http://www.nagios.org/">Nagios</a>, <a href="http://www.hyperic.org/">Hyperic</a>, <a href="http://www.opennms.org/">OpenNMS</a> or <a href="http://oss.oetiker.ch/mrtg/">MRTG</a> were mentioned according to the TweetVolume algorithm.
 

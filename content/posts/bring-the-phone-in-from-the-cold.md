@@ -5,7 +5,7 @@ categories: [General]
 tags: []
 ---
 
-<a href="/image/uploads/2007/08/telephone.png" title="An old telephone"><img src="/image/uploads/2007/08/telephone.png" alt="An old telephone" style="margin: 10px" align="right" /></a>
+<a href="/images/uploads/2007/08/telephone.png" title="An old telephone"><img src="/image/uploads/2007/08/telephone.png" alt="An old telephone" style="margin: 10px" align="right" /></a>
 
 When is the <strong>phone going to come in from the cold</strong>? How much of our lives do we spend continually giving the same information to the same companies time and again down the telephone? Only for those companies to spend even more time typing the same information into their systems.
 

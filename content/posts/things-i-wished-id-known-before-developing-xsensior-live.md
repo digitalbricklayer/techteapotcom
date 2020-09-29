@@ -11,7 +11,7 @@ I thought I'd share some of the things I've learnt developing Xsensior Live, as 
 <h2>The System</h2>
 The system consists of two parts. The first part is the website. The website provides the user interface for viewing sensor data, configuring alarm conditions and generating reports as well as a RESTful API for receiving sensor data.
 
-{{< figure src="/images/uploads/2015/03/Xsensior-Live-system-diagram.png" width="550" height="608" title="Diagram showing the architecture of the Xsensior Live system." alt="Xsensior Live System Diagram" link="/image/uploads/2015/03/Xsensior-Live-system-diagram.png" >}}
+{{< figure src="/images/uploads/2015/03/Xsensior-Live-system-diagram.png" width="550" height="608" title="Diagram showing the architecture of the Xsensior Live system." alt="Xsensior Live System Diagram" link="/images/uploads/2015/03/Xsensior-Live-system-diagram.png" >}}
 
 A worker service sits in the background waiting for messages to appear on the three <a href="http://msdn.microsoft.com/en-us/library/ms711472%28v=vs.85%29.aspx">MSMQ queues</a>. The queues are an <em>alarm input queue</em>, <em>email input queue</em> and <em>summary input queue</em>. The <em>alarm input queue</em> receives messages from the API alerting the worker to new sensor input. The worker then checks the new sensor input to see if the sensor has entered an alarm state and fires off alerts as appropriate. The <em>email input queue</em> receives emails message from the UI, when for instance, a registration email is required. The <em>summary input queue</em> receives messages when the schedule configuration of the daily summary has changed. The worker then changes the schedule of the daily summary job as appropriate.
 

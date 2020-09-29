@@ -5,7 +5,7 @@ categories: [General]
 tags: []
 ---
 
-{{< figure src="/images/uploads/2010/02/quicktest-500.jpg" width="550" height="413" title="Front of the Vonaq Quicktest 500" alt="Quicktest 500 Front Photo" link="/image/uploads/2010/02/quicktest-500.jpg" >}}
+{{< figure src="/images/uploads/2010/02/quicktest-500.jpg" width="550" height="413" title="Front of the Vonaq Quicktest 500" alt="Quicktest 500 Front Photo" link="/images/uploads/2010/02/quicktest-500.jpg" >}}
 
 <em>Quicktest 500 is reviewed by Brendan Mulvaney of <a href="http://www.sentinel-is.com/">Sentinel Information Systems</a>. Brendan also blogs as <a href="http://www.secure-eserver.com/">Sentinel - the fix is out there</a>.
 </em>

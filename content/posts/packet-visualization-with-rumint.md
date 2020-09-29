@@ -15,4 +15,4 @@ Roomint's author, <a href="http://www.rumint.org/gregconti/">Greg Conti</a>, has
 
 One problem I've run into with Rumint is that it doesn't work on my setup. I run Windows XP and I've got WinPCap  4.0.1. It looks to me like a problem between Rumint and the latest version of WinPCap. The problem is that Rumint won't show any network interfaces to sniff, so obviously things don't work too well. ;)
 
-<a href="/image/uploads/2007/08/rumint_panorama_lg.gif" title="Various packet visualizations"><img src="/image/uploads/2007/08/rumint_panorama_lg.gif" alt="Various packet visualizations" /></a>
+<a href="/images/uploads/2007/08/rumint_panorama_lg.gif" title="Various packet visualizations"><img src="/image/uploads/2007/08/rumint_panorama_lg.gif" alt="Various packet visualizations" /></a>

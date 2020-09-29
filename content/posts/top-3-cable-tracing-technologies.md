@@ -7,7 +7,7 @@ tags: []
 
 Firstly, why would you need to trace network cabling? In a perfect world you wouldn't need to, but even if a network begins life properly labelled, things have a habit of changing. Documentation and cable labelling don't always keep up when changes are made.
 
-{{< figure src="/images/uploads/2015/02/network-cable-mess.png" width="550" height="413" title="A jumble of network cables in a network cabinet." alt="Network Cable Mess" link="/image/uploads/2015/02/network-cable-mess.png" >}}
+{{< figure src="/images/uploads/2015/02/network-cable-mess.png" width="550" height="413" title="A jumble of network cables in a network cabinet." alt="Network Cable Mess" link="/images/uploads/2015/02/network-cable-mess.png" >}}
 
 When you need to re-arrange the cabling in your patch panel, can you be 100% certain that the label is correct? You can be reasonably certain if you installed and maintain the network yourself, but what if others are involved. Are they as fastidious as you are in keeping the network documentation up to date?
 
@@ -25,7 +25,7 @@ The best way to minimise the effective damping effect of the cable twists is to 
 
 Tone tracers have traditionally been analog. More recently digital or asymmetric tone tracers have arrived onto the market. Asymmetric toners have a number of advantages over more traditional analog tracers.
 
-{{< figure src="/images/uploads/2015/02/ToneGen_Trace.png" width="600" height="240" title="A diagram showing how a tone generator and tone tracer works." alt="Tone Generator and Trace Diagram" link="/image/uploads/2015/02/ToneGen_Trace.png" >}}
+{{< figure src="/images/uploads/2015/02/ToneGen_Trace.png" width="600" height="240" title="A diagram showing how a tone generator and tone tracer works." alt="Tone Generator and Trace Diagram" link="/images/uploads/2015/02/ToneGen_Trace.png" >}}
 
 Tone tracing provides the only cable tracing technology that can be performed on a live cable. More modern asymmetric tone tracers operate at frequencies well above the level that even very modern cable like CAT7 operate. Consequently, the tone signal does not interfere with a network signal.
 

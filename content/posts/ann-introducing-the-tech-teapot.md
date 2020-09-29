@@ -11,4 +11,4 @@ We make nice steaming pots of tea at least three times a day. Great for team bui
 
 Our current brew is Waitrose Kenya large leaf tea. Loose leaf tea of course, no nasty tea bags here!
 
-<a href="/image/uploads/2007/07/picture-002.jpg" title="Waitrose Kenya large leaf tea"><img src="/image/uploads/2007/07/picture-002.jpg" alt="Waitrose Kenya large leaf tea" /></a>
+<a href="/images/uploads/2007/07/picture-002.jpg" title="Waitrose Kenya large leaf tea"><img src="/image/uploads/2007/07/picture-002.jpg" alt="Waitrose Kenya large leaf tea" /></a>

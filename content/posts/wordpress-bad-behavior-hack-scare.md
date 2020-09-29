@@ -5,7 +5,7 @@ categories: [General]
 tags: []
 ---
 
-<a href="/image/uploads/2007/12/bad-behaviour-bug1.jpg" title="Bad Behavior wordpress plug-in error message"><img src="/image/uploads/2007/12/bad-behaviour-bug1.jpg" alt="Bad Behavior wordpress plug-in error message" height="75%" width="75%" /></a>
+<a href="/images/uploads/2007/12/bad-behaviour-bug1.jpg" title="Bad Behavior wordpress plug-in error message"><img src="/image/uploads/2007/12/bad-behaviour-bug1.jpg" alt="Bad Behavior wordpress plug-in error message" height="75%" width="75%" /></a>
 
 One of my pet hates is coming into the office only to be presented with a nice problem on the website. This morning I tried to log into <a href="{{< ref "/" >}}">this website</a> and saw the screenshot above.
 
