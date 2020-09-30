@@ -5,7 +5,7 @@ categories: [General]
 tags: []
 ---
 
-<img src="/image/uploads/2008/02/birthday-cake.jpg" alt="Birthday Cake" align="right" height="149" width="225" />Many moons ago back in the mists of time, well late 2002, Denis &amp; myself thought it would be a good idea to start a company.
+<img src="/images/uploads/2008/02/birthday-cake.jpg" alt="Birthday Cake" align="right" height="149" width="225" />Many moons ago back in the mists of time, well late 2002, Denis &amp; myself thought it would be a good idea to start a company.
 
 Today is the 5th anniversary of the incorporation of OPENXTRA Limited. Our likkle baby finally had a legal life of its own.
 

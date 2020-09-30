@@ -5,7 +5,7 @@ categories: ["Protocol Analysis"]
 tags: []
 ---
 
-<a href='/image/uploads/2007/06/packet_big.jpg' title='Practical Packet Analysis'><img src='/image/uploads/2007/06/packet_big.jpg' alt='Practical Packet Analysis' /></a>
+<a href='/images/uploads/2007/06/packet_big.jpg' title='Practical Packet Analysis'><img src='/images/uploads/2007/06/packet_big.jpg' alt='Practical Packet Analysis' /></a>
 
 Just found an interesting book...if you're a blood 'n guts comms bod then I think this book should find a place in your bookshelf. The book can be found <a href="http://www.nostarch.com/frameset.php?startat=packet_cs">here on the publisher's website</a>.
 

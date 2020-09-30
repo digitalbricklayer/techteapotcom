@@ -5,7 +5,7 @@ categories: ["Network Management", "Protocol Analysis"]
 tags: ["network tap", "protocol analysis"]
 ---
 
-<img src="/image/uploads/2008/02/ntap1.jpg" alt="NTap Network Tap" width="144" height="144" align="right" />Sometimes you fall over a product and it blows you away. Network taps have until now been exotic hardware affordable only by large IT departments with the budget to match.
+<img src="/images/uploads/2008/02/ntap1.jpg" alt="NTap Network Tap" width="144" height="144" align="right" />Sometimes you fall over a product and it blows you away. Network taps have until now been exotic hardware affordable only by large IT departments with the budget to match.
 
 Not any more! <a href="http://www.nmon.net/">nmon</a> have brought out a range of <a href="http://www.ntop.org/products/nbox-2/nbox/">low cost network taps and network traffic analysers</a> with <a href="http://en.wikipedia.org/wiki/Netflow">NetFlow</a> support. Looks like network taps just got affordable to the masses.
 

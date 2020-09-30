@@ -5,7 +5,7 @@ categories: [General]
 tags: []
 ---
 
-<img src="/image/uploads/2007/11/birthday-cake.jpg" alt="Happy birthday cake for the Tech Teapot" align="right" style="border-left:solid 4px white" />
+<img src="/images/uploads/2007/11/birthday-cake.jpg" alt="Happy birthday cake for the Tech Teapot" align="right" style="border-left:solid 4px white" />
 
 The Tech Teapot, or as it was originally called, the OPENXTRA Blog is one year old today. Ten categories, 186 posts, 156 comments &amp; trackbacks and more tags than I care to count and we're still going strong.
 

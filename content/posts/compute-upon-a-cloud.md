@@ -5,7 +5,7 @@ categories: ["Data Center"]
 tags: [amazon, "cloud computing", "data center"]
 ---
 
-<a href="/images/uploads/2007/12/20141000_bah0036_s.jpg" title="Data centre worker"><img src="/image/uploads/2007/12/20141000_bah0036_s.jpg" alt="Data centre worker" align="right" style="border-left:solid 4px white" /></a>
+<a href="/images/uploads/2007/12/20141000_bah0036_s.jpg" title="Data centre worker"><img src="/images/uploads/2007/12/20141000_bah0036_s.jpg" alt="Data centre worker" align="right" style="border-left:solid 4px white" /></a>
 
 Interesting what <a href="http://www.amazon.com/">Amazon</a> is up to...first with <a href="http://www.amazon.com/S3-AWS-home-page-Money/b/ref=sc_fe_l_2?ie=UTF8&node=16427261&no=3435361">cloud storage</a> then <a href="http://www.amazon.com/b/ref=sc_fe_l_2?ie=UTF8&node=201590011&no=3435361">cloud computing</a> and now <a href="http://www.amazon.com/b/ref=sc_fe_l_2?ie=UTF8&node=342335011&no=3435361">cloud databases</a>. Is the art of data centre management going to be concentrated into a few massive data centres?
 

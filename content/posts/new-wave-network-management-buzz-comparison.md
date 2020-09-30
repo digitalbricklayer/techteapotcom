@@ -13,7 +13,7 @@ I have omitted <a href="http://www.groundworkopensource.com/">Groundwork Open So
 
 <h2>Hyperic vs Zenoss</h2>
 
-<img src="/image/uploads/2007/09/zenoss-vs-hyperic.PNG" alt="Hyperic vs Zenoss Search Trend" width="100%" height="100%" align="center" />Figure 1: <a href="http://www.google.com/trends?q=hyperic%2Czenoss">Hyperic vs Zenoss Search Trend</a>
+<img src="/images/uploads/2007/09/zenoss-vs-hyperic.PNG" alt="Hyperic vs Zenoss Search Trend" width="100%" height="100%" align="center" />Figure 1: <a href="http://www.google.com/trends?q=hyperic%2Czenoss">Hyperic vs Zenoss Search Trend</a>
 
 Firstly, I'd like to congratulate both <a href="http://www.zenoss.com/">Zenoss</a> &amp; <a href="http://www.hyperic.com/">Hyperic</a> for appearing in Google Trends. That's no mean feat in itself.
 
@@ -23,7 +23,7 @@ Zenoss is also more customisable by sysadmins. As Zenoss is written in Python an
 
 <h2>New wave vs Non-commercial Open Source Projects</h2>
 
-<img src="/image/uploads/2007/09/oss-comparison.png" alt="New wave vs Open Source Projects Trend" width="100%" height="100%" align="center" />Figure 2: <a href="http://www.google.com/trends?q=hyperic%2Czenoss%2Cnagios%2Cmrtg%2Copennms&ctab=0&geo=all&date=all&sort=0">New wave vs Open Source Projects Trend</a>
+<img src="/images/uploads/2007/09/oss-comparison.png" alt="New wave vs Open Source Projects Trend" width="100%" height="100%" align="center" />Figure 2: <a href="http://www.google.com/trends?q=hyperic%2Czenoss%2Cnagios%2Cmrtg%2Copennms&ctab=0&geo=all&date=all&sort=0">New wave vs Open Source Projects Trend</a>
 
 Figure 2 shows the relative search volume between Hyperic, Zenoss, <a href="http://oss.oetiker.ch/mrtg/">MRTG</a>, <a href="http://www.nagios.org/">Nagios</a> and <a href="http://www.opennms.org/">OpenNMS</a>. The first thing that struck me is the massive search volume for MRTG. WOW! Given how far behind in terms of features and performance MRTG is behind the rest it is quite staggering how many searches it receives. MRTG is losing search volume though, down by two thirds since the beginning of 2004. Nagios has done very well, gaining search volume throughout the last three years.
 
@@ -36,7 +36,7 @@ What does the graph mean for Hyperic &amp; Zenoss?
 
 <h2>Commercial Products vs New Wave</h2>
 
-<img src="/image/uploads/2007/09/big2-comparison1.PNG" alt="OpenView/NetIQ vs New Wave" width="100%" height="100%" align="center" />Figure 3: <a href="http://www.google.com/trends?q=hyperic%2Czenoss%2Copenview%2Cnetiq&ctab=0&geo=all&date=all&sort=0">OpenView/NetIQ vs New Wave</a>
+<img src="/images/uploads/2007/09/big2-comparison1.PNG" alt="OpenView/NetIQ vs New Wave" width="100%" height="100%" align="center" />Figure 3: <a href="http://www.google.com/trends?q=hyperic%2Czenoss%2Copenview%2Cnetiq&ctab=0&geo=all&date=all&sort=0">OpenView/NetIQ vs New Wave</a>
 
 The most surprising thing about Figure 3 is the downward trend on both of the commercial tools: OpenView &amp; NetIQ. Though, I don't think that the downward trend can be attributed to either Zenoss or Hyperic, given that the trend started long before they came on the scene.
 

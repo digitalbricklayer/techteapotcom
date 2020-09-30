@@ -52,8 +52,8 @@ tags: [nagios, Zenoss, Zabbix, "OpenNMS"]
 <td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
 <td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
 <td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
-<td><img src="/image/uploads/2008/07/tick.png" alt="X" /></td>
-<td><img src="/image/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
 </tr>
 <tr class="odd" align="center">
 <td align="right">Consulting</td>

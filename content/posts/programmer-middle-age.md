@@ -5,7 +5,7 @@ categories: [General]
 tags: []
 ---
 
-<p><img height="330" alt="iStock 000004300948XSmall" src="/image/uploads/2008/01/istock-000004300948xsmall.jpg" width="225" align="right" />You know when you've reached programmer middle age, a new operating system/IDE drops through your letter box and you don't run off to install it. ;)</p>
+<p><img height="330" alt="iStock 000004300948XSmall" src="/images/uploads/2008/01/istock-000004300948xsmall.jpg" width="225" align="right" />You know when you've reached programmer middle age, a new operating system/IDE drops through your letter box and you don't run off to install it. ;)</p>
 <p>I received <a href="http://en.wikipedia.org/wiki/Microsoft_Visual_Studio">Visual Studio 2008</a> via <a href="http://msdn2.microsoft.com/">MSDN</a> last week and it is still sitting on my desk unopened. Is there any hope for me?</p>
 <p>Even <a href="http://www.eclipse.org/">Eclipse</a> managed to release a new version without me noticing.</p>
 <p>Am I doomed to a gradual decline from programmer middle age through to programmer senility?</p>

@@ -5,7 +5,7 @@ categories: [General]
 tags: []
 ---
 
-<a href='/image/uploads/2007/09/arrowlogo.png' title='SpamAssassin Logo'><img src='/image/uploads/2007/09/arrowlogo.png' align="right" alt='SpamAssassin Logo' /></a>
+<a href='/images/uploads/2007/09/arrowlogo.png' title='SpamAssassin Logo'><img src='/images/uploads/2007/09/arrowlogo.png' align="right" alt='SpamAssassin Logo' /></a>
 
 One of the great tools we have discovered recently has been <a href="http://spamassassin.apache.org/">Apache SpamAssassin</a>, an open source spam identifier.
 
