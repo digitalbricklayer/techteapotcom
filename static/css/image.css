@@ -1,0 +1,28 @@
+/* image styles so that images can be defined as left, right or center aligned.
+ * taken from here: http://www.ebadf.net/2016/10/19/centering-images-in-hugo/
+ *
+ * Examples of use:
+ * ![your_img](/img/your_img.png#center)
+ * ![your_img](/img/your_img.png#floatleft)
+ * ![your_img](/img/your_img.png#floatright)
+ */
+
+img[src$='#center']
+{
+    display: block;
+    margin: 0.7rem auto; /* you can replace the vertical '0.7rem' by
+                            whatever floats your boat, but keep the
+                            horizontal 'auto' for this to work */
+}
+
+img[src$='#floatleft']
+{
+    float:left;
+    margin: 0.7rem;      /* this margin is totally up to you */
+}
+
+img[src$='#floatright']
+{
+    float:right;
+    margin: 0.7rem;      /* this margin is totally up to you */
+}
