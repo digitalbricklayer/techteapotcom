@@ -27,11 +27,12 @@ widgets:
 authorbox: true # Show authorbox at bottom of pages
 
 # Include custom CSS files
-customCSS: ["css/image.css"]
+# fancybox is used by hte foldergallery shortcode
+customCSS: ["css/image.css", "https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css"]
 
-# Used by gallery shortcode
-customJS: ["https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.4.0/jquery.fancybox.min.js"]
+# Used by foldergallery shortcode
+customJS: ["https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js", "https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"]
 
 # Order of post meta information
-post_meta: ["author", "date", "categories", "translations"]
+post_meta: ["author", "date", "categories"]
 dateformat: "2006-01-02"
