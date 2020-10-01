@@ -8,3 +8,4 @@ taxonomies:
   tag: tags
 disqusShortname: "" # Enable Disqus comments by entering your Disqus shortname
 googleAnalytics: "" # Enable Google Analytics by entering your tracking id
+enableRobotsTXT: true
