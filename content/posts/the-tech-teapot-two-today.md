@@ -24,7 +24,7 @@ A selection of some of my favourite posts from the last year:
 	<li> <a title="Permanent Link to Where is Java's CPAN?" rel="bookmark" href="{{< ref "posts/where-is-javas-cpan.md" >}}">Where is Java's CPAN?</a></li>
 	<li> <a title="Permanent Link to Cabling as data centre art" rel="bookmark" href="{{< ref "posts/cabling-as-data-centre-art.md" >}}">Cabling as data centre art</a></li>
 	<li> <a title="Permanent Link to Programmer middle age" rel="bookmark" href="{{< ref "posts/programmer-middle-age.md" >}}">Programmer middle age</a></li>
-	<li> <a title="Permanent Link to Ain't no such thing as SMB class kit" rel="bookmark" href="{{< ref "posts/aint-no-such-thing-as-smb-class-kit.md" >}}">Ain't no such thing as SMB class kit</a></li>
+	<li> <a title="Permanent Link to Ain't no such thing as SMB class kit" rel="bookmark" href="{{< ref "posts/aint-no-such-thing-as-smb-class-kit.html" >}}">Ain't no such thing as SMB class kit</a></li>
 	<li> <a title="Permanent Link to Lessons learnt writing open source software" rel="bookmark" href="{{< ref "posts/lessons-learnt-writing-open-source-software.md" >}}">Lessons learnt writing open source software</a></li>
 	<li> <a title="Permanent Link to Open source network management comparison 2007" rel="bookmark" href="{{< ref "posts/open-source-network-management-comparison-2007.md" >}}">Open source network management comparison 2007</a></li>
 	<li> <a title="Permanent Link to The elephant and the cloud" rel="bookmark" href="{{< ref "posts/the-elephant-and-the-cloud.md" >}}">The elephant and the cloud</a></li>
