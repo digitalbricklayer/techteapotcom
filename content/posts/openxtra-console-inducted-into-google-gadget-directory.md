@@ -5,7 +5,7 @@ categories: [General]
 tags: []
 ---
 
-As I <a href="{{< ref "posts/gadget-ahoy.md" >}}">mentioned in a previous post</a> we now have a <a href="http://www.openxtra.co.uk/downloads/openxtra-console.php">Google Desktop Gadget</a>. We are pleased to announce that Google have now accepted our Gadget to go on their own Dekstop Gadget directory.
+As I <a href="{{< ref "posts/gadget-ahoy.html" >}}">mentioned in a previous post</a> we now have a <a href="http://www.openxtra.co.uk/downloads/openxtra-console.php">Google Desktop Gadget</a>. We are pleased to announce that Google have now accepted our Gadget to go on their own Dekstop Gadget directory.
 
 What can I say, we are thrilled. If you have the time please install it and try it out. You will need to install Google Desktop first though.
 
