@@ -3,6 +3,7 @@ title: "Three does go into one"
 date: "2007-01-22T10:17:03+00:00"
 categories: [General]
 tags: []
+aliases: [/three-does-go-into-one/]
 ---
 
 We are in the midst of server consolidation drive. Three servers will go into one!

@@ -3,6 +3,7 @@ title: "Creating open source software using Microsoft's .NET framework"
 date: "2008-05-02T15:14:13+00:00"
 categories: ["Open Source"]
 tags: [".NET", microsoft, "open source"]
+aliases: [/creating-open-source-software-using-dotnet-framework/]
 ---
 
 Whilst developing PowerTime, I've kept in mind the requirement that I need to ensure that the software can be built using only freely available tools.

@@ -3,6 +3,7 @@ title: "The lowdown on writing a technical book"
 date: "2009-07-14T09:40:50+00:00"
 categories: [General]
 tags: []
+aliases: [/the-lowdown-on-writing-a-technical-book/]
 ---
 
 If you've ever hankered after writing a technical book then  <a href="http://www.voidspace.org.uk/">Michael Foord</a> has <a href="http://www.voidspace.org.uk/python/articles/technical-writing.shtml">some advice for you</a> garnered from writing <a href="http://www.ironpythoninaction.com/">IronPython in Action</a>.

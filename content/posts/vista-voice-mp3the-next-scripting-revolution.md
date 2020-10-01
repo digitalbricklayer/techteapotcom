@@ -3,6 +3,7 @@ title: "Vista voice MP3...the next scripting revolution?"
 date: "2007-02-01T16:01:22+00:00"
 categories: [General]
 tags: []
+aliases: [/vista-voice-mp3the-next-scripting-revolution/]
 ---
 
 I was quite amused by a story about a potential <a href="http://news.bbc.co.uk/1/hi/technology/6320865.stm">Vista voice recognition security hole</a>.

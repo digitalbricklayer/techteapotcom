@@ -3,6 +3,7 @@ title: "Sometimes the open core functionality ceiling gets lower"
 date: "2013-06-20T12:27:04+00:00"
 categories: [General]
 tags: []
+aliases: [/sometimes-the-open-core-functionality-ceiling-gets-lower/]
 ---
 
 First of all a little bit of background will make the post a little bit more understandable to non I.T. folks.

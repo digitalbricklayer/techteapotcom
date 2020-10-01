@@ -3,6 +3,7 @@ title: "Programmer middle age"
 date: "2008-01-21T13:36:16+00:00"
 categories: [General]
 tags: []
+aliases: [/programmer-middle-age/]
 ---
 
 <p><img height="330" alt="iStock 000004300948XSmall" src="/images/uploads/2008/01/istock-000004300948xsmall.jpg" width="225" align="right" />You know when you've reached programmer middle age, a new operating system/IDE drops through your letter box and you don't run off to install it. ;)</p>

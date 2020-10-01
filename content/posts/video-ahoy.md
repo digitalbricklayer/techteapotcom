@@ -3,6 +3,7 @@ title: "Video ahoy!"
 date: "2008-09-04T11:29:56+00:00"
 categories: [General]
 tags: []
+aliases: [/video-ahoy/]
 ---
 
 We're in the process of producing a bunch of videos explaining the features on some of our more specialised products...what am I saying? They're all specialised!

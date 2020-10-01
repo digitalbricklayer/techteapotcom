@@ -3,6 +3,7 @@ title: "A few days on the beach"
 date: "2008-10-14T09:14:04+00:00"
 categories: [General]
 tags: []
+aliases: [/a-few-days-on-the-beach/]
 ---
 
 {{< figure src="/images/uploads/2008/10/istock_000007333629xsmall.jpg#center" width="300" height="201" align="right" alt="Where I'm going won't look anything like this!" >}}

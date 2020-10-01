@@ -3,6 +3,7 @@ title: "Wordpress 5 minute install..."
 date: "2008-12-12T09:00:59+00:00"
 categories: [General]
 tags: []
+aliases: [/wordpress-5-minute-install/]
 ---
 
 ...used to be a category leader in ease of installation. It isn't now. You can install very powerful CMS software like <a href="http://www.silverstripe.org/blog/">SilverStripe</a> in under a minute. By comparison, five minutes seems like an eternity.

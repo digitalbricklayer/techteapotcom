@@ -3,6 +3,7 @@ title: 'A recovering "wunderkind"'
 date: "2015-07-01T12:30:42+00:00"
 categories: [General]
 tags: []
+aliases: [/a-recovering-wunderkind/]
 ---
 
 If there is anything the IT industry loves above anything else it is youth.

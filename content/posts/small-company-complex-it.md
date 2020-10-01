@@ -3,6 +3,7 @@ title: "Small company, complex IT"
 date: "2006-12-14T14:20:54+00:00"
 categories: [General]
 tags: []
+aliases: [/small-company-complex-it/]
 ---
 
 I was daydreaming today and I wondered just how many files actually make up the openxtra website. For a small site you would assume that wouldn't be many?

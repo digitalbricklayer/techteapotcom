@@ -3,6 +3,7 @@ title: "Google Chrome OS from a sys admin perspective"
 date: "2009-07-09T09:33:26+00:00"
 categories: [General]
 tags: []
+aliases: [/google-chrome-os-from-a-sys-admin-perspective/]
 ---
 
 What does Google's recent <a href="http://googleblog.blogspot.com/2009/07/introducing-google-chrome-os.html">announcement that it is getting into the operating system business</a> tell us from a sys admin perspective?

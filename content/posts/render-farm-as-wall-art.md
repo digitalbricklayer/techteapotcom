@@ -3,6 +3,7 @@ title: "Render farm as wall art"
 date: "2008-10-02T08:00:28+00:00"
 categories: [General]
 tags: []
+aliases: [/render-farm-as-wall-art/]
 ---
 
 If only data centres looked like this...

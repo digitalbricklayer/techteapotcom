@@ -3,6 +3,7 @@ title: "Why lone software projects fail"
 date: "2015-07-10T11:50:09+00:00"
 categories: [General]
 tags: []
+aliases: [/why-lone-software-projects-fail/]
 ---
 
 I have an awful lot of failed software projects. Most programmers do. It comes with the territory.

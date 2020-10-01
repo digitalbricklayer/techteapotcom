@@ -3,6 +3,7 @@ title: "Code & documentation mix-up on Google Code"
 date: "2008-09-25T11:45:24+00:00"
 categories: [General]
 tags: ["google code"]
+aliases: [/code-documentation-mix-up-on-google-code/]
 ---
 
 <a href="http://code.google.com/">Google Code</a> is a fabulous, minimalist open source development portal. I love it because there's no faffing around and it uses lots of standard open source development tools like <a href="http://subversion.tigris.org/">subversion</a>.

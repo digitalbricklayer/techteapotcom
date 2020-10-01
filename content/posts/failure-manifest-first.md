@@ -3,6 +3,7 @@ title: "Where does a failure manifest itself first"
 date: "2014-03-14T10:38:16+00:00"
 categories: ["Network Monitoring"]
 tags: []
+aliases: [/failure-manifest-first/]
 ---
 
 A network monitoring tool periodically makes a request to a system end point and records the result in a database of some kind.

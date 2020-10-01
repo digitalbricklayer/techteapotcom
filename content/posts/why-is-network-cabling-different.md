@@ -3,6 +3,7 @@ title: "Network Cabling vs Electical Cabling"
 date: "2007-06-08T09:01:43+00:00"
 categories: [Cabling]
 tags: []
+aliases: [/why-is-network-cabling-different/]
 ---
 
 A lot of the skills that an electrician applies every day are directly applicable to network cable installation. But there are differences, and that's what I will be covering in this article.

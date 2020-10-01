@@ -3,6 +3,7 @@ title: "Screams as systems administration alert method"
 date: "2008-10-31T08:00:46+00:00"
 categories: [General]
 tags: []
+aliases: [/screams-as-systems-administration-alert-method/]
 ---
 
 <a href="/images/uploads/2008/10/istock_000005466936xsmall.jpg"><img class="alignright size-medium wp-image-939" title="istock_000005466936xsmall" src="/images/uploads/2008/10/istock_000005466936xsmall.jpg" alt="" width="300" height="225" align="right" /></a>

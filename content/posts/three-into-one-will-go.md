@@ -3,6 +3,7 @@ title: "Three into one will go"
 date: "2007-02-08T12:27:32+00:00"
 categories: [General]
 tags: []
+aliases: [/three-into-one-will-go/]
 ---
 
 Triple play is a marketing term coined to describe the provision of voice, video and data services over network connections. It is not a technical specification as such. It does not describe what the technology will be, how it will work or indeed why it is necessary. Though the why is the usual reason...cheaper & easier to manage a single set of infrastructure than a mangled rats nest of separate systems blah blah...

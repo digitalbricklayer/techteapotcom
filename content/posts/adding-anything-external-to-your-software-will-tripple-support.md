@@ -3,6 +3,7 @@ title: "Adding anything external to your software will triple support"
 date: "2013-07-30T14:41:55+00:00"
 categories: [General]
 tags: []
+aliases: [/adding-anything-external-to-your-software-will-tripple-support/]
 ---
 
 By external I mean, stuff your software has to talk to over the wire.

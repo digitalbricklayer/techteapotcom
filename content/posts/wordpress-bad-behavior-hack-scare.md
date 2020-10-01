@@ -3,6 +3,7 @@ title: "Wordpress Bad Behavior hack scare"
 date: "2007-12-06T12:06:34+00:00"
 categories: [General]
 tags: []
+aliases: [/wordpress-bad-behavior-hack-scare/]
 ---
 
 <a href="/images/uploads/2007/12/bad-behaviour-bug1.jpg" title="Bad Behavior wordpress plug-in error message"><img src="/images/uploads/2007/12/bad-behaviour-bug1.jpg" alt="Bad Behavior wordpress plug-in error message" height="75%" width="75%" /></a>

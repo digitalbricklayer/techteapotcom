@@ -3,6 +3,7 @@ title: "Re: Show Me Da Money (a Cautionary Tale)"
 date: "2008-01-23T17:15:31+00:00"
 categories: [General]
 tags: []
+aliases: [/re-show-me-da-money-a-cautionary-tale/]
 ---
 
 <p><img height="289" alt="A piggy bank stuffed with money" src="/images/uploads/2008/01/piggy-bank-1.jpg" width="225" align="right" />This is a reply to Tarus Balog's Show Me Da Money (a Cautionary Tale) post.</p>

@@ -3,6 +3,7 @@ title: "Pay extra for peace of mind"
 date: "2008-01-11T14:39:23+00:00"
 categories: [General]
 tags: []
+aliases: [/pay-extra-for-peace-of-mind/]
 ---
 
 <p><img height="149" alt="iStock 000003886153XSmall" src="/images/uploads/2008/01/istock-000003886153xsmall.jpg" width="225" align="right" /></p>

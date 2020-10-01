@@ -3,6 +3,7 @@ title: "The Tech Teapot's first birthday"
 date: "2007-11-27T14:01:42+00:00"
 categories: [General]
 tags: []
+aliases: [/the-tech-teapots-first-birthday/]
 ---
 
 <img src="/images/uploads/2007/11/birthday-cake.jpg" alt="Happy birthday cake for the Tech Teapot" align="right" style="border-left:solid 4px white" />

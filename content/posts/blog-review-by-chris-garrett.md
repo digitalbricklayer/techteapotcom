@@ -3,6 +3,7 @@ title: "Blog review by Chris Garrett"
 date: "2007-04-20T12:23:36+00:00"
 categories: [General]
 tags: []
+aliases: [/blog-review-by-chris-garrett/]
 ---
 
 Chris Garret at <a href="http://www.omiq.com/">OMIQ</a> has been <a href="http://www.chrisg.com/blog-critique-openxtra-blog/">kind enough to review this 'ere blog</a>. Chris has hilighted some things we need to do better.

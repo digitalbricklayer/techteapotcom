@@ -3,6 +3,7 @@ title: '"New wave" Windows support'
 date: "2007-06-14T09:51:11+00:00"
 categories: ["Network Management", "Open Source"]
 tags: [Hyperic, Zenoss, "Groundwork Open Source"]
+aliases: [/new-wave-windows-support/]
 ---
 
 One of the odd things <a href="{{< ref "posts/network-managements-new-wave.md" >}}">about the three new wave players</a> is that, of the three, only one (<a href="http://www.hyperic.com/">Hyperic</a>) supports Windows natively.

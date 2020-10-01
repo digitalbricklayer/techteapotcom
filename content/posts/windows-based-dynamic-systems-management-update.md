@@ -3,6 +3,7 @@ title: "Windows based dynamic systems management update"
 date: "2009-06-18T10:55:08+00:00"
 categories: [General]
 tags: []
+aliases: [/windows-based-dynamic-systems-management-update/]
 ---
 
 As a follow up to the <a title="Permanent Link to Windows based structured systems management" rel="bookmark" href="../windows-based-structured-systems-management/">Windows based structured systems management</a> post, I have found a network monitor that does have some dynamic abilities.

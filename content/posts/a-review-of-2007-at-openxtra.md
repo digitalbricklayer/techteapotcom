@@ -3,6 +3,7 @@ title: "A review of 2007 at OPENXTRA"
 date: "2007-12-20T16:29:25+00:00"
 categories: [General]
 tags: []
+aliases: [/a-review-of-2007-at-openxtra/]
 ---
 
 Following the 2006 review I thought it'd be nice to see the highlights for 2007.

@@ -3,6 +3,7 @@ title: "Copper vs Fibre cabling costs"
 date: "2007-09-06T08:00:25+00:00"
 categories: [Cabling, General]
 tags: ["copper cabling", "fibre cabling"]
+aliases: [/copper-vs-fibre/]
 ---
 
 <a title="180px-fibreoptic.jpg" href="/images/uploads/2007/09/180px-fibreoptic.jpg"><img src="/images/uploads/2007/09/180px-fibreoptic.jpg" alt="180px-fibreoptic.jpg" align="right" /></a>

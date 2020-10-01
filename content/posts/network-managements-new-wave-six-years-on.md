@@ -3,6 +3,7 @@ title: "Network management's new wave six years on"
 date: "2013-06-13T10:02:15+00:00"
 categories: ["Network Management", "Open Source"]
 tags: []
+aliases: [/network-managements-new-wave-six-years-on/]
 ---
 
 How time flies.

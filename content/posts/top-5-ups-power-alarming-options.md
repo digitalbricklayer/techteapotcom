@@ -3,6 +3,7 @@ title: "Top 5 UPS power alarming options"
 date: "2007-05-10T15:08:39+00:00"
 categories: [General]
 tags: []
+aliases: [/top-5-ups-power-alarming-options/]
 ---
 
 Monitoring the Uninterruptible Power Supply (UPS) is a constant preoccupation of many people who manage a server room. If the conversations we have with customers are anything to go by anyway. :) Here's a quick guide. We can, of course, help out with a number of the options...the rest can only be done by your UPS supplier.

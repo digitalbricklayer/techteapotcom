@@ -3,6 +3,7 @@ title: "Seen the Apollo anniversary on TV? Now read the source code..."
 date: "2009-07-21T13:08:51+00:00"
 categories: [General]
 tags: []
+aliases: [/seen-the-apollo-anniversary-on-tv-now-read-the-source-code/]
 ---
 
 If you want to see some excellent  assembly language programming, you can do a lot worse than read <a href="http://code.google.com/p/virtualagc/">NASA's newly released source code for the Apollo program</a>.

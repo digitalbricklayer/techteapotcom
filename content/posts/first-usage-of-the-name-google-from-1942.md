@@ -3,6 +3,7 @@ title: 'First usage of the name "Google" from 1942?'
 date: "2007-11-08T13:42:22+00:00"
 categories: [General]
 tags: []
+aliases: [/first-usage-of-the-name-google-from-1942/]
 ---
 
 Denis, a co-founder of OPENXTRA, was reading a story to his son last night. He was rather surprised to find a character in the book called <strong>Google</strong>.

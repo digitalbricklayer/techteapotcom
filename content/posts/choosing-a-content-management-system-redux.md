@@ -3,6 +3,7 @@ title: "Choosing a content management system redux"
 date: "2009-03-13T14:27:30+00:00"
 categories: [General]
 tags: ["CMS", drupal]
+aliases: [/choosing-a-content-management-system-redux/]
 ---
 
 I blogged about <a href="{{< ref "posts/selecting-a-content-management-system.md" >}}">choosing a content management system</a> and we've finally managed to deploy the resulting system. It would be fair to say that choosing a content management system is a nightmare. And, anybody else's experience probably won't help you very much unless you share the same set of requirements.

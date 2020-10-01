@@ -3,6 +3,7 @@ title: "Power line networking: my experience"
 date: "2007-10-09T09:07:39+00:00"
 categories: [General]
 tags: []
+aliases: [/power-line-networking-my-experience/]
 ---
 
 <a href="/images/uploads/2007/10/highspeed.jpg" title="Devolo Homeplug High Speed Starter Kits"><img src="/images/uploads/2007/10/highspeed.jpg" alt="Devolo Homeplug High Speed Starter Kits" style="border: 4px solid white" align="right" /></a>

@@ -3,6 +3,7 @@ title: "Top 3 easy Nagios setup options"
 date: "2007-05-13T09:01:10+00:00"
 categories: [General]
 tags: [nagios]
+aliases: [/top-3-easy-nagios-setup-options/]
 ---
 
 <img src="/images/uploads/2007/05/status-detail-t.jpg" alt="Nagios" align="right" />

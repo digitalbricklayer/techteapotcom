@@ -3,6 +3,7 @@ title: "Open source network management in Google 2001 vs Google 2008"
 date: "2008-10-01T12:35:10+00:00"
 categories: [General]
 tags: []
+aliases: [/open-source-network-management-in-google-2001-vs-google-2008/]
 ---
 
 Google have released a fully searchable version of their first available index from 2001 to celebrate their 10th birthday. I thought it would be interesting to compare and contrast a search for "<strong><em>open source network management</em></strong>" using the 2001 index and the <a href="http://www.google.com/search?q=open+source+network+management&amp;ie=utf-8&amp;oe=utf-8&amp;aq=t&amp;rls=org.mozilla:en-GB:official&amp;client=firefox-a">current index</a>.

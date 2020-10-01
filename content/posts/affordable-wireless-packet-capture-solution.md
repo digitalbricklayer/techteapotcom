@@ -3,6 +3,7 @@ title: "Affordable wireless packet capture solution"
 date: "2007-09-04T09:30:56+00:00"
 categories: ["Open Source", "Protocol Analysis", Wireless]
 tags: ["packet capture", wireless]
+aliases: [/affordable-wireless-packet-capture-solution/]
 ---
 
 {{< figure src="/images/uploads/2007/09/wireshark_ampdu_big.png#center" alt="Airpcap capture" >}}

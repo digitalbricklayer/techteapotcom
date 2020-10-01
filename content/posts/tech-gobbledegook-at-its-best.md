@@ -3,6 +3,7 @@ title: "Tech gobbledegook at its best"
 date: "2008-02-07T11:48:54+00:00"
 categories: []
 tags: []
+aliases: [/tech-gobbledegook-at-its-best/]
 ---
 
 Denis received a letter from <a href="http://www.agilent.co.uk/">Agilent</a> advertising a technical seminar. The letter starts thus:

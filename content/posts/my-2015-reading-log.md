@@ -3,6 +3,7 @@ title: "My 2015 Reading Log"
 date: "2016-01-04T16:52:37+00:00"
 categories: [General]
 tags: []
+aliases: [/my-2015-reading-log/]
 ---
 
 I've not managed to read as many books this year. Mostly due to the competition from playing <a href="https://www.dragonage.com/en_GB/home">Dragon Age: Inquisition</a> for the first four months of the year. On the plus side, it has been a good year for books. I've had a run of superb books. I've tried to broaden the range of books I read. I've always been a sci-fi fan but not a great fan of ork and goblin style fantasy but I've made a conscious effort to try more contemporary fantasy and have been very pleased with the quality of work I've found.

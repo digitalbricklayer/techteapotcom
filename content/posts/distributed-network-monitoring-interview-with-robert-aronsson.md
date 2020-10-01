@@ -3,6 +3,7 @@ title: "Distributed network monitoring interview with Robert Aronsson"
 date: "2008-09-10T09:36:22+00:00"
 categories: [Network Monitoring]
 tags: [interview, "network management"]
+aliases: [/distributed-network-monitoring-interview-with-robert-aronsson/]
 ---
 
 Robert Aronsson is the CEO of Intellipool AB a company with over ten years experience of the network management market. Intellipool introduced a distributed network monitor over four years ago. I interviewed Robert with a view to getting some insight into Intellipool's experience of implementing distributed network monitoring solutions with their customers.

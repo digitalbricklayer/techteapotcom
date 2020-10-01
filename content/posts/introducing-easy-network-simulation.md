@@ -3,6 +3,7 @@ title: "Introducing easy network simulation"
 date: "2009-05-28T16:05:36+00:00"
 categories: ["Network Simulation"]
 tags: ["network simulator"]
+aliases: [/introducing-easy-network-simulation/]
 ---
 
 Paessler have introduced a new product called <a href="http://www.paessler.com/serversimulator">Multi Server Simulator</a>, currently available as a pre-release version, that creates a simulated network of devices and switches.

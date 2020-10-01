@@ -3,6 +3,7 @@ title: "OPENXTRA's 5th birthday today"
 date: "2008-02-02T01:01:34+00:00"
 categories: [General]
 tags: []
+aliases: [/openxtras-5th-birthday-today/]
 ---
 
 <img src="/images/uploads/2008/02/birthday-cake.jpg" alt="Birthday Cake" align="right" height="149" width="225" />Many moons ago back in the mists of time, well late 2002, Denis &amp; myself thought it would be a good idea to start a company.

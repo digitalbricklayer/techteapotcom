@@ -3,6 +3,7 @@ title: "Great IT in education website"
 date: "2007-01-31T17:05:07+00:00"
 categories: [General]
 tags: []
+aliases: [/great-it-in-education-website/]
 ---
 
 If you are involved in IT in the education sector in the UK you may find the <a href="http://edugeek.net/index.php">EduGeek website to be of interest</a>. Looks like a good place to join your fellow professionals for a good chin wag.

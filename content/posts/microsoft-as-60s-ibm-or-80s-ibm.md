@@ -3,6 +3,7 @@ title: "Microsoft as 60s IBM or 80s IBM?"
 date: "2008-04-09T11:01:17+00:00"
 categories: [General]
 tags: []
+aliases: [/microsoft-as-60s-ibm-or-80s-ibm/]
 ---
 
 Just where the heck are Microsoft on the cloud computing thing? Ten years ago they wouldn't have given their competitors years head start in a market without a response.

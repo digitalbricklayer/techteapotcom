@@ -3,6 +3,7 @@ title: "Servers you can cook with"
 date: "2009-03-23T13:30:10+00:00"
 categories: [General]
 tags: []
+aliases: [/servers-you-can-cook-with/]
 ---
 
 Everybody knows that one of the biggest consumers of electricity in data centre is the air conditioning system. There are two main avenues for reducing the cost of air conditioning, either make the air conditioning system more efficient so that it consumes less electricity, or remove the requirement to use so much air conditioning in the first place by running your data centre hotter.

@@ -3,6 +3,7 @@ title: "My early career planning"
 date: "2007-05-21T16:52:02+00:00"
 categories: [General]
 tags: []
+aliases: [/my-early-career-planning/]
 ---
 
 Thanks <a href="http://www.chrisg.com/">Chris</a> for <a href="http://www.chrisg.com/how-my-career-found-me/">tagging me</a>.

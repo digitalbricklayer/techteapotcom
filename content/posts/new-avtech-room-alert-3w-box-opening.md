@@ -3,6 +3,7 @@ title: "New AVTECH Room Alert 3W Box Opening"
 date: "2015-03-31T14:49:57+00:00"
 categories: [General]
 tags: ["AVTECH Software"]
+aliases: [/new-avtech-room-alert-3w-box-opening/]
 ---
 
 <a href="http://www.openxtra.co.uk/manufacturer/avtech-software">AVTECH</a> have finally released the WiFi version of the <a href="http://www.openxtra.co.uk/p/avtech-room-alert-3e">AVTECH Room Alert 3E</a>. The new model is called the <a href="http://www.openxtra.co.uk/p/avtech-room-alert-3w-wifi">AVTECH Room Alert 3W</a>. The new model supports WiFi connectivity as well as all of the features you've appreciated on the wired ethernet model. The unit has a built in temperature sensor, with room for one more digital sensor, as well as room for one low voltage or dry contact sensor.

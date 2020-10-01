@@ -3,6 +3,7 @@ title: "It's usually the firewall/anti-virus software"
 date: "2008-12-04T14:54:35+00:00"
 categories: [General]
 tags: []
+aliases: [/its-usually-the-firewallanti-virus-software/]
 ---
 
 A good case in point today. Software ran just fine on Windows XP but the move to Vista stops the software working.

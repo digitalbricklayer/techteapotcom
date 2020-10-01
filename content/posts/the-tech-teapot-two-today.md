@@ -3,6 +3,7 @@ title: "The Tech Teapot two today!"
 date: "2008-11-27T08:00:11+00:00"
 categories: [General]
 tags: []
+aliases: [/the-tech-teapot-two-today/]
 ---
 
 <img class="alignright size-medium wp-image-943" title="Birthday Cake" src="/images/uploads/2008/10/istock_000007188544xsmall.jpg" alt="Birthday Cake" width="200" height="300" align="right" />

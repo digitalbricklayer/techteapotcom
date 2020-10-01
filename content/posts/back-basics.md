@@ -3,6 +3,7 @@ title: "Back to Basics"
 date: "2014-09-17T12:57:15+00:00"
 categories: [General]
 tags: []
+aliases: [/back-basics/]
 ---
 
 After a while things stop being new. Things that really used to excite you, stop exciting you. Things that you were passionate about, you stop being passionate about. That's just how things work.

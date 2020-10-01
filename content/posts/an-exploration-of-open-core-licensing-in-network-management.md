@@ -3,6 +3,7 @@ title: "An exploration of open core licensing in network management"
 date: "2010-02-25T10:18:52+00:00"
 categories: ["Network Management", "Open Source"]
 tags: ["open core"]
+aliases: [/an-exploration-of-open-core-licensing-in-network-management/]
 ---
 
 Open core refers to a business strategy employed by some commercial open source companies. The open core strategy is popular amongst companies within network management.

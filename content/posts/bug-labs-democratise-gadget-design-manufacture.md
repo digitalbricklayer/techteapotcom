@@ -3,6 +3,7 @@ title: "bug labs democratise gadget design &amp; manufacture"
 date: "2007-11-05T10:36:37+00:00"
 categories: [General]
 tags: []
+aliases: [/bug-labs-democratise-gadget-design-manufacture/]
 ---
 
 <img src="/images/uploads/2007/11/bug_logo_whiteback_sm.jpg" alt="Bug Labs Logo" align="right" />

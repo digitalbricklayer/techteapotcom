@@ -3,6 +3,7 @@ title: "Google's manifest destiny"
 date: "2008-04-09T10:50:20+00:00"
 categories: [General]
 tags: ["cloud computing"]
+aliases: [/googles-manifest-destiny/]
 ---
 
 Google is the new Microsoft.

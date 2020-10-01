@@ -3,6 +3,7 @@ title: "Survey results"
 date: "2008-10-20T14:26:25+00:00"
 categories: [General]
 tags: []
+aliases: [/survey-results/]
 ---
 
 I ran a survey a couple of weeks ago asking for feedback on The Tech Teapot. A number of you were kind enough to take the time to fill it in.

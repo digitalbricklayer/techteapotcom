@@ -3,6 +3,7 @@ title: "Popularity Contest Widget"
 date: "2007-10-29T16:19:03+00:00"
 categories: [General]
 tags: []
+aliases: [/popularity-contest-widget/]
 ---
 
 <strong>Update 2nd December 2008</strong>: The Popularity Contest Widget has now <a href="http://wordpress.org/extend/plugins/popularity-contest-widget/">moved to the wordpress.org site</a>. All updates will now appear on the new site.

@@ -3,6 +3,7 @@ title: "Banned from Pandora internet radio station"
 date: "2008-01-08T11:05:04+00:00"
 categories: [General]
 tags: []
+aliases: [/banned-from-pandora-internet-radio-station/]
 ---
 
 Sigh. Just received this email from the folks at <a href="http://www.pandora.com/">Pandora</a>. What a shame, Pandora is by far the best internet radio station out there.

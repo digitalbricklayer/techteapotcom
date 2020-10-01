@@ -3,6 +3,7 @@ title: "Oodles of disk space, just not in the right place"
 date: "2014-03-13T14:47:20+00:00"
 categories: [General]
 tags: []
+aliases: [/oodles-disk-space-just-right-place/]
 ---
 
 Over the last few months we've been having some email troubles. For a few months the emails would start to back up with our backup email provider and then almost immediately begin to flow normally again. More recently the periods when email was backing up come around faster and lasted longer.

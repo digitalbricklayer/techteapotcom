@@ -3,6 +3,7 @@ title: "Introducing Pandora FMS"
 date: "2008-12-18T09:00:12+00:00"
 categories: ["Network Management", "Open Source"]
 tags: ["Pandora FMS"]
+aliases: [/introducing-pandora-fms/]
 ---
 
 The open source systems management space sure is hotting up. <a href="http://pandorafms.org/">Pandora FMS</a> looks like a good emerging open source systems management tool.

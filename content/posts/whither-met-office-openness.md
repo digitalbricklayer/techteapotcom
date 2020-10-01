@@ -3,6 +3,7 @@ title: "Whither Met Office openness"
 date: "2008-03-28T09:42:01+00:00"
 categories: [General]
 tags: []
+aliases: [/whither-met-office-openness/]
 ---
 
 I'm currently in the process of putting together a unit test for an open source project. I wanted to use real <a href="http://www.metoffice.gov.uk/">met office</a> temperature data, ideally from around York or Leeds.

@@ -3,6 +3,7 @@ title: "Lessons learnt from the failure of TimeTag"
 date: "2010-01-15T14:02:40+00:00"
 categories: [General]
 tags: []
+aliases: [/lessons-learnt-from-the-failure-of-timetag/]
 ---
 
 I have a confession to make: I've developed a <a href="http://www.openxtra.co.uk/freestuff/timetag">failed open source project</a>! There I've said it, it's now public knowledge and I can hang my head in shame... lead me to the village stocks so you can all throw rotting vegetables at me.

@@ -3,6 +3,7 @@ title: "Signing off for 2008"
 date: "2008-12-23T12:43:01+00:00"
 categories: [General]
 tags: []
+aliases: [/signing-off-for-2008/]
 ---
 
 I'd like to thank all of you, my loyal readers, for sticking around throughout the last year. It looks like 2009 may prove to be even more interesting than this year... but probably not in a good way.

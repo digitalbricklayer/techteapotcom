@@ -3,6 +3,7 @@ title: "If you haven't made it by the time you reach age X, you never will"
 date: "2015-06-26T14:19:04+00:00"
 categories: [General]
 tags: []
+aliases: [/if-you-havent-made-it-by-the-time-you-reach-age-x-you-never-will/]
 ---
 
 I forget where I read that, but for a while it made me very unhappy. I was approaching X at the time and I most certainly had not "<em>made it</em>".

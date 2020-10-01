@@ -3,6 +3,7 @@ title: "Packet visualization with Rumint"
 date: "2007-08-23T14:56:33+00:00"
 categories: [General, "Protocol Analysis"]
 tags: []
+aliases: [/packet-visualization-with-rumint/]
 ---
 
 <img src="/images/uploads/2007/08/securitydataviz.jpg" alt="Security Data Visualization Book Cover" align="right" />

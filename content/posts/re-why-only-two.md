@@ -3,6 +3,7 @@ title: "RE: Why Only Two?"
 date: "2008-04-25T14:53:13+00:00"
 categories: [General]
 tags: []
+aliases: [/re-why-only-two/]
 ---
 
 John Willis over at <a href="http://www.johnmwillis.com/">IT Management and Cloud Blog</a> posted an <a href="http://www.johnmwillis.com/nagios/why-only-two/">interesting post</a> I'd like to reply to.

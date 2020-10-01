@@ -3,6 +3,7 @@ title: "Accessing raw data in Intellipool Network Monitor"
 date: "2007-06-19T14:34:05+00:00"
 categories: [General, "Network Monitoring"]
 tags: []
+aliases: [/accessing-raw-data-in-intellipool-network-monitor/]
 ---
 
 A number of you have asked for the ability to access the raw stats from your temperature monitor. So, I thought we'd better write it up for future reference.

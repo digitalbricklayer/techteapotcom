@@ -3,6 +3,7 @@ title: "OPENXTRA Console inducted into Google Gadget directory"
 date: "2007-02-15T10:33:09+00:00"
 categories: [General]
 tags: []
+aliases: [/openxtra-console-inducted-into-google-gadget-directory/]
 ---
 
 As I <a href="{{< ref "posts/gadget-ahoy.html" >}}">mentioned in a previous post</a> we now have a <a href="http://www.openxtra.co.uk/downloads/openxtra-console.php">Google Desktop Gadget</a>. We are pleased to announce that Google have now accepted our Gadget to go on their own Dekstop Gadget directory.

@@ -3,6 +3,7 @@ title: "IT run the servers, facilities run the air-con..."
 date: "2007-10-10T16:21:47+00:00"
 categories: [General, "Data Center"]
 tags: []
+aliases: [/it-run-the-servers-facilities-run-the-air-con/]
 ---
 
 <img src="/images/uploads/2007/10/thermometer.jpg" alt="An analog thermometer" style="border-left: 4px solid white" align="right" />

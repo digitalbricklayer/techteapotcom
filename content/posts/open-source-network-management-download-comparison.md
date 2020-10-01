@@ -3,6 +3,7 @@ title: "Open source network management download comparison"
 date: "2007-11-02T13:58:04+00:00"
 categories: ["Network Management", "Open Source"]
 tags: [nagios, Zenoss, Zabbix, "OpenNMS"]
+aliases: [/open-source-network-management-download-comparison/]
 
 ---
 

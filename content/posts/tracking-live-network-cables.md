@@ -3,6 +3,7 @@ title: "Tracking live network cables"
 date: "2007-08-24T09:01:39+00:00"
 categories: [Cabling]
 tags: []
+aliases: [/tracking-live-network-cables/]
 ---
 
 <img src="/images/uploads/2007/08/200px-cat5.jpg" alt="Category 5 cable" align="right" />

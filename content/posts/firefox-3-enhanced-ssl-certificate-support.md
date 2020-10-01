@@ -3,6 +3,7 @@ title: "Firefox 3 enhanced SSL certificate support"
 date: "2008-06-18T11:48:08+00:00"
 categories: [General]
 tags: []
+aliases: [/firefox-3-enhanced-ssl-certificate-support/]
 ---
 
 Firefox now has full <a href="http://en.wikipedia.org/wiki/Extended_Validation_Certificate">enhanced SSL certificate</a> support at last with the arrival of version 3. Enhanced SSL certificates verify that a website is owned by whomever claims to own it. Very useful in the largely anonymous Internet.<a href="/images/uploads/2008/06/firefox-ssl-cert-view.jpg"><img class="aligncenter size-full wp-image-439" title="firefox-ssl-cert-view" src="/images/uploads/2008/06/firefox-ssl-cert-view.jpg" alt="" width="500" height="18" /></a>

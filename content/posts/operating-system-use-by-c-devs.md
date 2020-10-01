@@ -3,6 +3,7 @@ title: "Operating System Use by C# Devs"
 date: "2015-04-01T13:19:11+00:00"
 categories: [General]
 tags: []
+aliases: [/operating-system-use-by-c-devs/]
 ---
 
 I started a <a href="http://csharpweekly.co/">C# newsletter</a> about a month ago. Nothing fancy, just a weekly digest of news and links related to C# programming and the related libraries and tools. I sent out the <a href="http://csharpweekly.co/issues/5#start">fifth issue</a> last Friday.

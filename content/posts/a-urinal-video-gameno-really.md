@@ -3,6 +3,7 @@ title: "A urinal video game...no, really!"
 date: "2007-08-10T09:01:28+00:00"
 categories: [General]
 tags: []
+aliases: [/a-urinal-video-gameno-really/]
 ---
 
 Great find by <a href="http://www.knowing.net/">Larry O'Brien</a>, a game to play whilst you're urinating. I wonder if it is multi-player?

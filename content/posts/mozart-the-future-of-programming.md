@@ -3,6 +3,7 @@ title: "Mozart the future of programming?"
 date: "2008-02-15T14:49:02+00:00"
 categories: [General]
 tags: []
+aliases: [/mozart-the-future-of-programming/]
 ---
 
 <img src="/images/uploads/2008/02/mozart-259x112.gif" alt="Mozart/Oz Logo" style="border-left: 4px solid white" />

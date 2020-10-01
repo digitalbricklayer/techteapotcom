@@ -3,6 +3,7 @@ title: '"New wave" network management buzz comparison'
 date: "2007-09-13T16:41:48+00:00"
 categories: ["Network Management", "Open Source"]
 tags: [Zenoss, Hyperic, "Groundwork Open Source"]
+aliases: [/new-wave-network-management-buzz-comparison/]
 ---
 
 <a href="http://www.google.com/trends">Google Trends</a> is an on-line service for comparing the search volumes for up to five keywords. I thought it would be interesting to compare the relative buzz of the <a href="{{< ref "posts/network-managements-new-wave.md" >}}">"<strong>new wave</strong>" open source network management players</a> between themselves, but also between other open source projects and commercial products.

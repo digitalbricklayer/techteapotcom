@@ -3,6 +3,7 @@ title: "Practical Packet Analysis Book"
 date: "2007-06-22T09:01:17+00:00"
 categories: ["Protocol Analysis"]
 tags: []
+aliases: [/practical-packet-analysis-book/]
 ---
 
 <a href='/images/uploads/2007/06/packet_big.jpg' title='Practical Packet Analysis'><img src='/images/uploads/2007/06/packet_big.jpg' alt='Practical Packet Analysis' /></a>

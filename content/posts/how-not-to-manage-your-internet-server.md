@@ -3,6 +3,7 @@ title: "How not to manage your internet server"
 date: "2007-09-25T15:45:04+00:00"
 categories: [General]
 tags: []
+aliases: [/how-not-to-manage-your-internet-server/]
 ---
 
 Our internet server managed to restart itself over night. That makes me feel <em>real</em> uncomfortable. Was the server shut down by the ISP as part of routine maintenance without telling us or did the server ABEND?

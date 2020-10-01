@@ -3,6 +3,7 @@ title: "Dia the open source Visio"
 date: "2008-11-12T16:24:20+00:00"
 categories: ["Network Mapping", "Open Source"]
 tags: [dia, visio]
+aliases: [/dia-the-open-source-visio/]
 ---
 
 If you need to create quick and easy diagrams but can't justify a full priced tool like <a href="http://www.smartdraw.com/">SmartDraw</a> or <a href="http://office.microsoft.com/visio">Visio</a> then you're in luck. <a href="http://projects.gnome.org//dia/">Dia is an open source diagramming tool</a> that will make a welcome addition to your diagramming toolkit.

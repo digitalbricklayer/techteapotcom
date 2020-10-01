@@ -3,6 +3,7 @@ title: "Lessons learnt writing open source software"
 date: "2008-01-09T18:42:40+00:00"
 categories: [General, "Open Source"]
 tags: []
+aliases: [/lessons-learnt-writing-open-source-software/]
 ---
 
 I don't suppose many of you know my dirty little secret: I'm a failure. There I've said it. I founded an <a href="http://www.logfilter.org/">open source project</a> and failed miserably. Sorry! Please wait there whilst I go outside to self-flagellate...that's better the open source gods have been salved.

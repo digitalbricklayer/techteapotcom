@@ -3,6 +3,7 @@ title: "PowerShell Community Extensions well worth a look"
 date: "2007-07-03T12:14:41+00:00"
 categories: [General]
 tags: [powershell]
+aliases: [/powershell-community-extensions-well-worth-a-look/]
 ---
 
 I'm a fan of Windows PowerShell <a href="{{< ref "posts/heads-up-windows-powershell.md" >}}">as I've mentioned before</a>. I think it is going to be a boon for Windows admins everywhere.

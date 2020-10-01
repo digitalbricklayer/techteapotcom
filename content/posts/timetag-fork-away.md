@@ -3,6 +3,7 @@ title: "TimeTag fork away!"
 date: "2012-02-21T15:09:37+00:00"
 categories: [General]
 tags: []
+aliases: [/timetag-fork-away/]
 ---
 
 I finally got around to posting the <a href="http://www.openxtra.co.uk/freestuff/timetag">TimeTag</a> source code up on <del><a href="http://code.google.com/">Google Code</a></del> <a title="Continuous delivery every single day" href="http://github.com/">GitHub</a> this afternoon. You can find the project <a href="http://github.com/openxtra/TimeTag">here</a>.

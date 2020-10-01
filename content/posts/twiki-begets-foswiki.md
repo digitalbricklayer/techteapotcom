@@ -3,6 +3,7 @@ title: "TWiki begets Foswiki"
 date: "2008-12-05T09:00:56+00:00"
 categories: [General]
 tags: []
+aliases: [/twiki-begets-foswiki/]
 ---
 
 At the end of October I mentioned a <a href="{{< ref "posts/when-open-source-goes-wrong.md" >}}">project called Twiki that was in the process of being forked</a> because the project creator wanted to take the project down the commercial open source route.

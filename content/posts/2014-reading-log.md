@@ -3,7 +3,7 @@ title: "My 2014 Reading Log"
 date: "2015-01-20T12:43:22+00:00"
 categories: [General]
 tags: []
-aliases: ["/2014-reading-log/"]
+aliases: [/2014-reading-log/]
 ---
 
 A [list of all of the books I read in 2014 and logged in Good Reads](http://www.goodreads.com/review/list/5896009-jack?shelf=read), I read a few more technical books but didn't log them for whatever reason.
@@ -26,11 +26,9 @@ Simon Parkes: <strong>Live at the Brixton Academy: A rioutous life in the music 
 
 <span style="color: #ff0000;">May</span>
 
-Christopher Priest: <strong>Inverted World</strong> (Fiction)<strong>
-</strong>
+Christopher Priest: <strong>Inverted World</strong> (Fiction)
 
-Philip K. Dick: <strong>VALIS</strong> (Fiction)<strong>
-</strong>
+Philip K. Dick: <strong>VALIS</strong> (Fiction)
 
 Lee Campbell: <strong>Introduction to Rx</strong> (Non-Fiction)
 
@@ -40,7 +38,8 @@ Lee Campbell: <strong>Introduction to Rx</strong> (Non-Fiction)
 Neil Gaiman: <strong>Neverwhere</strong> (Fiction)
 
 <span style="color: #ff0000;">August</span>
-<span style="color: #ff0000;"> September</span>
+
+<span style="color: #ff0000;">September</span>
 
 Fred Hoyle: <strong>A for Andromeda</strong> (Fiction)
 

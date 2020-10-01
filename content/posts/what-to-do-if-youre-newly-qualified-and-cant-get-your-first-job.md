@@ -3,6 +3,7 @@ title: "What to do if you're newly qualified and can't get your first job"
 date: "2008-11-17T12:30:25+00:00"
 categories: [General]
 tags: []
+aliases: [/what-to-do-if-youre-newly-qualified-and-cant-get-your-first-job/]
 ---
 
 In the early nineties I managed to time my emergence from college to exactly coincide with the beginning of the last recession.

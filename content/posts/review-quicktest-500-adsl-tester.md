@@ -3,6 +3,7 @@ title: "Review of the Quicktest 500 ADSL Tester"
 date: "2010-02-17T12:58:51+00:00"
 categories: [General]
 tags: []
+aliases: [/review-quicktest-500-adsl-tester/]
 ---
 
 {{< figure src="/images/uploads/2010/02/quicktest-500.jpg" width="550" height="413" title="Front of the Vonaq Quicktest 500" alt="Quicktest 500 Front Photo" link="/images/uploads/2010/02/quicktest-500.jpg" >}}

@@ -3,6 +3,7 @@ title: "Centreon - Nagios remixed"
 date: "2008-12-16T13:33:37+00:00"
 categories: ["Network Management"]
 tags: [centreon, nagios]
+aliases: [/centreon-nagios-remixed/]
 ---
 
 One of the problems with Nagios is that initial set up &amp; configuration can be intimidating to the new user. There are a <a href="{{< ref "posts/top-3-easy-nagios-setup-options.md">}}">number of methods for easing the initial installation problems</a>, but you are still left with an intimidating configuration process.

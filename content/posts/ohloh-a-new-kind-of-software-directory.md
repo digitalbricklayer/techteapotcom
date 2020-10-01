@@ -3,6 +3,7 @@ title: "Ohloh, a new kind of software directory?"
 date: "2007-08-02T09:01:35+00:00"
 categories: [General]
 tags: []
+aliases: [/ohloh-a-new-kind-of-software-directory/]
 ---
 
 Mark Hinkle over at Zenoss mentioned Ohloh, a new open source software directory. Good find Mark!

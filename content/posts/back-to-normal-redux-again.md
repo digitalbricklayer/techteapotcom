@@ -3,6 +3,7 @@ title: "Back to normal redux, again"
 date: "2008-01-16T16:16:50+00:00"
 categories: [General]
 tags: []
+aliases: [/back-to-normal-redux-again/]
 ---
 
 Apologies for the downtime over the last day or so. What started as a small hard disk failure turned into a much larger problem when the remaining disk started having intermittent errors and the server itself collapsed too. Fortunately, we are paranoid enough to take our own backups in addition to the ISP backups. Good job we did!

@@ -3,6 +3,7 @@ title: '"New wave" network management licences'
 date: "2007-06-25T10:14:10+00:00"
 categories: ["Network Management", "Open Source"]
 tags: [Hyperic, Zenoss, "Groundwork Open Source"]
+aliases: [/new-wave-network-management-licences/]
 ---
 
 Michael Tiemann made an interesting post titled <a href="http://www.opensource.org/node/163">Will the Real Open Source CRM Please Stand Up</a>. Alex Fletcher wrote <a href="http://alexfletcher.typepad.com/all_bets_off/2007/06/thoughts-on-osi.html">an interesting follow up</a>.

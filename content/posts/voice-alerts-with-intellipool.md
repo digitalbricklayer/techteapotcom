@@ -3,6 +3,7 @@ title: "Voice alerts with Intellipool or pretty well anything"
 date: "2007-10-30T18:20:38+00:00"
 categories: [General]
 tags: [Intellipool]
+aliases: [/voice-alerts-with-intellipool/]
 ---
 
 Thanks to Robert @ Intellipool for alerting me to this one.

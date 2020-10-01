@@ -3,6 +3,7 @@ title: "Hub projects in open source network management"
 date: "2008-05-08T09:09:06+00:00"
 categories: ["Open Source", "Network Management"]
 tags: []
+aliases: [/hub-projects-in-open-source-network-management/]
 ---
 
 Almost as a doodle I thought I'd create a graph depicting the dependencies between a selection of open source  network management projects.
