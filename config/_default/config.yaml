@@ -6,6 +6,6 @@ enableEmoji: true
 taxonomies:
   category: categories
   tag: tags
-disqusShortname: "" # Enable Disqus comments by entering your Disqus shortname
-googleAnalytics: "UA-71383-41" # Enable Google Analytics by entering your tracking id
+disqusShortname: "techteapot-com"
+googleAnalytics: "UA-71383-41"
 enableRobotsTXT: true
