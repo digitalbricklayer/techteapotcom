@@ -1,21 +1,21 @@
 main:                                       #    - Name of the menu
-- identifier: home
+  - identifier: home
     name: Home
     url: /
     weight: 1
-- identifier: posts
+  - identifier: posts
     name: Posts
     url: /posts/
     weight: 2
-- identifier: contact
+  - identifier: contact
     name: Contact
     url: /contact/
     weight: 3
-- identifier: about
+  - identifier: about
     name: About
     url: /about/
     weight: 4
-- identifier: subscribe
+  - identifier: subscribe
     name: Subscribe
     url: /sign-up/
     weight: 5
