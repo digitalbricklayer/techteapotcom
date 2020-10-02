@@ -1,5 +1,0 @@
-[[redirects]]
-  from = "https://<your-site-name>.netlify.app/*"
-  to = "https://www.<your-custom-domain>/:splat"
-  status = 301
-  force = true
