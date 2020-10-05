@@ -12,20 +12,16 @@
   # Default build command - picks up HUGO_ENV defined inside context
   command = "hugo"
 
-# Production context: this is the live website
+# Production context: this is the live website (master branch)
 [context.production]
+  command = "hugo"
 
 [context.production.environment]
   HUGO_ENV = production
 
-# 'develop' is where site development happens
+# 'develop' is the branch where site development happens
 [context.develop]
+  command = "hugo"
 
 [context.develop.environment]
   HUGO_ENV = development
-
-# For contexts of branches with special characters, enclose the branch name
-# with quotes.
-#[context."feat/branch"]
-#  command = "echo 'special branch'"
-#  base = "branch"
