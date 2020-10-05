@@ -5,19 +5,14 @@
   # directory located at the absolute path "root/project/build-output"
   publish = "public/"
 
-  # Default build command - picks up HUGO_ENV defined inside context
+  # Default build command - build production site. Can be overriden below for
+  # specific branches.
   command = "hugo"
 
 # Production context: this is the live website (master branch)
 [context.production]
-  command = "hugo"
-
-[context.production.environment]
-  HUGO_ENV = "production"
+  command = "hugo --environment production"
 
 # 'develop' is the branch where site development happens
 [context.develop]
-  command = "hugo"
-
-[context.develop.environment]
-  HUGO_ENV = "development"
+  command = "hugo --environment development"
