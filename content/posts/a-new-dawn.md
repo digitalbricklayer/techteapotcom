@@ -1,9 +1,8 @@
 ---
 title: "A new dawn for The Tech Teapot"
-date: "2020-10-05"
+date: "2020-10-06"
 categories: [General]
 tags: [Hugo]
-draft: true
 ---
 
 The Tech Teapot first started in late 2006. It wasn't called that then, it started out as the blog for [OPENXTRA Ltd.](https://www.openxtra.co.uk/), a company I co-founded all the way back in 2003.
@@ -35,4 +34,12 @@ One of the nicer things about static websites is they are very cheap to host. Yo
 
 {{< figure src="/images/tech-teapot-hugo-compilation.png#center" title="Compiling the Tech Teapot from the command line" alt="Compiling the Tech Teapot" >}}
 
-All of the Hugo code is executed when the website is compiled into static web pages. The web server receives a request from your browser, the web server then chooses which file to pick up off the disk and send it as quickly as possible back to the browser. Contrast that with what happens with a typical CMS. You request a page in your browser, the web server then executes some code on the server typically PHP. The code then decides what content is required, and retrieves it from the database. Multiple requests to the database will likely be required for each page. The web server then returns the page when it has been processed properly back to the browser. Much of the above can be avoided by the user of a web cache which will likely be as fast or even faster than a static site if the cache is warm i.e. the page is already in the cache. But, it is quite complex to get all of those pieces working together. With Hugo the complexity is confined to ensuring the compiled output, the website is as your desire it. Deployment is relatively simple.
+There are a number of ways you can host a static site:
+
+1. Self host on your own server or from one of the many web hosting providers. Even a very small virtual server would be capable of hosting quite a large site. The only software you need is a web server capable of serving static files like NGINX or Apache;
+2. Host using one of the cloud providers like Microsoft Azure or Amazon AWS. Microsoft have a great [document explaining how to host a static site on Microsoft Azure](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-static-website). Amazon have a pretty [good document too](https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html);
+3. Use a dedicated static file host like [Netlify](https://www.netlify.com/) or [Github Pages](https://pages.github.com/).
+
+The first two options are quite complex because you need to set up a CI/CD pipeline to produce compile your static site and then deploy it. Not by any means impossible but it does introduce a number of moving parts.
+
+Option three is my happy place of static hosting. It really does not get any easier than this. The dedicated static hosting providers have set up the CI / CD pipeline for you, you just point them at your git repo and they will build it for you. And the best thing? Netlify has a [free tier](https://www.netlify.com/pricing/) (which I'm currently using) and Github Pages is also free so long as your site has an open licence.
