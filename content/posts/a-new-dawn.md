@@ -2,7 +2,7 @@
 title: "A new dawn for The Tech Teapot"
 date: "2020-10-05"
 categories: [General]
-tags: []
+tags: [Hugo]
 draft: true
 ---
 
@@ -35,4 +35,4 @@ One of the nicer things about static websites is they are very cheap to host. Yo
 
 {{< figure src="/images/tech-teapot-hugo-compilation.png#center" title="Compiling the Tech Teapot from the command line" alt="Compiling the Tech Teapot" >}}
 
-All of the Hugo code is executed when the website is compiled into static web pages. The web server chooses which file to pick up off the disk and send it as quickly as possible to the user's browser.
+All of the Hugo code is executed when the website is compiled into static web pages. The web server receives a request from your browser, the web server then chooses which file to pick up off the disk and send it as quickly as possible back to the browser. Contrast that with what happens with a typical CMS. You request a page in your browser, the web server then executes some code on the server typically PHP. The code then decides what content is required, and retrieves it from the database. Multiple requests to the database will likely be required for each page. The web server then returns the page when it has been processed properly back to the browser. Much of the above can be avoided by the user of a web cache which will likely be as fast or even faster than a static site if the cache is warm i.e. the page is already in the cache. But, it is quite complex to get all of those pieces working together. With Hugo the complexity is confined to ensuring the compiled output, the website is as your desire it. Deployment is relatively simple.
