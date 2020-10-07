@@ -11,7 +11,7 @@
 
 # Production context: this is the live website (master branch)
 [context.production]
-  command = "hugo --environment production"
+  command = "hugo --environment production --minify"
 
 # 'develop' is the branch where site development happens
 [context.develop]
