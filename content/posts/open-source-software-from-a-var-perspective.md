@@ -29,7 +29,7 @@ The main problem with VARs morphing into open source consultants is that the pro
 
 After all, most of the revenue garnered from "<em>big 4</em>" (<span class="highlightedSearchTerm">HP</span> Openview, IBM <span class="highlightedSearchTerm">T</span>ivoli, CA Unicen<span class="highlightedSearchTerm">t</span>er, BMC Pa<span class="highlightedSearchTerm">t</span>rol) sales come from training and consultancy services not from license sales.
 
-The <a href="{{< ref "posts/network-managements-new-wave.md" >}}">new wave open source network &amp; systems management</a> companies are all venture funded. Somewhere in their respective business plans I'm sure training and consultancy feature very highly in their monetisation strategies. Indeed the new wave deliberately sacrifice some of the lucrative "<em>big 4</em>" software license sales in order to get hold of the training and consultancy business. I doubt they are going to be too enthusiastic cutting other people in on the deal.
+The <a href="{{< ref "/posts/network-managements-new-wave.md" >}}">new wave open source network &amp; systems management</a> companies are all venture funded. Somewhere in their respective business plans I'm sure training and consultancy feature very highly in their monetisation strategies. Indeed the new wave deliberately sacrifice some of the lucrative "<em>big 4</em>" software license sales in order to get hold of the training and consultancy business. I doubt they are going to be too enthusiastic cutting other people in on the deal.
 <h2>Older is better?</h2>
 On the other hand, there are a number of self funded projects like <a href="http://www.opennms.org/">OpenNMS</a> and <a href="http://www.nagios.org/">Nagios</a>. Do they offer better opportunities for VARs?
 

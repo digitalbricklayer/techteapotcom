@@ -8,7 +8,7 @@ aliases: [/everything-has-metrics-even-this-blog/]
 
 I was struck by something that Tim Nash said in the <a href="http://lanyrd.com/2013/wpleeds/">August Wordpress Leeds meeting</a>. He did an interesting talk about blog metrics. One of those metrics was the number of subscribers.
 
-This blog has around the 600 - 880 subscribers depending upon when you happen to log into Feedburner. Things have become a lot less stable <a href="{{< ref "posts/google-reader-is-dead-long-live-feedly.md" >}}">since the demise of Google Reader</a>.
+This blog has around the 600 - 880 subscribers depending upon when you happen to log into Feedburner. Things have become a lot less stable <a href="{{< ref "/posts/google-reader-is-dead-long-live-feedly.md" >}}">since the demise of Google Reader</a>.
 
 One of the things that Tim said is that, if your blog is not enlisting new subscribers, it is probably not hitting the sweet spot with visitors.
 

@@ -6,7 +6,7 @@ tags: [powershell]
 aliases: [/powershell-community-extensions-well-worth-a-look/]
 ---
 
-I'm a fan of Windows PowerShell <a href="{{< ref "posts/heads-up-windows-powershell.md" >}}">as I've mentioned before</a>. I think it is going to be a boon for Windows admins everywhere.
+I'm a fan of Windows PowerShell <a href="{{< ref "/posts/heads-up-windows-powershell.md" >}}">as I've mentioned before</a>. I think it is going to be a boon for Windows admins everywhere.
 
 We've had a stab at support for it too.
 

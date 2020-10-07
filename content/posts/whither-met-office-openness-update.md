@@ -6,7 +6,7 @@ tags: []
 aliases: [/whither-met-office-openness-update/]
 ---
 
-A couple of months ago or so <a href="{{< ref "posts/whither-met-office-openness.md" >}}">I lamented the fact that the raw temperature data from the UK met office is not publicly available</a>.
+A couple of months ago or so <a href="{{< ref "/posts/whither-met-office-openness.md" >}}">I lamented the fact that the raw temperature data from the UK met office is not publicly available</a>.
 
 I've just received some further feedback from the Met Office.
 

@@ -24,7 +24,7 @@ But, real time data processing does present a number of challenges to any implem
 <h2>Client / Server Communication</h2>
 Put a lot of effort into the software connecting to your cloud service. You will save yourself a lot of pain if the client is able to handle down time on the cloud side without losing data.
 
-Getting outside of the customer's firewall can be quite an effort. The more enterprise your customer, the more support effort it will be. <a href="{{< ref "posts/adding-anything-external-to-your-software-will-tripple-support.md" >}}">Expect an enhanced support effort</a> even when using well supported protocols like HTTPS. If you are using something more exotic, expect an even bigger effort, especially if a new port has to be opened in the corporate firewall. That's gonna be painful and the customer will blame you.
+Getting outside of the customer's firewall can be quite an effort. The more enterprise your customer, the more support effort it will be. <a href="{{< ref "/posts/adding-anything-external-to-your-software-will-tripple-support.md" >}}">Expect an enhanced support effort</a> even when using well supported protocols like HTTPS. If you are using something more exotic, expect an even bigger effort, especially if a new port has to be opened in the corporate firewall. That's gonna be painful and the customer will blame you.
 
 Make sure your customer can test the connection from the client to the server easily and provide great diagnostic information upon failure.
 
@@ -48,7 +48,7 @@ There are lots of tools like <a href="http://www.loggly.com/">loggly </a>for rea
 <h2>Testing</h2>
 Unit testing is great but don't forget the integration tests. There are bugs that will fall between the cracks of a unit test, test the system as a whole too. You don't need to test everything with integration tests, just the parts of the system likely to fail when talking to external components that are usually <a href="http://stackoverflow.com/questions/463278/what-is-a-stub">stubbed out of your unit tests</a>, like the database, email server and SMS sender.
 <h2>Deployment</h2>
-Automate deployment of the whole system. You need to be able deploy new versions at the push of a <em>single</em> button. Tools are available to make automated deployment quite simple and straight forward. We've used <a href="http://octopusdeploy.com/">Octopus Deploy</a> for the last two years and <a href="{{< ref "posts/continuous-delivery-every-single-day.md" >}}">find it invaluable</a>. It is free for small deployments too, so no excuses. Other stacks like Ruby, Node and Java all have rich ecosystems of tools for automated deployment too.
+Automate deployment of the whole system. You need to be able deploy new versions at the push of a <em>single</em> button. Tools are available to make automated deployment quite simple and straight forward. We've used <a href="http://octopusdeploy.com/">Octopus Deploy</a> for the last two years and <a href="{{< ref "/posts/continuous-delivery-every-single-day.md" >}}">find it invaluable</a>. It is free for small deployments too, so no excuses. Other stacks like Ruby, Node and Java all have rich ecosystems of tools for automated deployment too.
 
 Architect the site so that the machine to machine part is seperate from the user interface part of the site. The chances are that the machine to machine part will not change very much, whereas the user interface will change much more frequently.
 

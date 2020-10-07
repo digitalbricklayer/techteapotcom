@@ -6,7 +6,7 @@ tags: ["OpenNMS"]
 aliases: [/opennms-for-windows-now-available/]
 ---
 
-As promised in the <a href="{{< ref "posts/opennms-coming-soon-to-windows.md" >}}">OpenNMS coming soon to Windows</a> post, OpenNMS 1.3.8 has now been released with Windows support &amp; an installer.
+As promised in the <a href="{{< ref "/posts/opennms-coming-soon-to-windows.md" >}}">OpenNMS coming soon to Windows</a> post, OpenNMS 1.3.8 has now been released with Windows support &amp; an installer.
 
 Tarus Balog announced the release and the <a href="http://www.racoonfink.com/archives/000742.html">developer too</a>.
 

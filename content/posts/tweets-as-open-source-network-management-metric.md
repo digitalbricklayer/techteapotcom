@@ -14,6 +14,6 @@ I thought that it would be an interesting, though not especially significant, me
 
 The graph above shows the number of twits in which <a href="http://www.zenoss.org/">Zenoss</a>, <a href="http://www.nagios.org/">Nagios</a>, <a href="http://www.hyperic.org/">Hyperic</a>, <a href="http://www.opennms.org/">OpenNMS</a> or <a href="http://oss.oetiker.ch/mrtg/">MRTG</a> were mentioned according to the TweetVolume algorithm.
 
-The graph <a href="{{< ref "posts/new-wave-network-management-buzz-comparison.md" >}}">once again shows that Nagios is ahead of everybody</a>. The rest are too close to draw any meaningful conclusions.
+The graph <a href="{{< ref "/posts/new-wave-network-management-buzz-comparison.md" >}}">once again shows that Nagios is ahead of everybody</a>. The rest are too close to draw any meaningful conclusions.
 
 You can <a href="http://www.tweetvolume.com/index.php?search_phrases=zenoss,nagios,hyperic,opennms,mrtg">experiment yourself</a>. Enjoy!

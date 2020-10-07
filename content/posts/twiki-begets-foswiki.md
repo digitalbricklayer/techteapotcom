@@ -6,6 +6,6 @@ tags: []
 aliases: [/twiki-begets-foswiki/]
 ---
 
-At the end of October I mentioned a <a href="{{< ref "posts/when-open-source-goes-wrong.md" >}}">project called Twiki that was in the process of being forked</a> because the project creator wanted to take the project down the commercial open source route.
+At the end of October I mentioned a <a href="{{< ref "/posts/when-open-source-goes-wrong.md" >}}">project called Twiki that was in the process of being forked</a> because the project creator wanted to take the project down the commercial open source route.
 
 The community behind TWiki wasn't too pleased about this. Consequently, they have forked the TWiki code and have founded the <a href="http://foswiki.org/Home/WebHome">Foswiki project</a> in order to continue development.

@@ -6,7 +6,7 @@ tags: [hyperic]
 aliases: [/hyperic-joins-springsource/]
 ---
 
-Congrats to <a href="http://www.hyperic.com/blog/springsource/">Hyperic for the purchase by SpringSource</a>. If you'd bet me which of the <a href="{{< ref "posts/network-managements-new-wave.md" >}}">new wave</a> were going to be bought first I would have bet on <a href="http://www.hyperic.com/">Hyperic</a> every time.
+Congrats to <a href="http://www.hyperic.com/blog/springsource/">Hyperic for the purchase by SpringSource</a>. If you'd bet me which of the <a href="{{< ref "/posts/network-managements-new-wave.md" >}}">new wave</a> were going to be bought first I would have bet on <a href="http://www.hyperic.com/">Hyperic</a> every time.
 
 What is most gratifying about the purchase is that it is an open source company doing the buying. Whilst I think it unlikely, one of the concerns many people have about the new wave is: what happens if they get swallowed up by some proprietary software company with absolutely no clue about open source.
 

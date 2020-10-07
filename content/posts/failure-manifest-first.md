@@ -12,7 +12,7 @@ Whether the polling interval is every few seconds, one minute or ten minutes or 
 
 The network monitor is unlikely to be the first system to spot a problem. If the network monitor won't be the first to spot a problem, what will?
 
-In our systems, the first place <a href="{{< ref "posts/oodles-disk-space-just-right-place.md" >}}">where a problem will manifest itself</a> is in a log of some kind. Be that a text based log or something like Windows event log.
+In our systems, the first place <a href="{{< ref "/posts/oodles-disk-space-just-right-place.md" >}}">where a problem will manifest itself</a> is in a log of some kind. Be that a text based log or something like Windows event log.
 
 If your website returns s 5XX status code, then your log file will record the fault long before your network monitor will make a request that returns a 5XX code.
 

@@ -6,7 +6,7 @@ tags: []
 aliases: [/network-managements-downward-trend/]
 ---
 
-The most puzzling aspect of the <a href="{{< ref "posts/new-wave-network-management-buzz-comparison.md" >}}">New wave network management buzz comparison</a> is the OpenView &amp; NetIQ graph. I find it hard to believe that either OpenView or NetIQ are losing traction in the marketplace. So, how do you explain the fall in their respective number of searches?
+The most puzzling aspect of the <a href="{{< ref "/posts/new-wave-network-management-buzz-comparison.md" >}}">New wave network management buzz comparison</a> is the OpenView &amp; NetIQ graph. I find it hard to believe that either OpenView or NetIQ are losing traction in the marketplace. So, how do you explain the fall in their respective number of searches?
 
 <h2>Network management vs network monitor</h2>
 

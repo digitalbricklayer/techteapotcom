@@ -11,7 +11,7 @@ One of the great things about <a href="http://www.sourceforge.net/">sourceforge<
 
 One of the stats that sourceforge provides is a history of project downloads. You can't compare the stats though. So I thought it would be interesting to compare the downloads for the major open source network management projects.
 
-The volume of downloads is indicative, like <a href="{{< ref "posts/new-wave-network-management-buzz-comparison.md" >}}">search trends</a>, of the relative mind share for each project. Download volume isn't a perfect measure, but it is one of the best available. I doubt even the projects themselves have an absolutely accurate idea of how many installations they have.
+The volume of downloads is indicative, like <a href="{{< ref "/posts/new-wave-network-management-buzz-comparison.md" >}}">search trends</a>, of the relative mind share for each project. Download volume isn't a perfect measure, but it is one of the best available. I doubt even the projects themselves have an absolutely accurate idea of how many installations they have.
 
 I entered the <a href="https://docs.google.com/spreadsheets/d/1rWdCarr1RZ6l9aRYM0ZMah5J1_-UlIwXIk7Mr4Fok_U/pubhtml">download data from sourceforge for the last year into a Google Spreadsheet</a>. I then graphed the data. See the graphs below. The data covers the previous year, from November 2006 through to October 2007.
 
@@ -23,9 +23,9 @@ Figure 2: <strong>Open Source Network Management Projects Total Downloads</stron
 
 I've compared five projects: <a href="http://www.nagios.org/">Nagios</a>, <a href="http://www.opennms.org/">OpenNMS</a>, <a href="http://www.zenoss.org/">Zenoss</a>, <a href="http://www.hyperic.com/">Hyperic</a> &amp; <a href="http://www.groundworkopensource.com/">Groundwork Open Source</a> all of whom host their downloads at sourceforge.
 
-I doubt the graph will surprise too many people. The graph is <a href="{{< ref "posts/new-wave-network-management-buzz-comparison.md" >}}">similar to the Google Trends data</a>. Both Nagios and Zenoss are vying for the top position. What has surprised me over the last year has been the stability of the number of Nagios downloads.
+I doubt the graph will surprise too many people. The graph is <a href="{{< ref "/posts/new-wave-network-management-buzz-comparison.md" >}}">similar to the Google Trends data</a>. Both Nagios and Zenoss are vying for the top position. What has surprised me over the last year has been the stability of the number of Nagios downloads.
 
-If the growth of the "<em><a href="{{< ref "posts/network-managements-new-wave.md" >}}">new wave</a></em>" is coming from other open source projects, it isn't coming from either Nagios or OpenNMS, the most mature "<em>old skool</em>" open source network management projects.
+If the growth of the "<em><a href="{{< ref "/posts/network-managements-new-wave.md" >}}">new wave</a></em>" is coming from other open source projects, it isn't coming from either Nagios or OpenNMS, the most mature "<em>old skool</em>" open source network management projects.
 
 I don't think there is much doubt that both Zenoss &amp; Hyperic have brought commercial levels of setup and configuration to the open source network management market. And yet, Nagios a tool that relies on manual configuration, is still gaining traction.
 

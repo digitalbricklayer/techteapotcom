@@ -8,7 +8,7 @@ aliases: [/musings-upon-the-open-core-functionality-ceiling/]
 
 One of the things you'd expect from an active open source project is that the code base is likely to grow as more and more features are added.
 
-In <a href="{{< ref "posts/an-exploration-of-open-core-licensing-in-network-management.md" >}}">An exploration of open core licensing in network management</a> I mentioned that one possible side effect of open core software is the creation of a <em>functionality ceiling</em>.
+In <a href="{{< ref "/posts/an-exploration-of-open-core-licensing-in-network-management.md" >}}">An exploration of open core licensing in network management</a> I mentioned that one possible side effect of open core software is the creation of a <em>functionality ceiling</em>.
 
 A <em>functionality ceiling</em> is a level of functionality beyond which the <em>community</em> edition product manager is unwilling to implement because of the fear that the <em>enterprise</em> product will be less attractive to potential customers.
 

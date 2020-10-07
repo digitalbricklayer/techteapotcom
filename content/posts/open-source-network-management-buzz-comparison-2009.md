@@ -6,7 +6,7 @@ tags: [nagios, wireshark, "OpenNMS", "MRTG"]
 aliases: [/open-source-network-management-buzz-comparison-2009/]
 ---
 
-I did a <a href="{{< ref "posts/open-source-network-management-buzz-comparison-2008.md" >}}">comparison of the buzz for the leading open source network management tools in 2008</a> so I thought it would be interesting to do the same comparison for 2009 and see what's changed.
+I did a <a href="{{< ref "/posts/open-source-network-management-buzz-comparison-2008.md" >}}">comparison of the buzz for the leading open source network management tools in 2008</a> so I thought it would be interesting to do the same comparison for 2009 and see what's changed.
 
 As I did last year, I've compared the number of searches for the project name using Google Trends. As always, this post is not intended to be indicative of the usefulness of a particular tool to your requirements.
 <h2>Open Source Network Management System Trends</h2>
@@ -15,7 +15,7 @@ Firstly a comparison of the major players in open source network management: <a 
 {{< figure src="/images/uploads/2010/01/zenoss-vs-hyperic-vs-nagios-vs-mrtg-vs-opennms.png" width="588" height="326" title="Open Source Network Management System Trend 2009" alt="Open Source Network Management System Trend 2009" link="/images/uploads/2010/01/zenoss-vs-hyperic-vs-nagios-vs-mrtg-vs-opennms.png" >}}
 
 <h2>A Comparison of the Nagios Ecosystem</h2>
-Whilst the above graph showed a reduction in the relative number of searches for Nagios, perhaps the Nagios ecosystem graph can explain it. <a href="http://www.icinga.org/"><strong>Icinga</strong></a>, a Nagios fork, was <a href="{{< ref "posts/nagios-begets-icinga.md" >}}">created during 2009</a> and may be responsible for at least some of the decline. Icinga appears on the graph during late April and has a steady presence throughout the rest of 2009 save for a small period during the Christmas break.
+Whilst the above graph showed a reduction in the relative number of searches for Nagios, perhaps the Nagios ecosystem graph can explain it. <a href="http://www.icinga.org/"><strong>Icinga</strong></a>, a Nagios fork, was <a href="{{< ref "/posts/nagios-begets-icinga.md" >}}">created during 2009</a> and may be responsible for at least some of the decline. Icinga appears on the graph during late April and has a steady presence throughout the rest of 2009 save for a small period during the Christmas break.
 
 {{< figure src="/images/uploads/2010/01/nagios-vs-centreon-vs-opsview-vs-icinga.png" width="589" height="327" title="A Comparison of the Nagios Ecosystem 2009" alt="A Comparison of the Nagios Ecosystem 2009" link="/images/uploads/2010/01/nagios-vs-centreon-vs-opsview-vs-icinga.png" >}}
 
