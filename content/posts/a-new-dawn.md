@@ -43,3 +43,5 @@ There are a number of ways you can host a static site:
 The first two options are quite complex because you need to set up a CI/CD pipeline to compile your static site and then deploy the result. Not by any means impossible but it does introduce a number of moving parts.
 
 Option three is my happy place of static hosting. It really does not get any easier than this. The dedicated static hosting providers have set up the CI / CD pipeline for you, you just point them at your git repo and they will build it for you. And the best thing? Netlify has a [free tier](https://www.netlify.com/pricing/) (which I'm currently using) and Github Pages is also free so long as your site has an open licence.
+
+All told the conversion process has taken a couple of weeks or so. Not quick by any means, but certainly not too excessive. Much of the process in the later stages was taken with redirecting old pages and the like. If you are starting afresh, then you'll find the process a lot quicker.
