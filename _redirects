@@ -1,0 +1,90 @@
+# Redirects for the old blog content
+/2006/12/14/the-great-domain-telephone-test/ /the-great-domain-telephone-test/
+/2007/03/13/e-commerce-filtering-enhancements/ /e-commerce-filtering-enhancements/
+/2007/04/20/simpler-product-selection-coming-soon/ /simpler-product-selection-coming-soon/
+/2007/06/25/new-wave-network-management-licences/ /new-wave-network-management-licences/
+/2007/07/20/ann-product-comparison-now-available-for-power-switches-and-telephone-testers/ /ann-product-comparison-now-available-for-power-switches-and-telephone-testers/
+/2007/08/07/chris-sanders-interview/ /chris-sanders-interview/
+/2006/11/28/strictly-fun-dancing-with-the-falcom-samba-55/ /strictly-fun-dancing-with-the-falcom-samba-55/
+/2007/01/26/the-test-um-tri-porter-has-landed/ /the-test-um-tri-porter-has-landed/
+/2007/02/13/announcement-openxtra-hotspot-software-development-kit-v30/ /announcement-openxtra-hotspot-software-development-kit-v30/
+/2007/02/15/openxtra-console-accepted-by-google/ /openxtra-console-accepted-by-google/
+/2007/03/06/cable-testers-category-rejig-thoughts/ /cable-testers-category-rejig-thoughts/
+/2007/05/31/great-cabling-resourcefill-yer-boots/ /great-cabling-resourcefill-yer-boots/
+/2007/06/20/ann-introducing-product-comparison/ /ann-introducing-product-comparison/
+/2007/06/22/practical-packet-analysis-book/ /practical-packet-analysis-book/
+/2007/06/06/we-do-respond-to-feedback-lanscaper-now-includes-batteries/ /we-do-respond-to-feedback-lanscaper-now-includes-batteries/
+/2006/12/07/samba-samba-75/ /samba-samba-75/
+/2007/03/01/product-categorisation-rejig/ /product-categorisation-rejig/
+/2007/10/02/ann-introducing-the-senturion-rack-environment-monitor/ /ann-introducing-the-senturion-rack-environment-monitor/
+/2007/02/08/three-into-one-will-go/ /three-into-one-will-go/
+/2007/06/26/ann-brother-label-printers-now-available/ /ann-brother-label-printers-now-available/
+/1263/ /naguino-arduino-based-lcd-monitor-nagios/
+/2007/01/31/great-it-in-education-website/ /great-it-in-education-website/ [R=301]
+/2007/02/16/powershell-cmdlet-support-here-we-come/ /powershell-cmdlet-support-here-we-come/ [R=301]
+/2007/03/21/using-wordpress-as-your-blogging-platform-install-akismet/ /using-wordpress-as-your-blogging-platform-install-akismet/ [R=301]
+/2007/05/02/ann-may-day-bank-holiday-opening/ /ann-may-day-bank-holiday-opening/ [R=301]
+/2007/05/03/best-of-luck-annie-in-your-wedding-tomorrow/ /best-of-luck-annie-in-your-wedding-tomorrow/ [R=301]
+/2007/05/08/new-shop-entering-testing-phase/ /new-shop-entering-testing-phase/ [R=301]
+/2007/05/10/top-5-ups-power-alarming-options/ /top-5-ups-power-alarming-options/ [R=301]
+/2007/05/11/wireshark-magazine-heads-up/ /wireshark-magazine-heads-up/ [R=301]
+/2007/05/13/top-3-easy-nagios-setup-options/ /top-3-easy-nagios-setup-options/ [R=301]
+/2007/05/15/commercial-open-source-network-management-focus-puzzle/ /commercial-open-source-network-management-focus-puzzle/ [R=301]
+/2007/05/17/site-upgrade-timetable/ /site-upgrade-timetable/ [R=301]
+/2007/05/21/10-off-week/ /10-off-week/ [R=301]
+/2007/05/22/enterprise-open-source-systems-management-confusion/ /enterprise-open-source-systems-management-confusion/ [R=301]
+/2007/05/25/verision-6-site-upgrade-roundup/ /verision-6-site-upgrade-roundup/ [R=301]
+/2007/06/07/electricians-dont-do-network-cabling-do-they/ /electricians-dont-do-network-cabling-do-they/ [R=301]
+/2007/06/13/network-managements-new-wave/ /network-managements-new-wave/ [R=301]
+/2007/06/14/new-wave-windows-support/ /new-wave-windows-support/ [R=301]
+/2007/07/04/introducing-powergui/ /introducing-powergui/ [R=301]
+/2007/07/16/open-source-and-the-computer-press/ /open-source-and-the-computer-press/ [R=301]
+/2007/07/18/hubris-and-unit-tests/ /hubris-and-unit-tests/ [R=301]
+/2007/07/19/door-movement-sensor/ /door-movement-sensor/ [R=301]
+/2007/07/27/green-everything/ /green-everything/ [R=301]
+/2007/07/31/data-voice-and-video-cabling-book/ /data-voice-and-video-cabling-book/ [R=301]
+/2007/08/08/re-microsoft-wake-up-apple-is-gaining-intellectual-capital-and-market/ /re-microsoft-wake-up-apple-is-gaining-intellectual-capital-and-market/ [R=301]
+/2007/08/14/tv-retail-annoyance/ /tv-retail-annoyance/ [R=301]
+/2007/08/15/are-operating-systems-important-anymore/ /are-operating-systems-important-anymore/ [R=301]
+/2007/08/20/mahalo-firefox-integration-broken/ /mahalo-firefox-integration-broken/ [R=301]
+/2007/08/24/tracking-live-network-cables/ /tracking-live-network-cables/ [R=301]
+/2007/08/29/powershell-network-monitor-powerful-netman-tool/ /powershell-network-monitor-powerful-netman-tool/ [R=301]
+/2007/09/07/ann-intellipool-inm-33-beta/ /ann-intellipool-inm-33-beta/ [R=301]
+/2007/09/13/new-wave-network-management-buzz-comparison/ /new-wave-network-management-buzz-comparison/ [R=301]
+/2007/09/17/network-managements-downward-trend/ /network-managements-downward-trend/ [R=301]
+/2007/09/20/my-worst-nightmare/ /my-worst-nightmare/ [R=301]
+/2007/10/01/why-do-i-need-a-network-tap/ /why-do-i-need-a-network-tap/ [R=301]
+/2007/10/04/sensatronics-senturion-update/ /sensatronics-senturion-update/ [R=301]
+/2007/10/10/it-run-the-servers-facilities-run-the-air-con/ /it-run-the-servers-facilities-run-the-air-con/ [R=301]
+/2007/10/11/paper-prototyping-its-best-kept-secret/ /paper-prototyping-its-best-kept-secret/ [R=301]
+/2007/10/11/paper-prototyping-its-best-kept-secret$ /paper-prototyping-its-best-kept-secret/ [R=301]
+/2007/10/12/ann-intellipool-network-monitor-33-released/ /ann-intellipool-network-monitor-33-released/ [R=301]
+/2007/10/15-action-day-the-server-power-double-whammy/ -action-day-the-server-power-double-whammy/ [R=301]
+/2007/10/17/social-media-in-plain-english/ /social-media-in-plain-english/ [R=301]
+/2007/10/19/real-time-log-visualization-using-gltailrb/ /real-time-log-visualization-using-gltailrb/ [R=301]
+/2007/10/25/battery-charge-by-the-sea/ /battery-charge-by-the-sea/ [R=301]
+/2007/10/26/opennms-coming-soon-to-windows/ /opennms-coming-soon-to-windows/ [R=301]
+/2007/10/29/how-not-to-comment-your-code/ /how-not-to-comment-your-code/ [R=301]
+/2007/10/29/popularity-contest-widget/ /popularity-contest-widget/ [R=301]
+/2006/12/06/gadget-ahoy/ /gadget-ahoy/ [R=301]
+/2007/06/08/why-is-network-cabling-different/ /why-is-network-cabling-different/ [R=301]
+/2007/06/18/ann-introducing-the-quick-guide/ /ann-introducing-the-quick-guide/ [R=301]
+/2007/02/16/even-a-switched-off-cisco-router-can-cause-downtime/ /even-a-switched-off-cisco-router-can-cause-downtime/ [R=301]
+/2007/09/05/winpcap-packet-sniffer-for-commercial-development/ /winpcap-packet-sniffer-for-commercial-development/ [R=301]
+/2007/08/01/great-print-tech-magazines-still-standing/ /great-print-tech-magazines-still-standing/ [R=301]
+/2007/08/23/packet-visualization-with-rumint/ /packet-visualization-with-rumint/ [R=301]
+/2007/08/03/new-wave-challenging-the-big-4/ /new-wave-challenging-the-big-4/ [R=301]
+/2007/06/11/intellipool-network-monitor-and-windows-vista/ /intellipool-network-monitor-and-windows-vista/ [R=301]
+/2007/08/06/ann-new-blog-theme/ /ann-new-blog-theme/ [R=301]
+/2007/04/27/sensatronics-e4-now-with-cacti-support/ /sensatronics-e4-now-with-cacti-support/ [R=301]
+/2007/06/28/product-re-organisation-time-again/ /product-re-organisation-time-again/ [R=301]
+/2006/12/21/installation-woes-in-networking-land/ /installation-woes-in-networking-land/ [R=301]
+/2007/07/17/product-configurator-coming-soon/ /product-configurator-coming-soon/ [R=301]
+/2007/05/17/pay-as-you-go-sims-can-be-disabled-please-check/ /pay-as-you-go-sims-can-be-disabled-please-check/ [R=301]
+/2007/02/27/openxtra-console-inducted-into-softpedia-software-library/ /openxtra-console-inducted-into-softpedia-software-library/ [R=301]
+/2007/09/04/affordable-wireless-packet-capture-solution/ /affordable-wireless-packet-capture-solution/ [R=301]
+/2007/06/29/check-out-the-servertech-blogrecommended/ /check-out-the-servertech-blogrecommended/ [R=301]
+/2007/09/18/wireshark-training-opportunities/ /wireshark-training-opportunities/ [R=301]
+/2007/06/08/new-blog-email-subscription-option/ /new-blog-email-subscription-option/ [R=301]
+/2007/09/19/rumint-now-works-with-winpcap-401/ /rumint-now-works-with-winpcap-401/ [R=301]
+/2007/10/02/paypal-and-google-checkout-use-in-uk-businesses/ /paypal-and-google-checkout-use-in-uk-businesses/ [R=301]
