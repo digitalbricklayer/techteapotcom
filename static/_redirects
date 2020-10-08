@@ -2,26 +2,21 @@
 # Netlify specific does not work on local builds
 #
 /2006/12/14/the-great-domain-telephone-test/ /posts/the-great-domain-telephone-test/
-/2007/04/20/simpler-product-selection-coming-soon/ /posts/simpler-product-selection-coming-soon/
 /2007/06/25/new-wave-network-management-licences/ /posts/new-wave-network-management-licences/
 /2007/08/07/chris-sanders-interview/ /posts/chris-sanders-interview/
 /2006/11/28/strictly-fun-dancing-with-the-falcom-samba-55/ /posts/strictly-fun-dancing-with-the-falcom-samba-55/
 /2007/01/26/the-test-um-tri-porter-has-landed/ /posts/the-test-um-tri-porter-has-landed/
-/2007/02/13/announcement-openxtra-hotspot-software-development-kit-v30/ /posts/announcement-openxtra-hotspot-software-development-kit-v30/
 /2007/05/31/great-cabling-resourcefill-yer-boots/ /posts/great-cabling-resourcefill-yer-boots/
 /2007/06/22/practical-packet-analysis-book/ /posts/practical-packet-analysis-book/
 /2006/12/07/samba-samba-75/ /posts/samba-samba-75/
 /2007/02/08/three-into-one-will-go/ /posts/three-into-one-will-go/
 /1263/ /posts/naguino-arduino-based-lcd-monitor-nagios/
 /2007/01/31/great-it-in-education-website/ /posts/great-it-in-education-website/
-/2007/02/16/powershell-cmdlet-support-here-we-come/ /posts/powershell-cmdlet-support-here-we-come/
 /2007/03/21/using-wordpress-as-your-blogging-platform-install-akismet/ /posts/using-wordpress-as-your-blogging-platform-install-akismet/
 /2007/05/10/top-5-ups-power-alarming-options/ /posts/top-5-ups-power-alarming-options/
-/2007/05/11/wireshark-magazine-heads-up/ /posts/wireshark-magazine-heads-up/
 /2007/05/13/top-3-easy-nagios-setup-options/ /posts/top-3-easy-nagios-setup-options/
 /2007/05/15/commercial-open-source-network-management-focus-puzzle/ /posts/commercial-open-source-network-management-focus-puzzle/
 /2007/05/22/enterprise-open-source-systems-management-confusion/ /posts/enterprise-open-source-systems-management-confusion/
-/2007/06/07/electricians-dont-do-network-cabling-do-they/ /posts/electricians-dont-do-network-cabling-do-they/
 /2007/06/13/network-managements-new-wave/ /posts/network-managements-new-wave/
 /2007/06/14/new-wave-windows-support/ /posts/new-wave-windows-support/
 /2007/07/04/introducing-powergui/ /posts/introducing-powergui/
@@ -39,7 +34,6 @@
 /2007/10/01/why-do-i-need-a-network-tap/ /posts/why-do-i-need-a-network-tap/
 /2007/10/10/it-run-the-servers-facilities-run-the-air-con/ /posts/it-run-the-servers-facilities-run-the-air-con/
 /2007/10/11/paper-prototyping-its-best-kept-secret/ /posts/paper-prototyping-its-best-kept-secret/
-/2007/10/15-action-day-the-server-power-double-whammy/ /posts/action-day-the-server-power-double-whammy/
 /2007/10/17/social-media-in-plain-english/ /posts/social-media-in-plain-english/
 /2007/10/19/real-time-log-visualization-using-gltailrb/ /posts/real-time-log-visualization-using-gltailrb/
 /2007/10/25/battery-charge-by-the-sea/ /posts/battery-charge-by-the-sea/
@@ -59,7 +53,6 @@
 /2007/05/17/pay-as-you-go-sims-can-be-disabled-please-check/ /posts/pay-as-you-go-sims-can-be-disabled-please-check/
 /2007/09/04/affordable-wireless-packet-capture-solution/ /posts/affordable-wireless-packet-capture-solution/
 /2007/06/29/check-out-the-servertech-blogrecommended/ /posts/check-out-the-servertech-blogrecommended/
-/2007/09/18/wireshark-training-opportunities/ /posts/wireshark-training-opportunities/
 /2007/06/08/new-blog-email-subscription-option/ /posts/new-blog-email-subscription-option/
 /2007/09/19/rumint-now-works-with-winpcap-401/ /posts/rumint-now-works-with-winpcap-401/
 /2007/10/02/paypal-and-google-checkout-use-in-uk-businesses/ /posts/paypal-and-google-checkout-use-in-uk-businesses/
