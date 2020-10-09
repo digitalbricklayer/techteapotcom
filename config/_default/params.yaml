@@ -26,6 +26,8 @@ widgets:
 
 authorbox: true # Show authorbox at bottom of pages
 
+pager: true  # Show pager navigation (prev/next links) at the bottom of pages
+
 # Include custom CSS files
 # fancybox is used by hte foldergallery shortcode
 customCSS: ["css/image.css", "https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css"]
