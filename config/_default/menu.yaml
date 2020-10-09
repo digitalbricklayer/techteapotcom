@@ -19,3 +19,13 @@ main:                                       #    - Name of the menu
     name: Subscribe
     url: /sign-up/
     weight: 5
+
+footer:
+  - identifier: privacy
+    name: Privacy Policy
+    url: /privacy/
+    weight: 1
+  - identifier: terms
+    name: Terms & Conditions
+    url: /terms/
+    weight: 2
