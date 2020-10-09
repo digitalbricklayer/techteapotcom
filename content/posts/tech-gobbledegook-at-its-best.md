@@ -1,7 +1,7 @@
 ---
 title: "Tech gobbledegook at its best"
 date: "2008-02-07T11:48:54+00:00"
-categories: []
+categories: [General]
 tags: []
 aliases: [/tech-gobbledegook-at-its-best/]
 ---
