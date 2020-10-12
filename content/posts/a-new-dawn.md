@@ -7,7 +7,7 @@ tags: [Hugo]
 
 The Tech Teapot first started in late 2006. It wasn't called that then, it started out as the blog for [OPENXTRA Ltd.](https://www.openxtra.co.uk/), a company I co-founded all the way back in 2003.
 
-Latterly, I kinda assumed that The Tech Teapot was dead. The website was still live but not in its original form. I converted the old Wordpress site to static HTML using the very good [Simply Static](https://www.simplystatic.co/) Wordpress plugin so I couldn't easily modify the site even if I wanted.
+Latterly, I kinda assumed that *The Tech Teapot* was dead. The website was still live but not in its original form. I converted the old Wordpress site to static HTML using the very good [Simply Static](https://www.simplystatic.co/) Wordpress plugin so I couldn't easily modify the site even if I wanted.
 
 Still, here we are in 2020 and I have ported the content over to [Hugo](https://gohugo.io/). Hugo is a (very fast) static site generator in a similar style to [jekyll](https://jekyllrb.com/), perhaps the original static site generator.
 
@@ -36,7 +36,7 @@ One of the nicer things about static websites is they are very cheap to host. Yo
 
 There are a number of ways you can host a static site:
 
-1. Self host on your own server or from one of the many web hosting providers. Even a very small virtual server would be capable of hosting quite a large site. The only software you need is a web server capable of serving static files like NGINX or Apache;
+1. Self host on your own server or from one of the many web hosting providers. Even a very small virtual server would be capable of hosting quite a large static site. The only software you need is a web server capable of serving static files like [NGINX](https://nginx.org/en/) or [Apache](http://httpd.apache.org/);
 2. Host using one of the cloud providers like Microsoft Azure or Amazon AWS. Microsoft have a great [document explaining how to host a static site on Microsoft Azure](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-static-website). Amazon have a pretty [good document too](https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html);
 3. Use a dedicated static file host like [Netlify](https://www.netlify.com/) or [Github Pages](https://pages.github.com/).
 
