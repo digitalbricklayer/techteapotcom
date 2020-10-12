@@ -2,7 +2,7 @@
 title: "Windows based dynamic systems management update"
 date: "2009-06-18T10:55:08+00:00"
 categories: [General]
-tags: []
+tags: [powershell]
 aliases: [/windows-based-dynamic-systems-management-update/]
 ---
 
