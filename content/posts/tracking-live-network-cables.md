@@ -1,23 +1,20 @@
 ---
 title: "Tracking live network cables"
 date: "2007-08-24T09:01:39+00:00"
+lastMod: "2020-10-13"
 categories: [Cabling]
 tags: []
 aliases: [/tracking-live-network-cables/]
 ---
 
-<img src="/images/uploads/2007/08/200px-cat5.jpg" alt="Category 5 cable" align="right" />
+{{< figure src="/images/uploads/2007/08/200px-cat5.jpg#floatright" alt="Category 5 cable" >}}
 
-I'm often asked how to track live network cables. I have a confession: I don't know how to do it! There, honesty is always the best policy!
+More and more companies have systems that are in operation 24/7, that cannot in any circumstances be switched off. Sometimes the data centre cabling is poorly documented.
 
-More and more companies have systems that are in operation 24/7, that cannot in any circumstances be switched off. Sometimes the data centre cabling is poorly documented. So, how do you track cabling that is live?
+Regular toners and tone generators are absolutely fine if you know the cabling is not live. Like identifying cables prior to the network cabling being hooked up to the network infrastructure or even to identify cables before the cables have been terminated.
 
-I know how not to do it. Normally, I'd either use my ever faithful pair of tone generator &amp; tone tracer. Or, I would use a something like an outlet identifier that blinks the lights on the hub or switch port.
+An Outlet identifier can blink the lights on the hub or switch port making identifying your cabling pretty simple. Very useful when the network is not live, but not very useful when you don't know what is connected to the cable.
 
-Trouble is, both of the above methods can't be used on a live network. If you put a tone on any of the pins on a network cable that's going to interfere with the network traffic. Same with the port blinking method too.
+So, how do you track cabling that may be carrying live network traffic?
 
-Normally, in circumstances where toning on the cable pins is impossible, I'd use the cable sheath instead. Unfortunately, most deployed CAT5/6 cable is unshielded, so it doesn't have a conductive sheath.
-
-So, I don't know how to track live network cables. I have a suspicion that it can't be done. If you know how, please put this poor sap out of his misery. :)
-
-<strong>Update September 2014</strong>: you can tone a live network cable if you use an asymmetric toner. An asymmetric toner produces tones well above those used by network traffic so does not interfere with it.
+You can tone a live network cable if you use an asymmetric toner. An asymmetric toner produces tones well above the frequency used by network traffic so does not interfere with it.
