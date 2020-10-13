@@ -1,13 +1,10 @@
 #!/bin/bash
-awk '{print $2}' static/_redirects | while read line
-do
-  # Exclude comment lines...
-  if [[ "$line" != "^#.*" ]]; then
-    wget -qO /dev/null http://localhost:1313$line
-    if [ $? -ne 0 ]; then
-      echo "$line - bad"
-    else
-      echo "$line - okay"
-    fi
+# run 'hugo server' on the site to be tested before running this command
+while read -r old_url new_url; do
+  wget -qO /dev/null http://localhost:1313$new_url
+  if [ $? -ne 0 ]; then
+    echo "$new_url - bad"
+  else
+    echo "$new_url - okay"
   fi
-done
+done < static/_redirects
