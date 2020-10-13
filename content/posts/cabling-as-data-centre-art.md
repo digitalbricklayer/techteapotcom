@@ -1,6 +1,7 @@
 ---
 title: "Cabling as data centre art"
 date: "2008-01-25T12:14:02+00:00"
+lastMod: "2020-10-13"
 categories: ["Data Center"]
 tags: [art, cabling, "data center"]
 aliases: [/cabling-as-data-centre-art/]
