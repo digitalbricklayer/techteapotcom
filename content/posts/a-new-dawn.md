@@ -13,7 +13,9 @@ Still, here we are in 2020 and I have ported the content over to [Hugo](https://
 
 ## Wordpress to Hugo
 
-The Wordpress version used by the site is several years out of date so I didn't relish making the full stack work again. Consequently, I just uploaded the old Wordpress site database into MariaDB and then wrote a python script to extract the Wordpress posts into Hugo format. You can find the script [here](https://github.com/digitalbricklayer/hugo-wordpress-import). It isn't much but it did most of the donkey work.
+The Wordpress version used by the site is several years out of date so I didn't relish making the full stack work again. Consequently, I just uploaded the old Wordpress site database into MariaDB and then wrote a python script to extract the Wordpress posts into Hugo format. The code is below if you're interested. It doesn't do anything very interesting or clever, just reads to posts from a Wordpress database then dumps out the equivalent posts in markdown. The converter does not modify the post content, so embedded HTML markup will be converted straight over. You will need to enable your markdown engine's `unsafe` rendering option for this to work.
+
+{{< gist digitalbricklayer 7d90eb578cd14a13ca03dda469a8692e >}}
 
 A better option may have been to use [dedicated Wordpress plugin](https://github.com/SchumacherFM/wordpress-to-hugo-exporter) to export the site in Hugo format. The problem here is that you need a working Wordpress site in order to install the plugin.
 
