@@ -4,10 +4,9 @@ date: "2019-01-01"
 categories: [General]
 tags: []
 series: ["Reading Log"]
-draft: true
 ---
 
-Just eight book in 2018. A new low I think. The best book of the year would be between Larry Niven's *Ringworld*, Greg Bear's *Hull Zero Three* and Andrzej Sapkowski's *The Last Wish*. If pressed I'd go with *Ringworld* as being the best read of 2018. Which is odd, given that I actually bought the book back in the early 1990s and started reading it back then and gave up. It is strange how things change over time. In a way it kinda makes my remembered history of liking things from years ago rather suspect. If I love a book now that I once disliked 30 years ago, will I now dislike a lot of the books I remember loving years ago if I re-read them? 
+Just eight book in 2018. A new low I think. The best book of the year would be between Larry Niven's *Ringworld*, Greg Bear's *Hull Zero Three* and Andrzej Sapkowski's *The Last Wish*. If pressed I'd go with *Ringworld* as being the best read of 2018. Which is odd, given that I actually bought the book back in the early 1990s and started reading it back then and gave up. It is strange how things change over time. In a way it kinda makes my remembered history of liking things from years ago rather suspect. If I love a book now that I once disliked 30 years ago, will I now dislike a lot of the books I remember loving years ago if I re-read them?
 
 Whilst quantity of books may have been on the low side, the quality of books certainly made up for the lack of quantity.
 
