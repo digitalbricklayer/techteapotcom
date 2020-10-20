@@ -6,6 +6,7 @@ enableEmoji: true
 taxonomies:
   category: categories
   tag: tags
+  series: series
 disqusShortname: "techteapot-com"
 googleAnalytics: "UA-71383-41"
 enableRobotsTXT: true
