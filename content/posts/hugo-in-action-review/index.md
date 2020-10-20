@@ -1,17 +1,16 @@
 ---
-title: "Hugo in Action review"
-summary: "A review of the Manning Publications Hugo in Action book with an outline of the content as well as who is going to find the book useful."
+title: "Hugo in Action book review"
 date: "2020-10-20"
 categories: [General]
 tags: []
 series: ["Reading Log"]
 ---
 
+I have recently ported this [blog over to Hugo]({{< ref "/posts/a-new-dawn.md" >}}). [Hugo](https://gohugo.io/) is a static site generator written in Google's [Go language](https://golang.org/). In preparation, I thought it would be a good idea to read a book on the topic. The world is not exactly overburdened with up to date books about Hugo so the shortlist was very short. In Hugo's defence, the documentation provided by the project is pretty good. But, it is always helpful to have an outside perspective.
+
 {{< notice note >}}
 The *Hugo in Action* book is a work in progress at the moment. I have reviewed the chapters that were available in the middle of October. The only parts of the book that are complete are the chapters around building a static website. The JAMstack chapters are due soon. I will update the review when they are ready. The book is due to be fully published in December 2020.
 {{< /notice >}}
-
-I have recently ported this [blog over to Hugo]({{< ref "/posts/a-new-dawn.md" >}}). [Hugo](https://gohugo.io/) is a static site generator written in Google's [Go language](https://golang.org/). In preparation, I thought it would be a good idea to read a book on the topic. The world is not exactly overburdened with up to date books about Hugo so the shortlist was very short. In Hugo's defence, the documentation provided by the project is pretty good. But, it is always helpful to have an outside perspective.
 
 {{< figure src="cover.jpg#center" alt="Cover of Hugo in Action book" width="50%" link="cover.jpg" >}}
 
