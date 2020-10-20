@@ -13,6 +13,6 @@ happen at some future time, there is strong historical  precedent  for
 presuming  that the present Gregorian calendar will still be in affect
 by the year 2000.  Since we also hope that VMS will still be around by
 then, we have chosen to adhere to these precedents.</blockquote>
-Maybe you've got to work for DEC for that to make any sense. I just love the sarcasm. ;)
+Maybe you've got to work for DEC for that to make any sense. I just love the sarcasm. :wink:
 
 [via reddit]

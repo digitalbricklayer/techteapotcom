@@ -22,4 +22,4 @@ I may have been scratching my own itch, but how many others have the same one? T
 
 The second problem comes in the form of the design goal. A tool that can be used quickly and easily without complex options necessarily limits where you can go with the tool. Every time I thought about adding a new feature I knew that the goal would be compromised because it wouldn't have been simple to use any more.
 
-In my experience, "open" development isn't that much different from closed development when there's just the one of you. Open development, when performed to an audience of one, is quite like closed development. Given two eyeballs, all bugs are deep to paraphrase <a href="http://www.ibiblio.org/esrblog/">Eric S Raymond</a>. :)
+In my experience, "open" development isn't that much different from closed development when there's just the one of you. Open development, when performed to an audience of one, is quite like closed development. Given two eyeballs, all bugs are deep to paraphrase <a href="http://www.ibiblio.org/esrblog/">Eric S Raymond</a>. :smile:

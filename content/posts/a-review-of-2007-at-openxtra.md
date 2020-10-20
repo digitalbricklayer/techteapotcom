@@ -22,7 +22,7 @@ Expect more from OWL in 2008 as we flesh out our offering.
 <h2>Agillent Wirescope Pro</h2>
 2007 saw more from Agilent as they settle on one standard hardware testing platform with Wirescope Pro improved to support a full cat6 full autotest in under 9 seconds and CAT6a/7 test in under 15! and with full frequency sweep testing to 1Ghz. Additional features are now available using easily upgraded software only licences.
 <h2>New Sensatronics sites</h2>
-We've had the German Sensatronics site for several years. Thought that the rest of Europe deserved a similar treatment. ;) The new sites haven't been localised yet but Italian and French versions are in production and should be available in the new year. Further localised sites will be available a little later in the year.
+We've had the German Sensatronics site for several years. Thought that the rest of Europe deserved a similar treatment. :wink: The new sites haven't been localised yet but Italian and French versions are in production and should be available in the new year. Further localised sites will be available a little later in the year.
 <h2>Blog highlights</h2>
 When I did the review of 2006 the blog was just over a month old. The blog recently celebrated its first birthday. I must confess that the blog has been a steep learning curve. One of the problems with a blog is that, whilst it might look easy from the outside, it isn't easy to do well.
 

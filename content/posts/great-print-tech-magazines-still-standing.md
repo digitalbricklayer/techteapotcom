@@ -6,7 +6,7 @@ tags: []
 aliases: [/great-print-tech-magazines-still-standing/]
 ---
 
-Tech magazines are becoming a rare breed. Even more rare for them to be in print. I'm sure you read a good number, but I thought it would be good to share my list. Hopefully, you'll share your list. ;)
+Tech magazines are becoming a rare breed. Even more rare for them to be in print. I'm sure you read a good number, but I thought it would be good to share my list. Hopefully, you'll share your list. :wink:
 <ul>
 	<li><a href="http://www.datacentremanagement.com/">Data Centre Management</a></li>
 	<li><a href="http://www.networkcomputing.co.uk/">Network Computing</a></li>

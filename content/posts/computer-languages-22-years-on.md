@@ -6,7 +6,7 @@ tags: ["artificial intelligence", "computer language"]
 aliases: [/computer-languages-22-years-on/]
 ---
 
-Many moons ago in the late 1980s, right at the start of my interest in computers, I bought a book about computer languages. The book titled <a href="http://www.amazon.com/Computer-Languages-Perplexed-Naomi-Baron/dp/0385232144/ref=sr_1_7">Computer Languages: A Guide for the Perplexed</a> by <a href="http://en.wikipedia.org/wiki/Naomi_Baron">Naomi S Baron</a> inspired me to get into programming and eventually led me to program professionally (in the sense that somebody paid me :) .)
+Many moons ago in the late 1980s, right at the start of my interest in computers, I bought a book about computer languages. The book titled <a href="http://www.amazon.com/Computer-Languages-Perplexed-Naomi-Baron/dp/0385232144/ref=sr_1_7">Computer Languages: A Guide for the Perplexed</a> by <a href="http://en.wikipedia.org/wiki/Naomi_Baron">Naomi S Baron</a> inspired me to get into programming and eventually led me to program professionally (in the sense that somebody paid me :smile: .)
 
 What is interesting, 22 years on, is what has changed and perhaps just as interesting, what hasn't changed.
 

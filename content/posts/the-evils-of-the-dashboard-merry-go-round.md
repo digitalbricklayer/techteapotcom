@@ -64,6 +64,6 @@ I've found that a combination of time management and really good notifications a
 
 The problem with concentrating too much on statistics is that it is so seductive. It feels like you are working hard but, in the end, if there are no actions coming out of the constant stats watching, then it is all wasted effort.
 
-If you have any hints and tips how you overcame your dashboard merry-go-round, please leave a comment. :)
+If you have any hints and tips how you overcame your dashboard merry-go-round, please leave a comment. :smile:
 
 [Picture is of a French old-fashioned style carousel with stairs in La Rochelle by Jebulon (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons]

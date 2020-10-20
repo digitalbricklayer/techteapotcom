@@ -16,4 +16,4 @@ Kinda hard to argue with that sentiment. I can't think of anything that's been i
 
 Every time I get to manipulate a CSV file I wonder just why it is so difficult to manipulate data. You would have thought that sixty years into the computer revolution we'd have that one cracked by now.
 
-I'm going to spend my retirement learning Smalltalk (only 25 years to go!). I'm willing to bet that Smalltalk will still be state of the art even then. My geek heaven would be communing with a Sun workstation and Smalltalk in a cave somewhere with occasional infidelity with Lisp. A cave with broadband though ;)
+I'm going to spend my retirement learning Smalltalk (only 25 years to go!). I'm willing to bet that Smalltalk will still be state of the art even then. My geek heaven would be communing with a Sun workstation and Smalltalk in a cave somewhere with occasional infidelity with Lisp. A cave with broadband though :wink:

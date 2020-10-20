@@ -14,6 +14,6 @@ What followed was a particularly unpleasant morning bringing the email server ba
 
 Anyway, the point of this post isn't to demonstrate my complete idiocy in administering a Linux server. It is to urge you to <strong>document all of those little procedures you take for granted but that somebody else might have to undertake in your absence</strong>.
 
-Oh, and make sure your servers reboot <em>with</em> all of the required services switched on. :)
+Oh, and make sure your servers reboot <em>with</em> all of the required services switched on. :smile:
 
 UPDATE: The server rebooted because of a "<strong>power issue</strong>"...roughly translated from ISP speak, somebody unplugged it!

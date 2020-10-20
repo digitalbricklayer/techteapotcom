@@ -16,4 +16,4 @@ The second thing that pops out is the number of results: <strong>1,330,000 versu
 
 The search results themselves seem better in 2008 than way back in 2001. In the sense that the search does actually provide results to things that are open source network management tools with the inevitable wikipedia article thrown in for good measure.
 
-Things sure are more competitive now. ;)
+Things sure are more competitive now. :wink:

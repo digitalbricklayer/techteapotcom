@@ -8,7 +8,7 @@ aliases: [/agent-less-monitoring-equals-standards-based-monitoring/]
 
 Why is <em>agent less</em> network monitoring called agent less? An agent is required! Pretty confusing really. I don't suppose <em>non-proprietary agent</em> has quite the same ring to it.
 
-What agent less really means is proprietary agent less. Not quite the same thing :)
+What agent less really means is proprietary agent less. Not quite the same thing :smile:
 
 So, if you are using <a href="http://en.wikipedia.org/wiki/Simple_Network_Management_Protocol">SNMP</a> or WMI or whatever then you are performing agent less monitoring.
 

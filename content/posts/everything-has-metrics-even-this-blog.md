@@ -20,6 +20,6 @@ I've not blogged much in the last couple of years so I can't say I'm surprised n
 
 Probably hasn't helped that the blog boom, such as it was, has long since passed. A lot of the conversations that were happening on blogs have now moved over to Twitter.
 
-Still a place for the blog though. Kinda hard talking about sys admin in 140 characters. :)
+Still a place for the blog though. Kinda hard talking about sys admin in 140 characters. :smile:
 
-P.S. One of the more humbling things about the email subscribers is that a lot of them have subscribed for getting on for 7 years. I bow down to your fortitude. ;)
+P.S. One of the more humbling things about the email subscribers is that a lot of them have subscribed for getting on for 7 years. I bow down to your fortitude. :wink:

@@ -14,4 +14,4 @@ First impressions: absolutely <strong>brilliant</strong>! Three testers (voice, 
 
 It isn't in the on-line shop yet, so please bear with us. It will be available early next week as soon as we have the images and web copy sorted out.
 
-2007 is off to a great start...and I think it's only going to get better :)
+2007 is off to a great start...and I think it's only going to get better :smile:

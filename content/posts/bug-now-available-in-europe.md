@@ -14,4 +14,4 @@ In addition Bug Labs have announced the availability of a WiFi <strong>and</stro
 
 All you need is a Windows, Linux or Mac PC with the DragonFly SDK installed and buy a Bugbase module, which can now have WiFi and Bluetooth on board, and then choose the add-on modules you need like <a href="http://buglabs.net/modules/bugbee">BUGbee</a>, <a href="http://buglabs.net/modules/bugsound">BUGsound</a>, <a href="http://buglabs.net/modules/bugvonhippel">BUGvonHippel</a>, <a href="http://buglabs.net/modules/bugview">BUGview</a>, <a href="http://buglabs.net/modules/buglocate">BUGlocate</a> and <a href="http://buglabs.net/modules/bugmotion">BUGmotion</a>.
 
-Then get coding! ;)
+Then get coding! :wink:

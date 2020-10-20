@@ -57,7 +57,7 @@ Thought I'd share the network &amp; systems management blogs I read on a daily b
 <ul>
 	<li><a href="http://planetsysadmin.com/">Planet SysAdmin</a></li>
 </ul>
-I'm always on the look out for good systems management blogs, so if you know of any I really should be reading, I'm all ears. ;)
+I'm always on the look out for good systems management blogs, so if you know of any I really should be reading, I'm all ears. :wink:
 
 <strong>Update 1</strong>: I've added the excellent blogs suggested by <a href="http://standalone-sysadmin.blogspot.com/">Matt Simmons</a> &amp; zennippon. Thanks! Anybody got any more that should be on the list above?
 

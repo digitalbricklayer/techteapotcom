@@ -10,4 +10,4 @@ I was messing around inside <em>top</em> trying to diagnose a server slowdown an
 
 <img class="aligncenter size-full wp-image-1338" title="uptime" src="/images/uploads/2009/06/uptime.PNG" alt="uptime" width="667" height="420" />
 
-Want to share your server uptime? ;)
+Want to share your server uptime? :wink:

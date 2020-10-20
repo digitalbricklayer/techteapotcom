@@ -12,6 +12,6 @@ It is happening, we've got a shiny new PBX and it uses standard CAT5e cabling ev
 
 Of course, just because everything is converging on the network doesn't mean that you won't have a load of 'heritage' infrastructure to manage.
 
-[Yep, you've seen it coming...this is the bit when we tell you we've got the product that will solve the problem and everybody lives happily ever after] :)
+[Yep, you've seen it coming...this is the bit when we tell you we've got the product that will solve the problem and everybody lives happily ever after] :smile:
 
 That's where testers that can handle voice, video and data come into it. Vendors are going to be banging on about this for some time! One tool we recommend is the Test-Um Tri-Porter IVT600. With a single tool you can check telephone, video and network connections and measure the key characteristics of each.

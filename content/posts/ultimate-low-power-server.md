@@ -12,4 +12,4 @@ The <a href="http://www.fit-pc.com/">fit-PC</a> is a miniature, noiseless, extre
 
 {{< foldergallery src="images/galleries/ultimate-low-power-server/" >}}
 
-Make a great small, inexpensive network management server too! :)
+Make a great small, inexpensive network management server too! :smile:

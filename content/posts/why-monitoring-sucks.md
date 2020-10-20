@@ -10,6 +10,6 @@ Found an interesting old post by John E. Vincent, <a href="http://lusislog.blogs
 
 The most interesting part (to me anyway) is the <a href="https://github.com/monitoringsucks/tool-repos">tools-repos</a> repository in which all of the different monitoring tools are listed.
 
-Enjoy! :)
+Enjoy! :smile:
 
 PS: as a counter point, read this post entitled <a href="http://imansson.wordpress.com/2012/10/11/monitoringlove-a-true-story/">#monitoringlove - a true story</a> by <a href="https://twitter.com/ulfmansson">Ulf MÃ¥nsson</a>.

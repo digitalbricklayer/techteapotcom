@@ -14,4 +14,4 @@ It just goes to show that things grow organically and before you know it you've 
 
 Just because you're a small company doesn't mean that your IT usage is going to be simple. Even small companies can have quite sophisticated IT systems.
 
-And the website is only going to keep on growing...we've got some great plans for it in 2007 ;)
+And the website is only going to keep on growing...we've got some great plans for it in 2007 :wink:

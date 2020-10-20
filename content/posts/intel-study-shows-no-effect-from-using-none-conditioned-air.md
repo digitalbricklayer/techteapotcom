@@ -10,6 +10,6 @@ Intel have carried out a limited pilot to find out how a <a href="http://www.int
 
 The top and bottom of it was that the servers, over a nine month test period performed as well whilst exposed to regular none air conditioned air and limited air filtration as servers in a fully air conditioned data centre.
 
-Does this mean that you can switch off all of your air conditioners and circulate none conditioned air instead? No, I'd wait for longer follow up studies before you do that. ;)
+Does this mean that you can switch off all of your air conditioners and circulate none conditioned air instead? No, I'd wait for longer follow up studies before you do that. :wink:
 
 [via vnunet.com]

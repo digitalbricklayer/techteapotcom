@@ -33,4 +33,4 @@ Once you have a loyal community, by delivering and supporting successive release
 
 Perhaps perversely, the harder a tool is to learn, the more reluctant users are to migrate to another tool. A kind of open source <a href="http://en.wikipedia.org/wiki/Stockholm_syndrome">Stockholm syndrome</a>.
 
-I'm sure that all of the <em>new wave</em> players understand the value of community...that's why they are going hell for leather building them. :)
+I'm sure that all of the <em>new wave</em> players understand the value of community...that's why they are going hell for leather building them. :smile:

@@ -6,7 +6,7 @@ tags: []
 aliases: [/open-source-open-warfare/]
 ---
 
-I am currently messing around in the pits of .NET e-commerce. I thought it would be the last place I'd find open source inspired disharmony. But no, even here it is to be found. ;)
+I am currently messing around in the pits of .NET e-commerce. I thought it would be the last place I'd find open source inspired disharmony. But no, even here it is to be found. :wink:
 
 OK, a bit of background.
 

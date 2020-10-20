@@ -20,6 +20,6 @@ Problem...how do I fix the problem?
 
 One thing I know for sure is that you don't optimise code without a way to find out exactly where the time is being spent. Fortunately, I have a trial of <a href="http://www.jetbrains.com/profiler/">JetBrains dotTrace</a> on hand. Of the tools I've tried this is by far the easiest I've used. No special builds nothing. I just launch  <a href="http://www.nunit.org/">NUnit</a> from dotTrace with a debug version of the PowerTime test DLL auto-loading and it just works.
 
-The two images of dotTrace show a run of PowerTime prior to an optimisation and the next a version that had an optimisation done. That one optimisation saved ~12 seconds. :)
+The two images of dotTrace show a run of PowerTime prior to an optimisation and the next a version that had an optimisation done. That one optimisation saved ~12 seconds. :smile:
 
 So, if you've got a performance problem, before you sit down and try to figure out where the runtime is being spent, go get yourself a performance tool like dotTrace and find out where your code is really spending its time. You may get some surprises and save yourself a bunch of time optimising code that isn't consuming much runtime.

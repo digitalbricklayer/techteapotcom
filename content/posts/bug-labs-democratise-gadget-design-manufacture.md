@@ -8,7 +8,7 @@ aliases: [/bug-labs-democratise-gadget-design-manufacture/]
 
 <img src="/images/uploads/2007/11/bug_logo_whiteback_sm.jpg" alt="Bug Labs Logo" align="right" />
 
-<a href="http://buglabs.net/">bug labs</a> has come out of stealth mode at last. If you've got a gadget in you screaming to get out then I've got good news. :)
+<a href="http://buglabs.net/">bug labs</a> has come out of stealth mode at last. If you've got a gadget in you screaming to get out then I've got good news. :smile:
 
 <h2>What is the BUG?</h2>
 

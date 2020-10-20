@@ -6,11 +6,11 @@ tags: []
 aliases: [/programmer-middle-age/]
 ---
 
-<p><img height="330" alt="iStock 000004300948XSmall" src="/images/uploads/2008/01/istock-000004300948xsmall.jpg" width="225" align="right" />You know when you've reached programmer middle age, a new operating system/IDE drops through your letter box and you don't run off to install it. ;)</p>
+<p><img height="330" alt="iStock 000004300948XSmall" src="/images/uploads/2008/01/istock-000004300948xsmall.jpg" width="225" align="right" />You know when you've reached programmer middle age, a new operating system/IDE drops through your letter box and you don't run off to install it. :wink:</p>
 <p>I received <a href="http://en.wikipedia.org/wiki/Microsoft_Visual_Studio">Visual Studio 2008</a> via <a href="http://msdn2.microsoft.com/">MSDN</a> last week and it is still sitting on my desk unopened. Is there any hope for me?</p>
 <p>Even <a href="http://www.eclipse.org/">Eclipse</a> managed to release a new version without me noticing.</p>
 <p>Am I doomed to a gradual decline from programmer middle age through to programmer senility?</p>
-<p>I don't think so...at least not without a fight. :)</p>
+<p>I don't think so...at least not without a fight. :smile:</p>
 <p>I remember in my first job as a programmer, in my first bloom of enthusiasm, I'd trot up to the team leader and ask why we weren't upgrading to the newly released compiler only to be greeted by a look of sheer puzzlement as if I was suggesting something so completely insane that I should be locked up, straight jacket and all. Of course I now know why, you don't change anything just before you are going to release a new version of your software. The last thing you want to be doing is chasing down compiler porting problems the day before you ship your code.</p>
 <p>Still, at the time I thought he was a complete dinosaur, not the sensible engineer he actually is.</p>
 <p>There are plenty of exciting things happening in software, it's just that you have to temper your enthusiasm. You can't know or use everything. Jumping on every new release of software is a great way to never get anything done.</p>

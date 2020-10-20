@@ -18,4 +18,4 @@ The only thing that saved us from falling for the scam was the fact that we know
 
 Be careful out there folks, there are some odd sorts out there.
 
-<strong>Update 2015/07/13</strong>: The scammer sent us an email over the weekend asking where his money is :)
+<strong>Update 2015/07/13</strong>: The scammer sent us an email over the weekend asking where his money is :smile:

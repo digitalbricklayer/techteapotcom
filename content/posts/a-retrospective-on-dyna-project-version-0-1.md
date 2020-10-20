@@ -20,7 +20,7 @@ Whilst the solution is very simple, there is the kernel of the design already. T
 
 I can't say I like anything about the model building interface or design. It does work, but it is very painful to use. The idea of using different shapes for the variables, domains and constraints doesn't work at all. The connectors add a lot of ceremony but don't add much in the way of clarity. Most work in the 0.2 release will need to be used resolving the model building interface. Without a workable model interface, there's not much point to the rest of the program.
 
-The project name will be changing before the 0.2 release. The name clashes with another project on GitHub so I think it only polite to find another one. No idea what the new name will be yet. I am open to suggestions. :)
+The project name will be changing before the 0.2 release. The name clashes with another project on GitHub so I think it only polite to find another one. No idea what the new name will be yet. I am open to suggestions. :smile:
 
 Please don't use the project yet, it is some distance away from being usable. I know it's buggy, and have no intention of fixing the bugs because much of the code is going to change for version 0.2.
 <h2>Conclusion</h2>

@@ -24,4 +24,4 @@ When you ask the facilities people to pro-actively monitor the air-conditioning 
 
 Luckily, from your point of view,  things are a lot easier. You can source either network based or serial based sensors that are very reasonable. You can even integrate them into your existing network monitoring system.
 
-<strong>There is no excuse for not knowing when your air-con fails</strong>. :) If you need any help choosing a monitor, please get in touch. As always, we're happy to help.
+<strong>There is no excuse for not knowing when your air-con fails</strong>. :smile: If you need any help choosing a monitor, please get in touch. As always, we're happy to help.

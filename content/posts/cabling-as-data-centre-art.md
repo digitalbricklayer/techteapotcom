@@ -11,4 +11,4 @@ The folks over at <a href="http://royal.pingdom.com/">Pingdom</a> spotted some <
 
 {{< foldergallery src="images/galleries/cabling-as-data-centre-art/" >}}
 
-And of course there are <a href="http://www.vibrant.com/cable-messes.php">some downright scary ones</a>. :)
+And of course there are <a href="http://www.vibrant.com/cable-messes.php">some downright scary ones</a>. :smile:

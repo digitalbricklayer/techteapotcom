@@ -10,6 +10,6 @@ aliases: [/battery-charge-by-the-sea/]
 
 Apologies for the lack of posts since last Friday. I managed to get a few days away in <a href="http://en.wikipedia.org/wiki/Robin_Hood's_Bay">Robin Hood's Bay</a> just north of <a href="http://www.discoveryorkshirecoast.com/scarborough/">Scarborough</a>. The weather was perfect, the hotel cosy as usual and the company good too! Well, I've got to say that as the party consisted of both of my parents, two sisters, 3 nephews and a niece.
 
-Normal service will now be resumed. :)
+Normal service will now be resumed. :smile:
 
 Whilst I've been away Dean has made over the blog...again. The text is now larger, making the posts a lot more legible.

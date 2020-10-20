@@ -26,4 +26,4 @@ Network taps are also completely out of band, nothing on the network can switch 
 
 In the unlikely event of the network tap failing, the monitored system is completely unaffected.
 
-Of course, the downside is that network taps cost money. :)
+Of course, the downside is that network taps cost money. :smile:

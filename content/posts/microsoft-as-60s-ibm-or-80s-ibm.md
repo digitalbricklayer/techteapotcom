@@ -14,4 +14,4 @@ You would have thought that, of anybody out there, Microsoft would be in as good
 
 They've got the .NET framework, web server, database, server OS, programmer eye balls, virtualisation software, development tools all they need to do is package it up and dump it under their live brand and bob's your uncle.
 
-Weird how they are having rings run around them by a book seller. :)
+Weird how they are having rings run around them by a book seller. :smile:

@@ -32,9 +32,9 @@ One of the really nice things about shareware libraries was that you never reall
 
 The libraries contained lots of different things, mostly shareware applications of every kind you can think of. The most interesting to me as an aspiring programmer was the array of public domain software. Public domain software was distributed with the source code. There is no better learning tool when programming than reading other peoples' code. The best code I've ever read was the <a href="http://en.wikipedia.org/wiki/CLIPS">CLIPS</a> sources for a forward chaining expert system shell written by NASA.
 
-Happy days :)
+Happy days :smile:
 
-PS All of the floppies I've tried so far still work :) Not bad after 23 years.
+PS All of the floppies I've tried so far still work :smile: Not bad after 23 years.
 
 PPS I found a letter from October 1990 ordering ten disks from the library.
 

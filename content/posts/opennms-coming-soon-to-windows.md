@@ -12,6 +12,6 @@ Not any more!
 
 After <a href="http://www.racoonfink.com/archives/000737.html">a week of prototyping</a>, the development team now has a prototype running on Windows. Expect to see a full release on Windows in the near future.
 
-Just goes to show, if you choose your development tools carefully you get a whole load of stuff (nearly) for free. IF the 250,000 lines of Java code had been in any other language I think it would have taken a lot longer than a week. ;)
+Just goes to show, if you choose your development tools carefully you get a whole load of stuff (nearly) for free. IF the 250,000 lines of Java code had been in any other language I think it would have taken a lot longer than a week. :wink:
 
 Expect to see the Windows port released in the 1.3.8 release.

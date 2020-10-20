@@ -8,7 +8,7 @@ aliases: [/new-blog-email-subscription-option/]
 
 The more observant among you may have noticed some changes on this 'ere blog. The blog was a wee bit anonymous so I've added an <a href="{{< ref "/about.html" >}}">About link at the top of each page</a>. I've also added a link through to the <a href="http://www.openxtra.co.uk/">products section too</a>. Just so new visitors landing on the blog get an idea of what we're about.
 
-There's also a mini About section on the main blog page too on the right hand side. Haven't figured out how to get that on every page, but I'm working on it. Hey, I'm new to all this blog thing, so this is a work in progress. ;)
+There's also a mini About section on the main blog page too on the right hand side. Haven't figured out how to get that on every page, but I'm working on it. Hey, I'm new to all this blog thing, so this is a work in progress. :wink:
 
 We've made the <a href="{{< ref "/" >}}index.xml">blog subscription feeds</a> rather more prominent so you don't need to go rooting around for them. We've also <a href="http://www.feedburner.com/fb/a/emailverifySubmit?feedId=951326">introduced an email subscription facility</a>.
 

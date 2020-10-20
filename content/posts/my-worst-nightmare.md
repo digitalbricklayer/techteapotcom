@@ -14,4 +14,4 @@ A friend roped me into fixing his friend's Windows 95 PC that his kids had manag
 
 <strong>It never ceases to amaze me how much complete strangers expect from IT people</strong>. Consequently, a lot of IT people lie about what they do when they meet new people.
 
-What's your story? If you work in IT you've gotta have one. ;) Better yet, do you have a strategy that doesn't piss people off too much?
+What's your story? If you work in IT you've gotta have one. :wink: Better yet, do you have a strategy that doesn't piss people off too much?

@@ -31,7 +31,7 @@ The instant feedback you get from a spreadsheet would be difficult to achieve gi
 
 The representation problem is solvable too with a number of compromises on the types of problems that can be solved.
 
-Believe it or not I've been working on this on and off for the best part of twenty years. :)
+Believe it or not I've been working on this on and off for the best part of twenty years. :smile:
 
 <strong>Update June 2015</strong>: I'm currently prototyping the missing application over <a href="https://github.com/digitalbricklayer/dyna">here</a>.
 

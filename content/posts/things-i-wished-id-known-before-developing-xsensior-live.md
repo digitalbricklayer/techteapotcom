@@ -38,7 +38,7 @@ Monitoring a website is simple enough, monitoring a Windows service is not quite
 
 If you must have a seperate worker then hosting with <a href="http://azure.microsoft.com/">Azure</a> websites may provide a relatively simple answer by using the <a href="http://www.hanselman.com/blog/IntroducingWindowsAzureWebJobs.aspx">WebJobs</a> feature. You can have one or more WebJobs and the Azure system ensures they run when necessary. A failure of a WebJob is also handled by Azure. So, if one of your long running WebJobs fails, Azure will fire it straight back up without any effort from you. Another possible route might be to avoid having a seperate worker process at all. The <a href="http://hangfire.io/">Hangfire</a> project looks like a very easy way to add long running background jobs to an ASP.NET project without requiring a seperate worker process.
 
-I wish I'd known about Hangfire a couple of years ago :)
+I wish I'd known about Hangfire a couple of years ago :smile:
 <h2>Logging</h2>
 Log everything <del>important</del>.
 

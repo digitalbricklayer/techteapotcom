@@ -12,4 +12,4 @@ The SilverStripe installer does away with any database and config file messing a
 
 Just shows how you can't rest on your laurels in this industry...what was once industry leading is now behind the curve. A five minute install is wonderful til somebody else comes up with a one minute install.
 
-Oh, BTW...Wordpress 2.7 is out (you are using it) and it is great! ;)
+Oh, BTW...Wordpress 2.7 is out (you are using it) and it is great! :wink:

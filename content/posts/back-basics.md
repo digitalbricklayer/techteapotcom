@@ -22,4 +22,4 @@ Scheme is a modern dialect of Lisp. There are <a href="http://en.wikipedia.org/w
 
 I think that learning a language from scratch, just for the fun of it, may just be the tonic for a mild dose of mid-career blues. Hopefully, that sense of wonder may return. I sure hope so.
 
-I'll let you know :)
+I'll let you know :smile:

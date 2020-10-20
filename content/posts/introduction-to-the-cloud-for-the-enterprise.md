@@ -6,4 +6,4 @@ tags: []
 aliases: [/introduction-to-the-cloud-for-the-enterprise/]
 ---
 
-John M Willis has done a great job <a href="http://www.johnmwillis.com/cloud/cloud-talk-introduction-to-the-cloud-for-the-enterprise/">introducing how enterprises can make use of cloud computing</a>. Enjoy! :)
+John M Willis has done a great job <a href="http://www.johnmwillis.com/cloud/cloud-talk-introduction-to-the-cloud-for-the-enterprise/">introducing how enterprises can make use of cloud computing</a>. Enjoy! :smile:

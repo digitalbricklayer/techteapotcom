@@ -48,4 +48,4 @@ The only minor problem I've found is that my dog eared old site actually convert
 
 I have a few ideas around why the conversion rate has dropped. The current site is a bit drab and needs to be spruced up. In addition, the current site displays previous issues, including the most recent issue on the home page. I wonder if having content on the home page actually distracts people from subscribing.
 
-All told curating a newsletter is fun. I can thoroughly recommend it. :)
+All told curating a newsletter is fun. I can thoroughly recommend it. :smile:

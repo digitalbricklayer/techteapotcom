@@ -15,4 +15,4 @@ The fact that the file is present suggests:
 	<li>The Mahalo open search file is incorrect;</li>
 	<li>Firefox has a poor error message for when an OpenSearch file is incorrect. Instead of saying that the file is incorrect, it says that it is unable to download it.</li>
 </ol>
-Thought you'd want to know. ;)
+Thought you'd want to know. :wink:

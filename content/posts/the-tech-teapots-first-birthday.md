@@ -22,6 +22,6 @@ Alan Lord -- blogger over at <a href="http://www.theopensourcerer.com/">The Open
 
 <a href="http://web.archive.org/web/20131112094643/http://projectdream.org:80/wordpress/about/">Lukas Beeler</a> -- SMB IT blogger over at <a href="http://web.archive.org/web/20140817143458/http://projectdream.org/wordpress/">Lukas Beeler's IT Blog</a>
 
-I'd better mention my OPENXTRA colleagues too (they <em>do</em> read this!). :)
+I'd better mention my OPENXTRA colleagues too (they <em>do</em> read this!). :smile:
 
 One thing I've learnt over the last year...blogging isn't as easy as some people make it look! Writing a good post takes far more time than I would have believed a year ago.
