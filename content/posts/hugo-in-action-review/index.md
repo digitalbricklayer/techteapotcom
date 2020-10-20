@@ -1,6 +1,6 @@
 ---
 title: "Hugo in Action review"
-summary: "A review of the Manning Publications Hugo in Action book."
+summary: "A review of the Manning Publications Hugo in Action book with an outline of the content as well as who is going to find the book useful."
 date: "2020-10-20"
 categories: [General]
 tags: []
