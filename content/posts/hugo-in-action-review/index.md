@@ -12,7 +12,7 @@ I have recently ported this [blog over to Hugo]({{< ref "/posts/a-new-dawn.md" >
 The *Hugo in Action* book is a work in progress at the moment. I have reviewed the chapters that were available in the middle of October. The only parts of the book that are complete are the chapters around building a static website. The JAMstack chapters are due soon. I will update the review when they are ready. The book is due to be fully published in December 2020.
 {{< /notice >}}
 
-{{< figure src="cover.jpg#center" alt="Cover of Hugo in Action book" width="50%" link="cover.jpg" >}}
+{{< figure src="images/cover.jpg#center" alt="Cover of Hugo in Action book" width="50%" link="images/cover.jpg" >}}
 
 The main selling point for [Hugo in Action](https://www.manning.com/books/hugo-in-action) is that not only does the book cover the building of static websites, it also covers the very interesting area of merging a static site with the more dynamic side of [JAMstack](https://jamstack.org/). With JAMstack, you take all of the benefits of a static website like speed and security and add the best dynamic bits of Javascript and associated web frameworks.
 
