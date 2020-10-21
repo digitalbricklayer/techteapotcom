@@ -6,7 +6,7 @@ tags: []
 aliases: [/the-state-of-wi-fi-security-in-2009/]
 ---
 
-Wireless networks, as we all know, are everywhere today. All the way back in 2004 Denis did a wardriving exercise to check how widespread the use of encryption and other security measures were in wireless networks deployed in and around Leeds. The results were summarised in the article <a href="http://www.openxtra.co.uk/articles/wardriving-leeds">Open all Hours - Wardriving in Leeds, West Yorkshire, England</a>.
+Wireless networks, as we all know, are everywhere today. All the way back in 2004 Denis did a wardriving exercise to check how widespread the use of encryption and other security measures were in wireless networks deployed in and around Leeds.
 
 The arrival of the new JDSU ValidatorPRO-NT NT1155, which includes a wireless detection module (including 802.11n networks), gave me the opportunity to repeat the exercise and see how the situation has changed over the intervening period.
 

@@ -12,7 +12,7 @@ Facilities running the air-con in a datacentre  has to be one of the classical I
 
 So what you say, the facilities people eat air-con units for breakfast. That's probably true, but what happens when things go wrong? Are you going to be told about the failure in time to do something about it? Is the first thing you know about the air-con failure when you walk into a blazing hot data centre?
 
-By the time your data centre is an oven, things are too late. You are likely to experience a <a href="http://www.openxtra.co.uk/articles/skimp_server_room_ac.php">heightened level of system failure for weeks or months afterwards</a>.  Don't take my word for it, take <a href="http://www.phy.duke.edu/~rgb/">Robert G Brown's</a> word for it.
+By the time your data centre is an oven, things are too late. You are likely to experience a <a href="https://www.openxtra.co.uk/kb/skimp-on-server-room-air-conditioning-at-your-peril.html">heightened level of system failure for weeks or months afterwards</a>.  Don't take my word for it, take <a href="http://www.phy.duke.edu/~rgb/">Robert G Brown's</a> word for it.
 
 What can you do about it?
 <ul>

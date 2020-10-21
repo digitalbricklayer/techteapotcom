@@ -19,7 +19,7 @@ How can you help reduce the heat generated from your servers?
 	<li>"Low" power servers/blades are available from a number of manufacturers;</li>
 	<li><a href="http://en.wikipedia.org/wiki/Virtualization">Virtualization</a> can help reduce server count and help optimise the remaining ones;</li>
 	<li>Improve your server power management so that unused servers go into power save mode, consuming less power, and consequently requiring less cooling;</li>
-	<li>Carefully control the <a href="http://www.openxtra.co.uk/articles/recommended-server-room-temperature.php">temperature of your data centre</a>, if the temperature is too high you can damage your equipment, conversely, if the temperature is too low, you are wasting power.</li>
+	<li>Carefully control the <a href="https://www.openxtra.co.uk/kb/recommended-server-room-temperature.html">temperature of your data centre</a>, if the temperature is too high you can damage your equipment, conversely, if the temperature is too low, you are wasting power.</li>
 </ol>
 Data centre vendors are at the beginning of taking power consumption seriously. You, the data centre professional, are in the driving seat. If you buy equipment that consumes less power, then vendors will have a great reason to continue innovating. If sales are lacklustre, then vendors will hang back.
 

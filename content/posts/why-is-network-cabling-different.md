@@ -10,7 +10,7 @@ A lot of the skills that an electrician applies every day are directly applicabl
 <h2>Network Cable is Delicate</h2>
 Network cabling is lighter gauge. Any kind of rough handling has the potential to damage the cable before you've even installed it.
 
-<a href="http://www.openxtra.co.uk/articles/network/cat5e.php">CAT5e</a> or <a href="http://www.openxtra.co.uk/articles/network/cat6.php">CAT6</a> cable has 4 pairs of thin copper wires. Damage to any of those 8 wires renders the cable unusable. Do not exceed 20% of the maximum cable strength when installing (or at any other time for that matter).
+CAT5e or CAT6 cable has 4 pairs of thin copper wires. Damage to any of those 8 wires renders the cable unusable. Do not exceed 20% of the maximum cable strength when installing (or at any other time for that matter).
 <h2>Bend Radius</h2>
 You need to pay careful attention to the minimum bend radius for the cable type you are using. The cabling may well be okay when it's finally installed, but if it has been bent too sharply during installation the damage may have already been done.
 

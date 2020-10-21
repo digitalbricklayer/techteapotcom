@@ -23,59 +23,59 @@ aliases: [/open-source-network-management-comparison-platform/]
 </tr>
 <tr class="odd" align="center">
 <td align="right">Linux</td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
 </tr>
 <tr align="center">
 <td align="right">Windows</td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/cross.png" alt="" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/cross.png" alt="" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/cross.png" alt="" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/cross.png" alt="" /></td>
+<td><img src="/images/uploads/2008/07/cross.png" alt="" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/cross.png" alt="" /></td>
 </tr>
 <tr class="odd" align="center">
 <td align="right">OSX</td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
 </tr>
 <tr align="center">
 <td align="right">Solaris</td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
 </tr>
 <tr class="odd" align="center">
 <td align="right">*BSD</td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
 </tr>
 <tr align="center">
 <td align="right">Hardware Appliance</td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/cross.png" alt="X" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/cross.png" alt="X" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/cross.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/cross.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="" /></td>
+<td><img src="/images/uploads/2008/07/cross.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/cross.png" alt="X" /></td>
 </tr>
 <tr align="center">
 <td align="right">Virtual Appliance</td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/cross.png" alt="X" /> <sup>[3]</sup></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/cross.png" alt="X" /> <sup>[4]</sup></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="" /></td>
+<td><img src="/images/uploads/2008/07/cross.png" alt="X" /> <sup>[3]</sup></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="" /></td>
+<td><img src="/images/uploads/2008/07/cross.png" alt="X" /> <sup>[4]</sup></td>
 </tr>
 </tbody></table>
 <sup>[1]</sup> <a href="http://www.zenoss.org/">Zenoss Core</a> is used for the purpose of this comparison.

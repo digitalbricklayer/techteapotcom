@@ -16,7 +16,7 @@ So how can a VAR get in on the action?
 <ul>
 	<li>Create your own project by <a href="http://en.wikipedia.org/wiki/Fork_%28software_development%29">forking</a> one or more existing projects. You effectively become the creator of the tool so you have the relationship with the user; OR</li>
 	<li>Morph into a consultant for existing projects. The only hope any VAR has of getting in on the act is through expertise by providing training and implementation help; AND/OR</li>
-	<li>Supply <a href="http://www.openxtra.co.uk/network-management/monitor/appliance/">hardware appliances</a> powered by open source tools.</li>
+	<li>Supply hardware appliances powered by open source tools.</li>
 </ul>
 <h2>Fork off</h2>
 The nature of open source means that the source code is available to everybody. Why can't a VAR create their own fork and create service offerings around it? There are two reasons why this approach is unlikely to succeed:

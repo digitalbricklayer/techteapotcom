@@ -6,7 +6,7 @@ tags: []
 aliases: [/lessons-learnt-from-the-failure-of-timetag/]
 ---
 
-I have a confession to make: I've developed a <a href="http://www.openxtra.co.uk/freestuff/timetag">failed open source project</a>! There I've said it, it's now public knowledge and I can hang my head in shame... lead me to the village stocks so you can all throw rotting vegetables at me.
+I have a confession to make: I've developed a <a href="https://openxtra.org/project/timetag">failed open source project</a>! There I've said it, it's now public knowledge and I can hang my head in shame... lead me to the village stocks so you can all throw rotting vegetables at me.
 
 Happily, I don't feel like that. Failure is, well, no big deal. Of course it does sting a little bit that I wasted an awful lot of time developing the software. What could I have done with the time had I not written the 11,184 lines of code <a href="http://www.ohloh.net/p/timetag/analyses/latest">Ohloh says I wrote</a>? Well, I'll never know, but...
 

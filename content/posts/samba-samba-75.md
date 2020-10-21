@@ -6,7 +6,7 @@ tags: []
 aliases: [/samba-samba-75/]
 ---
 
-More fun with <a href="http://www.openxtra.co.uk/products/sms-modems/index.html">GSM Modems</a>. The Falcom Samba 75 behaves in the same way as the <a href="http://www.openxtra.co.uk/products/sms-modems/samba55/index.html">Samba 55</a>, i.e. the CD doesn't actually load the driver or the phone software so you still have to load them by hand, just like the Samba 55.
+More fun with <a href="https://www.openxtra.co.uk/accessories/sms-modems.html">GSM Modems</a>. The Falcom Samba 75 behaves in the same way as the Samba 55, i.e. the CD doesn't actually load the driver or the phone software so you still have to load them by hand, just like the Samba 55.
 
 Mind you the screen image of the phone that turns up is different.
 

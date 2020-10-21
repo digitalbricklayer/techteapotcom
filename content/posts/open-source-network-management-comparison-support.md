@@ -23,65 +23,65 @@ aliases: [/open-source-network-management-comparison-support/]
 </tr>
 <tr class="odd" align="center">
 <td align="right">Forum</td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
 </tr>
 <tr align="center">
 <td align="right">Mailing list</td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/cross.png" alt="" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/cross.png" alt="" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/cross.png" alt="" /></td>
+<td><img src="/images/uploads/2008/07/cross.png" alt="" /></td>
 </tr>
 <tr class="group-ttl">
 <td colspan="6">Commercial Support</td>
 </tr>
 <tr class="odd" align="center">
 <td align="right">Support contract</td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
 </tr>
 <tr align="center">
 <td align="right">Training</td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
 <td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
 <td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
 </tr>
 <tr class="odd" align="center">
 <td align="right">Consulting</td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
 </tr>
 <tr class="group-ttl">
 <td colspan="6">Learning resources</td>
 </tr>
 <tr class="odd" align="center">
 <td align="right">Blog</td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/cross.png" alt="" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/cross.png" alt="" /></td>
 </tr>
 <tr align="center">
 <td align="right">Book(s)</td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/cross.png" alt="" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/tick.png" alt="X" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/cross.png" alt="" /></td>
-<td><img src="//techteapot.com/wp-content/uploads/2008/07/cross.png" alt="" /></td>
+<td><img src="/images/uploads/2008/07/cross.png" alt="" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
+<td><img src="/images/uploads/2008/07/cross.png" alt="" /></td>
+<td><img src="/images/uploads/2008/07/cross.png" alt="" /></td>
 </tr>
 </tbody>
 </table>
