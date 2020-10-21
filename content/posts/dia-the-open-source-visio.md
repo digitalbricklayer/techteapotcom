@@ -8,6 +8,8 @@ aliases: [/dia-the-open-source-visio/]
 
 If you need to create quick and easy diagrams but can't justify a full priced tool like <a href="http://www.smartdraw.com/">SmartDraw</a> or <a href="http://office.microsoft.com/visio">Visio</a> then you're in luck. <a href="http://projects.gnome.org//dia/">Dia is an open source diagramming tool</a> that will make a welcome addition to your diagramming toolkit.
 
+<!--more-->
+
 {{< foldergallery src="images/galleries/dia-network-mapping-tool/" >}}
 
 Dia comes with a wide range of symbols ready to drag 'n drop onto your drawings. The symbols snap together so that moving one of the symbols also moves all of the connectors, just like in Visio. Perfect for creating network, Entity Relationship (ER) and UML diagrams.
