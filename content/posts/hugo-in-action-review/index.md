@@ -2,7 +2,7 @@
 title: "Hugo in Action book review"
 date: "2020-10-20"
 categories: [General]
-tags: []
+tags: [Hugo]
 series: ["Reading Log"]
 ---
 
