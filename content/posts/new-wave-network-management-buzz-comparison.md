@@ -16,7 +16,7 @@ I have omitted <a href="http://www.groundworkopensource.com/">Groundwork Open So
 
 <img src="/images/uploads/2007/09/zenoss-vs-hyperic.PNG" alt="Hyperic vs Zenoss Search Trend" width="100%" height="100%" align="center" />Figure 1: <a href="http://www.google.com/trends?q=hyperic%2Czenoss">Hyperic vs Zenoss Search Trend</a>
 
-Firstly, I'd like to congratulate both <a href="http://www.zenoss.com/">Zenoss</a> &amp; <a href="http://www.hyperic.com/">Hyperic</a> for appearing in Google Trends. That's no mean feat in itself.
+Firstly, I'd like to congratulate both <a href="https://www.zenoss.com/">Zenoss</a> &amp; <a href="http://www.hyperic.com/">Hyperic</a> for appearing in Google Trends. That's no mean feat in itself.
 
 Zenoss is winning the search war, no doubt about it. Figure 1 shows that Zenoss search volume looks to be about double Hyperic's level. One reason for that may be the relative communities that Zenoss can plug into: <a href="http://www.python.org/">Python</a> &amp; <a href="http://www.zope.org/">Zope</a>. Both are very definite communities that are going to be very vocal about projects they like. Hyperic is written in <a href="http://java.sun.com/">Java</a>: Java doesn't really have a close knit community in the same way that Python does.
 

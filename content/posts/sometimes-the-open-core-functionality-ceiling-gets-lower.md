@@ -8,7 +8,7 @@ aliases: [/sometimes-the-open-core-functionality-ceiling-gets-lower/]
 
 First of all a little bit of background will make the post a little bit more understandable to non I.T. folks.
 <h2>A bit of background</h2>
-<a href="http://www.zenoss.com/">Zenoss</a> is a network management software vendor with an open source core product, called <a href="http://community.zenoss.org/">Zenoss Core</a>, and a closed source product called <a title="Network management's new wave six years on" href="http://www.zenoss.com/">Zenoss Enterprise</a>.
+<a href="https://www.zenoss.com/">Zenoss</a> is a network management software vendor with an open source core product, called <a href="http://community.zenoss.org/">Zenoss Core</a>, and a closed source product called <a title="Network management's new wave six years on" href="https://www.zenoss.com/">Zenoss Enterprise</a>.
 
 Zenoss is written in the <a href="http://www.python.org/">Python</a> programming language and uses the <a href="http://www.zope.org/">Zope</a> web application framework.
 
@@ -18,7 +18,7 @@ A relational database does not need to run on the same server as Zope, you can r
 
 Zope's native database format limits how scalable Zope can be, which in turn limits how scalable Zenoss can be.
 <h2>A bit more background</h2>
-Way back in 2010 <a href="{{< ref "/posts/a-real-world-example-of-the-problems-with-open-core-software.md">}}">myself</a> and <a href="http://www.adventuresinoss.com/?p=1523">others</a> suggested that an open core strategy would lead to some <a href="{{< ref "/posts/an-exploration-of-open-core-licensing-in-network-management.md" >}}">difficult decisions about which features</a> go into the open source product and the closed enterprise product.
+Way back in 2010 <a href="{{< ref "/posts/a-real-world-example-of-the-problems-with-open-core-software.md">}}">myself</a> and <a href="https://www.adventuresinoss.com/?p=1523">others</a> suggested that an open core strategy would lead to some <a href="{{< ref "/posts/an-exploration-of-open-core-licensing-in-network-management.md" >}}">difficult decisions about which features</a> go into the open source product and the closed enterprise product.
 
 I suggested that a feature ceiling could be reached in the open source product and <a href="{{< ref "/posts/musings-upon-the-open-core-functionality-ceiling.md" >}}">offered some modest proof</a> that it existed.
 <h2>The ceiling fell in... a bit</h2>
@@ -28,7 +28,7 @@ The following is part of a <a href="http://community.zenoss.org/docs/DOC-10312">
 
 rmatte:
 <blockquote>"... A decision was made some time ago to move from standard zopedb to relstorage to improve performance. Recently, a decision was made to remove the relstorage code from Zenoss Core."</blockquote>
-<a href="http://www.zenoss.com/about/team/management">Bill Karpovitch</a> Co-founder and CEO of Zenoss Inc.
+<a href="https://www.zenoss.com/about/team/management">Bill Karpovitch</a> Co-founder and CEO of Zenoss Inc.
 <blockquote>"a mistake we made in the process was that product management had it slated for an enterprise feature but we began development in the core trunk. for better or worse, our decision was to pull it back. we are continuing to look this as part of the plan forward."
 
 "all good points. to be clear, the Core/Enterprise feature decisions are challenging and involve tough trade offs."</blockquote>

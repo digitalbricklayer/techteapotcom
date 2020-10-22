@@ -8,7 +8,7 @@ aliases: [/network-managements-new-wave/]
 
 A bunch of venture funded network management start-ups are storming the enterprise space with <a href="http://www.networkworld.com/news/2007/060607-management-vc-funding.html?zb&amp;rc=mgmt">pockets full of venture capital</a> money.
 
-The <strong>new wave</strong> comprise: <a href="http://www.hyperic.com/">Hyperic</a>, <a href="http://www.zenoss.com/">Zenoss</a> and <a href="http://www.groundworkopensource.com/">Groundwork</a>.
+The <strong>new wave</strong> comprise: <a href="http://www.hyperic.com/">Hyperic</a>, <a href="https://www.zenoss.com/">Zenoss</a> and <a href="http://www.groundworkopensource.com/">Groundwork</a>.
 
 What ties them all together? All of the tools are <em>open source</em>, but that isn't new in network management. Projects like <a href="http://www.nagios.org/">Nagios</a>, <a href="https://www.opennms.org/">OpenNMS</a> as well as a raft of others have been around for a decade or so. What's new is the <em>combination</em> of open source products <strong>and</strong> the level of funding going into the new players.
 <h2>Open source as "new wave" strategy</h2>

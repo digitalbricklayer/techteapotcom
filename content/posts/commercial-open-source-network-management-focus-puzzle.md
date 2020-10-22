@@ -6,7 +6,7 @@ tags: []
 aliases: [/commercial-open-source-network-management-focus-puzzle/]
 ---
 
-One of the interesting things to emerge in network management over the last year or two has been the commercial open source vendors like <a href="http://www.groundworkopensource.com/">Groundwork</a> & <a href="http://www.zenoss.com/">Zenoss</a>.
+One of the interesting things to emerge in network management over the last year or two has been the commercial open source vendors like <a href="http://www.groundworkopensource.com/">Groundwork</a> & <a href="https://www.zenoss.com/">Zenoss</a>.
 
 The commercialisation of open source isn't new, nor is it particularly surprising that commercialisation has happened in the network management space. Open source has been big in network and systems management from the beginning.
 

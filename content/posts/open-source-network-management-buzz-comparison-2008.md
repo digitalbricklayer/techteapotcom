@@ -14,7 +14,7 @@ First up is a comparison of the major open source network management systems. <a
 
 <a href="http://oss.oetiker.ch/mrtg/">MRTG</a> during 2008 does show signs of continued decline. Hardly surprising given that a number of very capable competitors exist that are much easier to install and configure.
 
-<a href="http://www.zenoss.com/">Zenoss</a>, <a href="http://www.hyperic.com/">Hyperic</a> and <a href="https://www.opennms.org/">OpenNMS</a> are all doing well, retaining substantial levels of searches with Zenoss retaining its early lead.
+<a href="https://www.zenoss.com/">Zenoss</a>, <a href="http://www.hyperic.com/">Hyperic</a> and <a href="https://www.opennms.org/">OpenNMS</a> are all doing well, retaining substantial levels of searches with Zenoss retaining its early lead.
 
 {{< figure src="/images/uploads/2009/01/open-source-nms-trend-2008.png" width="591" height="328" title="Open Source NMS Trend 2008" alt="Open Source NMS Trend 2008" link="/images/uploads/2009/01/open-source-nms-trend-2008.png" >}}
 
