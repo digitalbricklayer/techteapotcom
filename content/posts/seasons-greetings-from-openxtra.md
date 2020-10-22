@@ -8,7 +8,7 @@ aliases: [/seasons-greetings-from-openxtra/]
 
 <a title="OPENXTRA Christmas Party" href="/images/uploads/2007/12/office-christmas-party-2007.png"><img style="border-left: solid 4px white;" src="/images/uploads/2007/12/office-christmas-party-2007_tn.png" alt="OPENXTRA Christmas Party" align="right" /></a>
 
-Merry Christmas to all our readers, from everybody at OPENXTRA. Many thanks to Tarus Balog over at <a href="http://www.opennms.org/">OpenNMS</a> for the lovely t-shirt.
+Merry Christmas to all our readers, from everybody at OPENXTRA. Many thanks to Tarus Balog over at <a href="https://www.opennms.org/">OpenNMS</a> for the lovely t-shirt.
 
 OPENXTRA is going to be closed over the Christmas holidays, though we will fulfill online and fax orders. We'll all be back at the Chambers officially on the 2nd January.
 

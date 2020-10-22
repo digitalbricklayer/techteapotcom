@@ -10,7 +10,7 @@ I personally think the <a href="http://www.independent.co.uk/opinion/commentator
 
 Things certainly are going to be different for a while, but I don't think we're all going to go back to depression era levels of unemployment and the social deprevation associated with it.
 
-Whilst the various world wide responses to the crisis haven't been great, they've been a whole lot better than the response during <a href="http://en.wikipedia.org/wiki/Great_Depression">the great depression</a>.
+Whilst the various world wide responses to the crisis haven't been great, they've been a whole lot better than the response during <a href="https://en.wikipedia.org/wiki/Great_Depression">the great depression</a>.
 
 One thing is for sure, people with deep pockets and an eye for the longer term, are going to make a killing.
 

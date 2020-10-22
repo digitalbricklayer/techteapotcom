@@ -7,7 +7,7 @@ aliases: [/programmer-middle-age/]
 ---
 
 <p><img height="330" alt="iStock 000004300948XSmall" src="/images/uploads/2008/01/istock-000004300948xsmall.jpg" width="225" align="right" />You know when you've reached programmer middle age, a new operating system/IDE drops through your letter box and you don't run off to install it. :wink:</p>
-<p>I received <a href="http://en.wikipedia.org/wiki/Microsoft_Visual_Studio">Visual Studio 2008</a> via <a href="http://msdn2.microsoft.com/">MSDN</a> last week and it is still sitting on my desk unopened. Is there any hope for me?</p>
+<p>I received <a href="https://en.wikipedia.org/wiki/Microsoft_Visual_Studio">Visual Studio 2008</a> via <a href="http://msdn2.microsoft.com/">MSDN</a> last week and it is still sitting on my desk unopened. Is there any hope for me?</p>
 <p>Even <a href="http://www.eclipse.org/">Eclipse</a> managed to release a new version without me noticing.</p>
 <p>Am I doomed to a gradual decline from programmer middle age through to programmer senility?</p>
 <p>I don't think so...at least not without a fight. :smile:</p>
@@ -21,4 +21,4 @@ aliases: [/programmer-middle-age/]
 <p>New programming paradigms and languages are also competing for mindshare. The easy performance gains are at an end and we as programmers have to figure out how to benefit from the new multi-core world.</p>
 <p>And of course there are the classics like <a href="http://lisp.org/">LISP</a> and <a href="http://www.smalltalk.org/">Smalltalk</a> with lots still to contribute. Smalltalk is like an unrequited love affair from school. You love it dearly but you know that the relationship is never going to be consummated. Nobody is going to pay you to write Smalltalk code.</p>
 <p>So, maybe its not just that I'm entering programmer middle age, its that programming as a discipline is entering middle age. Gone is the youthful optimism that software creation is soon going to be so easy anybody can do it, to a realisation that it is hard, and likely to stay hard for some time, and requires tools, practices and discipline just like every other engineering discipline.</p>
-<p>The belief that the next tool will be <em>the</em> <a href="http://en.wikipedia.org/wiki/Silver_bullet">silver bullet</a> is a problem. A little skepticism is a useful productivity aid.</p>
+<p>The belief that the next tool will be <em>the</em> <a href="https://en.wikipedia.org/wiki/Silver_bullet">silver bullet</a> is a problem. A little skepticism is a useful productivity aid.</p>

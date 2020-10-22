@@ -6,6 +6,9 @@ if ! [ -x "$(command -v linkchecker)" ]; then
     exit
 fi
 
+# for extern add:
+# --ignore-url=https://fonts.gstatic.com \
+# --check-extern \
 linkchecker --ignore-url=/livereload.js \
             --ignore-url=/dist \
             --no-status \

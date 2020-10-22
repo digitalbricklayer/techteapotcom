@@ -6,7 +6,7 @@ tags: []
 aliases: [/not-the-dud-but-the-dude/]
 ---
 
-Brendan from <a href="http://www.secure-eserver.com/">Sentinal</a> was kind enough to point out a new <a href="http://en.wikipedia.org/wiki/Open_source">open source </a> network mapping tool. It looks really good and so far seems to work! It's called <a href="http://www.mikrotik.com/thedude.php">The Dude</a>, probably sounds better in an American accent, and I tried it on our test network with the following results.
+Brendan from <a href="http://www.secure-eserver.com/">Sentinal</a> was kind enough to point out a new <a href="https://en.wikipedia.org/wiki/Open_source">open source </a> network mapping tool. It looks really good and so far seems to work! It's called <a href="http://www.mikrotik.com/thedude.php">The Dude</a>, probably sounds better in an American accent, and I tried it on our test network with the following results.
 
 There are more <a href="http://www.mikrotik.com/screenshots.php">screenshots</a> on the Microtik website.
 

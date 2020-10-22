@@ -12,7 +12,7 @@ It has been six years since I wrote about <a href="{{< ref "/posts/network-manag
 
 The "<em>new wave</em>" was <a href="http://www.hyperic.com/">Hyperic</a>,<a href="http://www.zenoss.com/"> Zenoss</a> and <a href="http://www.gwos.com/">Groundwork Open Source</a> VC funded, open source network management companies.
 
-Open source wasn't new to the network management scene in 2007, there had been well known projects, like <a href="http://www.nagios.org/">Nagios</a>, <a href="http://oss.oetiker.ch/mrtg/">MRTG</a> and <a href="http://www.opennms.org/">OpenNMS</a>, around for a number of years prior to that.
+Open source wasn't new to the network management scene in 2007, there had been well known projects, like <a href="http://www.nagios.org/">Nagios</a>, <a href="http://oss.oetiker.ch/mrtg/">MRTG</a> and <a href="https://www.opennms.org/">OpenNMS</a>, around for a number of years prior to that.
 
 What was different was combining open source licensing with big wads of venture capital. A total of $79.2M has been invested into the "<em>new wave</em>" over the last 9 years.
 

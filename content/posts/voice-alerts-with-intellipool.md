@@ -14,7 +14,7 @@ Many people rely on email for alerting purposes. And that works fine whilst peop
 
 The problem comes when the on-call support staff are off-site. Maybe they are even asleep. In those circumstances it is much less likely that SMS messaging will be effective.
 
-That's where voice alerts or <a href="http://en.wikipedia.org/wiki/Interactive_voice_response">Interactive Voice Response</a> (IVR) can play a part. Voice alerts are sent straight to one or more telephones (including mobiles) as regular phone calls.
+That's where voice alerts or <a href="https://en.wikipedia.org/wiki/Interactive_voice_response">Interactive Voice Response</a> (IVR) can play a part. Voice alerts are sent straight to one or more telephones (including mobiles) as regular phone calls.
 
 As a regular phone call, a voice alert is much more likely to be answered and acted upon. In addition, in case of network loss voice alerts only depend upon your phone system still being operational, which in most companies, is a reasonable bet.
 

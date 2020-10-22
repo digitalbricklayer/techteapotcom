@@ -10,7 +10,7 @@ I've talked before about the <a href="{{< ref "/posts/continuous-delivery-every-
 
 Well, I've been building a couple of micro sites recently and thought it would be nice to try out a few new technologies and techniques.
 
-Firstly, I've built them with <a href="http://en.wikipedia.org/wiki/HTML5">HTML5</a> and the <a href="http://getbootstrap.com/"><del>Twitter</del> Bootstrap</a> framework, there's a very good tutorial <a href="http://www.w3resource.com/twitter-bootstrap/tutorial.php">here</a>. Bootstrap provides a combination of CSS and Javascript to make building a clean, responsive site without having to worry about cross browser compatibility.
+Firstly, I've built them with <a href="https://en.wikipedia.org/wiki/HTML5">HTML5</a> and the <a href="http://getbootstrap.com/"><del>Twitter</del> Bootstrap</a> framework, there's a very good tutorial <a href="http://www.w3resource.com/twitter-bootstrap/tutorial.php">here</a>. Bootstrap provides a combination of CSS and Javascript to make building a clean, responsive site without having to worry about cross browser compatibility.
 
 We use TeamCity and <a href="http://octopusdeploy.com/">Octopus Deploy</a> for another much larger site. For micro sites I think that Octopus is overkill. A large complicated deployment workflow isn't necessary for a simple micro site. Octopus really comes into its own when you need to deploy to a large web farm, or you need a workflow prior to releasing the website into production.
 

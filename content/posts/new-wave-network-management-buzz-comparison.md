@@ -26,7 +26,7 @@ Zenoss is also more customisable by sysadmins. As Zenoss is written in Python an
 
 <img src="/images/uploads/2007/09/oss-comparison.png" alt="New wave vs Open Source Projects Trend" width="100%" height="100%" align="center" />Figure 2: <a href="http://www.google.com/trends?q=hyperic%2Czenoss%2Cnagios%2Cmrtg%2Copennms&ctab=0&geo=all&date=all&sort=0">New wave vs Open Source Projects Trend</a>
 
-Figure 2 shows the relative search volume between Hyperic, Zenoss, <a href="http://oss.oetiker.ch/mrtg/">MRTG</a>, <a href="http://www.nagios.org/">Nagios</a> and <a href="http://www.opennms.org/">OpenNMS</a>. The first thing that struck me is the massive search volume for MRTG. WOW! Given how far behind in terms of features and performance MRTG is behind the rest it is quite staggering how many searches it receives. MRTG is losing search volume though, down by two thirds since the beginning of 2004. Nagios has done very well, gaining search volume throughout the last three years.
+Figure 2 shows the relative search volume between Hyperic, Zenoss, <a href="http://oss.oetiker.ch/mrtg/">MRTG</a>, <a href="http://www.nagios.org/">Nagios</a> and <a href="https://www.opennms.org/">OpenNMS</a>. The first thing that struck me is the massive search volume for MRTG. WOW! Given how far behind in terms of features and performance MRTG is behind the rest it is quite staggering how many searches it receives. MRTG is losing search volume though, down by two thirds since the beginning of 2004. Nagios has done very well, gaining search volume throughout the last three years.
 
 What does the graph mean for Hyperic &amp; Zenoss?
 

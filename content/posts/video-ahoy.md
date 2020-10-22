@@ -22,4 +22,4 @@ Equipment required: 1 x PC microphone
 
 If anybody has a recommendation for a good, moderately priced PC microphone, please leave a comment.
 
-Update: <a href="https://www.openxtra.co.uk/about-us">Denis Laverty</a> is the star of the show...we'll have to get him an <a href="http://en.wikipedia.org/wiki/Equity_Card">equity card</a> if he carries on like this!
+Update: <a href="https://www.openxtra.co.uk/about-us">Denis Laverty</a> is the star of the show...we'll have to get him an <a href="https://en.wikipedia.org/wiki/Equity_Card">equity card</a> if he carries on like this!

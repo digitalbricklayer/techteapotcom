@@ -10,7 +10,7 @@ aliases: [/open-source-network-management-comparison-platform/]
 <thead>
 <tr align="center">
 <th>Attribute / Project</th>
-<th><a href="http://www.opennms.org/">OpenNMS</a></th>
+<th><a href="https://www.opennms.org/">OpenNMS</a></th>
 <th><a href="http://www.nagios.org/">Nagios</a></th>
 <th><a href="http://www.zenoss.org/">Zenoss</a> <sup>[1]</sup></th>
 <th>Hyperic <sup>[2]</sup></th>

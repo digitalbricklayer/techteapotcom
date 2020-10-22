@@ -6,7 +6,7 @@ tags: ["OpenNMS"]
 aliases: [/opennms-coming-soon-to-windows/]
 ---
 
-<a href="http://www.opennms.org/">OpenNMS</a> is one of the original enterprise grade open source network management tools. For the Windows based admin, it has had one huge problem: it only runs on Unix based systems.
+<a href="https://www.opennms.org/">OpenNMS</a> is one of the original enterprise grade open source network management tools. For the Windows based admin, it has had one huge problem: it only runs on Unix based systems.
 
 Not any more!
 

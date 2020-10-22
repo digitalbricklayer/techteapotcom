@@ -46,7 +46,7 @@ Instead of needing a mobile phone app for each service you run, you can merge al
 
 If you haven't received a notification, then you don't need to go anywhere near the dashboard. Every time you think about going there just remind yourself that, if there was a problem, you'd already know about it.
 <h3>Time Management Techniques</h3>
-<a href="http://en.wikipedia.org/wiki/Pomodoro_Technique">Pomodoro Technique</a> or <a href="http://en.wikipedia.org/wiki/Timeboxing">Timeboxing</a> or ... lots of <a href="http://en.wikipedia.org/wiki/Time_management">other similar techniques</a>.
+<a href="https://en.wikipedia.org/wiki/Pomodoro_Technique">Pomodoro Technique</a> or <a href="https://en.wikipedia.org/wiki/Timeboxing">Timeboxing</a> or ... lots of <a href="https://en.wikipedia.org/wiki/Time_management">other similar techniques</a>.
 
 None of the time management techniques will of themselves cure your statsitus, it just moves it into your own "<em>pomodori</em>", or, the time in between your productive tasks. If you want to sacrifice your own leisure time to stats, then <em>go nuts</em>. But at least you're getting work done in the mean time.
 <h3>The Writers' Den</h3>

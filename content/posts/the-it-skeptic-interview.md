@@ -6,6 +6,6 @@ tags: []
 aliases: [/the-it-skeptic-interview/]
 ---
 
-A very interesting interview with The IT Skeptic over on the IT's About Uptime blog. The interview covers <a href="http://en.wikipedia.org/wiki/ITIL">ITIL</a> and <a href="http://en.wikipedia.org/wiki/CMDB">CMDB</a> primarily with some background on <a href="http://www.itskeptic.org/">The IT Skeptic</a> himself.
+A very interesting interview with The IT Skeptic over on the IT's About Uptime blog. The interview covers <a href="https://en.wikipedia.org/wiki/ITIL">ITIL</a> and <a href="https://en.wikipedia.org/wiki/CMDB">CMDB</a> primarily with some background on <a href="http://www.itskeptic.org/">The IT Skeptic</a> himself.
 
 For those who haven't come accross The IT Skeptic, he tends to take a rather skeptical view of current IT service management practice.

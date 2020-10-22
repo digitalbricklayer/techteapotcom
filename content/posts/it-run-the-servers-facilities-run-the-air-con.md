@@ -8,7 +8,7 @@ aliases: [/it-run-the-servers-facilities-run-the-air-con/]
 
 <img src="/images/uploads/2007/10/thermometer.jpg" alt="An analog thermometer" style="border-left: 4px solid white" align="right" />
 
-Facilities running the air-con in a datacentre  has to be one of the classical IT <a href="http://en.wikipedia.org/wiki/Anti-pattern">anti-patterns</a>. You've got your nice shiny data centre, rows and rows of cabinets full to the brim with IT kit. Problem is, you don't run the air conditioning, the facilities people do.
+Facilities running the air-con in a datacentre  has to be one of the classical IT <a href="https://en.wikipedia.org/wiki/Anti-pattern">anti-patterns</a>. You've got your nice shiny data centre, rows and rows of cabinets full to the brim with IT kit. Problem is, you don't run the air conditioning, the facilities people do.
 
 So what you say, the facilities people eat air-con units for breakfast. That's probably true, but what happens when things go wrong? Are you going to be told about the failure in time to do something about it? Is the first thing you know about the air-con failure when you walk into a blazing hot data centre?
 

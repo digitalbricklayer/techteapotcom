@@ -10,7 +10,7 @@ Open source is a term used to cover permissive licenses for software. Generally 
 <h2>What are Trademarks?</h2>
 <blockquote>"A <b>trademark</b>, <b>trade mark</b>, or <b>trade-mark</b><sup id="cite_ref-1" class="reference"></sup> is a recognizable sign, design or expression which identifies products or services of a particular source from those of others."
 
-Definition of a <a href="http://en.wikipedia.org/wiki/Trademark">Trademark</a></blockquote>
+Definition of a <a href="https://en.wikipedia.org/wiki/Trademark">Trademark</a></blockquote>
 A trademark gives the trademark holder the right to control who and when a trademark can be used by others.
 <h2>Trademarks and Open Source</h2>
 Open source projects give away an awful lot. They have very little control over the source code for instance. Unlike a commercial product, they have no secret sauce that stops others from distributing their project as their own.

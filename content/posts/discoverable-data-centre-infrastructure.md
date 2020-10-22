@@ -8,7 +8,7 @@ aliases: [/discoverable-data-centre-infrastructure/]
 
 David Cuthbertson of <a href="http://www.squaremilesystems.com/">Square Mile Systems</a> was kind enough to demonstrate his <a href="http://www.squaremilesystems.com/p_assetgensysmap.html">AssetGen</a> software to myself and Denis last week.
 
-Once the data has been inputed into a <a href="http://en.wikipedia.org/wiki/CMDB">CMDB</a> like AssetGen all sorts of very impressive reports can be generated very quickly.
+Once the data has been inputed into a <a href="https://en.wikipedia.org/wiki/CMDB">CMDB</a> like AssetGen all sorts of very impressive reports can be generated very quickly.
 
 Implementing a CMDB involves a heavy up front investment because you have to manually enter <a href="http://servicecatalogs.typepad.com/servicecatalogs/2006/04/what_is_the_rel_1.html">at least 50% of your infrastructure and associated dependencies</a>.
 

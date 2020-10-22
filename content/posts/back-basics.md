@@ -14,11 +14,11 @@ But, over time, the sense of wonder starts to wane. Once somebody starts paying 
 
 I have been pondering my career recently. Such as it is. You do start pondering your career when you hit the wrong end of your forties. How can I get back that sense of wonder again?
 
-I've always had a hankering after learning <a href="http://en.wikipedia.org/wiki/Lisp_%28programming_language%29">Lisp</a>. I read about it even before I went to college twenty six years ago, and it has always fascinated me. Pretty well any programming concept you can think of, Lisp usually got there first.
+I've always had a hankering after learning <a href="https://en.wikipedia.org/wiki/Lisp_%28programming_language%29">Lisp</a>. I read about it even before I went to college twenty six years ago, and it has always fascinated me. Pretty well any programming concept you can think of, Lisp usually got there first.
 
-One of my recent discoveries has been a series of books: <a href="http://mitpress.mit.edu/books/little-schemer">The Little Schemer</a>, <a href="http://mitpress.mit.edu/books/seasoned-schemer">The Seasoned Schemer</a> and <a href="http://mitpress.mit.edu/books/reasoned-schemer">The Reasoned Schemer</a> teaching <a href="http://en.wikipedia.org/wiki/Scheme_%28programming_language%29">Scheme</a> in quite a unique, accessible and fun style.
+One of my recent discoveries has been a series of books: <a href="http://mitpress.mit.edu/books/little-schemer">The Little Schemer</a>, <a href="http://mitpress.mit.edu/books/seasoned-schemer">The Seasoned Schemer</a> and <a href="http://mitpress.mit.edu/books/reasoned-schemer">The Reasoned Schemer</a> teaching <a href="https://en.wikipedia.org/wiki/Scheme_%28programming_language%29">Scheme</a> in quite a unique, accessible and fun style.
 
-Scheme is a modern dialect of Lisp. There are <a href="http://en.wikipedia.org/wiki/Lisp_%28programming_language%29#Major_dialects">lots of others</a> including <a href="http://en.wikipedia.org/wiki/Clojure">Clojure</a>.
+Scheme is a modern dialect of Lisp. There are <a href="https://en.wikipedia.org/wiki/Lisp_%28programming_language%29#Major_dialects">lots of others</a> including <a href="https://en.wikipedia.org/wiki/Clojure">Clojure</a>.
 
 I think that learning a language from scratch, just for the fun of it, may just be the tonic for a mild dose of mid-career blues. Hopefully, that sense of wonder may return. I sure hope so.
 

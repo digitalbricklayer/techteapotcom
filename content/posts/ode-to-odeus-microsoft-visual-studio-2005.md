@@ -6,7 +6,7 @@ tags: []
 aliases: [/ode-to-odeus-microsoft-visual-studio-2005/]
 ---
 
-<a href="http://msdn2.microsoft.com/en-us/vstudio/default.aspx">Microsoft Visual Studio 2005</a> has been out for over a year now. I would say that it is quite possibly the worst piece of software to come out of <a href="http://en.wikipedia.org/wiki/Redmond,_Washington">Redmond</a> for a very long time. I am amazed that they released it. I am mortified that they still haven't fixed it.
+<a href="http://msdn2.microsoft.com/en-us/vstudio/default.aspx">Microsoft Visual Studio 2005</a> has been out for over a year now. I would say that it is quite possibly the worst piece of software to come out of <a href="https://en.wikipedia.org/wiki/Redmond,_Washington">Redmond</a> for a very long time. I am amazed that they released it. I am mortified that they still haven't fixed it.
 
 The bug that makes me fume is the Class View bug. Scroll down to a class you wish to view and just before you can click on the class you want to work on the view goes right back to the top again :(
 

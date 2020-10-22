@@ -17,7 +17,7 @@ The alternative is to avoid the problem in the first place. If your servers don'
 How can you help reduce the heat generated from your servers?
 <ol>
 	<li>"Low" power servers/blades are available from a number of manufacturers;</li>
-	<li><a href="http://en.wikipedia.org/wiki/Virtualization">Virtualization</a> can help reduce server count and help optimise the remaining ones;</li>
+	<li><a href="https://en.wikipedia.org/wiki/Virtualization">Virtualization</a> can help reduce server count and help optimise the remaining ones;</li>
 	<li>Improve your server power management so that unused servers go into power save mode, consuming less power, and consequently requiring less cooling;</li>
 	<li>Carefully control the <a href="https://www.openxtra.co.uk/kb/recommended-server-room-temperature.html">temperature of your data centre</a>, if the temperature is too high you can damage your equipment, conversely, if the temperature is too low, you are wasting power.</li>
 </ol>

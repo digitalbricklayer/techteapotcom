@@ -18,9 +18,9 @@ The PCI DSS wireless network security requirements are quite onerous, especially
 
 That's why we have a <em>no wireless</em> policy. It's all very well having a policy, but how do you police it?
 
-Tools are available, like dedicated 24/7 <a href="http://en.wikipedia.org/wiki/Wireless_intrusion_prevention_system">wireless intrusion detection systems</a>, to help you enforce your <em>no wireless</em> policy, but if you don't have the budget, what other options are available?
+Tools are available, like dedicated 24/7 <a href="https://en.wikipedia.org/wiki/Wireless_intrusion_prevention_system">wireless intrusion detection systems</a>, to help you enforce your <em>no wireless</em> policy, but if you don't have the budget, what other options are available?
 <h2>Software Based Solutions</h2>
-If you are running Microsoft Windows then the <a href="http://en.wikipedia.org/wiki/Netsh">netsh</a> command is very handy. If you type something like:
+If you are running Microsoft Windows then the <a href="https://en.wikipedia.org/wiki/Netsh">netsh</a> command is very handy. If you type something like:
 <pre>netsh wlan show networks mode=bssid</pre>
 netsh will list all of the wireless networks available through you wireless network. netsh is supported in Microsoft Windows 2000+ but wireless support wasn't added until Windows Vista.
 

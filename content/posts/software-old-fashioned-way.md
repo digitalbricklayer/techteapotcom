@@ -30,7 +30,7 @@ The libraries were run as small home businesses. They were the perfect second in
 
 One of the really nice things about shareware libraries was that you never really knew what you were going to get. Whilst you'd have an idea of what was on the disk from the description in the catalog, they'd be a lot of programs that were not described. Getting a new delivery was like a mini MS-DOS based text adventure, discovering all of the neat things on the disks.
 
-The libraries contained lots of different things, mostly shareware applications of every kind you can think of. The most interesting to me as an aspiring programmer was the array of public domain software. Public domain software was distributed with the source code. There is no better learning tool when programming than reading other peoples' code. The best code I've ever read was the <a href="http://en.wikipedia.org/wiki/CLIPS">CLIPS</a> sources for a forward chaining expert system shell written by NASA.
+The libraries contained lots of different things, mostly shareware applications of every kind you can think of. The most interesting to me as an aspiring programmer was the array of public domain software. Public domain software was distributed with the source code. There is no better learning tool when programming than reading other peoples' code. The best code I've ever read was the <a href="https://en.wikipedia.org/wiki/CLIPS">CLIPS</a> sources for a forward chaining expert system shell written by NASA.
 
 Happy days :smile:
 

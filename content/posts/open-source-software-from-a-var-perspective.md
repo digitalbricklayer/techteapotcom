@@ -6,7 +6,7 @@ tags: []
 aliases: [/open-source-software-from-a-var-perspective/]
 ---
 
-How can a network &amp; systems management <a href="http://en.wikipedia.org/wiki/Value-added_reseller">Value Added Reseller</a> (VAR) benefit from offering <a href="http://en.wikipedia.org/wiki/Open_source">open source</a> solutions and what are the potential problems?
+How can a network &amp; systems management <a href="https://en.wikipedia.org/wiki/Value-added_reseller">Value Added Reseller</a> (VAR) benefit from offering <a href="https://en.wikipedia.org/wiki/Open_source">open source</a> solutions and what are the potential problems?
 
 Any VAR not offering genuine added value is going to be left out in the cold. A "<em>SKU</em>" VAR,  a company that expects to take orders with the minimum of fuss, are going to have a problem. But then, that's the way commercial software like <a href="http://www.whatsupgold.com/">What's Up Gold</a> and <a href="http://www.solarwinds.com/products/orion/">Solar Winds Orion</a> is going anyway. The internet is disintermediating the relationship from producer to customer pretty well everywhere especially in the close to zero friction world of software.
 
@@ -14,7 +14,7 @@ With open source software I suspect the effect of disintermediation will be felt
 
 So how can a VAR get in on the action?
 <ul>
-	<li>Create your own project by <a href="http://en.wikipedia.org/wiki/Fork_%28software_development%29">forking</a> one or more existing projects. You effectively become the creator of the tool so you have the relationship with the user; OR</li>
+	<li>Create your own project by <a href="https://en.wikipedia.org/wiki/Fork_%28software_development%29">forking</a> one or more existing projects. You effectively become the creator of the tool so you have the relationship with the user; OR</li>
 	<li>Morph into a consultant for existing projects. The only hope any VAR has of getting in on the act is through expertise by providing training and implementation help; AND/OR</li>
 	<li>Supply hardware appliances powered by open source tools.</li>
 </ul>
@@ -31,7 +31,7 @@ After all, most of the revenue garnered from "<em>big 4</em>" (<span class="high
 
 The <a href="{{< ref "/posts/network-managements-new-wave.md" >}}">new wave open source network &amp; systems management</a> companies are all venture funded. Somewhere in their respective business plans I'm sure training and consultancy feature very highly in their monetisation strategies. Indeed the new wave deliberately sacrifice some of the lucrative "<em>big 4</em>" software license sales in order to get hold of the training and consultancy business. I doubt they are going to be too enthusiastic cutting other people in on the deal.
 <h2>Older is better?</h2>
-On the other hand, there are a number of self funded projects like <a href="http://www.opennms.org/">OpenNMS</a> and <a href="http://www.nagios.org/">Nagios</a>. Do they offer better opportunities for VARs?
+On the other hand, there are a number of self funded projects like <a href="https://www.opennms.org/">OpenNMS</a> and <a href="http://www.nagios.org/">Nagios</a>. Do they offer better opportunities for VARs?
 
 Nagios has a list of <a href="http://www.nagios.com/partners/">approved solution providers</a> who purchase 3rd line support from <a href="http://www.nagios.com/">Nagios Enterprises</a>. The customer knows the solution provider is approved by the Nagios project and is likely to be locally based, the solution provider gets direct support from the project founders and the project itself is able to control the quality of the solution provider and gain income from support contracts from them.
 

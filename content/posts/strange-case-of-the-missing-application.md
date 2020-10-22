@@ -17,7 +17,7 @@ I was in college at the time studying computers and he thought I could help out.
 
 I thought that I'd be able to find a tool to solve the problem quite easily. Turns out that it was anything but easy to find something...and that's why I think the missing application comes in.
 
-If you need to solve a <a href="http://en.wikipedia.org/wiki/Constraint_satisfaction">constraint satisfaction</a> problem you've two choices:
+If you need to solve a <a href="https://en.wikipedia.org/wiki/Constraint_satisfaction">constraint satisfaction</a> problem you've two choices:
 <ol>
 	<li>Get hold of a vertical application designed specifically to solve your particular type of problem; or</li>
 	<li>Write your own application using one of a <a href="http://www.dmoz.org/Computers/Programming/Languages/Constraint/">number of programming languages suited to the task or use a constraint satisfaction library</a> tacked on to a regular programming language.</li>

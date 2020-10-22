@@ -14,7 +14,7 @@ CAT5e or CAT6 cable has 4 pairs of thin copper wires. Damage to any of those 8 w
 <h2>Bend Radius</h2>
 You need to pay careful attention to the minimum bend radius for the cable type you are using. The cabling may well be okay when it's finally installed, but if it has been bent too sharply during installation the damage may have already been done.
 
-<a href="http://en.wikipedia.org/wiki/Minimum_bend_radius">Minimum bend radius</a> differs with each type of cable, but for most multi-core cables, don't bend tighter than 10 times the cable diameter.
+<a href="https://en.wikipedia.org/wiki/Minimum_bend_radius">Minimum bend radius</a> differs with each type of cable, but for most multi-core cables, don't bend tighter than 10 times the cable diameter.
 
 Bending cable in order to pass it through a confined space is a <em>no no</em>. Better to cable pull, and then cut off the length of cable used to anchor the string.
 

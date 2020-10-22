@@ -10,7 +10,7 @@ A bunch of venture funded network management start-ups are storming the enterpri
 
 The <strong>new wave</strong> comprise: <a href="http://www.hyperic.com/">Hyperic</a>, <a href="http://www.zenoss.com/">Zenoss</a> and <a href="http://www.groundworkopensource.com/">Groundwork</a>.
 
-What ties them all together? All of the tools are <em>open source</em>, but that isn't new in network management. Projects like <a href="http://www.nagios.org/">Nagios</a>, <a href="http://www.opennms.org/">OpenNMS</a> as well as a raft of others have been around for a decade or so. What's new is the <em>combination</em> of open source products <strong>and</strong> the level of funding going into the new players.
+What ties them all together? All of the tools are <em>open source</em>, but that isn't new in network management. Projects like <a href="http://www.nagios.org/">Nagios</a>, <a href="https://www.opennms.org/">OpenNMS</a> as well as a raft of others have been around for a decade or so. What's new is the <em>combination</em> of open source products <strong>and</strong> the level of funding going into the new players.
 <h2>Open source as "new wave" strategy</h2>
 As open source is a significant part of the new wave's strategy, why is it important? The enterprise management space is mature, the big players like HP OpenView and IBM Tivoli have both been around a long time. In that time they have built a large user base. The kind of user base that is going to be tough to break into.
 

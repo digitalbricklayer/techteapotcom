@@ -10,7 +10,7 @@ aliases: [/paypal-and-google-checkout-use-in-uk-businesses/]
 
 It's technical planning week this week, so <strong>I need to know about payment options you'd like to see</strong>.
 
-Most of you have no doubt heard of <a href="http://www.paypal.com/">PayPal</a> and the new kid on the payment block, <a href="http://en.wikipedia.org/wiki/Google_Checkout">Google Checkout</a>. The general idea with both is to help secure your credit card information by restricting who has access to your credit card information. You can pay for things online without the merchant knowing anything about your credit card.
+Most of you have no doubt heard of <a href="http://www.paypal.com/">PayPal</a> and the new kid on the payment block, <a href="https://en.wikipedia.org/wiki/Google_Checkout">Google Checkout</a>. The general idea with both is to help secure your credit card information by restricting who has access to your credit card information. You can pay for things online without the merchant knowing anything about your credit card.
 
 As it happens, <strong>we don't see your online credit card details anyway</strong>. But, there is no doubt that both PayPal and Google Checkout provide both a quick and secure online payment solution.
 

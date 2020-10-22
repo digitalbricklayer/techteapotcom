@@ -22,7 +22,7 @@ Distributed network monitoring involves multiple pollers distributed around your
 
 Multi-campus networks typically have WAN links interlinking the various sites. WAN links are usually much slower and more expensive than LAN links. By placing your network monitoring probe in a single central location you are inevitably going to send more traffic over your WAN links.
 
-Distributed network monitors permit you to locate your probes locally to the resources being monitored with only the statistics being synchronised en-masse back to a central <a href="http://en.wikipedia.org/wiki/Network_operations_center">Network Operations Centre</a> (NOC).
+Distributed network monitors permit you to locate your probes locally to the resources being monitored with only the statistics being synchronised en-masse back to a central <a href="https://en.wikipedia.org/wiki/Network_operations_center">Network Operations Centre</a> (NOC).
 <h2>Advantages of Distributed Network Monitoring</h2>
 <ul>
 	<li><strong>Real user view of network performance</strong> -- with single point network monitoring you see the network from a single perspective. With distributed network monitoring you see the network from a number of different views across your network;</li>

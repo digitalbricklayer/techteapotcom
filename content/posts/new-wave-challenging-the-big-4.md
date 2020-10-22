@@ -14,7 +14,7 @@ The <em>new wave</em> are venture funded...venture capitalist want to cash out a
 
 If I were a betting man, I'd be happy to bet that the Big 4 weighed pretty heavily in the new wave business plans. They are the ones with the money, they have the market and they are well used to VC backed companies.
 
-If the <em>new wave</em>, as open source companies, conjure images of hippies doin' it for the freedom man, then I think that you are a bit out of date. Open source has come a long way since <a href="http://en.wikipedia.org/wiki/Open_Source_history#MIT">MIT in the 1970s</a>.
+If the <em>new wave</em>, as open source companies, conjure images of hippies doin' it for the freedom man, then I think that you are a bit out of date. Open source has come a long way since <a href="https://en.wikipedia.org/wiki/Open_Source_history#MIT">MIT in the 1970s</a>.
 
 The <em>new wave</em> aren't a challenge to the Big 4 per se, they are a challenge to how open the Big 4 become. If the new wave are successful, the Big 4 buy the open source companies and become more open in the process. If the new wave are not successful, then the status quo prevails.
 

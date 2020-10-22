@@ -10,7 +10,7 @@ For a long time non-commercial open source projects had exclusive access to an a
 
 With the <a href="{{< ref "/posts/network-managements-new-wave.md" >}}">emergence of commercial open source players </a>things are a little more complex. The commercial open source players have access to traditional media, but they are also able to access the traditional open source audience as well. That is bound to cause problems for the non-commercial players.
 
-Evidence of the problem non-commercial players are facing comes from Tarus Balog, the project lead at <a href="http://www.opennms.org/">OpenNMS</a>, in a recent post.
+Evidence of the problem non-commercial players are facing comes from Tarus Balog, the project lead at <a href="https://www.opennms.org/">OpenNMS</a>, in a recent post.
 
 Network World performed an open source network management tool review. The three products reviewed were the new wave open source projects. Non-commercial projects like OpenNMS and Nagios were not included in the review.
 

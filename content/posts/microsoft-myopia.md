@@ -18,4 +18,4 @@ So what did they do? Did they embrace the existing frameworks in heavy use by ma
 
 Microsoft: would it kill you to support the existing frameworks? I sure do not relish re-implementing my tests using your framework and I would really like to have the tests integrated into the IDE like your framework.
 
-I don't think this is an open source issue. Microsoft has big problems with *anything* invented outside of Microsoft. They really do need to get over the <a href="http://en.wikipedia.org/wiki/Not_Invented_Here">not invented here syndrome</a>.
+I don't think this is an open source issue. Microsoft has big problems with *anything* invented outside of Microsoft. They really do need to get over the <a href="https://en.wikipedia.org/wiki/Not_Invented_Here">not invented here syndrome</a>.

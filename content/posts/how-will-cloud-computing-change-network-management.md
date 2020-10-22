@@ -6,9 +6,9 @@ tags: []
 aliases: [/how-will-cloud-computing-change-network-management/]
 ---
 
-The big selling point with <a href="http://en.wikipedia.org/wiki/Cloud_computing">cloud computing</a> is that computing capacity grows and shrinks depending upon the load being put upon it. You typically only pay for CPU (by the hour) and storage (by the month) you actually use.
+The big selling point with <a href="https://en.wikipedia.org/wiki/Cloud_computing">cloud computing</a> is that computing capacity grows and shrinks depending upon the load being put upon it. You typically only pay for CPU (by the hour) and storage (by the month) you actually use.
 
-If your website enjoys a sudden surge in traffic, by appearing on the <a href="http://en.wikipedia.org/wiki/Slashdot_effect">front page of slashdot</a> for instance, then extra servers will be provisioned automatically. Once the peak load passes and more normal traffic levels return, the extra servers are automatically de-provisioned.
+If your website enjoys a sudden surge in traffic, by appearing on the <a href="https://en.wikipedia.org/wiki/Slashdot_effect">front page of slashdot</a> for instance, then extra servers will be provisioned automatically. Once the peak load passes and more normal traffic levels return, the extra servers are automatically de-provisioned.
 
 How will cloud computing impact upon network management?
 <h2>Service oriented monitoring</h2>

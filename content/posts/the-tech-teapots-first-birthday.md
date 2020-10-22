@@ -16,7 +16,7 @@ Thank you all for reading. A blog is nothing without readers and commenters. Ext
 
 Robert Aronsson -- creator of the Intellipool software and blog
 
-Tarus Balog -- principal for the <a href="http://www.opennms.org/">OpenNMS</a> project &amp; <a href="http://www.opennms.com/">business</a>
+Tarus Balog -- principal for the <a href="https://www.opennms.org/">OpenNMS</a> project &amp; <a href="http://www.opennms.com/">business</a>
 
 Alan Lord -- blogger over at <a href="http://www.theopensourcerer.com/">The Open Sourcerer</a>
 

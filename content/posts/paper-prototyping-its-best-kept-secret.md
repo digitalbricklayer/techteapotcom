@@ -14,7 +14,7 @@ Quite often, you will get a long way down the path towards producing your soluti
 
 The big early career lesson for most programmers is showing an unfinished piece of software to the eventual users and assuming that they will be able to visualise how the software will eventually look and behave. They won't!
 
-So, what's the solution. How can you help your customers visualise your solution in the design phase, not the production phase? The answer is <strong><a href="http://en.wikipedia.org/wiki/Paper_prototyping">paper prototyping</a></strong>, a simple yet effective method of <a href="http://www.nngroup.com/reports/prototyping/video_stills.html">designing a system's user interface</a> and performing usability testing.
+So, what's the solution. How can you help your customers visualise your solution in the design phase, not the production phase? The answer is <strong><a href="https://en.wikipedia.org/wiki/Paper_prototyping">paper prototyping</a></strong>, a simple yet effective method of <a href="http://www.nngroup.com/reports/prototyping/video_stills.html">designing a system's user interface</a> and performing usability testing.
 
 Put simply, paper prototyping involves creating a paper/card based model of your proposed system. You can mimic interactivity by the use of cut-out elements. One person takes the place of the computer and makes sure that the paper model interacts with the user. You can then garner feedback from your users on how well the system suits their needs. All without resorting to the time consuming task of creating the system on a computer.
 

@@ -8,7 +8,7 @@ aliases: [/power-line-networking-my-experience/]
 
 <a href="/images/uploads/2007/10/highspeed.jpg" title="Devolo Homeplug High Speed Starter Kits"><img src="/images/uploads/2007/10/highspeed.jpg" alt="Devolo Homeplug High Speed Starter Kits" style="border: 4px solid white" align="right" /></a>
 
-Over the weekend my wireless adaptor at home gave up the ghost. Not being the greatest fan of my wireless network at home (I find it too unreliable and slow) I took the opportunity to look at <a href="http://en.wikipedia.org/wiki/Powerline_networking">power line networking</a>.
+Over the weekend my wireless adaptor at home gave up the ghost. Not being the greatest fan of my wireless network at home (I find it too unreliable and slow) I took the opportunity to look at <a href="https://en.wikipedia.org/wiki/Powerline_networking">power line networking</a>.
 
 I took myself off to my local PC World and grabbed one of the Devolo Homeplug High Speed Starter Kits.  Got home, plugged in; configured my PC with a static IP address; and <em>hay presto </em>I was up and running.
 

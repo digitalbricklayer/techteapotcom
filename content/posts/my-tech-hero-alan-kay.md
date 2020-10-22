@@ -6,7 +6,7 @@ tags: []
 aliases: [/my-tech-hero-alan-kay/]
 ---
 
-There are very few people who really influence the world. I think one of those people is <a href="http://en.wikipedia.org/wiki/Alan_Kay">Alan Kay</a>. If you're a programmer I would suggest that you <a href="http://www.mprove.de/diplom/referencesKay.html">familiarise yourself with his work</a>. He's got some very interesting things to say about IT and programming in particular.
+There are very few people who really influence the world. I think one of those people is <a href="https://en.wikipedia.org/wiki/Alan_Kay">Alan Kay</a>. If you're a programmer I would suggest that you <a href="http://www.mprove.de/diplom/referencesKay.html">familiarise yourself with his work</a>. He's got some very interesting things to say about IT and programming in particular.
 
 <blockquote>"To find the most interesting things about our field you have to go back 30 or 40 years."</blockquote>
 

@@ -10,4 +10,4 @@ As promised in the <a href="{{< ref "/posts/opennms-coming-soon-to-windows.md" >
 
 Tarus Balog announced the release and the <a href="http://www.racoonfink.com/archives/000742.html">developer too</a>.
 
-You can download the release from the <a href="http://www.opennms.org/">OpenNMS site</a>.
+You can download the release from the <a href="https://www.opennms.org/">OpenNMS site</a>.

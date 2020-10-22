@@ -18,7 +18,7 @@ If you want a simple introduction to all of the new social media buzz flying aro
 
 {{< youtube 6a_KF7TYKVc >}}
 
-A lot of you may already be familiar with social media. If you're not, then I recommend you check out the videos. Social bookmarking  &amp; <a href="http://en.wikipedia.org/wiki/RSS_(file_format)">RSS</a> are great time savers, especially when you work on more than one computer.
+A lot of you may already be familiar with social media. If you're not, then I recommend you check out the videos. Social bookmarking  &amp; <a href="https://en.wikipedia.org/wiki/RSS_(file_format)">RSS</a> are great time savers, especially when you work on more than one computer.
 
 According to <a href="http://www.google.com/reader">Google Reader</a>, I monitor 282 feeds. There is no way I could monitor that many sites without RSS.
 
