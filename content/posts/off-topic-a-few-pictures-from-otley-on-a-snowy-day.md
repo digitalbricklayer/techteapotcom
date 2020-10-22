@@ -6,4 +6,8 @@ tags: []
 aliases: [/off-topic-a-few-pictures-from-otley-on-a-snowy-day/]
 ---
 
+A few pictures from around Otley, West Yorkshire on a snowy day in December 2008.
+
+<!--more-->
+
 {{< foldergallery src="images/galleries/otley-on-a-snowy-day/" >}}
