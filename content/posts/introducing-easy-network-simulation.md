@@ -2,11 +2,11 @@
 title: "Introducing easy network simulation"
 date: "2009-05-28T16:05:36+00:00"
 categories: ["Network Simulation"]
-tags: ["network simulator"]
+tags: []
 aliases: [/introducing-easy-network-simulation/]
 ---
 
-Paessler have introduced a new product called <a href="http://www.paessler.com/serversimulator">Multi Server Simulator</a>, currently available as a pre-release version, that creates a simulated network of devices and switches.
+Paessler have introduced a new product called [Multi Server Simulator](http://www.paessler.com/serversimulator), currently available as a pre-release version, that creates a simulated network of devices and switches.
 
 The main use for network simulators is for testing network management software. However, network simulators do have plenty of uses outside of software development.
 
@@ -14,8 +14,8 @@ If you are evaluating network monitoring software you may not want to unleash it
 
 Unfortunately, within a few minutes of starting my evaluation Multi Server Simulator died a horrible death with the following dialog produced every few seconds.
 
-{{< figure src="/images/uploads/2009/05/paessler-multi-server-simulator.jpg" width="573" height="126" title="Paessler Multi Server Simulator Bug" alt="Paessler Multi Server Simulator Bug" link="/images/uploads/2009/05/paessler-multi-server-simulator.jpg" >}}
+{{< figure src="/images/uploads/2009/05/paessler-multi-server-simulator.jpg#center" width="50%" title="Paessler Multi Server Simulator Bug" alt="Paessler Multi Server Simulator Bug" link="/images/uploads/2009/05/paessler-multi-server-simulator.jpg" >}}
 
 Still, it's a nice idea...
 
-<strong>Update</strong>: as there has never been an update to the software since the first beta release (26/5/2009) it doesn't look like Paessler is doing anything with this software, which is a shame really...
+***Update***: as there has never been an update to the software since the first beta release (26/5/2009) it doesn't look like Paessler is doing anything with this software, which is a shame really...
