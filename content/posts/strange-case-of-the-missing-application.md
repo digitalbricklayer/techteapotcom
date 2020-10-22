@@ -1,6 +1,7 @@
 ---
 title: "Strange case of the missing application"
 date: "2008-03-07T12:43:42+00:00"
+lastmod: "2015-12-01"
 categories: [General]
 tags: []
 aliases: [/strange-case-of-the-missing-application/]

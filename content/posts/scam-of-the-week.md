@@ -1,6 +1,7 @@
 ---
 title: "Scam of the week"
-date: "2015-07-13T08:00:35+00:00"
+date: "2015-07-11T08:00:35+00:00"
+lastmod: "2015-07-13"
 categories: [General]
 tags: []
 aliases: [/scam-of-the-week/]
@@ -18,4 +19,4 @@ The only thing that saved us from falling for the scam was the fact that we know
 
 Be careful out there folks, there are some odd sorts out there.
 
-<strong>Update 2015/07/13</strong>: The scammer sent us an email over the weekend asking where his money is :smile:
+***Update 2015/07/13***: The scammer sent us an email over the weekend asking where his money is :smile:
