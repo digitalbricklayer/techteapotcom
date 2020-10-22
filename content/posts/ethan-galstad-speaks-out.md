@@ -2,7 +2,7 @@
 title: "Ethan Galstad speaks out"
 date: "2009-05-12T08:46:21+00:00"
 categories: ["Open Source"]
-tags: [nagios, "open source"]
+tags: [nagios]
 aliases: [/ethan-galstad-speaks-out/]
 ---
 

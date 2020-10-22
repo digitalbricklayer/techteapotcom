@@ -1,8 +1,8 @@
 ---
 title: "Distributed network monitoring introduction"
 date: "2008-09-03T08:47:59+00:00"
-categories: ["Network Monitoring"]
-tags: ["network management", "open source"]
+categories: ["Network Monitoring", "Network Management", "Open Source"]
+tags: ["What's Up Gold"]
 aliases: [/distributed-network-monitoring-introduction/]
 ---
 

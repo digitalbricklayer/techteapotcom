@@ -1,8 +1,8 @@
 ---
 title: "Distributed network monitoring interview with Robert Aronsson"
 date: "2008-09-10T09:36:22+00:00"
-categories: [Network Monitoring]
-tags: [interview, "network management"]
+categories: ["Network Monitoring", "Network Management"]
+tags: [interview]
 aliases: [/distributed-network-monitoring-interview-with-robert-aronsson/]
 ---
 

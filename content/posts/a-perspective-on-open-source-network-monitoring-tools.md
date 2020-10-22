@@ -2,7 +2,7 @@
 title: "A perspective on open source network monitoring tools..."
 date: "2008-12-01T12:28:48+00:00"
 categories: ["Network Management", "Open Source"]
-tags: [comparison, "Groundwork Open Source", Hyperic, Nagios, "Open Source", "OpenNMS", Zabbix, Zenoss]
+tags: [comparison, "Groundwork Open Source", Hyperic, Nagios, "OpenNMS", Zabbix, Zenoss]
 aliases: [/a-perspective-on-open-source-network-monitoring-tools/]
 ---
 
