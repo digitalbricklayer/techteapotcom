@@ -2,7 +2,7 @@
 title: "Budget network taps"
 date: "2008-02-20T12:33:33+00:00"
 categories: ["Network Management", "Protocol Analysis"]
-tags: ["network tap", "protocol analysis"]
+tags: ["network tap"]
 aliases: [/budget-network-taps/]
 ---
 
