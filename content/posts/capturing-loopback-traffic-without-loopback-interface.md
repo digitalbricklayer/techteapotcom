@@ -10,7 +10,7 @@ Wireshark is a wonderful tool, no doubt about it. But, on Microsoft Windows, the
 
 Microsoft decided to remove the local loopback interface in Windows 7. So capturing loopback traffic is rather difficult without modifying your system. Something I try to avoid if at all possible.
 
-There are ways to install the loopback interface if you want, as documented <a href="http://wiki.wireshark.org/CaptureSetup/Loopback">here.</a> There are also other means to achieve the same effect, also documented in the previous link.
+There are ways to install the loopback interface if you want, as documented <a href="http://wiki.wireshark.org/CaptureSetup/Loopback">here</a>. There are also other means to achieve the same effect, also documented in the previous link.
 
 Unless you need to do a lot of capturing, the chances are you're going to want an easier, quicker way.
 
