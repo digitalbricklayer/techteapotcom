@@ -12,13 +12,13 @@ The most puzzling aspect of the <a href="{{< ref "/posts/new-wave-network-manage
 
 First port of call was to see how the industry in general is doing. Whilst far from perfect I think that the <strong>network monitor</strong> &amp; <strong>network management</strong> keywords will provide a reasonable guide to search trends.
 
-<img src="/images/uploads/2007/09/network-management-vs-network-monitor.PNG" alt="Network management vs network monitor" width="100%" height="100%" align="center" />Figure 1: <a href="http://www.google.com/trends?q=network+management%2Cnetwork+monitor&ctab=0&geo=all&date=all&sort=0">Network management vs network monitor</a>
+<img src="/images/uploads/2007/09/network-management-vs-network-monitor.PNG#center" alt="Network management vs network monitor" width="100%" height="100%" align="center" />Figure 1: <a href="http://www.google.com/trends?q=network+management%2Cnetwork+monitor&ctab=0&geo=all&date=all&sort=0">Network management vs network monitor</a>
 
 Figure 1 looks strangely familiar. The generic terms network management and network monitor both show a very similar downward trend to both NetIQ and OpenView.
 
 <h2>Network monitor vs NetIQ vs OpenView</h2>
 
-<img src="/images/uploads/2007/09/network-monitor-vs-netiq-vs-openview.PNG" alt="Network monitor vs NetIQ vs OpenView" width="100%" height="100%" align="center" />Figure 2: <a href="http://www.google.com/trends?q=network+monitor%2Cnetiq%2Copenview&ctab=0&geo=all&date=all&sort=0">Network monitor vs NetIQ vs OpenView</a>
+<img src="/images/uploads/2007/09/network-monitor-vs-netiq-vs-openview.PNG#center" alt="Network monitor vs NetIQ vs OpenView" width="100%" height="100%" align="center" />Figure 2: <a href="http://www.google.com/trends?q=network+monitor%2Cnetiq%2Copenview&ctab=0&geo=all&date=all&sort=0">Network monitor vs NetIQ vs OpenView</a>
 
 You can see in Figure 2, where <strong>network monitor</strong> is graphed along with OpenView and NetIQ, shows the same trend.
 
