@@ -13,6 +13,9 @@
 [context.production]
   command = "hugo --environment production --minify"
 
+[context.production.environment]
+  HUGO_VERSION = "0.76.5"
+
 # 'develop' is the branch where site development happens
 [context.develop]
   command = "hugo --environment development"
