@@ -1,6 +1,6 @@
 The repository for the Hugo version of The Tech Teapot blog.
 
-The hugo gallery shortcode is taken from [here](https://www.control-alt-del.org/posts/building-an-image-gallery-for-hugo/) and is based upon [fancybox](http://fancyapps.com/fancybox/3/).
+The hugo gallery shortcode is taken from [here](https://github.com/digitalbricklayer/hugo-shortcode-gallery.git).
 
 The site uses the [mainroad theme](https://themes.gohugo.io/mainroad/).
 
