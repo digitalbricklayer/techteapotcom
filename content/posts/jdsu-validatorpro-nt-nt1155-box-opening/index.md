@@ -8,6 +8,8 @@ aliases: [/jdsu-validatorpro-nt-nt1155-box-opening/]
 
 A series of box opening photos of the recently released JDSU ValidatorPRO-NT NT1155 all-in-one copper, fibre and wireless tester with active network features.
 
+<!--more-->
+
 {{< gallery match="images/*"
             sortOrder="desc"
             rowHeight="150"

@@ -8,6 +8,8 @@ aliases: [/new-aviosys-ip-power-9858-box-opening/]
 
 A series of box opening photos of the new Aviosys IP Power 9858 4 port network power switch. This model will in due course replace the Aviosys IP Power 9258 series of power switches. The 9258 series is still available in the mean time though, so don't worry.
 
+<!--more-->
+
 {{< notice note >}}
 This model has now been superseded by the [Aviosys IP Power 9858MT-S](https://www.openxtra.co.uk/aviosys-ip-power-switch-9858mt-s-4-port.html).
 {{< /notice >}}
