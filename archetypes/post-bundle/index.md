@@ -5,3 +5,5 @@ draft: true
 ---
 
 ```hugo new --kind post-bundle posts/my-post```
+
+<!--more-->
