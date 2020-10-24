@@ -8,6 +8,8 @@ aliases: [/code-performance-tuning-in-net/]
 
 One of the things I've been busy with over the last two weeks has been to re-write the backend to PowerTime. Binary files are a nightmare to program, debug and maintain. With that in mind I've re-coded the backend to use <a href="http://system.data.sqlite.org/">SQLite through ADO.NET</a>.
 
+<!--more-->
+
 In due course, through the joys of ADO.NET, this will mean that <a href="http://github.com/openxtra/TimeTag">TimeTag</a> will be able to use any of a wide range of relational databases.
 
 Unfortunately, and this probably won't surprise too many programmers, performance has been a concern. Well, quite a big show stopper concern actually.

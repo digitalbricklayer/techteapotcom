@@ -9,6 +9,8 @@ aliases: [/cabling-as-data-centre-art/]
 
 The folks over at <a href="http://royal.pingdom.com/">Pingdom</a> spotted some <a href="http://royal.pingdom.com/?p=240">great data centre cabling art</a>.
 
+<!--more-->
+
 {{< gallery match="images/*"
             sortOrder="desc"
             rowHeight="150"
