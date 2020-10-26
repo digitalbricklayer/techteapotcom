@@ -7,7 +7,11 @@ series: ["Reading Log"]
 aliases: [/2014-reading-log/, /posts/2014-reading-log/]
 ---
 
-A [list of all of the books I read in 2014 and logged in Good Reads](http://www.goodreads.com/review/list/5896009-jack?shelf=read), I read a few more technical books but didn't log them for whatever reason.
+A list of all of the books I read in 2014 and logged in Good Reads, I read a few more technical books but didn't log them for whatever reason.
+
+A total of 14 books, 8 fiction (mostly science fiction and fantasy) and 6 non-fiction. Of the two autobiographies, I found Mark Ellen's <strong>Rock Stars Stole My Life!</strong> to be very good, taking the reader through the rock landscape of the 1960s to the present day through the eyes of a music journalist.
+
+The book I most enjoyed was Neil Gaiman's <strong>The Ocean at the End of the Lane</strong>. Neil Gaiman was certainly my find of 2014. He manages to write quite original fantasy in a way that doesn't make the book feel like fantasy.
 
 <span style="color: #ff0000;">January</span>
 
@@ -59,7 +63,3 @@ Philip K. Dick: <strong>A Maze of Death</strong> (Fiction)
 Paul Ham: <strong>Hiroshima Nagasaki: The Real Story of the Atomic Bombings and their Aftermath</strong> (Non-Fiction)
 
 <span style="color: #ff0000;">December</span>
-
-A total of 14 books, 8 fiction (mostly science fiction and fantasy) and 6 non-fiction. Of the two autobiographies, I found Mark Ellen's <strong>Rock Stars Stole My Life!</strong> to be very good, taking the reader through the rock landscape of the 1960s to the present day through the eyes of a music journalist.
-
-The book I most enjoyed was Neil Gaiman's <strong>The Ocean at the End of the Lane</strong>. Neil Gaiman was certainly my find of 2014. He manages to write quite original fantasy in a way that doesn't make the book feel like fantasy.
