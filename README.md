@@ -1,6 +1,5 @@
 The repository for the Hugo version of The Tech Teapot blog.
 
-
 The site uses the [mainroad theme](https://themes.gohugo.io/mainroad/).
 
 Hugo uses emojis. A cheat sheet for the codes is [here](https://www.webfx.com/tools/emoji-cheat-sheet/).
