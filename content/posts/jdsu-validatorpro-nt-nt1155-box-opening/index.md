@@ -1,7 +1,7 @@
 ---
 title: "JDSU ValidatorPRO-NT NT1155 Box Opening"
 date: "2010-01-06T13:46:22+00:00"
-categories: [General, "Cabling"]
+categories: ["Cabling"]
 tags: []
 aliases: [/jdsu-validatorpro-nt-nt1155-box-opening/]
 ---

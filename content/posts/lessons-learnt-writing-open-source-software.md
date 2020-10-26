@@ -1,7 +1,7 @@
 ---
 title: "Lessons learnt writing open source software"
 date: "2008-01-09T18:42:40+00:00"
-categories: [General, "Open Source"]
+categories: ["Open Source"]
 tags: []
 aliases: [/lessons-learnt-writing-open-source-software/]
 ---
