@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 # Run 'hugo server' at the same time as this script
 # Script requires linkchecker
 if ! [ -x "$(command -v linkchecker)" ]; then
@@ -6,7 +6,7 @@ if ! [ -x "$(command -v linkchecker)" ]; then
     exit
 fi
 
-# for extern add:
+# To check external links add:
 # --ignore-url=https://fonts.gstatic.com \
 # --check-extern \
 linkchecker --ignore-url=/livereload.js \
