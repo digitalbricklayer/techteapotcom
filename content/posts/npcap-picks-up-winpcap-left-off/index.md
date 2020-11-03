@@ -24,6 +24,8 @@ The best known open source network analyser is [Wireshark](https://www.wireshark
 
 ## Wireshark
 
+{{< figure src="images/wireshark-logo.png#floatright" alt="Wireshark logo" >}}
+
 Wireshark is the big beast of the open source protocol analysis world. If you need to capture and analyse network packets you probably know about Wireshark already. Wireshark can capture network packets and help you analyse and visualise them. But Wireshark doesn't capture the packets itself. It uses a third party library to do that. In the Linux and macOS world the library is [libpcap](https://www.tcpdump.org/). libpcap provides a uniform programming interface to any tool that wishes to capture packets. Unfortunately, libpcap doesn't work on Windows. That leaves a bit of a problem for people who wish to use Wireshark on Windows. Fortunately, a port of libpcap was created called [WinPcap](https://www.winpcap.org/).
 
 ## WinPcap
@@ -74,12 +76,12 @@ The source code for [Npcap is hosted on github](https://github.com/nmap/npcap) a
 
 ## Why does this matter
 
-On one level it doesn't matter. If you wish to sniff packets on Windows hosts then you can still do so using Npcap. The main problem is that you now have a five host limit before you need to purchase a commercial licence. That isn't going to be a problem for me because I don't have more than five Windows based hosts. But it will be a problem for some. It is bound to make Windows a less attractive option for network managers in medium sized organisations.
+On one level it doesn't matter. If you wish to sniff packets on Windows hosts, then you can still do so using Npcap. The main problem is that you now have a five host limit before you need to purchase a commercial licence. That isn't going to be a problem for me because I don't have more than five Windows based hosts. But it will be a problem for some. It is bound to make Windows a less attractive option for network managers in medium sized organisations.
 
-Does the lack of an open source Windows based packet sniffing library matter? On the one hand it plainly doesn't matter. People who want to sniff packets on Windows can do so using Npcap. On the other hand it seems odd to me that Windows doesn't have a viable open source option. You would think that an operating system so absolutely dominant in market terms would be able to nurture an open source packet sniffing ecosystem. The absence of a free option does make Windows a lot less attractive from a network management perspective. Whilst a home user is unlikely to butt up against the five host limit, it seems likely that most medium companies will one way or the other.
+Does the lack of an open source Windows based packet sniffing library matter? On the one hand it plainly doesn't matter. People who want to sniff packets on Windows can do so using Npcap. On the other hand it seems odd that Windows doesn't have a viable open source option. You would think that an operating system so dominant in market terms would be able to nurture an open source packet sniffing ecosystem. The absence of a free option does make Windows a lot less attractive from a network management perspective. Whilst a home user is unlikely to butt up against the five host limit, it seems likely that most medium companies will one way or the other.
 
 ## Conclusion
 
 It feels like a retrograde step to me but I am thankful there is an almost freely available option under active maintenance.
 
-If maintenance of Npcap stops, then the community can't pick up where Npcap stops. The source code is in the open, but not open source. You cannot distribute it yourself. You would need to go back to where WinPcap stopped and move forward from there.
+If maintenance of Npcap stops, then the community can't just pick up where Npcap stops. The source code is in the open, but is not open source. You cannot distribute it yourself. You would need to go back to where WinPcap stopped and move forward from there.
