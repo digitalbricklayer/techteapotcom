@@ -3,6 +3,7 @@ title: "Npcap picks up where WinPcap left off"
 date: "2020-11-02"
 categories: [Protocol Analysis]
 tags: [WinPcap, npcap, Wireshark, libpcap]
+summary: "WinPcap is the major open source packet sniffing library for Microsoft Windows, Unfortunately it is no longer under active maintenance and hasn't been for quite a while. But, fear not, Npcap have picked up the baton. Sort of."
 ---
 
 Sort of.
@@ -27,6 +28,8 @@ Wireshark is the big beast of the open source protocol analysis world. If you ne
 
 ## WinPcap
 
+{{< figure src="images/winpcap-logo.jpeg#floatright" alt="WinPcap logo" >}}
+
 The operating system design between Unix systems and Windows is very different. Drivers written for Linux or macOS are not going to work on Windows systems. Consequently, a new project was needed to give a similar packet capture interface on Windows. This project was called WinPcap. Wireshark worked well with WinPcap on Windows and libpcap on Linux / macOS and things worked well for a while.
 
 Unfortunately, WinPcap project activity ceased in late 2015. You can still download WinPcap and it still works. Windows is constantly being improved so it is just a matter of time until WinPcap doesn't work properly on the newer systems.
@@ -36,6 +39,8 @@ An attempt called [Win10Pcap](http://www.win10pcap.org/) has been made to fork t
 There is a solution that is under active maintenance called [Npcap](https://nmap.org/npcap/).
 
 ## Npcap
+
+{{< figure src="images/npcap-logo.png#floatright" alt="Npcap logo" >}}
 
 Npcap is a fork of WinPcap.
 
