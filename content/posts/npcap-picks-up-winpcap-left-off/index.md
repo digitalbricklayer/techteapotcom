@@ -24,7 +24,7 @@ The best known open source network analyser is [Wireshark](https://www.wireshark
 
 ## Wireshark
 
-{{< figure src="images/wireshark-logo.png#floatright" alt="Wireshark logo" >}}
+{{< figure src="images/wireshark_logo.png#floatright" alt="Wireshark logo" >}}
 
 Wireshark is the big beast of the open source protocol analysis world. If you need to capture and analyse network packets you probably know about Wireshark already. Wireshark can capture network packets and help you analyse and visualise them. But Wireshark doesn't capture the packets itself. It uses a third party library to do that. In the Linux and macOS world the library is [libpcap](https://www.tcpdump.org/). libpcap provides a uniform programming interface to any tool that wishes to capture packets. Unfortunately, libpcap doesn't work on Windows. That leaves a bit of a problem for people who wish to use Wireshark on Windows. Fortunately, a port of libpcap was created called [WinPcap](https://www.winpcap.org/).
 
