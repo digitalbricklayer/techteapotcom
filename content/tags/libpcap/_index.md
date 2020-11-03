@@ -2,4 +2,4 @@
 title: libpcap
 ---
 
-libpcap is a portable C/C++ library for network traffic capture.
+libpcap is a portable C/C++ library for capturing network traffic.
