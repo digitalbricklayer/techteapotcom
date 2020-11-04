@@ -1,6 +1,5 @@
 ---
 title: "Blog"
-description: "All of the posts contained within The Tech Teapot with the most recent posts at the top."
 ---
 
-All posts contained within The Tech Teapot with the most recent at the top.
+All of the blog posts contained within The Tech Teapot with the most recent at the top.
