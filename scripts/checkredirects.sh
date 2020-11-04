@@ -3,8 +3,8 @@
 while read -r old_url new_url; do
   wget -qO /dev/null http://localhost:1313$new_url
   if [ $? -ne 0 ]; then
-    echo "$new_url - bad"
+    echo "$new_url - $(tput setaf 1)bad$(tput sgr0)"
   else
-    echo "$new_url - okay"
+    echo "$new_url - $(tput setaf 10)okay$(tput sgr0)"
   fi
 done < static/_redirects
