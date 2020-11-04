@@ -6,4 +6,4 @@ comments: false
 pager: false
 ---
 
-Thank you for your interest. I’m always happy to answer questions, if I can, and open to new opportunities. I look forward to speaking with you. My email address is [jack@techteapot.com](mailto:jack@techteapot.com).
+Thank you for your interest. I’m always happy to answer questions, if I can, and open to new opportunities. I look forward to speaking with you. My email address is {{< cloakemail "jack@techteapot.com" >}}.
