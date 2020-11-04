@@ -1,0 +1,3 @@
+# Hopefully temporary fix for: https://github.com/vimux/mainroad/issues/237
+- id: authorbox_name
+  translation: "About {{ . }}"
