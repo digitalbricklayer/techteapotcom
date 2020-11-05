@@ -1,4 +1,5 @@
-main:                                       #    - Name of the menu
+# Primary navigation menu
+main:
   - identifier: home
     name: Home
     url: /
@@ -7,19 +8,24 @@ main:                                       #    - Name of the menu
     name: Posts
     url: /posts/
     weight: 2
+  - identifier: series
+    name: Series
+    url: /series/
+    weight: 3
   - identifier: contact
     name: Contact
     url: /contact/
-    weight: 3
+    weight: 4
   - identifier: about
     name: About
     url: /about/
-    weight: 4
+    weight: 5
   - identifier: subscribe
     name: Subscribe
     url: /sign-up/
-    weight: 5
+    weight: 6
 
+# Secondary navigation menu
 footer:
   - identifier: privacy
     name: Privacy Policy
