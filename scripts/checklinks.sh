@@ -3,7 +3,7 @@
 # Script requires linkchecker
 if ! [ -x "$(command -v linkchecker)" ]; then
     echo "Error: linkchecker is not installed"
-    exit
+    exit 1
 fi
 
 # To check external links add:
