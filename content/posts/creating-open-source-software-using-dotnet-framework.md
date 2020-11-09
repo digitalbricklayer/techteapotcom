@@ -2,7 +2,7 @@
 title: "Creating open source software using Microsoft's .NET framework"
 date: "2008-05-02T15:14:13+00:00"
 categories: ["Open Source"]
-tags: [.NET, microsoft]
+tags: [dotNET, microsoft]
 aliases: [/creating-open-source-software-using-dotnet-framework/]
 ---
 

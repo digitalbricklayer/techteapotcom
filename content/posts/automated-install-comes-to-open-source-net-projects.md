@@ -3,7 +3,7 @@ title: "Automated install comes to open source .NET projects"
 date: "2010-03-10T16:49:07+00:00"
 lastmod: "2013-06-01"
 categories: ["Open Source"]
-tags: [.NET]
+tags: [dotNET]
 aliases: [/automated-install-comes-to-open-source-net-projects/]
 ---
 
