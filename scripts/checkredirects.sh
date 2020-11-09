@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # run 'hugo server' on the site to be tested before running this command
 while read -r _ new_url; do
   wget -qO /dev/null http://localhost:1313$new_url

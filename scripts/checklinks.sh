@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # Run 'hugo server' at the same time as this script
 # Script requires linkchecker
 if ! [ -x "$(command -v linkchecker)" ]; then
