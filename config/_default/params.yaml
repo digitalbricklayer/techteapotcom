@@ -9,8 +9,8 @@ style:
     fontFamilySecondary: "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
 
 logo:
-  image: "images/logo.png" # Logo image. Path relative to "static"
-  title: "The Tech Teapot" # Logo title, otherwise will use site title
+  image: "images/logo.png"
+  title: "The Tech Teapot"
   subtitle: "Your daily IT cuppa"
 
 sidebar:
