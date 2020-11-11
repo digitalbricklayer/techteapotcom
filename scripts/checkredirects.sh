@@ -7,4 +7,4 @@ while read -r _ new_url; do
   else
     echo "$new_url - $(tput setaf 10)okay$(tput sgr0)"
   fi
-done < static/_redirects
+done < src/static/_redirects
