@@ -1,6 +1,6 @@
 server:
   image: klakegg/hugo:0.78.1-ext-ubuntu
-  command: server -D
+  command: server -D --gc
   volumes:
     - "$PWD/src:/src"
   ports:
