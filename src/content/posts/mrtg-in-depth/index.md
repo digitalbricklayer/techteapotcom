@@ -8,12 +8,10 @@ tags:
   - MRTG
 series:
   - In Depth
-summary: "In depth look into the MRTG project architecture and implementation and how it has evolved over the past 25 years."
+summary: "An in depth examination of the MRTG project architecture and implementation and how it has evolved over the past 25 years."
 draft: true
 ---
 
-<!--more-->
-
-{{< figure src="images/mrtg_logo.gif#center" >}}
+{{< figure src="images/mrtg_logo.gif#alignright" >}}
 
 ## Introduction
