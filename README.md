@@ -1,4 +1,4 @@
-The repository for the Hugo version of The Tech Teapot blog.
+The repository for the source code for the Hugo version of The Tech Teapot blog.
 
 The site uses the [mainroad theme](https://themes.gohugo.io/mainroad/).
 
