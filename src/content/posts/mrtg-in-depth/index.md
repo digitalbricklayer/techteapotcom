@@ -6,8 +6,9 @@ categories:
   - Network Management
 tags:
   - MRTG
-series: 
+series:
   - In Depth
+summary: "In depth look into the MRTG project architecture and implementation and how it has evolved over the past 25 years."
 draft: true
 ---
 
