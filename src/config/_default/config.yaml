@@ -13,3 +13,4 @@ googleAnalytics: "UA-71383-41"
 enableRobotsTXT: true
 frontmatter:
   lastmod: ["lastmod", ":default"]
+timeout: 60000
