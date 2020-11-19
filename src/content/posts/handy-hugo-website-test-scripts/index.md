@@ -44,7 +44,7 @@ Each line in the redirect file looks like this:
 ```
 /xyz/ /post/xyz/
 ```
-The first part is the old link, the second part is the new link. In other words, when the web server sees the first URL it sends the visitor to the second URL. The redirect file is specific to the Netlify hosting provider though it does look a lot like the nginx redirect format so I assume that is where it comes from.
+The first part is the old link, the second part is the new link. In other words, when the web server sees the first URL it sends the visitor to the second URL. The [redirect file is specific to the Netlify hosting provider](https://docs.netlify.com/routing/redirects/#syntax-for-the-redirects-file) though it does look a lot like the nginx redirect format so I assume that is where it comes from.
 
 {{< gist digitalbricklayer 719fe73f554208b648dd6129364fc84c >}}
 
