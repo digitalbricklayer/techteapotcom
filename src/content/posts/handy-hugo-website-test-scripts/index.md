@@ -15,14 +15,14 @@ Whilst my site is developed using Hugo, the scripts themselves just expect to be
 
 ## checklinks
 
-A script for validating all of the internal links in the website as well as images and the like. The script uses the `checklinks` tool to validate the links.
+A script for validating all of the internal links in the website as well as images and the like. The script uses the `linkchecker` tool to validate the links.
 
 {{< figure src="images/checklinks-output.png#center"
            alt="Output of checklinks command"
            link="images/checklinks-output.png"
            caption="Output of the checklinks.sh script" >}}
 
-The script first starts up the site using docker and a Hugo container. It then waits for the server to be ready and then starts the `checklinks` tool. The script is quite slow so I tend not to run it too often but it is invaluable to validate all of those pesky internal links.
+The script first starts up the site using docker and a Hugo container. It then waits for the server to be ready and then starts the `linkchecker` tool. The script is quite slow so I tend not to run it too often but it is invaluable to validate all of those pesky internal links.
 
 The script also shows how to check external links as well.
 
