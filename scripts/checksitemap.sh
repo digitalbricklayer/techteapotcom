@@ -18,6 +18,6 @@ curl -s $SITEMAP_URL | \
   grep -e loc | \
   sed 's|<loc>\(.*\)<\/loc>$|\1|g' | \
   xargs -I {} curl -s -o /dev/null -w "%{http_code} %{url_effective}\n" {} | \
-  grep -v 200
+  grep -v ^200
 
 docker-compose stop

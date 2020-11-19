@@ -2,9 +2,11 @@
 
 # Check all internal links on the dev site
 
+echoerr() { printf "%s\n" "$*" >&2; }
+
 # Script requires linkchecker
 if ! [ -x "$(command -v linkchecker)" ]; then
-    echo "Error: linkchecker is not installed"
+    echoerr "Error: linkchecker is not installed"
     exit 1
 fi
 
