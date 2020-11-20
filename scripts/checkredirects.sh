@@ -21,4 +21,4 @@ while read -r _ new_url; do
   fi
 done < src/static/_redirects
 
-docker-compose stop
+docker-compose down

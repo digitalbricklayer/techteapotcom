@@ -20,4 +20,4 @@ curl -s $SITEMAP_URL | \
   xargs -I {} curl -s -o /dev/null -w "%{http_code} %{url_effective}\n" {} | \
   grep -v ^200
 
-docker-compose stop
+docker-compose down
