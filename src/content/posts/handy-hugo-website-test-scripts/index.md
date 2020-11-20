@@ -13,7 +13,7 @@ Whilst developing this website and porting it over to Hugo, I have written a few
 
 Whilst my site is developed using Hugo, the scripts themselves just expect to be able to connect to a website. As such, the scripts are not tied to Hugo in any way. If you are not using Hugo on your site, you may still get some value from the scripts.
 
-## checklinks
+## checklinks.sh
 
 A script for validating all of the internal links in the website as well as images and the like. The script uses the `linkchecker` tool to validate the links.
 
@@ -30,7 +30,7 @@ The script also shows how to check external links as well.
 
 The script will fail cleanly if `linkchecker` is missing. I would like to improve the script by removing the dependency on the `linkchecker` tool. Or at least place the dependency in a more manageable docker container. I will update this post when I have managed to dockerise `linkchecker`.
 
-## checkredirects
+## checkredirects.sh
 
 This website has been around since late 2006 in one guise or another. In that time it has accumulated quite a lot of page moves and the like. The `checkredirects.sh` script checks to make sure that each page exists.
 
@@ -48,7 +48,7 @@ The first part is the old link, the second part is the new link. In other words,
 
 {{< gist digitalbricklayer 719fe73f554208b648dd6129364fc84c >}}
 
-## rundevserver
+## rundevserver.sh
 
 When writing new content or updating the website design, it can be helpful to see your changes immediately. The `rundevserver.sh` script runs the built-in Hugo server in development mode.
 
@@ -70,7 +70,7 @@ To stop the server, you simply press `CTRL C` in the shell where the script is e
 
 {{< gist digitalbricklayer b8508388f90b640dc5c2eece2327d952 >}}
 
-## checksitemap
+## checksitemap.sh
 
 Each website usually has a sitemap that tells the search engines about all of the content on the site as well as when the content was last changed and how often the content is likely to change.
 
