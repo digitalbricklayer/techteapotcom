@@ -14,6 +14,8 @@ draft: true
 
 {{< figure src="images/mrtg_logo.gif#alignright" alt="MRTG Logo" >}}
 
+See [comp.lang.perl.misc](https://groups.google.com/g/comp.lang.perl.misc/search?q=mrtg) and search for MRTG as per the link
+
 ## Introduction
 
 The story of a particular location is set out in the various sections of an archaeological dig. In a similar way, the story of an open source project is set out in how the source code has evolved over the project's lifetime. It may also be possible to discern broader technical changes through the evolution of the project.
