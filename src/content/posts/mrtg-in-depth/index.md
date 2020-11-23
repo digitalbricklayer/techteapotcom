@@ -22,7 +22,7 @@ The story of a particular location is set out in the various sections of an arch
 
 MRTG version 1 could not be much simpler. The software consists of a single executable program written in Perl, a sample configuration file, rudimentary documentation (see figure 1) in the form of a web page and some images to be used in the outputted html pages.
 
-In order to install MRTG you first need to copy the sample configuration file and modify it to point to a local router supporting SNMP. You then need to schedule a cron job to run every 5 minutes to run the MRTG executable with the configuration file as the first parameter. The `mrtg` executable will run and query your local router for the in/out octets and slowly build a series of graphs embedded onto a single web page. If you have multiple routers, create a configuration file for each one and a new cron job. Your output will be a series of web pages with the in/out octets displayed in a series of graphs as well as a file with the raw time series data.
+In order to install MRTG you first need to copy the sample configuration file and modify it to point to a local router supporting SNMP. You then need to schedule a cron job to run every 5 minutes to run the MRTG executable with the configuration file as the first parameter. The `mrtg` executable will run and query your local router via SNMP for the in/out octets and slowly build a series of graphs embedded onto a single web page. If you have multiple routers, create a configuration file for each one and a new cron job. Your output will be a series of web pages with the in/out octets displayed in a series of graphs as well as a file with the raw time series data.
 
 See [Perl and the dynamic web](https://opensource.com/life/16/11/perl-and-birth-dynamic-web).
 
@@ -39,9 +39,10 @@ Version 1 file format:
            caption="Figure 2: De Montfort University internet link throughput graphs last updated 16th October 1995" >}}
 
 Dependencies:
-- cmu-snmp (eventually morphed into [ucd-snmp and then net-snmp](http://www.net-snmp.org/about/history.html))
-- netpbm - a [very old set of command line tools](http://netpbm.sourceforge.net/) for image manipulation
-- perl - the undisputed language of the web back in the early days of the internet
-- cron - a unix tool for running episodic jobs on unix systems. MRTG expects to be run every 5 minutes
+
+* cmu-snmp - a set of command line tools for interacting with SNMP enabled devices as well as an extensible SNMP agent (eventually morphed into [ucd-snmp and then net-snmp](http://www.net-snmp.org/about/history.html)
+* netpbm - a [very old set of command line tools](http://netpbm.sourceforge.net/) for image manipulation harking back to the 1980s when a vast number of image formats proliferated and a desperate need emerged to be able to convert between all of the different formats
+* perl - the undisputed language of the web back in the early days of the internet
+* cron - a unix tool for running episodic jobs on unix systems. MRTG expects to be run every 5 minutes
 
 Time series output
