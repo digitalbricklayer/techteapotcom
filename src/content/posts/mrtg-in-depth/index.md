@@ -1,6 +1,6 @@
 ---
 title: "MRTG In Depth"
-date: 2020-11-11T16:59:30Z
+date: "2020-11-23"
 categories:
   - Open Source
   - Network Management
@@ -23,9 +23,17 @@ The story of a particular location is set out in the various sections of an arch
 {{< figure src="images/dmu-ac-uk-mrtg-jips.png#center"
            link="images/dmu-ac-uk-mrtg-jips.png"
            alt="De Montfort University internet link throughput graphs"
-           caption="De Montfort University internet link throughput graphs" >}}
+           caption="De Montfort University internet link throughput graphs last updated 16th October 1995" >}}
 
 {{< figure src="images/mrtg-help-v1-0.png#center"
            link="images/mrtg-help-v1-0.png"
            alt="MRTG v1 documentation"
            caption="MRTG v1 documentation" >}}
+
+Dependencies:
+
+- cmu-snmp
+
+- netpbm
+
+Time series output
