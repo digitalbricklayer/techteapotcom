@@ -6,4 +6,4 @@ Was the cause the emergence of the internet over a similar period? How can I fin
 
 Go back to my shareware disks in the office and do a survey of all of the network related tools.
 
-Time to first contribution seems like an interesting measure for an open source project. In te case of MRTG, the first two contributions were within 40 days. The time between version 1.1 being released and version 1.6.
+Time to first contribution seems like an interesting measure for an open source project. In the case of MRTG, the first two contributions were within 40 days. The time between version 1.1 being released and version 1.6.
