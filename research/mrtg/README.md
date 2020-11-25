@@ -12,7 +12,7 @@ This is the message:
 everybody is keen to know how the state of the link is.
 >
 >I have written a small perl script which gathers the traffic stats from our
-backbone router. (the tool uses >"snmpget" to read the information from the
+backbone router. (the tool uses "snmpget" to read the information from the
 router.)
 >
 >The tool the creates a daily, weekly and yearly traffic graphs and makes
