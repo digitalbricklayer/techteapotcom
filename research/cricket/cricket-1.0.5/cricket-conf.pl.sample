@@ -1,0 +1,71 @@
+#	Sample Cricket configuration file.
+#	This file is looked for in the same directory where the executable
+#	scripts are located, or in /usr/local/etc/cricket-conf.pl.
+#	In its absence, the rules for Cricket 1.0.2 and previous versions
+#	apply, i.e. Cricket looks at your HOME directory to find its
+#	components.
+#
+#	The commented out variables are optional and should probably
+#	not be tweaked unless you know what you're doing.
+#
+#	It is possible to modify the Perl environment, e.g. by adding
+#	"use lib /foo" to this file.
+#	$Id: cricket-conf.pl.sample,v 1.12 2004/02/10 18:06:44 xkilian Exp $
+package Common::global;
+
+$gCricketHome = "/home/cricket";
+$gInstallRoot = "$gCricketHome/cricket";
+#$gConfigRoot = "$gCricketHome/cricket-config";
+
+#	Whether to optimize config tree access for the collector by
+#	copying the database into memory on startup.
+#	Switch off if your collector becomes too big in run time.
+#	Most sites will probably want slurp, this is the default.
+#$gDbAccess = "slurp";	# Slurp the database into memory
+#$gDbAccess = "lookup";	# Use normal DB lookups
+
+#	Where cricket caches generated images.
+#$gCacheDir = "/tmp/cricket-cache";
+#	It is strongly recommended that you *not* set a global logLevel.
+#	Use the CRICKET_LOG_LEVEL environment variable or the
+#	-logLevel <level> option instead.
+#$gLogLevel = "info";
+
+#	It is strongly recommended that you *not* set a global logFormat.
+#	Use the CRICKET_LOG_FORMAT environment variable or the
+#	-logFormat <format> option instead.
+#	Three formats are supported by Log.pm. Minimal, standard and extended.
+#   Consult the documentation. Default format is standard.
+#$gLogFormat = "standard";
+
+#	Pick the style of URL you want Cricket to use when generating
+#	self-referencing URLs (either URL's to targets, or URL's to
+#	graphed images).
+#	It is recommended not to touch this unless you need to.
+$gUrlStyle="classic";    # What Cricket before 1.0.4 did.
+#$gUrlStyle="relative";  # Required if Cricket sits behind a reverse proxy
+#$gUrlStyle="pathinfo";  # Encode the target in the URL path for authentication
+
+#	Set this to "1" to enable the new (and experimental!) feature to
+#	use long RRD datasource names. See the CHANGES file before enabling
+#	this.
+$gLongDSName=0;
+
+#	Set to "1" to make collector log fully qualified datasource names.
+#	e.g. When enabled, you get "/Switches/Cat4000/Core/FastEthernet0_1"
+#       instead of just "FastEthernet0_1".
+$gLogFullPath=0;
+
+#       Set this to "1" to enable the tag search feature. When enabled
+#       this adds a small search box to the bottom of the grapher
+#       window, which can be used to do a recursive search on
+#       values contained in the chassis target. It is currently
+#       limited to searching for a value in the snmp-host and display-name tags.
+$gEnableSearch=1;
+
+# For users of monitoring thresholds. This variable defines how to treat
+# conditions where a threshold is tested against an unavailable value or
+# a database lookup error.
+# Set to 1, and it will treat unvailable values (or NaNs) as alarms.
+# Set to 0 or undefined it will not treat NaNs as alarms. 
+$gEnableNoValueAlarms = 0;

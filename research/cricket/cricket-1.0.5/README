@@ -1,0 +1,101 @@
+README for Cricket version 1.0.5
+================================
+
+This is Cricket. It is a configuration, polling, and data-display
+engine wrapped around the RRD tool by Tobias Oetiker. There are
+three user-visible pieces to Cricket: the collector, the grapher, and
+the config tree. The collector runs from cron and fetches data
+from a number of devices according to the info it finds in the
+config tree. The grapher is a CGI application that allows users to
+traverse the config tree from a web browser and see the data that
+the collector recorded. To use Cricket you need to do these things:
+
+	* make a config tree
+	* setup the collector to run on a regular basis
+	* setup the grapher to let you look at the data
+
+Installing
+----------
+
+If you are a brand new Cricket user, you should read and
+closely follow the directions in doc/beginner.html.
+
+Upgrading
+----------
+
+(1) Read the CHANGES file to see what's new with this version.
+(2) Install this version to a separate directory from your
+existing version.
+(3) Copy subtree-sets and cricket-conf.pl from the existing
+version to this installation. Alternatively, rename this version 
+cricket-conf.pl.sample to cricket-conf.pl and edit the file
+to match your settings from the cricket-conf.pl existing version.
+(4) Other potential pitfalls: If you use subtree timing info, you
+will need to edit collect-subtrees to set $subtreeTimes = 1. If
+you have placed custom images in cricket/images, you will need to
+copy these files from the existing version to this installation.
+(5) Cutover to this installation from your existing one by swapping
+the $HOME/cricket softlink to this version.
+(6) Recompile your config tree.
+(7) Run the collector or collect-subtrees by hand once to make certain
+it's still working.
+(8) Now you are ready to start experimenting with the new features
+described in the CHANGES file.
+
+Documentation
+-------------
+
+Point your web browser at the doc/index.html file and choose
+the most appropriate document from there.
+
+Patches
+-------
+
+If you manage to add a useful feature to the code (or need to
+make a bugfix just to get it running) please share a patch with
+the Cricket community, or consider becoming a Cricket developer
+and adding your code in to the next release.
+
+You can generate a patch like this:
+
+	tar xvf cricket.tar
+	mv cricket my-changes
+		# make your changes to this this copy
+	tar xvf cricket.tar
+	gnudiff -u -r cricket my-changes
+
+This will create a unified context diff from the dist directory
+to the "my-changes" directory. It will allow people to apply
+your changes to their copies of Cricket.
+
+You can find out more about contributing to Cricket development
+here:
+
+	http://cricket.sourceforge.net/devel
+
+Support
+-------
+
+You can find the most recent version of Cricket at:
+
+	http://cricket.sourceforge.net/
+
+There is information about how to get help with Cricket
+online here:
+
+	http://cricket.sourceforge.net/support/
+
+At that website, you can find the FAQ, mailing lists
+to join, mailing list archives to search, and other useful
+information about how other people are using Cricket.
+
+License
+-------
+
+Cricket is covered by the GNU General Public License.
+See the file COPYING for copying permission.
+
+Cricket is Copyright (c) 1998-2004 by Jeff Allen
+
+Individual pieces are copyrighted by their contributors, though
+they are covered by same license as Cricket, namely the GPL.

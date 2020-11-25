@@ -1,0 +1,282 @@
+#!/usr/local/bin/perl -w
+# -*- perl -*-
+
+# Cricket: a configuration, polling and data display wrapper for RRD files
+#
+#    Copyright (C) 1998 Jeff R. Allen and WebTV Networks, Inc.
+#
+#    This program is free software; you can redistribute it and/or modify
+#    it under the terms of the GNU General Public License as published by
+#    the Free Software Foundation; either version 2 of the License, or
+#    (at your option) any later version.
+#
+#    This program is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU General Public License for more details.
+#
+#    You should have received a copy of the GNU General Public License
+#    along with this program; if not, write to the Free Software
+#    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+
+BEGIN {
+	my $programdir = (($0 =~ m:^(.*/):)[0] || "./") . "..";
+	eval "require '$programdir/cricket-conf.pl'";
+	eval "require '/usr/local/etc/cricket-conf.pl'"
+					unless $Common::global::gInstallRoot;
+	$Common::global::gInstallRoot ||= $programdir;
+}
+
+use lib "$Common::global::gInstallRoot/lib";
+
+use RRDs 1.000101;
+
+use ConfigTree::Cache;
+use Common::HandleTarget;
+use Common::Map;
+use Common::Log;
+use Getopt::Long;
+
+my($VERSION) = "rrd-tune 1.1";
+
+# Parse common options & script specific arguments
+my($clear) = localOptions();
+
+$Common::global::gCT = new ConfigTree::Cache;
+$gCT = $Common::global::gCT;
+$gCT->Base($Common::global::gConfigRoot);
+$gCT->Warn(\&Warn);
+ 
+if (! $gCT->init()) {
+    Die("Failed to open compiled config tree from " .
+		"$Common::global::gConfigRoot/config.db: $!");
+}
+
+my($recomp, $why) = $gCT->needsRecompile();
+if ($recomp) {
+    Die("Config tree needs to be recompiled: $why");
+}
+
+# Remaining arguments are the subtrees
+my (@root) = (@ARGV) ? @ARGV : "/";
+
+# foreach subtree to do
+#   find the base node of that subtree
+#   foreach leaf node of this subtree
+#       process it
+ 
+my($subtree);
+foreach $subtree (@root) {
+    if ($gCT->nodeExists($subtree)) {
+		$gCT->visitLeafs($subtree, \&handleTarget,
+			\&handleTargetInstance, \&localHandleTargetInstance);
+    } else {
+        Warn("Unknown subtree $subtree.");
+    }
+}
+
+exit;
+
+sub localHandleTargetInstance {
+	my($name, $target) = @_;
+
+	my($tname) = $target->{'auto-target-name'};
+
+	# don't try to tune multitargets
+	if ($target->{'targets'}) {
+		return;
+	}
+
+	my($ttype) = $target->{'target-type'};
+	if (! $ttype) {
+		Warn("Skipping RRD tune for $tname; no target type.");
+		return;
+	}
+
+	my($ttRef) = $main::gCT->configHash($name, 'targettype',
+										lc($ttype), $target);
+	if (! defined($ttRef)) {
+		Warn("Skipping RRD tune for $tname; unknown target type.");
+		return;
+	}
+
+	my($dslist) = $ttRef->{'ds'};
+	if (! defined($dslist)) {
+		Warn("Skipping RRD tune for $tname; no DS's for target-type $ttype.");
+		return;
+	}
+
+    # Does the RRD file exist
+    my($rrd) = $target->{'rrd-datafile'};
+    if (! $rrd) {
+        Warn("Skipping RRD tune for $tname; could not find " .
+                " rrd-datafile.");
+        return;
+    }
+
+    # Run the tuning agent to ajust RRD max and min values for each DS of the RRD
+    tuneRRD($name, $target, $ttype, $ttRef, $dslist, $rrd);
+
+    # Remove orphaned alarms in the meta data file associated with a valid RRD
+    cleanMeta($name, $target);
+
+    return 1;
+}
+
+sub cleanMeta {
+	my($name, $target) = @_;
+	my($tname) = $target->{'auto-target-name'};
+    return if ($tname ne "chassis");
+
+    ### meta file processing that contains active alarms
+    my($rrd) = new RRD::File( -file=>$target->{'rrd-datafile'} );
+    my($refMeta) = $rrd->getMeta();
+
+    ### create a space delimited string with the monitor thresholds
+    my ($monitors);
+    if (defined $target->{'monitor-thresholds'}) {
+        $monitors = ' ' . $target->{'monitor-thresholds'};
+        $monitors =~ s/[\s,]+/ /g;
+    }
+
+    foreach my $key (keys %{$refMeta}) {
+        Info ("  Clear this alarm?: $key data: $refMeta->{$key}");
+        next if ($key =~ /last-inst/);
+        if ($monitors) {
+            my $found = ($monitors =~ / $key /) ? 1 : 0;
+            delete($refMeta->{$key}) if (!$found || $clear);
+            Info ("  Clearing alarm: $key") if (!$found || $clear);
+        } else {
+            delete($refMeta->{$key});
+            Info ("  Clearing alarm: $key");
+        }
+    }
+
+    $rrd->setMeta($refMeta);
+    return 1;
+}
+
+sub tuneRRD {
+	my($name, $target, $ttype, $ttRef, $dslist, $rrd) = @_;
+	my($tname) = $target->{'auto-target-name'};
+
+	# run rrd tune on the RRD
+
+	my(@arg);
+	my($dsnum) = 0;
+	my($dsname);
+
+	foreach $dsname (split(/\s*,\s*/, $dslist)) {
+
+		my($ds) = $main::gCT->configHash($name, 'datasource',
+									lc($dsname), $target);
+
+		if (! defined($ds)) {
+			Warn("Unknown datasource: $dsname");
+			next;
+		}
+
+        my($dst) = $ds->{'rrd-ds-type'};
+        $dst = "GAUGE" unless (defined($dst));
+        $dst = uc($dst);
+        # Never tune COMPUTE data sources; it will corrupt the header.
+        # If the user really wants to replace the COMPUTE data source with
+		# another type, they can do it manually.
+        if ($dst eq 'COMPUTE') {
+            $dsnum++;
+		    Info("Skipping RRD tune for COMPUTE data source $dsname"); 
+            next;
+        }
+
+        my($hb) = $ds->{'rrd-heartbeat'};
+        $hb = $target->{'rrd-heartbeat'}
+            if (defined($target->{'rrd-heartbeat'}));
+        $hb = 1800 unless (defined($hb));
+
+        my($min) = $ds->{'rrd-min'};
+        $min = $target->{'rrd-min'}
+            if (defined($target->{'rrd-min'}));
+        $min = 'U' unless (defined($min));
+
+        my($max) = $ds->{'rrd-max'};
+        $max = $target->{'rrd-max'}
+            if (defined($target->{'rrd-max'}));
+        $max = 'U' unless (defined($max));
+
+		push(@arg,
+			'-d', "ds$dsnum:$dst",
+			'-h', "ds$dsnum:$hb",
+			'-i', "ds$dsnum:$min",
+			'-a', "ds$dsnum:$max");
+		$dsnum++;
+	}
+
+	Info("Tuning $tname");
+	Debug("RRDs::tune $rrd ", join(" ", @arg));
+	RRDs::tune $rrd, @arg;
+
+	my($err) = RRDs::error();
+	if ($error) {
+		Warn("Unable to tune $rrd: $error\n");
+		return;
+	}
+
+	return 1;
+}
+
+sub localOptions {
+    my ($logLevel, $logFormat, $base, $clear, $usage);
+
+    # default to 'info' unless there's a environment variable
+    # or a commandline arg
+
+    $logLevel = $Common::global::gLogLevel if $Common::global::gLogLevel;
+    $logLevel = $ENV{'CRICKET_LOG_LEVEL'} if $ENV{'CRICKET_LOG_LEVEL'};
+    $logLevel ||= "info";
+
+    # default to 'standard' unless there's a environment variable
+    $logFormat = $Common::global::gLogFormat if $Common::global::gLogFormat;
+    $logFormat = $ENV{'CRICKET_LOG_FORMAT'} if $ENV{'CRICKET_LOG_FORMAT'};
+    $logFormat ||= "standard";
+
+    GetOptions( "loglevel:s" => \$logLevel,
+                "logformat:s" => \$logFormat,
+                "base:s" => \$base,
+                "clear" => \$clear,
+                "help|h" => \$usage);
+
+    usage() if ($usage);
+    $Common::global::gConfigRoot = $base if $base;
+    Common::Log::setLevel($logLevel);
+    Common::Log::setFormat($logFormat);
+
+    return ($clear);
+}
+
+sub usage {
+#'
+    print STDERR <<EOD;
+
+Version: $VERSION
+
+USAGE: $0 [options] <subtreename>
+
+   Default Actions:        - Cleanout orphaned monitor thresholds alarms
+                           - Ajust min and max RRD database values
+
+   --clear                 - Remove all monitor threshold alarms
+   <subtreename>           - Select a protion of the config-tree
+   --loglevel <loglevel>   - Select the logging level
+   --logformat <logformat> - Select the logging format
+   --help | -h             - Display the current help file
+
+
+EXAMPLE:  $0
+EXAMPLE:  $0 /cisco-routers/siteA/routerA
+EXAMPLE:  $0 --clear /cisco-routers
+EXAMPLE:  $0 --clear
+
+EOD
+#'
+    exit(1);
+}
