@@ -4,8 +4,10 @@ See [comp.lang.perl.misc](https://groups.google.com/g/comp.lang.perl.misc/) and 
 
 See for [first MRTG announcement](https://groups.google.com/g/comp.lang.perl/c/FaAWCOBdgKo/m/g7IAn-LRGicJ) on 28 April 1995.
 
-This is the message:
+This is the message on comp.lang.perl:
 
+>ANNOUNCE: mrtg - Network Traffic Stats on the Web
+>
 >MULTI ROUTER TRAFFIC GRAPHER
 >============================
 >Here at DMU, our Internet link is always under heavy load. Therefore
