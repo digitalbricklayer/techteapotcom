@@ -5,3 +5,5 @@ This link here doesn;t work: http://cricket.sourceforge.net/cricket
 This link does work: http://cricket.sourceforge.net/
 
 May be an early website [here](https://web.archive.org/web/19980915000000*/http://www.munitions.com/~jra)
+
+This is the [early cricket website](https://web.archive.org/web/19991006023038/http://www.munitions.com/~jra/cricket/) before the project moved over to sourceforge.
