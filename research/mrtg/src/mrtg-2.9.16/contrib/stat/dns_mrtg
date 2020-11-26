@@ -1,0 +1,5 @@
+#!/bin/sh
+# $Id: dns_mrtg,v 1.2 1999/04/28 11:23:33 v072863 Exp $
+#thnis file should be run by cron
+DIRECTORY/TO/THIS/SCRIPT/dns.named
+/PATH/TO/MRTG/mrtg PATH/TO/MRTG.CFG/mrtg.cfg

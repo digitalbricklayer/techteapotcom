@@ -1,0 +1,109 @@
+<HTML>
+<HEAD>
+<TITLE>doc/squid</TITLE>
+<LINK REV="made" HREF="mailto:karrer@iis.ee.ethz.ch">
+</HEAD>
+
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000" LINK="#990200" VLINK="#006342"><P><IMG SRC="mrtg-l.png"><IMG SRC="mrtg-m.png"><IMG SRC="mrtg-r.gif"></P>
+
+<A NAME="__index__"></A>
+<!-- INDEX BEGIN -->
+<!--
+
+<UL>
+
+	<LI><A HREF="#name">NAME</A></LI>
+	<LI><A HREF="#synopsis">SYNOPSIS</A></LI>
+	<LI><A HREF="#modifications">MODIFICATIONS</A></LI>
+	<LI><A HREF="#config example">CONFIG EXAMPLE</A></LI>
+	<LI><A HREF="#author">AUTHOR</A></LI>
+</UL>
+-->
+<!-- INDEX END -->
+
+<P>
+<H1><A NAME="name">NAME</A></H1>
+<P>squid - using mrtg to monitor Squid</P>
+<P>
+<HR>
+<H1><A NAME="synopsis">SYNOPSIS</A></H1>
+<P>Squid 2.x knows SNMP and you can therfore use mrtg to
+monitore is quite easily.</P>
+<P>I have made some modifications to mrtg which simplify this.
+My work is based on earlier modification made by:
+<A HREF="mailto:matija.grabnar@arnes.si">matija.grabnar@arnes.si</A> and <A HREF="mailto:kostas@nlanr.net.">kostas@nlanr.net.</A></P>
+<P>
+<HR>
+<H1><A NAME="modifications">MODIFICATIONS</A></H1>
+<P>So I have add new code for displaying correct units to the
+previous patches ``perminute'' and ``perhour'' (``option'' tokens),
+which allow to mesure not only per second.</P>
+<P>Then I have created a new option token ``dorelpercent'', which
+allows to caclulate the percentage of IN-stream / OUT-stream on
+the fly and display it on a fixed scale from 0% to 100%. For my
+requirements, this does good work. Maybe someone wants a floating
+scale, it should not be a problem to implement it too. But then
+give me an option to keep my fixed scale. If IN-stream is always
+less than OUT-stream both lines (OUT-stream and relative percent)
+are always displayed on top of IN-stream bulk. Otherwise this
+option makes no sense. With this option you can display hitrates,
+errorrates (for router monitoring: rel. droprates) easily now.</P>
+<P>If you use this options please consider, that you need a 5th
+colourname/value pair in your Colours statements!</P>
+<P>Due to some discussion on this list, I have implemented two
+tokens too:</P>
+<P>``kilo'' and ``kMG''</P>
+<P>``kilo'' should contain the value of k (1000 or 1024), where 1000 is the
+default.</P>
+<P>``kMG'' is a comma separated list of multiplier prefixes, used
+instead of ``'', ``k'', ``M'', ``G'', ``T'' on the MRTG display. Leave the
+place free, if you want no prefix.</P>
+<P>Also a not complete list of OIDs for the new SQUID release is
+added.</P>
+<P>I hope you enjoy it.</P>
+<P>
+<HR>
+<H1><A NAME="config example">CONFIG EXAMPLE</A></H1>
+<P>You can measure responsetimes in ms and display it with MRTG
+correctly with:</P>
+<PRE>
+ kMG[measure-ms]: m,,k,M,G,T
+ short[measure-ms]: s</PRE>
+<P>You can display now MB/s as 1024*1024 B/s with:</P>
+<PRE>
+ kilo[volume]: 1024</PRE>
+<P>A sample config for squid:</P>
+<PRE>
+ Target[proxy-hit]: cacheHttpHits&amp;cacheClientHttpRequests:public@proxy
+ Title[proxy-hit]: HTTP Hits
+ PageTop[proxy-hit]: &lt;H2&gt;proxy Cache Statistics: HTTP Hits / Requests&lt;/H2&gt;
+ Suppress[proxy-hit]: y
+ LegendI[proxy-hit]:  HTTP hits
+ LegendO[proxy-hit]:  HTTP requests
+ Legend1[proxy-hit]:  HTTP hits
+ Legend2[proxy-hit]:  HTTP requests
+ YLegend[proxy-hit]: perminute
+ ShortLegend[proxy-hit]: req/min
+ Options[proxy-hit]: nopercent, perminute, dorelpercent</PRE>
+<PRE>
+ Target[proxy-srvkbinout]: cacheServerInKb&amp;cacheServerOutKb:public@proxy
+ Title[proxy-srvkbinout]: Cache Server Traffic In / Out
+ PageTop[proxy-srvkbinout]: &lt;H2&gt;Cache Statistics: Server traffic volume (In/Out) &lt;/H2&gt;
+ Suppress[proxy-srvkbinout]: y
+ LegendI[proxy-srvkbinout]:  Traffic In
+ LegendO[proxy-srvkbinout]:  Traffic Out
+ Legend1[proxy-srvkbinout]:  Traffic In
+ Legend2[proxy-srvkbinout]:  Traffic Out
+ YLegend[proxy-srvkbinout]: per minute
+ ShortLegend[proxy-srvkbinout]: b/min
+ kMG[proxy-srvkbinout]: k,M,G,T
+ kilo[proxy-srvkbinout]: 1024
+ Options[proxy-srvkbinout]: nopercent, perminute</PRE>
+<P>
+<HR>
+<H1><A NAME="author">AUTHOR</A></H1>
+<P>Andreas Papst &lt;<A HREF="mailto:andreas.papst@univie.ac.at">andreas.papst@univie.ac.at</A>&gt;</P>
+
+</BODY>
+
+</HTML>

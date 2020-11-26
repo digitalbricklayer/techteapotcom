@@ -1,0 +1,142 @@
+MRTG(1)                        mrtg                       MRTG(1)
+
+
+
+NNNNAAAAMMMMEEEE
+       mrtg - What is MRTG
+
+SSSSYYYYNNNNOOOOPPPPSSSSIIIISSSS
+       The Multi Router Traffic Grapher (MRTG) is a tool to moni-
+       tor the traffic load on network-links.  MRTG generates
+       HTML pages containing GIF images which provide a LIVE
+       visual representation of this traffic. Check
+       http://www.stat.ee.ethz.ch/mrtg/ to see what it does.
+
+       Go to http://people.ee.ethz.ch/~oetiker/webtools/mrtg for
+       all the details about mrtg.
+
+UUUUSSSSEEEERRRR PPPPAAAAGGGGEEEESSSS
+       MRTG is written in Perl and C and works under UNIX and
+       Windows NT. MRTG is being successfully used on many sites
+       around the net.  Check the MRTG-Site-Map on:
+
+        http://people.ee.ethz.ch/~oetiker/webtools/mrtg/users.html
+
+
+HHHHIIIIGGGGHHHHLLLLIIIIGGGGHHHHTTTTSSSS
+       Portable
+           MRTG works on most UNIX platforms and Windows NT.
+
+       Perl
+           MRTG is written in perl and comes with full source.
+
+       Portable SNMP
+           MRTG Uses a highly portable SNMP implementation writ-
+           ten entirely in Perl thanks to Simon Leinen. There is
+           no need to install any external SNMP package.
+
+       SNMPv2c support
+           MRTG can read the new SNMPv2c 64bit counters. No more
+           counter wrapping.
+
+       Reliable Interface Identification
+           Router interfaces can be identified by IP address,
+           Description and Ethernet address in addition to the
+           normal Interface number.
+
+       Constant size Logfiles
+           MRTG's logfiles do NOT grow. Thanks to the use of a
+           unique data consolidation algorithm.
+
+       Automatic Configuration
+           MRTG comes with a set configuration tools which make
+           configuration and setup very simple.
+
+       Performance
+           Time critical routines are written in C thanks to the
+           initiative of Dave Rand my Co-Author.
+
+       GIF free Graphics
+           Graphics are generated directly in PNG format, using
+           the GD library by Thomas Boutell.
+
+       Customizability
+           The look of the webpages produced by MRTG is highly
+           configurable.
+
+
+       RRDtool
+           MRTG has built in hooks for using RRDtool. If you are
+           straped for performance this may help.
+
+DDDDEEEETTTTAAAAIIIILLLLSSSS
+       MRTG consists of a Perl script which uses SNMP to read the
+       traffic counters of your routers and a fast C program
+       which logs the traffic data and creates beautiful graphs
+       representing the traffic on the monitored network connec-
+       tion. These graphs are embedded into webpages which can be
+       viewed from any modern Web-browser.
+
+       In addition to a detailed daily view, MRTG also creates
+       visual representations of the traffic seen during the last
+       seven days, the last four weeks and the last twelve
+       months. This is possible because MRTG keeps a log of all
+       the data it has pulled from the router. This log is auto-
+       matically consolidated, so that it does not grow over
+       time, but still contains all the relevant data for all the
+       traffic seen over the last two years.  This is all per-
+       formed in an efficient manner.  Therefore you can monitor
+       200 or more network links from any halfway decent UNIX
+       box.
+
+       MRTG is not limited to monitoring traffic though, it is
+       possible to monitor any SNMP variable you choose. You can
+       even use an external program to gather the data which
+       should be monitored via MRTG. People are using MRTG, to
+       monitor things such as System Load, Login Sessions, Modem
+       availability and more. MRTG even allows you to accumulate
+       two or more data sources into a single graph.
+
+HHHHIIIISSSSTTTTOOOORRRRYYYY
+       In 1994 I was working at a site where we had one 64kbit
+       line to the outside world. Obviously everybody was inter-
+       ested in knowing how the link was performing. So I wrote a
+       quick hack which created a constantly updated graph on the
+       web, showing the traffic load on our Internet link. This
+       eventually evolved into a rather configurable Perl script
+       called MRTG-1.0 which I released in spring 1995. After a
+       few updates I left my job at DMU, to start work at the
+       Swiss Federal Institute of Technology. Due to lack of time
+       I had to put MRTG aside. One day in January of 1996, I
+       received email from Dave Rand asking if I had any ideas
+       why MRTG was so slow. Actually I did. MRTG's programming
+       was not very efficient and it was written entirely in
+       Perl. After a week or so, Dave wrote back to me and said
+       he had tried what I had suggested for improving MRTG's
+       speed. Since the changes did not help much, he had decided
+       to rewrite the time-critical sections of MRTG in C. The
+       code was attached to his email. His tool increased the
+       speed of MRTG by a factor of 40! This got me out of my
+       'MRTG ignorance' and I started to spend my spare time
+       developing of MRTG-2.
+
+       Soon after MRTG-2 development had begun I started to give
+       beta copies to interested parties. In return I got many
+       feature patches, a lot of user feedback and bug fixes. The
+       product you are getting now is wouldnt be in this state if
+       it hadn't been for the great contributions and suport I
+       received from of many people. I would like to take this
+       opportunity to thank them all. (See the files CHANGES for
+       a long list of folk people who helped to make MRTG what it
+       is today)
+
+RRRREEEEAAAADDDD OOOONNNN
+       Learn more about MRTG by going to the mrtg home page on:
+       http://people.ee.ethz.ch/~oetiker/webtools/mrtg
+
+AAAAUUUUTTTTHHHHOOOORRRR
+       Tobias Oetiker <oetiker@ee.ethz.ch> and many contributors
+
+
+
+2001-06-02                    2.9.14                      MRTG(1)

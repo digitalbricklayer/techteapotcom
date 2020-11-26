@@ -1,0 +1,1832 @@
+#! /usr/bin/perl -w
+# -*- mode: Perl -*-
+
+###################################################################
+# MRTG 2.9.18  Multi Router Traffic Grapher
+###################################################################
+# Created by Tobias Oetiker <oetiker@ee.ethz.ch>
+#            and Dave Rand <dlr@bungi.com>
+#
+# For individual Contributers check the CHANGES file
+#
+###################################################################
+#
+# Distributed under the GNU General Public License
+#
+###################################################################
+
+@main::DEBUG=qw();
+# DEBUG TARGETS
+# cfg  - watch the config file reading
+# dir  - directory mangeling
+# base - basic program flow
+# tarp - target parser
+# snpo - snmp polling
+# fork - forking view
+# time - some timing info
+# log  - logging of data via rateup or rrdtool
+$main::GRAPHFMT="png";
+# There older perls tend to behave peculiar with
+# large integers ...
+require 5.005;
+
+use strict;
+
+BEGIN {
+    # Automatic OS detection ... do NOT touch
+    if ( $^O =~ /^(ms)?(dos|win(32|nt)?)/i ) {
+	$main::OS = 'NT';
+	$main::SL = '\\';
+	$main::PS = ';';
+    } elsif ( $^O =~ /^VMS$/i ) {
+	$main::OS = 'VMS';
+	$main::SL = '.';
+	$main::PS = ':';
+    } else {
+	$main::OS = 'UNIX';
+	$main::SL = '/';
+	$main::PS = ':';
+    }
+
+}
+
+use FindBin;
+use lib "${FindBin::Bin}";
+use lib "${FindBin::Bin}${main::SL}..${main::SL}lib${main::SL}mrtg2";
+use Getopt::Long;
+
+# search for binaries in the bin and bin/../lib  directory
+use MRTG_lib "2.090017";
+use SNMP_Session "0.86";
+use BER "0.86";
+use SNMP_util "0.86";
+# $SNMP_Session::suppress_warnings = 2;
+use locales_mrtg "0.07";
+
+$main::STARTTIME = time;
+
+if ($MRTG_lib::OS eq 'UNIX') {
+    $SIG{HUP} = $SIG{INT} = $SIG{TERM} = 
+           sub {   unlink ${main::Cleanfile} 
+                       if defined $main::Cleanfile;
+                   unlink ${main::Cleanfile2}
+                       if defined $main::Cleanfile2;
+                   unlink ${main::Cleanfile3}
+                       if defined $main::Cleanfile3;
+                   die "ERROR: Bailout after SIG $_[0]\n";
+                };
+}
+
+
+END {
+    local($?, $!);
+    unlink ${main::Cleanfile} if defined $main::Cleanfile;
+    unlink ${main::Cleanfile2} if defined $main::Cleanfile2;
+}
+
+&main;
+
+exit(0);
+
+#### Functions ################################################
+
+sub main {
+
+    debug 'time', "prog start ".localtime(time);
+
+    # read in the config file
+    my @routers;
+    my %cfg;
+    my %rcfg;
+    my %opts;
+    GetOptions(\%opts, 'user=s', 'group=s', 'lock-file=s','confcache-file=s','logging=s');
+
+    if (defined $opts{group}) {
+        my $gid = getgrnam($opts{group}) or die "ERROR: Unknown Group: $opts{group})\n";
+        ($(,$)) = ($gid,$gid);
+    }
+
+    if (defined $opts{user}) {
+        my $uid = getpwnam($opts{user}) or die "ERROR: Unknown User: $opts{user})\n";
+        ($<,$>) = ($uid,$uid);
+        die "ERROR faild to set UID to $uid\n" unless ($< == $uid and  $> == $uid);
+    }
+
+    if (defined $opts{logging} ){
+	setup_loghandlers $opts{logging};
+        warn "Started mrtg\n";
+    }	
+
+    my $cfgfile = shift @ARGV;
+
+    printusage() unless defined $cfgfile;
+
+    # lets make sure that there are not two mrtgs running in parallel.
+    # so we lock on the cfg file. Nothing fancy, just a lockfile
+
+    my $lockfile = $opts{"lock-file"};
+
+    if (! defined $lockfile) {
+        $lockfile = $cfgfile."_l";
+    }
+    my $templock = $lockfile."_" . $$ ;
+
+    debug('base', "Creating Lockfiles $lockfile,$templock");
+    &lockit($lockfile,$templock);
+
+    debug('base', "Reading Config File: $cfgfile");
+    readcfg($cfgfile,\@routers,\%cfg,\%rcfg);
+
+
+    # from our last run we kept some info about
+    # the configuration of our devices around
+    debug('base', "Reading Interface Config cache");
+    my $confcachefile =  $opts{"confcache-file"};
+    if ( !defined($confcachefile) ) {
+        $confcachefile = $cfgfile;
+        $confcachefile  =~ s/\.[^.\/]+$//;
+        $confcachefile .= ".ok";
+    }
+    my $confcache = readconfcache($confcachefile);
+
+    # Check the config and create the target object
+    debug('base', "Checking Config File");
+    my @target;
+    cfgcheck(\@routers, \%cfg, \%rcfg, \@target);
+
+    # postload rrdtool support
+    if ($cfg{logformat} eq 'rrdtool'){
+        debug('base', "Loading RRD support");
+	require 'RRDs.pm';
+    }
+
+    # set the locale
+    my $LOC;
+    if ( $cfg{'language'} && defined($lang2tran::LOCALE{"\L$cfg{'language'}\E"})) {
+	debug('base', "Loading Locale for ".$cfg{'language'});
+	$LOC=$lang2tran::LOCALE{"\L$cfg{'language'}\E"};
+    } else {
+	debug('base', "Loading default Locale");
+	$LOC=$lang2tran::LOCALE{'default'};
+    }
+
+    # Deamon Code
+    my $last_time=0;
+    my $curent_time;
+    my $sleep_time;
+    my $pidfile = $cfgfile;
+    $pidfile =~ s/\.[^.\/]+$//;
+    $pidfile .= '.pid';
+    &demonize_me($pidfile) if defined $cfg{'runasdaemon'}  and $cfg{'runasdaemon'} =~ /y/i  and $MRTG_lib::OS ne 'VMS';
+    
+    debug('base', "Starting main Loop");
+    do {                        # Do this loop once for native mode and forever in daemon mode 
+        my $router;
+        debug 'time', "loop start ".localtime(time);
+
+        #if we run as daemin, we sleep in between collection cycles
+        $sleep_time=  ($cfg{interval}*60)-(time-$last_time);
+        if ($sleep_time > 0 ) { #If greater than 0 the sleep that amount of time
+	    debug('time', "Sleep time $sleep_time seconds");
+            sleep ($sleep_time);
+        } elsif ($last_time > 0) {
+            warn "WARNING: data collection did not complete within interval!\n";
+        }
+        $last_time=time;
+
+        # set meta expires if there is an index file
+        # 2000/05/03 Bill McGonigle <bill@zettabyte.net>
+        if (defined $cfg{'writeexpires'}) {
+           my $exp = &expistr($cfg{'interval'} ? $cfg{'interval'} : 5);
+           my $fil;
+           $fil = "$cfg{'htmldir'}index.html"  if -e "$cfg{'htmldir'}index.html";
+           $fil = "$cfg{'htmldir'}index.htm"  if -e "$cfg{'htmldir'}index.htm";
+            if (defined $fil) {
+                   open(META, ">$fil.meta");
+                   print META "Expires: $exp\n";
+                   close(META);
+            }
+        }
+
+
+        # Use SNMP to populate the target object
+	debug('base', "Populate Target object by polling SNMP and".
+	      " external Datasources");
+        debug 'time', "snmp read start ".localtime(time);
+        readtargets($confcache,\@target, \%cfg);
+
+        # collect data for each router or pseudo target (`executable`)
+        debug 'time', "target loop start ".localtime(time);
+        foreach $router (@routers) {
+	    debug('base', "Act on Router/Target $router");
+            if (defined $rcfg{'setenv'}{$router}) {
+                my $line = $rcfg{'setenv'}{$router};
+                while ( $line =~ s/([^=]+)=\"([^\"]+)\"\s*// ) 
+ 		{ 
+		    $ENV{$1}=$2;
+                }
+	    }
+	    my($savetz) = $ENV{'TZ'};
+	    if (defined $rcfg{'timezone'}{$router}) {
+                $ENV{'TZ'} = $rcfg{'timezone'}{$router}
+            }
+
+            my ($inlast, $outlast, $uptime, $name, $time) = 
+              getcurrent(\@target, $router, \%rcfg, \%cfg);
+	    debug('base', "Get Current values: ".($inlast ||"undef").", ".
+                                                 ($outlast||"undef").", ".
+                                                 ($uptime||"undef").", ".
+                                                 ($name||"undef").", ".
+                                                 ($time||undef).")");
+
+            #abort, if the router is not responding.
+
+        
+             # Fix to integer value, just in case we're not using rrdtool
+             # and we're doing Target math that results in non-integer
+             # values. James Overbeck Jr. grendel@interq.ad.jp
+          
+            if ($cfg{'logformat'} ne 'rrdtool') {
+              # undefined values are ok for rrdtool !
+              if ( not defined $inlast or not defined $inlast){
+                warn "WARNING: Skipping Update of $router, inlast is not defined\n"
+                        unless defined $inlast;
+                warn "WARNING: Skipping Update of $router, outlast is not defined\n"
+                        unless defined $outlast;
+                next;
+              }
+
+              $inlast = (0.5 > abs($inlast - int($inlast)) ) ? 
+                        int($inlast) : int($inlast) + int($inlast/abs($inlast))
+                                if $inlast =~ /\./;              
+              $outlast = (0.5 > abs($outlast - int($outlast)) ) ? 
+                        int($outlast) : int($outlast) + int($outlast/abs($outlast))
+                                if $outlast =~ /\./;
+              if ($inlast < 0) {
+                $inlast = 0;
+                warn "WARNING: resetting inlast to 0 because it is < 0 this indicates problems with the snmp counters in your device. They should not go negative\n"
+              }  
+              if ($outlast < 0) {
+                $outlast = 0;
+                warn "WARNING: resetting outlast to 0 because it is < 0 this indicates problems with the snmp counters in your device. They should not go negative\n"
+              }  
+            }
+	    
+
+            my ($maxin, $maxout, $maxpercent, $avin, $avout, $avpercent,$avmxin, $avmxout,
+                $cuin, $cuout, $cupercent);
+	    debug('base', "Create Graphics");
+            if ($rcfg{'options'}{'dorelpercent'}{$router}) {
+                ($maxin, $maxout, $maxpercent, $avin, $avout, $avpercent,
+                 $cuin, $cuout, $cupercent, $avmxin, $avmxout) =
+                  writegraphics($router, \%cfg, \%rcfg, $inlast, $outlast, $time,$LOC);
+            } else {
+                ($maxin, $maxout ,$avin, $avout, $cuin, $cuout, $avmxin, $avmxout) =
+                  writegraphics($router, \%cfg, \%rcfg, $inlast, $outlast, $time,$LOC);
+            }
+            # skip this update if we did not get anything usefull out of
+            # writegraphics
+            next if not defined $maxin;
+	    debug('base', "Check for Thresholds");
+            threshcheck(\%cfg,\%rcfg,$cfgfile,$router,$cuin,$cuout)
+                if defined $cuin and defined $cuout;
+
+
+	    if ($cfg{logformat} eq 'rateup'){
+
+		debug('base', "Check for Write HTML Pages");
+		writehtml($router, \%cfg, \%rcfg,
+			  $maxin, $maxout, $maxpercent, $avin, $avout, $avmxin, $avmxout, $avpercent,
+			  $cuin, $cuout, $cupercent, $uptime, $name, $LOC)
+	    }
+
+            #put TZ things back in shape ... 
+            if ($savetz) {
+                $ENV{'TZ'} =  $savetz;
+            } else {
+                delete $ENV{'TZ'};
+            }
+            ;
+        }
+    } while ($cfg{'runasdaemon'} and $cfg{'runasdaemon'} =~ /y/i ); #In daemon mode run forever
+    debug('base', "Exit main Loop");
+    # OK we are done, remove the lock files ... 
+
+    debug('base', "Remove Lock Files");
+    close LOCK; unlink ($templock, $lockfile);
+
+    debug('base', "Store Interface Config Cache");
+    delete $$confcache{___updated} if exists $$confcache{___updated}; # make sure everything gets written out not only the updated entries
+    writeconfcache($confcache,$confcachefile);
+
+}
+
+
+sub getcurrent {
+    my ($target, $rou, $rcfg, $cfg) = @_;
+
+    my %last;
+    my $uptime = "";
+    my $name = "";
+    my $strg;
+    my $time = "";
+    my $count=0;
+    foreach my $mode (qw(_IN_ _OUT_)){
+        my $data;
+        my $warning;
+        my $death;
+        { 
+          local $SIG{__WARN__}  = 
+                    sub { $warning = shift; $warning =~ s/^\s*(.+?)\s*$/$1/g; };
+          local $SIG{__DIE__}   = 
+                    sub { $death = shift;  $death =~ s/^\s*(.+?)\s*$/$1/g; };
+          $data = eval("$$rcfg{target}{$rou}");
+        }
+        if ( $warning ) {
+             warn "ERROR: Target[$rou][$mode] '$$rcfg{target}{$rou}' (warn): $warning\n";
+             $data = undef; 
+        } elsif ( $death ) {
+              warn "ERROR: Target[$rou][$mode] '$$rcfg{target}{$rou}' (kill): $death\n";
+              $data = undef;
+        } elsif ($@) {
+              warn "ERROR: Target[$rou][$mode] '$$rcfg{target}{$rou}' (eval): $@\n";
+              $data = undef;
+	} elsif ( not defined $data ) {
+              warn "ERROR: Target[$rou][$mode] '$$rcfg{target}{$rou}' did not eval into defined data\n";
+              $data = undef;  
+        } elsif ($data && $data !~ /^[-+]?\d+(\.\d*)?$/){ 
+              warn "ERROR: Target[$rou][$mode] '$$rcfg{target}{$rou}' evaluated to '$data' instead of a number\n";
+              $data = undef;
+        } elsif ($data && length($data) > 190) {
+              warn "ERROR: $mode value: '$data' is way to long ...\n";
+              $data = undef;                
+	} else {
+              $data =~ s/^\+//;
+	}
+        $last{$mode} = $data;
+    }
+
+    if (defined $$rcfg{target}{$rou}  and $$rcfg{target}{$rou} =~ /^\s*\$\$target\[\d+\]{\$mode}\s*$/ ) {
+        $uptime = eval("my \$mode='_UPTIME_';$$rcfg{target}{$rou}");
+        $name = eval("my \$mode='_NAME_';$$rcfg{target}{$rou}");
+	die "ERROR: Target[$rou] eval warning: $@\n" if $@;
+        $time = eval("my \$mode='_TIME_';$$rcfg{target}{$rou}");
+	die "ERROR: Target[$rou] eval warning: $@\n" if $@;
+    }
+
+    #make sure we have a time set ...
+    $time = time unless defined $time and $time =~ /^\d+$/;
+
+    if (defined $$rcfg{routeruptime}{$rou}) {
+        ($uptime,$name) = snmpget($$rcfg{routeruptime}{$rou}, $$cfg{snmpoptions},
+				  'sysUptime',
+                                   'sysName'); #" <- this makes emacs parsing happy
+        
+    }
+  
+    return ($last{_IN_}, $last{_OUT_}, $uptime, $name, $time);
+}
+
+sub rateupcheck ($) {
+    my $router = shift;
+    if ($?) {
+        my $value = $?;
+        my $signal =  $? & 127; #ignore the most significant bit 
+                                #as it is always one when it is a returning
+                                #child says dave ...
+        if (($MRTG_lib::OS != 'UNIX') || ($signal != 127)) {
+            my $exitval = $? >> 8;
+            warn "WARNING: rateup died from Signal $signal\n".
+              " with Exit Value $exitval when doing router '$router'\n".
+                " Signal was $signal, Returncode was $exitval\n"
+        }
+    }
+}
+
+sub writegraphics {
+    my($router, $cfg, $rcfg, $inlast, $outlast, $time,$LOC) = @_;
+  
+    my($absmax,$maxv, $maxvi, $maxvo, $i, $period, $res);
+    my(@exec, @mxvls, @metas);
+    my(%maxin, %maxout, %maxpercent, %avin, %avout, %avmxin, %avmxout,  %avpercent, %cuin, %cuout, %cupercent);
+
+    @metas = ();
+    $maxvi = $$rcfg{'maxbytes1'}{$router};
+    $maxvo = $$rcfg{'maxbytes2'}{$router};
+    if ($maxvi > $maxvo) {
+        $maxv = $maxvi;
+    } else {
+        $maxv = $maxvo;
+    }
+    $absmax = $$rcfg{'absmax'}{$router};
+    $absmax = $maxv unless defined $absmax;
+    if ($absmax < $maxv) {
+        die "ERROR: AbsMax: $absmax is smaller than MaxBytes: $maxv\n";
+    }
+
+
+    # select whether the datasource gives relative or absolte return values.
+    my $up_abs="u";
+    $up_abs='a' if defined $$rcfg{'options'}{'absolute'}{$router};
+    $up_abs='g' if defined $$rcfg{'options'}{'gauge'}{$router};
+    $up_abs='h' if defined $$rcfg{'options'}{'perhour'}{$router};
+    $up_abs='m' if defined $$rcfg{'options'}{'perminute'}{$router};
+
+    if ($$cfg{logformat} eq 'rrdtool') {
+        debug('base',"start RRDtool section");
+        # make sure we got some sane default here
+        my %dstype = qw/u COUNTER a ABSOLUTE g GAUGE h COUNTER m COUNTER/;
+        $up_abs = $dstype{$up_abs};
+        # update the database.
+        my $rrd = "$$cfg{'logdir'}$$rcfg{'directory'}{$router}$router.rrd";
+        # set minimum/maximum values. use 'U' if we cannot get good values
+        # the lower bound is hardcoded to 0
+        my $absi = $maxvi;
+        my $abso = $maxvo;
+        $absi = $abso = $$rcfg{'absmax'}{$router}
+            if defined $$rcfg{'absmax'}{$router};
+        debug('base',"maxi:$absi, maxo:$abso");
+        $absi = 'U' if $absi == 0;
+        $abso = 'U' if $abso == 0;
+        # maybe we can convert an .log file to the new rrd format
+        if (-e "$$cfg{'logdir'}$$rcfg{'directory'}{$router}$router.log"
+            and not -e "$rrd") {
+             debug('base',"converting $$cfg{'logdir'}$$rcfg{'directory'}{$router}$router.log to RRD format");
+             if(defined $RRDs::VERSION and $RRDs::VERSION < 1.000271){
+                die "ERROR: RRDtool version 1.0.27 or later required to perform log2rrd conversion\n";
+             }
+             log2rrd($router,$cfg,$rcfg);
+        } elsif (! -e $rrd) {
+            #nope it seems we have to create a new one
+            debug('base',"create $rrd");
+            # create the rrd if it doesn't exist
+            # don't fail if interval is not set
+            my $interval = $$cfg{interval} || 5;
+            my $minhb = int($$cfg{interval} * 60)*2;
+            $minhb = 600 if ($minhb <600);
+            my @args = ($rrd, '-b', $time-10, '-s', int($interval * 60),
+                         "DS:ds0:$up_abs:$minhb:0:$absi",
+                         "DS:ds1:$up_abs:$minhb:0:$abso",
+                         "RRA:AVERAGE:0.5:1:600",
+                         "RRA:AVERAGE:0.5:6:700",
+                         "RRA:AVERAGE:0.5:24:775",
+                         "RRA:AVERAGE:0.5:288:797",
+                         "RRA:MAX:0.5:1:600",
+                         "RRA:MAX:0.5:6:700",
+                         "RRA:MAX:0.5:24:775",
+                         "RRA:MAX:0.5:288:797");
+            RRDs::create(@args);
+            my $e = RRDs::error();
+            die "ERROR: Cannot create logfile: $e\n" if $e;
+            debug('log', "Called: RRDs::create(@args)");
+        } else {
+            # update the minimum/maximum according to maxbytes/absmax
+            # and (re)set the data-source-type to reflect cfg changes
+            # cost: 1 read/write cycle, but update will reuse the buffered data
+            my @args = ($rrd, '-a', "ds0:$absi", '-a', "ds1:$abso",
+                       '-d', "ds0:$up_abs", '-d', "ds1:$up_abs");
+            RRDs::tune(@args);
+            my $e = RRDs::error();
+            die "ERROR: Cannot tune logfile: $e\n" if $e;
+            debug('log', "Called: RRDs::tune(@args)");
+        }
+        # update the rrd
+        $inlast = 'U' unless defined $inlast;
+        $outlast = 'U' unless defined $outlast;
+        RRDs::update("$rrd", "$time:$inlast:$outlast");
+        my $e = RRDs::error(); 
+        die "ERROR: Cannot update $rrd with '$time:$inlast:$outlast' $e\n" if ($e);
+        debug('log', "Called: RRDs::update($rrd, '$time:$inlast:$outlast')");
+
+        # get the rrdtool-processed values back from rrdtool
+        # for the threshold checks (we cannot use the fetched data)
+        my $lasttime = RRDs::last($rrd);
+        $e = RRDs::error(); 
+        die "ERROR: Cannot 'last' $rrd: $e\n" if ($e);
+        debug('log', "Called: RRDs::last()");
+        my $fetch = (RRDs::fetch($rrd,'AVERAGE','-s',$lasttime,'-e',$lasttime))[4];
+        $e = RRDs::error(); 
+        die "ERROR: Cannot 'fetch' $rrd: $e\n" if ($e);
+        debug('log', "Called: RRDs::fetch($rrd,'AVERAGE','-s',$lasttime,'-e',$lasttime)");        
+        my $in = $fetch->[0][0] ?  $fetch->[0][0] : "NaN" ;
+        my $out = $fetch->[0][1] ? $fetch->[0][1] : "NaN" ;
+        debug('log', "  got: $in/$out");
+        $cuin{'d'}{$router} = $fetch->[0][0];
+        $cuout{'d'}{$router} = $fetch->[0][1];
+        # the html pages and the graphics are created at "call time" so that's it!
+        # (the returned hashes are empty, it's just to minimize the changes to mrtg)
+        if ($$rcfg{'options'}{'dorelpercent'}{$router}) {  
+            return (\%maxin, \%maxout, \%maxpercent, \%avin, \%avout, \%avpercent, \%cuin, \%cuout, \%cupercent,  \%avmxin, \%avmxout);
+        }
+        return (\%maxin, \%maxout, \%avin, \%avout, \%cuin, \%cuout, \%avmxin, \%avmxout );
+
+    }                 
+    ########## rrdtool users have left here ###############
+
+    ((($MRTG_lib::OS eq 'NT') && (-e "${FindBin::Bin}${MRTG_lib::SL}rateup.exe")) ||
+     (-x "${FindBin::Bin}${MRTG_lib::SL}rateup")) || 
+       die "ERROR: Can't Execute '${FindBin::Bin}${MRTG_lib::SL}rateup'\n";
+
+    # rateup does not know about undef so we make inlast and outlast ready for rateup
+    die "ERROR: inlast is undefined. This should not be possible\n" unless defined $inlast;
+    die "ERROR: outlast is undefined. This should not be possible\n" unless defined $outlast;
+
+    if ($$rcfg{'options'}{'dorelpercent'}{$router}) {
+        @exec = ("${FindBin::Bin}${MRTG_lib::SL}rateup", 
+                 "$$cfg{'logdir'}$$rcfg{'directory'}{$router}","$router",
+                 $time, $$rcfg{'options'}{'unknaszero'}{$router} ? '-z':'-Z',
+                 "$up_abs"."p", $inlast, $outlast, $absmax,
+                 "C", $$rcfg{'rgb1'}{$router},$$rcfg{'rgb2'}{$router},
+                 $$rcfg{'rgb3'}{$router},$$rcfg{'rgb4'}{$router},
+                 $$rcfg{'rgb5'}{$router});
+    } else { 
+        @exec = ("${FindBin::Bin}${MRTG_lib::SL}rateup", 
+                 "$$cfg{'logdir'}$$rcfg{'directory'}{$router}","$router",
+                 $time, $$rcfg{'options'}{'unknaszero'}{$router} ? '-z':'-Z',
+                 "$up_abs", $inlast, $outlast, $absmax,
+                 "c", $$rcfg{'rgb1'}{$router},$$rcfg{'rgb2'}{$router},
+                 $$rcfg{'rgb3'}{$router},$$rcfg{'rgb4'}{$router});
+    }
+
+    # If this list grows anymore would it be more efficient to have an
+    # array to look up the command line option to send to rateup rather
+    # than have a long list to check?
+    push (@exec, '-t') if defined $$rcfg{'options'}{'transparent'}{$router};
+    push (@exec, '-0') if defined $$rcfg{'options'}{'withzeroes'}{$router};
+    push (@exec, '-b') if defined $$rcfg{'options'}{'noborder'}{$router};
+    push (@exec, '-a') if defined $$rcfg{'options'}{'noarrow'}{$router};
+    push (@exec, '-i') if defined $$rcfg{'options'}{'noi'}{$router};
+    push (@exec, '-o') if defined $$rcfg{'options'}{'noo'}{$router};
+
+    my $maxx = $$rcfg{'xsize'}{$router}; 
+    my $maxy = $$rcfg{'ysize'}{$router};
+    my $xscale = $$rcfg{'xscale'}{$router}; 
+    my $yscale = $$rcfg{'yscale'}{$router}; 
+    my $growright = 0+($$rcfg{'options'}{'growright'}{$router} or 0);
+    my $bits = 0+($$rcfg{'options'}{'bits'}{$router} or 0);
+    my $integer = 0+($$rcfg{'options'}{'integer'}{$router} or 0);
+    my $step = 5*60; 
+    my $rop;
+    my $ytics = $$rcfg{'ytics'}{$router};
+    my $yticsf= $$rcfg{'yticsfactor'}{$router};
+
+    if (not defined $$rcfg{'ylegend'}{$router}){
+	if ($bits){
+	    $$rcfg{'ylegend'}{$router} = &$LOC("Bits per minute")
+		if defined $$rcfg{'options'}{'perminute'}{$router};
+	    $$rcfg{'ylegend'}{$router} = &$LOC("Bits per hour")	    
+		if defined $$rcfg{'options'}{'perhour'}{$router};
+	} else {
+	    $$rcfg{'ylegend'}{$router} = &$LOC("Bytes per minute")
+		if defined $$rcfg{'options'}{'perminute'}{$router};
+	    $$rcfg{'ylegend'}{$router} = &$LOC("Bytes per hour")	    
+		if defined $$rcfg{'options'}{'perhour'}{$router};
+	}
+    }
+	
+    if ($$rcfg{'ylegend'}{$router}) {
+        push (@exec, "l", "[$$rcfg{'ylegend'}{$router}]");
+    }
+    my $sign = ($$rcfg{'unscaled'}{$router} and $$rcfg{'unscaled'}{$router} =~ /d/) ? 1 : -1;
+  
+    if ($$rcfg{'kilo'}{$router}) {
+        push (@exec, "k", $$rcfg{'kilo'}{$router});
+    }
+    if ($$rcfg{'kmg'}{$router}) { 
+        push (@exec, "K", $$rcfg{'kmg'}{$router});
+    }
+    if ($$rcfg{'weekformat'}{$router}) {
+        push (@exec, "W", $$rcfg{'weekformat'}{$router});
+    }
+    if (not defined $$rcfg{'suppress'}{$router} or $$rcfg{'suppress'}{$router} !~ /d/) {
+        # VMS: should work for both now
+        push (@exec, "i", "$$cfg{'imagedir'}$$rcfg{'directory'}{$router}${router}-day.${main::GRAPHFMT}",
+              $sign*$maxvi, $sign*$maxvo, $maxx, $maxy, ,$xscale, $yscale, $growright, $step, $bits, $ytics, $yticsf);
+        @mxvls = ("d");
+        push (@metas, "$$cfg{'imagedir'}$$rcfg{'directory'}{$router}${router}-day.${main::GRAPHFMT}",
+              $$cfg{'interval'} ? $$cfg{'interval'} : 5);
+    }
+    my $SAGE = (time - $main::STARTTIME) / 3600 / 24; # current script age 
+
+    if (((not -e "$$cfg{'imagedir'}$$rcfg{'directory'}{$router}${router}-week.${main::GRAPHFMT}") ||
+         ((-M "$$cfg{'imagedir'}$$rcfg{'directory'}{$router}${router}-week.${main::GRAPHFMT}") + $SAGE  >= 0.5/24)) &&
+        (not defined $$rcfg{'suppress'}{$router}  or $$rcfg{'suppress'}{$router} !~/w/)
+       ) {
+        $step=30*60;
+        $sign = (defined $$rcfg{'unscaled'}{$router}  and $$rcfg{'unscaled'}{$router} =~ /w/) ? 1 : -1;
+        push (@mxvls , "w");
+        $rop =(defined $$rcfg{'withpeak'}{$router}  and $$rcfg{'withpeak'}{$router} =~ /w/) ? "p" : "i"; 
+        push (@exec, $rop ,"$$cfg{'imagedir'}$$rcfg{'directory'}{$router}${router}-week.${main::GRAPHFMT}",
+              $sign*$maxvi, $sign*$maxvo,  $maxx, $maxy, $xscale, $yscale, $growright, $step, $bits, $ytics, $yticsf);
+        push (@metas, "$$cfg{'imagedir'}$$rcfg{'directory'}{$router}${router}-week.${main::GRAPHFMT}", 30);
+    }
+  
+
+    if (((not -e "$$cfg{'imagedir'}$$rcfg{'directory'}{$router}${router}-month.${main::GRAPHFMT}") ||
+         (( -M "$$cfg{'imagedir'}$$rcfg{'directory'}{$router}${router}-month.${main::GRAPHFMT}") + $SAGE >= 2/24))  &&
+        (not defined  $$rcfg{'suppress'}{$router} or $$rcfg{'suppress'}{$router} !~ /m/)) {
+        $step=2*60*60;
+        $sign = (defined $$rcfg{'unscaled'}{$router} and $$rcfg{'unscaled'}{$router} =~ /m/) ? 1 : -1;
+        push (@mxvls , "m");
+        $rop =(defined $$rcfg{'withpeak'}{$router} and $$rcfg{'withpeak'}{$router} =~ /m/) ? "p" : "i"; 
+        push (@exec, $rop ,"$$cfg{'imagedir'}$$rcfg{'directory'}{$router}${router}-month.${main::GRAPHFMT}",
+              $sign*$maxvi, $sign*$maxvo, $maxx, $maxy, $xscale, $yscale, $growright, $step, $bits, $ytics, $yticsf);
+        push (@metas, "$$cfg{'imagedir'}$$rcfg{'directory'}{$router}${router}-month.${main::GRAPHFMT}", 120);
+    }
+  
+    if (((not -e "$$cfg{'imagedir'}$$rcfg{'directory'}{$router}${router}-year.${main::GRAPHFMT}") ||
+         (( -M "$$cfg{'imagedir'}$$rcfg{'directory'}{$router}${router}-year.${main::GRAPHFMT}") + $SAGE  >= 1)) &&
+        (not defined $$rcfg{'suppress'}{$router} or $$rcfg{'suppress'}{$router} !~/y/)) {
+        $step=24*60*60;
+        $sign = (defined $$rcfg{'unscaled'}{$router}  and $$rcfg{'unscaled'}{$router} =~ /y/) ? 1 : -1;
+        push (@mxvls , "y");
+        $rop =(defined $$rcfg{'withpeak'}{$router}  and $$rcfg{'withpeak'}{$router} =~ /y/) ? "p" : "i"; 
+        push (@exec, $rop, "$$cfg{'imagedir'}$$rcfg{'directory'}{$router}${router}-year.${main::GRAPHFMT}",
+              $sign*$maxvi, $sign*$maxvo, $maxx, $maxy, $xscale, $yscale, $growright, $step, $bits, $ytics, $yticsf) ;
+        push (@metas, "$$cfg{'imagedir'}$$rcfg{'directory'}{$router}${router}-year.${main::GRAPHFMT}", 1440);
+    }
+
+    # VMS: this might work now ... or does VMS NOT know about pipes?
+    # NT doesn't have fork() so an open(xxx,"-|") won't work
+
+    if ($MRTG_lib::OS eq 'VMS' || $MRTG_lib::OS eq 'NT'){
+        map { s/"/\\"/; $_ = '"'.$_.'"' if /\s/ } @exec;
+        open (RATEUP, join (" ", @exec)."|") or
+           do {
+                warn "WARNING: rateup (".(join " ", @exec ).
+                          ") did not work: $!\n";
+                return;
+           }
+    } else {
+        $! = undef;
+        open (RATEUP,"-|") ||  
+                do { exec @exec or
+                     warn "WARNING: rateup (".(join " ", @exec ).
+                          ") did not work: $!\n";
+                };
+
+    }
+    
+    debug('log', "Called @exec");
+
+    if (open (HTML,"<$$cfg{'htmldir'}$$rcfg{'directory'}{$router}$router.$$rcfg{'extension'}{$router}")) {
+        for ($i=0 ; $i<200 ; $i++) {
+            last if eof(HTML);
+            $_= <HTML>;
+            if (/<!-- maxin ([dwmy]) (\d*)/) {
+                $maxin{$1}{$router}=$2 || 0;
+            }
+
+            if (/<!-- maxout ([dwmy]) (\d*)/) {
+                $maxout{$1}{$router}=$2 || 0;
+            }
+
+            if (/<!-- maxpercent ([dwmy]) (\d*)/) {
+                $maxpercent{$1}{$router}=$2 || 0;
+            }
+
+            if (/<!-- avin ([dwmy]) (\d*)/) {
+                $avin{$1}{$router}=$2 || 0;
+            }
+
+            if (/<!-- avout ([dwmy]) (\d*)/) {
+                $avout{$1}{$router}=$2 || 0;
+            }
+
+            if (/<!-- avpercent ([dwmy]) (\d*)/) {
+                $avpercent{$1}{$router}=$2 || 0;
+            }
+
+            if (/<!-- cuin ([dwmy]) (\d*)/) {
+                $cuin{$1}{$router}=$2 || 0;
+            }
+
+            if (/<!-- cuout ([dwmy]) (\d+)/) {
+                $cuout{$1}{$router}=$2 || 0;
+            }
+     
+            if (/<!-- cupercent ([dwmy]) (\d+)/) {
+                $cupercent{$1}{$router}=$2 || 0;
+            }
+            if (/<!-- avmxin ([dwmy]) (\d*)/) {
+                $avmxin{$1}{$router}=$2 || 0;
+            }
+
+            if (/<!-- avmxout ([dwmy]) (\d*)/) {
+                $avmxout{$1}{$router}=$2 || 0;
+            }
+        }
+        close HTML;
+    }
+  
+    foreach $period (@mxvls) {
+        $res = <RATEUP>; 
+        if (not defined $res and eof(RATEUP)){
+            warn "ERROR: Skipping webupdates because rateup did not return anything sensible\n";
+            close RATEUP;
+            rateupcheck $router;
+            return;
+        };
+        chomp $res;
+        $maxin{$period}{$router}=sprintf("%.0f",$res || 0);
+        chomp($res = <RATEUP>); 
+        $maxout{$period}{$router}=sprintf("%.0f",$res || 0);
+
+        if ($$rcfg{'options'}{'dorelpercent'}{$router}) {
+            chomp($res = <RATEUP>); 
+            $maxpercent{$period}{$router}=sprintf("%.0f",$res || 0);
+        }
+
+        chomp($res = <RATEUP>); 
+        $avin{$period}{$router}=sprintf("%.0f",$res || 0);
+        chomp($res = <RATEUP>); 
+        $avout{$period}{$router}=sprintf("%.0f",$res || 0);
+
+        if ($$rcfg{'options'}{'dorelpercent'}{$router}) {
+            chomp($res = <RATEUP>); 
+            $avpercent{$period}{$router}=sprintf("%.0f",$res || 0);
+        }
+
+        chomp($res = <RATEUP>); 
+        $cuin{$period}{$router}=sprintf("%.0f",$res || 0);
+        chomp($res = <RATEUP>); 
+        $cuout{$period}{$router}=sprintf("%.0f",$res || 0);
+
+        if ($$rcfg{'options'}{'dorelpercent'}{$router}) {
+            chomp($res = <RATEUP>); 
+            $cupercent{$period}{$router}=sprintf("%.0f",$res || 0);
+        }
+
+        chomp($res = <RATEUP>);
+        debug('avmx',"avmxin  $res");        
+        $avmxin{$period}{$router}=sprintf("%.0f",$res || 0);     
+        chomp($res = <RATEUP>);
+        debug('avmx',"avmxout $res");        
+        $avmxout{$period}{$router}=sprintf("%.0f",$res || 0);     
+        
+    }
+    close(RATEUP);
+    rateupcheck $router;
+    if ( defined $$cfg{'writeexpires'}  and $$cfg{'writeexpires'} =~ /^y/i ) {
+        my($fil,$exp);
+        while ( $fil = shift(@metas) ) {
+            $exp = &expistr(shift(@metas));
+            open(META, ">$fil.meta");
+            print META "Expires: $exp\n";
+            close(META);
+        }
+    }
+
+    if ($$rcfg{'options'}{'dorelpercent'}{$router}) {
+        return (\%maxin, \%maxout, \%maxpercent, \%avin, \%avout, \%avpercent, \%cuin, \%cuout, \%cupercent, \%avmxin, \%avmxout);
+    } else {
+        return (\%maxin, \%maxout, \%avin, \%avout, \%cuin, \%cuout, \%avmxin, \%avmxout);
+    }
+}
+
+#format 10*$kilo to 10 kB/s
+sub fmi {
+    my($number, $maxbytes, $router, @foo) = @_;
+    return "?????" unless defined $number;
+    my($rcfg,$LOC)=@foo;
+    my @short;
+    my $mul = 1;
+    if ($$rcfg{'kmg'}{$router}) {
+        my($i);
+        if ($$rcfg{'options'}{'bits'}{$router}) {
+            @short = ();
+            foreach $i (split(/,/, $$rcfg{'kmg'}{$router})) {
+                if ($$rcfg{'options'}{'perminute'}{$router}) {
+                    $short[$#short+1] = "$i".&$LOC("b/min");
+                } elsif ($$rcfg{'options'}{'perhour'}{$router}) {
+                    $short[$#short+1] = "$i".&$LOC("b/h");
+                } else {
+                    $short[$#short+1] = "$i".&$LOC("b/s");
+                }
+            }
+            $mul= 8;
+        } else {
+            @short = ();
+            foreach $i (split(/,/, $$rcfg{'kmg'}{$router})) {
+                if ($$rcfg{'options'}{'perminute'}{$router}) {
+                    $short[$#short+1] = "$i".&$LOC ("B/min");
+                } elsif ($$rcfg{'options'}{'perhour'}{$router}) {
+                    $short[$#short+1] = "$i".&$LOC("B/h");
+                } else {
+                    $short[$#short+1] = "$i".&$LOC("B/s");
+                }
+            }
+            $mul= 1;
+        }
+        if (defined $$rcfg{'shortlegend'}{$router}) {
+            @short = ();
+            foreach $i (split(/,/, $$rcfg{'kmg'}{$router})) {
+                $short[$#short+1] = "$i"."$$rcfg{'shortlegend'}{$router}";
+            }
+        }
+    } else {
+        if (defined $$rcfg{'options'}{'bits'}{$router}) {
+            if ($$rcfg{'options'}{'perminute'}{$router}) {
+                @short = (&$LOC("b/min"),&$LOC("kb/min"),&$LOC("Mb/min"),&$LOC("Gb/min"));
+            } elsif (defined $$rcfg{'options'}{'perhour'}{$router}) {
+                @short = (&$LOC("b/h"),&$LOC("kb/h"),&$LOC("Mb/h"),&$LOC("Gb/h"));
+            } else {
+                @short = (&$LOC("b/s"),&$LOC("kb/s"),&$LOC("Mb/s"),&$LOC("Gb/s"));
+            }
+            $mul= 8;
+        } else {
+            if ($$rcfg{'options'}{'perminute'}{$router}) {
+                @short = (&$LOC("B/min"),&$LOC("kB/min"),&$LOC("MB/min"),&$LOC("GB/min"));
+            } elsif ($$rcfg{'options'}{'perhour'}{$router}) {
+                @short = (&$LOC("B/h"),&$LOC("kB/h"),&$LOC("MB/h"),&$LOC("GB/h"));
+            } else {
+                @short = (&$LOC("B/s"),&$LOC("kB/s"),&$LOC("MB/s"),&$LOC("GB/s"));
+            }
+            $mul= 1;
+        }
+        if ($$rcfg{'shortlegend'}{$router}) {
+            @short = ("$$rcfg{'shortlegend'}{$router}",
+                      "k$$rcfg{'shortlegend'}{$router}",
+                      "M$$rcfg{'shortlegend'}{$router}",
+                      "G$$rcfg{'shortlegend'}{$router}");
+        }
+    }
+    my $digits=length("".$number*$mul);
+    my $divm=0;
+    #
+    #  while ($digits-$divm*3 > 4) { $divm++; }
+    #  my $divnum = $number*$mul/10**($divm*3);
+    my $divnum=$number*$mul*$$rcfg{'factor'}{$router};
+    #  while ($divnum/$$rcfg{'kilo'}{$router} >= 10*$$rcfg{'kilo'}{$router} && $divnum<$#short) {
+    while ($divnum >= 10*$$rcfg{'kilo'}{$router} && $divm<$#short) {
+        $divm++;
+        $divnum /= $$rcfg{'kilo'}{$router};
+    }
+    my $perc;
+    if ($number == 0 || $maxbytes == 0) {
+        $perc = 0;
+    } else {
+        $perc = 100/$maxbytes*$number;
+    }
+    if (defined $$rcfg{'options'}{'integer'}{$router}) {
+        if ($$rcfg{'options'}{'nopercent'}{$router}) {
+            return sprintf("%.0f %s",$divnum,$short[$divm]);
+        } else {
+            return sprintf("%.0f %s (%2.1f%%)",$divnum,$short[$divm],$perc);
+        }
+    } else {
+        if (defined $$rcfg{'options'}{'nopercent'}{$router}) {
+            return sprintf("%.1f %s",$divnum,$short[$divm]); # Added: FvW
+        } else {
+            return sprintf("%.1f %s (%2.1f%%)",$divnum,$short[$divm],$perc);
+        }
+        return sprintf("%.1f %s (%2.1f%%)",$divnum,$short[$divm],$perc);
+    }
+}
+
+
+sub writehtml {
+    my($router, $cfg, $rcfg, $maxin, $maxout, $maxpercent,
+       $avin, $avout, $avmxin, $avmxout, $avpercent, 
+       $cuin, $cuout, $cupercent, $uptime, $name, $LOC) = @_;
+  
+    my($VERSION,$Today,$peri);
+  
+    my($persec);
+
+    if (defined $$rcfg{'options'}{'bits'}{$router}) {
+        $persec = &$LOC("Bits");
+    } else {
+        $persec = &$LOC("Bytes");
+    }
+
+    #  Work out the Colour legend
+    my($leg1, $leg2, $leg3, $leg4, $leg5);
+    if ($$rcfg{'legend1'}{$router}) {
+        $leg1 = $$rcfg{'legend1'}{$router};
+    } else {
+        if ($$rcfg{'options'}{'perminute'}{$router}) {
+            $leg1=&$LOC("Incoming Traffic in $persec per Minute");
+        } elsif ($$rcfg{'options'}{'perhour'}{$router}) {
+            $leg1=&$LOC("Incoming Traffic in $persec per Hour");
+        } else {
+            $leg1=&$LOC("Incoming Traffic in $persec per Second");
+        }
+    }
+    if ($$rcfg{'legend2'}{$router}) {
+        $leg2 = $$rcfg{'legend2'}{$router};
+    } else {
+        if ($$rcfg{'options'}{'perminute'}{$router}) {
+            $leg2=&$LOC("Outgoing Traffic in $persec per Minute");
+        } elsif ($$rcfg{'options'}{'perhour'}{$router}) {
+            $leg2=&$LOC("Outgoing Traffic in $persec per Hour");
+        } else {
+            $leg2=&$LOC("Outgoing Traffic in $persec per Second");
+        }	
+    }
+    if ($$rcfg{'legend3'}{$router}) {
+        $leg3 = $$rcfg{'legend3'}{$router};
+    } else {
+        $leg3 = &$LOC("Maximal 5 Minute Incoming Traffic");
+    }
+    if ($$rcfg{'legend4'}{$router}) {
+        $leg4 = $$rcfg{'legend4'}{$router};
+    } else {
+        $leg4 = &$LOC("Maximal 5 Minute Outgoing Traffic");
+    }
+    if ($$rcfg{'legend5'}{$router}) {
+        $leg5 = $$rcfg{'legend5'}{$router};
+    } else {
+        $leg5 = "(($leg1)/($leg2))*100";
+    }
+    # Translate the color names
+    $$rcfg{'col1'}{$router}=&$LOC($$rcfg{'col1'}{$router});
+    $$rcfg{'col2'}{$router}=&$LOC($$rcfg{'col2'}{$router});
+    $$rcfg{'col3'}{$router}=&$LOC($$rcfg{'col3'}{$router});
+    $$rcfg{'col4'}{$router}=&$LOC($$rcfg{'col4'}{$router});
+    $$rcfg{'col5'}{$router}=&$LOC($$rcfg{'col5'}{$router});
+
+    my $dirrel = "../" x ($$rcfg{'directory_web'}{$router} =~ tr|/|/|);
+
+    $Today=&$LOC(datestr(time));
+    $VERSION = "2.9.18";
+    open (HTML,">$$cfg{'htmldir'}$$rcfg{'directory'}{$router}$router.$$rcfg{'extension'}{$router}") || 
+      do { warn ("WARNING: Writing $router.$$rcfg{'extension'}{$router}: $!");
+      	   next };
+    print HTML "<!-- Begin Head -->\n";
+    print HTML '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">' . "\n";
+    print HTML "<HTML>\n";
+    my $interval =$$cfg{'interval'} ? $$cfg{'interval'} : 5;
+    my $expiration = &expistr($interval);
+    my $refresh =  $$cfg{'refresh'} ? $$cfg{'refresh'} : 300;
+    my $namestring = &$LOC("the device");  
+    print HTML <<"TEXT";    
+<HEAD>
+<TITLE>$$rcfg{'title'}{$router}</TITLE>
+<META HTTP-EQUIV="Refresh" CONTENT="$refresh">
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+<META HTTP-EQUIV="Cache-Control" content="no-cache">
+<META HTTP-EQUIV="Expires" CONTENT="$expiration">
+<META HTTP-EQUIV="Generator" CONTENT="MRTG $VERSION">
+<META HTTP-EQUIV="Date" CONTENT="$expiration">
+
+TEXT
+
+    print HTML 
+      '<META HTTP-EQUIV="Content-Type" CONTENT="text/html; '.&$LOC('charset=iso-8859-1')."\">\n";
+
+    foreach $peri (qw(d w m y)) {
+        print HTML <<"TEXT";
+<!-- maxin $peri $$maxin{$peri}{$router} -->
+<!-- maxout $peri $$maxout{$peri}{$router} -->
+TEXT
+        if ($$rcfg{'options'}{'dorelpercent'}{$router} and defined $$maxpercent{$peri}{$router}) {
+            print HTML <<"TEXT";
+<!-- maxpercent $peri $$maxpercent{$peri}{$router} -->
+TEXT
+        }
+        print HTML <<"TEXT";
+<!-- avin $peri $$avin{$peri}{$router} -->
+<!-- avout $peri $$avout{$peri}{$router} -->
+TEXT
+        if ($$rcfg{'options'}{'dorelpercent'}{$router}) {
+            print HTML <<"TEXT";
+<!-- avpercent $peri $$avpercent{$peri}{$router} -->
+TEXT
+        }
+        
+        print HTML "<!-- cuin $peri $$cuin{$peri}{$router} -->"
+           if defined $$cuin{$peri}{$router};
+        print HTML "<!-- cuout $peri $$cuout{$peri}{$router} -->"
+           if defined $$cuout{$peri}{$router};
+
+        if ($$rcfg{'options'}{'dorelpercent'}{$router}) {
+            print HTML <<"TEXT";
+<!-- cupercent $peri $$cupercent{$peri}{$router} -->
+TEXT
+        }
+        print HTML <<"TEXT";
+<!-- avmxin $peri $$avmxin{$peri}{$router} -->
+<!-- avmxout $peri $$avmxout{$peri}{$router} -->
+TEXT
+
+    }
+    if ($name ne '') {
+        $namestring = "<B>'$name'</B>";
+    }
+    ;
+    # allow for \n in addhead
+    defined $$rcfg{addhead}{$router} or $$rcfg{addhead}{$router} = "";
+    defined $$rcfg{backgc}{$router} or $$rcfg{backgc}{$router} = "";
+    defined $$rcfg{pagetop}{$router} or $$rcfg{pagetop}{$router} = "";
+    if (defined $$rcfg{bodytag}{$router}) {
+        if (not defined $$rcfg{bodytag}{$router} or $$rcfg{bodytag}{$router} !~ /<body/i) {
+                $$rcfg{bodytag}{$router} = "<BODY $$rcfg{bodytag}{$router}>";
+        }
+    } else {
+        $$rcfg{bodytag}{$router} = "<BODY $$rcfg{backgc}{$router}>";
+    }
+
+    $$rcfg{addhead}{$router} =~ s/\\n/\n/g if defined $$rcfg{addhead}{$router};
+
+    print HTML <<"TEXT";    
+$$rcfg{'addhead'}{$router}
+</HEAD>
+$$rcfg{bodytag}{$router}
+$$rcfg{'pagetop'}{$router}<BR>
+<HR>
+TEXT
+
+    if (defined $$rcfg{'timezone'}{$router}){    
+    print HTML     
+      &$LOC("The statistics were last updated <B>$Today $$rcfg{'timezone'}{$router}</B>");
+    } else {
+    print HTML     
+      &$LOC("The statistics were last updated <B>$Today</B>");
+    }
+    if ($uptime && ! $$rcfg{options}{noinfo}{$router}) {
+        print HTML
+          ",<BR>\n".
+        &$LOC("at which time $namestring had been up for <B>$uptime</B>.").
+        "\n<!-- End Head -->";
+    }
+
+    my %sample= ('d' => "`Daily' Graph (".$interval.' Minute',
+                 'w' => "`Weekly' Graph (30 Minute",
+                 'm' => "`Monthly' Graph (2 Hour",
+                 'y' => "`Yearly' Graph (1 Day");
+  
+    my %full = ('d' => 'day',
+                'w' => 'week',
+                'm' => 'month',
+                'y' => 'year');
+  
+    $$rcfg{'rgb1'}{$router} = "" unless defined $$rcfg{'rgb1'}{$router};
+    $$rcfg{'rgb2'}{$router} = "" unless defined $$rcfg{'rgb2'}{$router};
+    $$rcfg{'rgb3'}{$router} = "" unless defined $$rcfg{'rgb3'}{$router};
+    $$rcfg{'rgb4'}{$router} = "" unless defined $$rcfg{'rgb4'}{$router};
+    $$rcfg{'rgb5'}{$router} = "" unless defined $$rcfg{'rgb5'}{$router};
+    $$rcfg{'rgb6'}{$router} = "" unless defined $$rcfg{'rgb6'}{$router};
+
+    my $InCo;
+    if (!(defined $$rcfg{'options'}{'noi'}{$router})) {
+    if (exists $$rcfg{'legendi'}{$router}) {
+        if ($$rcfg{'legendi'}{$router} ne "") {
+            $InCo="<FONT COLOR=\"$$rcfg{'rgb1'}{$router}\">".
+              "$$rcfg{'legendi'}{$router}</FONT>";
+        }
+    } else {
+        $InCo="<FONT COLOR=\"$$rcfg{'rgb1'}{$router}\">".
+          &$LOC("&nbsp;In:</FONT>");
+    }
+    }
+    
+    my $OutCo;
+    if (!(defined $$rcfg{'options'}{'noo'}{$router})) {
+    if (exists $$rcfg{'legendo'}{$router}) {
+        if ($$rcfg{'legendo'}{$router} ne "") {
+            $OutCo="<FONT COLOR=\"$$rcfg{'rgb2'}{$router}\">".
+              "$$rcfg{'legendo'}{$router}</FONT>";
+        }
+    } else {
+        $OutCo="<FONT COLOR=\"$$rcfg{'rgb2'}{$router}\">".
+          &$LOC("&nbsp;Out:</FONT>");
+    }
+    }
+    my $PercentCo;
+    if (defined $$rcfg{'legend5'}{$router}) {
+        if ($$rcfg{'legend5'}{$router} ne "") {
+            $PercentCo="<FONT COLOR=\"$$rcfg{'rgb5'}{$router}\">".
+              "$$rcfg{'legend5'}{$router}</FONT>";
+        }
+    } else {
+        $PercentCo="<FONT COLOR=\"$$rcfg{'rgb5'}{$router}\">".
+          &$LOC("&nbsp;Percentage</FONT>");
+    }
+  
+    foreach $peri (qw(d w m y)) {
+        next if defined $$rcfg{'suppress'}{$router} and $$rcfg{'suppress'}{$router} =~/$peri/;
+        my $gifw;
+        if ($$rcfg{'options'}{'dorelpercent'}{$router}) {
+            $gifw=sprintf("%.0f",($$rcfg{'xsize'}{$router}*$$rcfg{'xscale'}{$router}+
+                                  +100+30) *$$rcfg{'xzoom'}{$router});
+        } else {
+            $gifw=sprintf("%.0f",($$rcfg{'xsize'}{$router}*$$rcfg{'xscale'}{$router}
+                                  +100) *$$rcfg{'xzoom'}{$router});
+        }
+        my $gifh=sprintf("%.0f",($$rcfg{'ysize'}{$router}*$$rcfg{'yscale'}{$router}+35)
+                         *$$rcfg{'yzoom'}{$router});
+                 
+        # take the image directory away from the html directory to give us relative links
+
+
+        print HTML "
+<!-- Begin $sample{$peri} -->
+<HR>
+".&$LOC("<B>$sample{$peri}").&$LOC(" Average)</B><BR>")."
+<IMG VSPACE=10 WIDTH=$gifw HEIGHT=$gifh ALIGN=TOP 
+     SRC=\"$dirrel$$cfg{imagehtml}$$rcfg{directory_web}{$router}$router-$full{$peri}.${main::GRAPHFMT}\" ALT=\"$full{$peri}\">
+ <TABLE CELLPADDING=0 CELLSPACING=0>
+";
+        my(@foo)=($rcfg,$LOC);
+        print HTML "<TR>
+  ".&$LOC("<TD ALIGN=right><SMALL>Max $InCo</SMALL></TD>")."
+  <TD ALIGN=right><SMALL>".&fmi($$maxin{$peri}{$router}, $$rcfg{'maxbytes1'}{$router}, $router, @foo)."
+   </SMALL></TD>
+  <TD WIDTH=5></TD>
+  ".&$LOC("<TD ALIGN=right><SMALL>Average $InCo</SMALL></TD>")."
+  <TD ALIGN=right><SMALL>".&fmi($$avin{$peri}{$router}, $$rcfg{'maxbytes1'}{$router}, $router, @foo)."
+  </SMALL></TD>
+  <TD WIDTH=5></TD>
+  ".&$LOC("<TD ALIGN=right><SMALL>Current $InCo</SMALL></TD>")."
+  <TD ALIGN=right><SMALL>".&fmi($$cuin{$peri}{$router}, $$rcfg{'maxbytes1'}{$router}, $router, @foo)."
+  </SMALL></TD>
+ </TR>
+" if $InCo;
+        print HTML "
+ <TR>
+  ".&$LOC("<TD ALIGN=right><SMALL>Max $OutCo</SMALL></TD>")."
+  <TD ALIGN=right><SMALL>".&fmi($$maxout{$peri}{$router}, $$rcfg{'maxbytes2'}{$router}, $router, @foo)."
+  </SMALL></TD>
+  <TD WIDTH=5></TD>
+  ".&$LOC("<TD ALIGN=right><SMALL>Average $OutCo</SMALL></TD>")."
+  <TD ALIGN=right><SMALL>".&fmi($$avout{$peri}{$router}, $$rcfg{'maxbytes2'}{$router}, $router, @foo)."
+  </SMALL></TD>
+  <TD WIDTH=5></TD>
+  ".&$LOC("<TD ALIGN=right><SMALL>Current $OutCo</SMALL></TD>")."
+  <TD ALIGN=right><SMALL>".&fmi($$cuout{$peri}{$router}, $$rcfg{'maxbytes2'}{$router}, $router, @foo)."
+ </SMALL></TD>
+ </TR> " if $OutCo;
+        print HTML "
+ <TR>
+  ".&$LOC("<TD ALIGN=right><SMALL>Max $PercentCo</SMALL></TD>")."
+  <TD ALIGN=right><SMALL>".sprintf("%0.1f %%",$$maxpercent{$peri}{$router})."
+  </SMALL></TD>
+  <TD WIDTH=5></TD>
+  ".&$LOC("<TD ALIGN=right><SMALL>Average $PercentCo</SMALL></TD>")."
+  <TD ALIGN=right><SMALL>".sprintf("%0.1f %%",$$avpercent{$peri}{$router})."
+  </SMALL></TD>
+  <TD WIDTH=5></TD>
+  ".&$LOC("<TD ALIGN=right><SMALL>Current $PercentCo</SMALL></TD>")."
+  <TD ALIGN=right><SMALL>".sprintf("%0.1f %%",$$cupercent{$peri}{$router})."
+ </SMALL></TD>
+ </TR> " if ($$rcfg{'options'}{'dorelpercent'}{$router} && $PercentCo);
+
+print HTML '<TD colspan="8"><small>',&$LOC("Average max 5 min values for $sample{$peri} interval):&nbsp;&nbsp;"),
+  "$InCo ", &fmi($$avmxin{$peri}{$router}, $$rcfg{'maxbytes1'}{$router}, $router, @foo), "/",
+  "$OutCo ", &fmi($$avmxout{$peri}{$router}, $$rcfg{'maxbytes2'}{$router}, $router, @foo),
+  "</small></TD></TR>" if ($$rcfg{'options'}{'avgpeak'}{$router} && $InCo && $OutCo);
+  
+print HTML "
+</TABLE>
+<!-- End $sample{$peri} -->\n";
+
+}
+
+    if (!(defined $$rcfg{'options'}{'nolegend'}{$router})) {
+    print HTML "
+<!-- Begin Legend -->
+  <HR><BR>
+  <TABLE WIDTH=500 BORDER=0 CELLPADDING=4 CELLSPACING=0>";
+    print HTML "
+   <TR><TD ALIGN=RIGHT><FONT SIZE=-1 COLOR=\"$$rcfg{'rgb1'}{$router}\">
+      <B>$$rcfg{'col1'}{$router} ###</B></FONT></TD>
+      <TD><FONT SIZE=-1>$leg1</FONT></TD></TR> " if $InCo;
+    print HTML "
+   <TR><TD ALIGN=RIGHT><FONT SIZE=-1 COLOR=\"$$rcfg{'rgb2'}{$router}\">
+      <B>$$rcfg{'col2'}{$router} ###</B></FONT></TD>
+      <TD><FONT SIZE=-1>$leg2</FONT></TD></TR> " if $OutCo;
+  
+    if ($$rcfg{'withpeak'}{$router}) {
+        print HTML "
+   <TR><TD ALIGN=RIGHT><FONT SIZE=-1 COLOR=\"$$rcfg{'rgb3'}{$router}\">
+                        <B>$$rcfg{'col3'}{$router}###</B></FONT></TD>
+       <TD><FONT SIZE=-1>$leg3</FONT></TD></TR> " if $InCo;
+        print HTML "
+   <TR><TD ALIGN=RIGHT><FONT SIZE=-1 COLOR=\"$$rcfg{'rgb4'}{$router}\">
+                        <B>$$rcfg{'col4'}{$router}###</B></FONT></TD>
+       <TD><FONT SIZE=-1>$leg4</FONT></TD></TR> "if $OutCo;
+    }
+
+    if ($$rcfg{'options'}{'dorelpercent'}{$router}) {
+        print HTML "
+   <TR><TD ALIGN=RIGHT><FONT SIZE=-1 COLOR=\"$$rcfg{'rgb5'}{$router}\">
+                        <B>$$rcfg{'col5'}{$router}###</B></FONT></TD>
+       <TD><FONT SIZE=-1>$leg5</FONT></TD></TR> ";
+    }
+
+        print HTML "
+  </TABLE>
+<!-- End Legend -->";
+    }
+
+    if (!(defined $$rcfg{'options'}{'nobanner'}{$router})) {
+    my $gifPath;
+
+    if (defined $$cfg{icondir}) {
+        $gifPath = $$cfg{icondir};
+        #lets make sure there is a trailing path separator
+        $gifPath =~ s|/*$|/|;
+    } else {
+	$gifPath = "$dirrel$$cfg{imagehtml}";
+    }
+
+    print HTML<<TEXT;
+<!-- Begin MRTG Block -->
+<BR><HR><BR>
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0>
+  <TR>
+    <TD WIDTH=63><A
+    HREF="http://people.ee.ethz.ch/~oetiker/webtools/mrtg/"><IMG
+    BORDER=0 SRC="${gifPath}mrtg-l.${main::GRAPHFMT}" WIDTH=63 HEIGHT=25 ALT="MRTG"></A></TD>
+    <TD WIDTH=25><A
+    HREF="http://people.ee.ethz.ch/~oetiker/webtools/mrtg/"><IMG
+    BORDER=0 SRC="${gifPath}mrtg-m.${main::GRAPHFMT}" WIDTH=25 HEIGHT=25 ALT=""></A></TD>
+    <TD WIDTH=388><A
+    HREF="http://people.ee.ethz.ch/~oetiker/webtools/mrtg/"><IMG
+    BORDER=0 SRC="${gifPath}mrtg-r.${main::GRAPHFMT}" WIDTH=388 HEIGHT=25
+    ALT="Multi Router Traffic Grapher"></A></TD>
+  </TR>
+</TABLE>
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0>
+  <TR VALIGN=top>
+  <TD WIDTH=88 ALIGN=RIGHT><FONT FACE="Arial,Helvetica" SIZE=2>
+TEXT
+
+    print HTML &$LOC("version")." $VERSION</FONT></TD>\n";
+    print HTML<<TEXT;
+  <TD WIDTH=388 ALIGN=RIGHT><FONT FACE="Arial,Helvetica" SIZE=2>
+  <A HREF="http://people.ee.ethz.ch/~oetiker/">Tobias Oetiker</A>
+  <A HREF="mailto:oetiker\@ee.ethz.ch">&lt;oetiker\@ee.ethz.ch&gt;</A> 
+TEXT
+    print HTML &$LOC("and");
+    print HTML<<TEXT;
+  &nbsp;
+  <A HREF="http://www.bungi.com/">Dave&nbsp;Rand</A>&nbsp;
+  <A HREF="mailto:dlr\@bungi.com">&lt;dlr\@bungi.com&gt;</A></FONT>
+  </TD>
+</TR>
+</TABLE>
+TEXT
+
+    # We don't need this any more.
+    undef $gifPath;
+
+    if ($MRTG_lib::OS eq 'VMS') {
+        print HTML 
+          "<div> 
+".&$LOC("Ported to OpenVMS Alpha by").".
+  <NOBR><A HREF=\"http://www.cerberus.ch/\">Werner Berger</A>
+  <A href=\"mailto:werner.berger\@cch.cerberus.ch\">
+  &lt;werner.berger\@cch.cerberus.ch&gt;</A></NOBR></div>
+";
+
+    }
+# There is not realy any significant portion of code from Studard left and
+# none of his addresses work anymore. -- Tobi  2001-06-04
+#    if ($MRTG_lib::OS eq 'NT') {
+#        print HTML 
+#          "<div>
+#  ".&$LOC("Ported to WindowsNT by")."
+#  <NOBR><small><A HREF=\"http://www.testlab.orst.edu/\">Stuart Schneider</A>
+#  <A HREF=\"mailto:schneis\@testlab.orst.edu\">
+#  &lt;schneis\@testlab.orst.edu&gt;</A></NOBR></div>
+# ";
+#    }
+    if ( 
+        $$cfg{'language'} && 
+        defined($lang2tran::LOCALE{"\L$$cfg{'language'}\E"}) &&
+        ($LOC != $lang2tran::LOCALE{"default"})) 
+    {
+        if (defined($credits::LOCALE{"\L$$cfg{'language'}\E"})) {
+            print HTML "<div><small>".$credits::LOCALE{"\L$$cfg{'language'}\E"}."</small></div>";
+        } else {
+            print HTML "<div><small>".$credits::LOCALE{'default'}."<small></div>";
+        }
+        ;
+    }
+
+    print HTML "<!-- End MRTG Block -->\n";
+    }
+
+    print HTML $$rcfg{'pagefoot'}{$router} if defined $$rcfg{'pagefoot'}{$router};
+    print HTML <<TEXT;
+</BODY>
+</HTML>
+
+TEXT
+    close HTML;
+
+    if (defined $$cfg{'writeexpires'}  and $$cfg{'writeexpires'} =~ /^y/i) {
+        open(HTMLG, ">$$cfg{'htmldir'}$$rcfg{'directory'}{$router}$router.".
+	     "$$rcfg{'extension'}{$router}.meta") ||
+	       do {
+		   warn "WARNING: Writing $$cfg{'htmldir'}$$rcfg{'directory'}{$router}$router.".
+		     "$$rcfg{'extension'}{$router}.meta: $!\n";
+		   next
+	       };
+
+        print HTMLG "Expires: $expiration\n";
+        close(HTMLG);
+    }
+}
+
+
+sub printusage {
+    print <<USAGEDESC;
+Usage: mrtg <config-file>
+
+mrtg-2.9.18 is the Multi Router Traffic Grapher.
+
+If you want to know more about this tool, you might want
+to read the docs. They came together with mrtg! 
+
+Home: http://people.ee.ethz.ch/~oetiker/webtools/mrtg/
+
+USAGEDESC
+    exit(1);
+}
+
+
+sub lockit {
+    my ($lockfile,$templock) = @_;
+    if ($MRTG_lib::OS eq 'VMS' || $MRTG_lib::OS eq 'NT') {
+        # too sad NT and VMS can't do links we'll do the diletants lock
+        if (-e $lockfile && not unlink $lockfile) {
+            my($lockage) = time()-(stat($lockfile))[9];
+            die "ERROR: I guess another mrtg is running. A lockfile ($lockfile)\n".
+                 "       aged $lockage seconds is hanging around and I can't remove\n".
+                 "       it because another process is still using it.";
+        }
+      
+        open (LOCK, ">$lockfile") or 
+          die "ERROR: Creating lockfile $lockfile: $!\n";
+        print LOCK "$$\n";
+        close LOCK;
+        open (LOCK, "<$lockfile") or 
+          die "ERROR: Reading lockfile $lockfile for owner check: $!\n";
+        my($read)=<LOCK>;
+        chomp($read);
+        die "ERROR: Someone else just got the lockfile $lockfile\n" 
+          unless  $$ == $read;
+    } else {
+        # now, lets do it the UNIX way ... Daves work ...
+        open(LOCK,">$templock") || die "ERROR: Creating templock $templock: $!";
+        $main::Cleanfile = $templock;
+        if (!link($templock,$lockfile)) { # Lock file exists - deal with it.
+            $main::Cleanfile2 = $lockfile;
+            my($nlink,$lockage) = (stat($lockfile))[3,9]; 
+            $lockage = time() - $lockage;
+            if ($nlink < 2 || $lockage > 30*60) { #lockfile is alone and old
+                unlink($lockfile) 
+                  || do{ unlink $templock; 
+                         die "ERROR: Can't unlink stale lockfile ($lockfile). Permissions?\n"};
+                link($templock,$lockfile) 
+                  || do{ unlink $templock; 
+                         die "ERROR: Can't create lockfile ($lockfile).\n".
+                           "Permission problem or another mrtg locking succesfully?\n"};
+            } else {
+                unlink $templock;
+                die "ERROR: It looks as if you are running two copies of mrtg in parallel on\n".
+                    "       the same config file. There is a lockfile ($lockfile) and it is\n".
+                    "       is only $lockage seconds old ... Check your crontab.\n".
+                    "       (/etc/crontab and /var/spool/cron/root) \n"
+                        if $lockage < 4;
+      
+                die  "ERROR: I guess another mrtg is running. A lockfile ($lockfile) aged\n".
+                     "$lockage seconds is hanging around. If you are sure that no other mrtg\n".
+                     "is running you can remove the lockfile\n";
+          
+            }
+        
+        }
+    }
+}
+
+sub threshcheck {
+    # threshold checking by Tom Muggli
+    # ... fsck'd up but fixed by Juha Laine
+    my ($cfg,$rcfg,$cfgfile,$router,$cuin,$cuout) = @_;
+    my @exec;
+    my $threshfile;
+    my %threshval;
+    # we can not deal with unknown data here
+    return "???" unless defined $$cuin{'d'}{$router} 
+             and defined $$cuout{'d'}{$router};
+
+    $threshval{i} = $$cuin{'d'}{$router};
+    $threshval{o} = $$cuout{'d'}{$router};
+
+    # are we going to keep state ?
+    if (defined $$cfg{'threshdir'}){
+        ensureSL(\$$cfg{'threshdir'});
+        $threshfile = $$cfg{'threshdir'}.(split /\Q$MRTG_lib::SL\E/, $cfgfile)[-1].".$router";
+    }
+
+    # setup environment for external scripts
+    if (defined $$rcfg{'threshdesc'}{$router}) {
+        $ENV{THRESH_DESC}=$$rcfg{'threshdesc'}{$router};
+    } else {
+        delete $ENV{THRESH_DESC};
+    }
+
+    foreach my $dir (qw(i o)){ # in and out
+        foreach my $bound (qw(min max)){
+	    # skip unless a threshold is defined for this "$router"
+            next unless defined $$rcfg{'thresh'.$bound.$dir}{$router};
+ 
+	    my $value = $threshval{$dir};
+            my $boundval = $$rcfg{'thresh'.$bound.$dir}{$router};
+            if (defined $boundval  and 
+                $boundval =~ s/%$//) { # defined in % of maxbytes
+                $value = $value / $$rcfg{maxbytes}{$router} * 100.0;
+            }
+
+            if (($bound eq 'min' and $boundval > $value) or
+                ($bound eq 'max' and $boundval < $value)) {
+
+		# threshold was broken...
+                @exec = ( $$rcfg{'threshprog'.$dir}{$router}, $router,
+			  $$rcfg{'thresh'.$bound.$dir}{$router}, $threshval{$dir});
+
+		# Check if we use the status file or not...
+		if ( defined $threshfile ) {
+		    if ( not -e $threshfile.".".$bound.uc($dir) ) {
+			# Create a file to indicate a threshold problem for the time after the problem
+			open THRESHTOUCH, ">".$threshfile.".".$bound.uc($dir)
+			    or warn "WARNING: Creating $threshfile.".$bound.uc($dir).": $!\n";
+			close THRESHTOUCH;
+			system @exec if defined $$rcfg{'threshprog'.$dir}{$router};
+		    }
+		} else {
+		    # no threshold dir so run on every 'break'
+		    system @exec if defined $$rcfg{'threshprog'.$dir}{$router};
+		}
+	    } else {
+
+		# no threshold broken ...
+		@exec = ( $$rcfg{'threshprogok'.$dir}{$router}, $router,
+			  $$rcfg{'thresh'.$bound.$dir}{$router}, $threshval{$dir});
+
+		# Check if we use the status file or not...
+		if ( defined $threshfile ) {
+		    if ( -e $threshfile.".".$bound.uc($dir) ){
+			unlink "$threshfile.".$bound.uc($dir);
+			system  @exec if defined $$rcfg{'threshprogok'.$dir}{$router};
+		    }
+		} else {
+		    # no threshold dir so run on every 'break'
+		    system  @exec if defined $$rcfg{'threshprogok'.$dir}{$router};
+		}
+	    }
+
+        } # foreach my $bound ...
+    } # foreach my $dir
+}
+
+sub getexternal ($) {
+    my $command = shift;
+    my $in=undef;
+    my $out=undef;
+    my $uptime="unknown";
+    my $name="unknown";
+
+    open (EXTERNAL , $command."|")
+	|| warn "WARNING: Running '$command': $!\n";
+
+    warn "WARNING: Could not get any data from external command ".
+	"'".$command.
+	    "'\nMaybe the external command did not even start. ($!)\n\n" if eof EXTERNAL;
+
+    chomp( $in=<EXTERNAL>) unless eof EXTERNAL;
+    chomp( $out=<EXTERNAL>) unless eof EXTERNAL;
+    chomp( $uptime=<EXTERNAL>) unless eof EXTERNAL;
+    chomp( $name=<EXTERNAL>) unless eof EXTERNAL;
+
+    close EXTERNAL;
+
+    # strip returned date
+    $uptime  =~ s/^\s*(.*?)\s*/$1/;
+    $name  =~ s/^\s*(.*?)\s*/$1/;
+
+    # do we have numbers in the external programs answer ?
+    if ( not defined $in ) {
+	warn "WARNING: Problem with External get '$command':\n".
+	    "   Expected a Number for 'in' but nothing'\n\n";
+    } elsif ( $in !~ /([-+]?\d+(.\d+)?)/ ) {
+	warn "WARNING: Problem with External get '$command':\n".
+	    "   Expected a Number for 'in' but got '$in'\n\n";
+	$in = undef;
+    } else {
+        $in = $1;
+    }
+
+    if ( not defined $out ) {
+	warn "WARNING: Problem with External get '$command':\n".
+	    "   Expected a Number for 'out' but nothing'\n\n";
+    } elsif ( $out !~ /([-+]?\d+(.\d+)?)/ ) {
+	warn "WARNING: Problem with Externale get '$command':\n".
+	    "   Expected a Number for 'out' but got '$out'\n\n";
+	$out = undef;
+    } else {
+        $out = $1;
+    }
+
+    return ($in,$out,time,$uptime,$name);
+}
+
+sub getsnmparg ($$$){
+    my $confcache = shift;
+    my $target = shift;
+    my $cfg = shift;
+    my $retry = 0;
+  RETRY:
+    my @ifnum = ();
+    my @OID = ();
+    # Find apropriate Interface to poll from
+    for my $i (0..1) {
+	if ($$target{IfSel}[$i] eq 'If') {
+	    $ifnum[$i] = ".".$$target{Key}[$i];
+	    debug('snpo',"simple If: $ifnum[$i]");
+	} elsif($$target{IfSel}[$i] eq 'None') {
+            $ifnum[$i] = "";
+        } else {
+	    if (not defined $$confcache{"$$target{Community}\@$$target{Host}$$target{SnmpOpt}"}{$$target{IfSel}[$i]}{$$target{Key}[$i]}) {
+		debug('snpo',"($i) Populate ConfCache for $$target{Host}$$target{SnmpOpt}");
+		populateconfcache($confcache,"$$target{Community}\@$$target{Host}$$target{SnmpOpt}",1,$$cfg{snmpoptions});
+	    }
+	    if (not defined $$confcache{"$$target{Community}\@$$target{Host}$$target{SnmpOpt}"}{$$target{IfSel}[$i]}{$$target{Key}[$i]}) {
+		warn "WARNING: Could not match host:'$$target{Community}\@$$target{Host}$$target{SnmpOpt}' ref:'$$target{IfSel}[$i]' key:'$$target{Key}[$i]'\n";
+		return undef;
+	    } else {
+		$ifnum[$i] = ".".$$confcache{"$$target{Community}\@$$target{Host}$$target{SnmpOpt}"}{$$target{IfSel}[$i]}{$$target{Key}[$i]};
+		debug('snpo',"($i) Confcache Match $$target{Key}[$i] -> $ifnum[$i]");
+	    }
+	}
+	if ($ifnum[$i] !~ /^$|^\.\d+$/) {
+	    warn "WARNING: Can not determine".
+	      " ifNumber for $$target{Community}\@$$target{Host}$$target{SnmpOpt} \tref: '$$target{IfSel}[$i]' \tkey: '$$target{Key}[$i]'\n";
+	    return undef;
+	}
+    }
+    for my $i (0..1) {
+	# add ifget methodes call for a cross check;
+	for ($$target{IfSel}[$i]) {
+	    /^Eth$/ && do {
+		push @OID, "ifPhysAddress".$ifnum[$i]; last
+	    };
+	    /^Ip$/ && do {
+		push @OID, "ipAdEntIfIndex".".".$$target{Key}[$i];last
+	    };
+	    /^Descr$/ && do {
+		push @OID, "ifDescr".$ifnum[$i]; last
+	    };
+	    /^Type$/ && do {
+		push @OID, "ifType".$ifnum[$i]; last
+	    };
+	    /^Name$/ && do {
+		push @OID, "ifName".$ifnum[$i]; last
+	    };
+	}
+	push @OID ,$$target{OID}[$i].$ifnum[$i];
+    }
+    # we also want to know uptime and system name unless we are
+    # looking at a squid cache or the user did a nomib2
+    if ( $OID[0] !~ /^cache.+$/ and
+         $OID[0] !~ /^\Qenterprises.3495\E/ and
+	 $OID[0] !~ /^\Q1.3.6.1.4.1.3495.1\E/ and 
+	 not defined $$cfg{nomib2} and $$cfg{logformat} ne 'rrdtool' ) {
+	 push @OID, qw(sysUptime sysName)
+    }
+    # pull that data
+    debug('snpo',"SNMPGet from $$target{Community}\@$$target{Host}$$target{SnmpOpt} -- ".(join ",", @OID));
+    my @ret;
+    if (defined $$cfg{singlerequest}){
+	foreach my $oid (@OID){
+	    push @ret, 
+	    snmpget($$target{Community}.'@'.$$target{Host}.$$target{SnmpOpt},$$cfg{snmpoptions},$oid);
+	}
+    } else {
+	@ret = snmpget($$target{Community}.'@'.$$target{Host}.$$target{SnmpOpt},$$cfg{snmpoptions},@OID);
+    }
+    if (not defined $ret[0]){
+        warn "WARNING: skipping because at least the query for $OID[0] on  $$target{Host} did not succeed\n";
+        return undef;
+    }
+    debug('snpo',"SNMPfound -- ".(join ", ", map {"'".($_||"undef")."'"}  @ret));
+    my $time = time;
+    my @final;
+    # lets do some reality check
+    for my $i (0..1) {
+	# some ifget methodes call for a cross check;
+	for ($$target{IfSel}[$i]) {
+	    /^Eth$/ && do {
+		my $bin = shift @ret;
+		my $eth = unpack 'H*', $bin;
+		my @eth;
+		while ($eth =~ s/^..//){
+		    push @eth, $&;
+		}
+		my $phys=join '-', @eth;
+		if ($phys ne $$target{Key}[$i]) {
+		    debug('snpo', "($i) eth if crosscheck got $phys expected $$target{Key}[$i]");
+		    if (not $retry) {
+			$retry=1;
+			# remove broken entry
+			$$confcache{$$target{Community}.'@'.$$target{Host}.$$target{SnmpOpt}}{$$target{IfSel}[$i]}{$$target{Key}[$i]} = undef;
+			debug('snpo',"($i) goto RETRY force if cache repopulation");
+			goto RETRY;
+		    } else {
+			warn "WARNING: could not match&get".
+			  " $$target{Host}$$target{SnmpOpt}/$$target{OID}[$i] for Eth $$target{Key}[$i]\n";
+			return undef;
+		    }
+		};
+		debug ('snpo',"($i) Eth crosscheck OK")
+	    };
+	    /^Ip$/ && do {
+		my $if = shift @ret;
+		if ($ifnum[$i] ne '.'.$if) {
+		    debug('snpo', "($i) IP if crosscheck got .$if expected $ifnum[$i]");
+		    if (not $retry) {
+			$retry=1;
+			# remove broken entry
+			$$confcache{$$target{Community}.'@'.$$target{Host}.$$target{SnmpOpt}}{$$target{IfSel}[$i]}{$$target{Key}[$i]} = undef;
+			debug('snpo',"($i) goto RETRY force if cache repopulation");
+			goto RETRY;
+		    } else {
+			warn "WARNING: could not match&get".
+			  " $$target{Host}$$target{SnmpOpt}/$$target{OID}[$i] for IP $$target{Key}[$i]\n";
+			return undef;
+		    }
+		}
+		debug ('snpo',"($i) IP crosscheck OK")
+	    };
+	    /^(Descr|Name|Type)$/ && do {
+		my $descr = shift @ret;
+		if ($descr ne $$target{Key}[$i]) {
+		    debug('snpo', "($i) $_ if crosscheck got $descr expected $$target{Key}[$i]");
+		    if (not $retry) {
+			$retry=1;
+			# remove broken entry
+			$$confcache{$$target{Community}.'@'.$$target{Host}.$$target{SnmpOpt}}{$$target{IfSel}[$i]}{$$target{Key}[$i]} = undef;
+			debug('snpo',"($i) goto RETRY force if cache repopulation");
+			goto RETRY;
+		    } else {
+			warn "WARNING: could not match&get".
+			  " $$target{Host}$$target{SnmpOpt}/$$target{OID}[$i] for $_ '$$target{Key}[$i]'\n";
+			return undef;
+		    }
+		} 
+		debug ('snpo',"($i) $_ crosscheck OK")
+	    };
+	}
+	if ($$target{OID}[$i] =~ /if(Admin|Oper)Hack/) {
+	    push @final, ((shift @ret) == 1) ? 1:0;
+	} else {
+	    push @final, shift @ret;
+	}
+    }
+
+    my @res = ( @final,$time, @ret);
+
+    # have some cleanup first, it seems that some agents
+    # are adding newlines to what they return
+    map{ $_ =~ s/\n|\r//g if defined $_ } @res;
+    map{ $_ =~ s/^\s+//g if defined $_ } @res;
+    map{ $_ =~ s/\s+$//g if defined $_ } @res;
+    
+    # in and out should be numbers only
+    for my $ri (0..1){
+	# for folks using rrdtool I am allowing numbers 
+	# with decimals here
+	if ( defined $res[$ri] && $res[$ri] !~ /^[-+]?\d+(.\d+)?$/ ) {
+	    warn "WARNING: Expected a number but got '$res[$ri]'\n";
+	    $res[$ri] = undef;
+
+	}
+    }
+    return @res;
+}
+
+
+# read target function ...
+sub readtargets ($$$) {
+    my ($confcache,$target,$cfg) = @_;
+    my $forks = $$cfg{forks};
+    my $trgnum = $#{$target}+1;
+    if (defined $forks and $forks > 1  and $trgnum > 1){
+        $forks = $trgnum if $forks > $trgnum;
+        my $split = int($trgnum / $forks) + 1;       
+	my @hand;
+	# get them forks to work ... 
+	for (my $i = 0; $i < $forks;$i++) {
+	    local *D;
+            my $sleep_count=0;
+            my $pid;
+            do {
+               $pid = open(D, "-|");
+                unless (defined $pid) {
+                    warn "WARNING cannot fork: $!\n";
+                    die "ERROR bailing out after 6 faild forkattempts"
+                         if $sleep_count++ > 6;
+                    sleep 10;
+                }
+            } until defined $pid;
+	    if ($pid) { # parent
+     		$hand[$i] = *D; # funky file handle magic ... 
+		debug ('fork',"Parent $$ after fork of child $i");
+	    } else {  # child
+		debug ('fork',"Child $i ($$) after fork");
+		my $res = "";
+		for (my $ii = $i * $split; 
+		     $ii < ($i+1) * $split and $ii < $trgnum;
+		     $ii++){
+		    my $targ = $$target[$ii];
+		    my @res;
+		    if ($$targ{Methode} eq 'EXEC') {
+			@res = getexternal($$targ{Command});
+		    } else { # parent
+			@res = getsnmparg($confcache,$targ,$cfg);
+		    }
+		
+		    for (my $iii=0;$iii<5;$iii++){
+			if (defined $res[$iii]){
+                            $res .= "$res[$iii]\n";
+			} else {
+                            $res .= "##UNDEF##\n";
+			}
+		    }
+		}
+		debug ('fork',"Child $i ($$) waiting to deliver");
+		print $res; # we only talk after the work has been done to
+                  	    # otherwhise we might get blocked 
+                # return updated hosts from confcache
+                writeconfcache($confcache,'&STDOUT')
+                        if defined $$confcache{___updated};
+		exit 0;
+	    }
+	    
+	}
+	# happy reaping ... 
+	for (my $i = 0; $i < $forks;$i++) {  
+	    debug ('fork',"Parent reading child $i");
+	    my $h = $hand[$i];
+	    for (my $ii = $i * $split; 
+		 $ii < ($i+1) * $split and $ii < $trgnum;
+		 $ii++){ 
+		my $targ = $$target[$ii];
+		my @res;
+		for (0..4){
+		    my $line = <$h>; # must be a simple scalar here else it wont work
+		    die "ERROR: fork $i has died ahead of time ...\n" if not defined $line;
+		    chomp $line;
+#                    debug ('fork',"reading for $ii $line");
+		    $line = undef if $line eq "##UNDEF##";                
+		    push @res,$line;
+		};
+
+		($$targ{_IN_},
+		 $$targ{_OUT_},
+		 $$targ{_TIME_},
+		 $$targ{_UPTIME_},
+		 $$targ{_NAME_}) = @res;		
+            }     
+            # feed confcache entries
+            my $lasthost ="";
+            while (<$h>){
+                chomp;
+                my ($host,$method,$key,$value) = split (/\t/, $_);
+                if ($host ne $lasthost){
+        	     debug ('fork',"start undef for $host");
+                     $$confcache{$host} = undef;
+        	     debug ('fork',"end undef for $host");
+                }
+                $lasthost = $host;
+                storeincache($confcache,$host,$method,$key,$value);
+             }
+             close $h;
+        }
+	            
+    } else {
+	foreach my $targ (@$target) {
+	    if ($$targ{Methode} eq 'EXEC') {
+		debug('snpo', "run external $$targ{Command}");
+		($$targ{_IN_},
+		 $$targ{_OUT_},
+		 $$targ{_TIME_},
+		 $$targ{_UPTIME_},
+		 $$targ{_NAME_}) = getexternal($$targ{Command});
+	    } elsif ($$targ{Methode} eq 'SNMP') {
+		debug('snpo', "run snmpget from $$targ{OID}[0]&$$targ{OID}[1]:$$targ{Community}\@$$targ{Host}");
+		($$targ{_IN_},
+		 $$targ{_OUT_},
+		 $$targ{_TIME_},
+		 $$targ{_UPTIME_},
+		 $$targ{_NAME_}) = getsnmparg($confcache,$targ,$cfg);
+	    }	    
+	}
+    }
+        
+}
+
