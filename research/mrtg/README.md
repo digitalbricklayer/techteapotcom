@@ -45,3 +45,5 @@ See for [MRTG 2.0 announcement](https://groups.google.com/g/comp.lang.perl.misc/
 See [Perl and the dynamic web](https://opensource.com/life/16/11/perl-and-birth-dynamic-web)
 
 See [here](https://lists.oetiker.ch/) for MRTG + RRDTool mailing lists
+
+Found [this succinct listing of MRTG versions](http://www.mrtg.cz/pub/CHANGES) (from 2.0.1) with changes in each version.
