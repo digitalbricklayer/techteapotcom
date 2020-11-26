@@ -1,0 +1,547 @@
+#! /usr/sepp/bin/perl -w
+# -*- mode: Perl -*-
+##################################################################
+# MRTG 2.9.17  --- Index Generator
+##################################################################
+#
+# This reads a mrtg.cfg file form std input or cmdline argument
+# and it takes a regexp on the cmdline to specify which 
+# targets to look at.
+#
+# from this info it produces a router index on stdout or
+# on the filename specified by the --output option
+#
+##################################################################
+# Distributed under the GNU General Public License
+# Copyright 2000 by Tobias Oetiker <tobi@oetiker.ch>
+##################################################################
+
+$main::GRAPHFMT="png";
+
+require 5.005;
+use strict;
+
+# DEBUG TARGETS
+# base - basic program flow
+#@main::DEBUG=qw(base);
+
+BEGIN {
+    # Automatic OS detection ... do NOT touch
+    if ( $^O =~ /^(?:(ms)?(dos|win(32|nt)?))/i ) {
+        $main::OS = 'NT';
+        $main::SL = '\\';
+        $main::PS = ';';
+    } elsif ( $^O =~ /^VMS$/i ) {
+        $main::OS = 'VMS';
+        $main::SL = '.';
+        $main::PS = ':';
+    } else {
+        $main::OS = 'UNIX';
+        $main::SL = '/';
+        $main::PS = ':';
+    }
+}
+
+use FindBin;
+use lib "${FindBin::Bin}";
+use lib "${FindBin::Bin}${main::SL}..${main::SL}lib${main::SL}mrtg2";
+
+use MRTG_lib "2.090017";
+use Getopt::Long;
+use Pod::Usage;
+
+my @argv = @ARGV;
+my $argz = "$0";
+foreach my $ar (@argv) {
+   if ($ar =~ /[ |()]/ ) {
+      $ar = sprintf "\"%s\"", $ar;
+   }
+   $argz .= " $ar";
+}
+
+
+main();
+exit 0;
+
+sub main {
+    # default options
+    my %opt = (
+	       sort => 'original',
+	       show => 'day',
+	       section => 'h1',
+	       columns => 2,
+	       bodyopt => 'bgcolor="#ffffff" text="#000000" '.
+	                  'link="#000000" vlink="#000000" alink="#000000"',
+	       title => 'MRTG Index Page',
+	       pagetop => '',
+               prefix => '',
+	       rrdviewer => '/cgi-bin/14all.cgi',
+	      );
+    # load real options
+    options(\%opt);
+
+    # slurp config files
+    my %rcfg;
+    my %cfg;
+    my @target;
+    my @routers;
+    while (@ARGV) {
+	my $cfgfile = shift @ARGV;
+	readcfg($cfgfile,\@routers,\%cfg,\%rcfg);
+	cfgcheck(\@routers, \%cfg, \%rcfg, \@target);
+    }
+    # generate index page
+    genindex(\@routers, \%cfg, \%rcfg, \%opt);
+}
+
+sub cleanurl ($) {
+    my $url = shift;
+    $url =~ s|([^/]+/)\.\./\1|$1|g;
+    return $url;
+}
+
+sub genindex ($$$$) {
+    my $routers = shift;
+    my $cfg = shift;
+    my $rcfg = shift;
+    my $opt = shift;
+    my $index;
+    # -----------------------------------------------------------
+    # keep only the items our users want (--filter)
+    # -----------------------------------------------------------
+    my @filtered;
+    ITEM: foreach my $item (@{$routers}) {
+	foreach my $filter (@{$$opt{filter}}) {
+	    if ($filter =~ /(.+)([=!]~)(.+)/) {
+		my ($area,$comp,$regex) = ($1,$2,$3);
+		my $value;
+	        for ($area) {
+		    /^title|pagetop$/ && 
+		      do { $value = $$rcfg{$area}{$item}; last };
+
+		    /^name$/ && 
+		      do { $value = $item; last };
+
+		    die "ERROR: unknown filter area $_\n";
+		};
+		for ($comp) {
+		    /^=~$/ &&
+		      do { next ITEM unless $value =~ /$regex/; last };
+		    /^!~$/ &&
+		      do { next ITEM unless $value !~ /$regex/; last };
+		    die "ERROR: unknown comparison operator $_\n";
+		};
+	    } else {
+		die "ERROR: invalid filter expression $filter\n";
+	    }
+	}
+	push @filtered, $item;
+    };
+
+    # -----------------------------------------------------------
+    # get items into proper order (--sort)
+    # -----------------------------------------------------------
+    my @order;
+    for ($$opt{sort}) {
+	/^original$/ && do {@order = @filtered; last};
+	/^name$/ &&  do { @order = sort @filtered; last};
+	/^title$/ && do { @order =
+			    sort { $$rcfg{title}{$a} cmp $$rcfg{title}{$b} || $a cmp $b }
+			      @filtered;
+			  last;
+		      };
+	/^descr(iption)?$/ &&
+	    do {
+	      @order =
+	        sort {
+		  $$rcfg{pagetop}{$a} =~ 
+	           m[<td>Description:</td>\S*<td>(?:\S+\s+)?(.+?)</td>]i;
+		  my $aval = lc $1;
+		  $$rcfg{pagetop}{$b} =~ 
+	           m[<td>Description:</td>\S*<td>(?:\S+\s+)?(.+?)</td>]i;
+		  my $bval = lc $1;
+		  $aval cmp $bval;
+	        } @filtered;
+			  last;
+		      };
+	die "ERROR: unknown sort order '$$opt{sort}'\n";
+    }
+
+    # -----------------------------------------------------------
+    # issue page top
+    # -----------------------------------------------------------
+    my $interval =$$cfg{'interval'} ? $$cfg{'interval'} : 5;
+    my $expiration = &expistr($interval);
+    my $refresh =  $$cfg{'refresh'} ? $$cfg{'refresh'} : 300;
+    for ($$opt{show}) {
+       $refresh = /^week$/     && 1800
+               || /^month$/    && 7200
+               || /^year$/     && 86400
+               || $refresh ;
+    }
+    $index = <<ECHO;
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+    <TITLE>$$opt{title}</TITLE>
+    <META HTTP-EQUIV="Refresh" CONTENT="$refresh">
+    <META HTTP-EQUIV="Cache-Control" content="no-cache">
+    <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+    <META HTTP-EQUIV="Expires" CONTENT="$expiration">
+</HEAD>
+
+<BODY $$opt{bodyopt}>
+<!-- commandline was: $argz -->
+$$opt{pagetop}
+<H1>$$opt{title}</H1>
+
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=10>
+<TR>
+ECHO
+
+    # -----------------------------------------------------------
+    # print the graph items
+    # -----------------------------------------------------------
+    my $itemnr = 0;
+    my $first = $order[0];
+    foreach my $item (@order) {
+	$itemnr++;
+	$index .= "<TD>";
+        my $dirrel = "../" x ($$rcfg{'directory_web'}{$item} =~ tr|/|/|);
+
+	# --- produce graph section title ---
+	my $section;
+	for ($$opt{section}) {
+	    /^h1$/ &&
+	      do{
+		  if ($$rcfg{pagetop}{$item} =~ m[<h1[^>+]*>(.+?)</h1]i) {
+		      $section = $1;
+		      last;
+		  } else {
+		      die "ERROR: no H1 line pagetop property in $item section\n";
+		  }
+	      };
+	    /^title$/ &&
+	      do{
+		  $section = $$rcfg{title}{$item}; last
+	      };
+	    /^name$/ &&
+	      do{
+		  $section = $item; last
+	      };
+            /^descr(iption)?$/ &&
+              do{
+		  $$rcfg{setenv}{$item} =~ /\bMRTG_INT_DESCR="([^"]*)"/;
+		  if ($$rcfg{pagetop}{$item} =~ 
+		   m,<td>Description:</td>\S*<td>($1)\s*([^<]+)?\s+(?=</td>),i) {
+		      $section = $2 || $1;
+                      last;
+                  } else {
+                      die "ERROR: no Description: line PageTop property in $item section\n";
+                  }
+              };
+             /^portname$/ && 
+               do{
+                 if ($$rcfg{pagetop}{$item} =~
+                     m,<TR><TD>Port Name:</TD>\s*<TD>([^<]+)</TD>,i ) {
+                      $section = $1;
+                      last;
+                 } else {
+                      die "ERROR: no Port Name: PageTop property in $item section\n"
+                 }
+               };
+            die "ERROR: unknown sectioning type $_\n";
+	};
+
+	# --- write the actual graph ----
+	die "ERROR: Unknown show type $$opt{show}\n"
+	  unless $$opt{show} =~ /^day|week|month|year|none$/;
+
+	my $image = "$item-$$opt{show}.${main::GRAPHFMT}"
+	 if $$opt{show} ne 'none';
+
+	$index .= "<DIV><B>";
+	$index .= "$itemnr. " if $$opt{enumerate};
+
+        if (not $image) {
+	    $index .= "<A HREF=\"".cleanurl($$opt{prefix}.
+		      $$rcfg{directory_web}{$item}).$item.
+		      ".$$rcfg{extension}{$item}\">".
+		      "$section</B></A></DIV>\n<DIV>";
+	} else {
+ 	    $index .= "$section</B></DIV>\n<DIV>";
+
+	    # figure show name for rrd viewer
+	    if ($$cfg{logformat} eq 'rrdtool') {
+	        $index .= "<A HREF=\"$$opt{rrdviewer}?log=$item\">".
+                          "<IMG BORDER=1 ALT=\"$item Traffic Graph\" ".
+			  "SRC=\"$$opt{rrdviewer}?log=$item&png=$$opt{show}.".
+			  "s&small=1\"></A>"
+	    } else {
+		$index .= "<A HREF=\"".cleanurl($$opt{prefix}.
+			  $$rcfg{directory_web}{$item}).$item.
+			  ".$$rcfg{extension}{$item}\">";
+        	$index .= "<IMG BORDER=1 ALT=\"$item Traffic Graph\" ".
+			  "SRC=\"".cleanurl($$opt{prefix}.
+			  $$rcfg{directory_web}{$item}.$dirrel.
+			  $$cfg{imagehtml}.$$rcfg{directory_web}{$item}).
+			  "$image\"";
+		$index .= ' WIDTH="'.$$opt{width}.'"' 
+                      if defined $$opt{width};
+		$index .= ' HEIGHT="'.$$opt{height}.'"'
+		      if defined $$opt{height};
+		$index .= "></A>\n".
+			  "<BR>\n<SMALL><!--#flastmod file=\"".
+			  cleanurl($$rcfg{directory_web}{$item}).$item.
+			  ".$$rcfg{extension}{$item}\" --></SMALL>";
+	    }
+	}
+
+	$index .= "</DIV>\n</TD>";
+
+	# --- new table column if necessary ----
+	if (($itemnr) % $$opt{columns} == 0) {
+	    $index .= "</TR>\n<TR>\n";
+	}
+    }
+    # -----------------------------------------------------------
+    # print page end
+    # -----------------------------------------------------------
+
+    my $gifPath = '';
+
+    if (defined $$cfg{icondir}) {
+        $gifPath = $$cfg{icondir};
+        #lets make sure there is a trailing path separator
+        $gifPath =~ s|/*$|/|;
+    } else {
+        $gifPath = "$$cfg{imagehtml}";
+    }
+
+    my $VERSION = "2.9.17";
+    $index .= <<ECHO;
+</TR>
+</TABLE>
+<BR>
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0>
+  <TR>
+    <TD WIDTH=63><A
+    HREF="http://www.ee.ethz.ch/~oetiker/webtools/mrtg/"><IMG
+    BORDER=0 SRC="${gifPath}mrtg-l.${main::GRAPHFMT}" WIDTH=63 HEIGHT=25 ALT="MRTG"></A></TD>
+    <TD WIDTH=25><A
+    HREF="http://www.ee.ethz.ch/~oetiker/webtools/mrtg/"><IMG
+    BORDER=0 SRC="${gifPath}mrtg-m.${main::GRAPHFMT}" WIDTH=25 HEIGHT=25 ALT=""></A></TD>
+    <TD WIDTH=388><A
+    HREF="http://www.ee.ethz.ch/~oetiker/webtools/mrtg/"><IMG
+    BORDER=0 SRC="${gifPath}mrtg-r.${main::GRAPHFMT}" WIDTH=388 HEIGHT=25
+    ALT="Multi Router Traffic Grapher"></A></TD>
+  </TR>
+</TABLE>
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0>
+  <TR VALIGN=top>
+  <TD WIDTH=88 ALIGN=RIGHT><FONT FACE="Arial,Helvetica" SIZE=2>
+  version $VERSION</FONT></TD>
+  <TD WIDTH=388 ALIGN=RIGHT><FONT FACE="Arial,Helvetica" SIZE=2>
+  <A HREF="http://www.ee.ethz.ch/~oetiker/">Tobias Oetiker</A>
+  <A HREF="mailto:oetiker\@ee.ethz.ch">&lt;oetiker\@ee.ethz.ch&gt;</A>
+  and&nbsp;<A HREF="http://www.bungi.com/">Dave&nbsp;Rand</A>&nbsp;<A HREF="mailto:dlr\@bungi.com">&lt;dlr\@bungi.com&gt;</A></FONT>
+  </TD>
+</TR>
+</TABLE>
+</BODY>
+</HTML>
+ECHO
+
+    # -----------------------------------------------------------
+    # write out the index page
+    # -----------------------------------------------------------
+    if ($$opt{output}) {
+	debug ('base', "Writing $$opt{output}");
+	open X, ">$$opt{output}" or die "ERROR: creating $$opt{output}: $!\n";
+	print X $index;
+	close X;
+    } else {
+	print $index;
+    }
+
+}
+
+sub options ($) {
+    my $opt = shift;
+   GetOptions( $opt,
+	       'help|?',
+	       'man',
+	       'output=s',
+	       'filter=s@',
+	       'title=s',
+	       'bodyopt=s',
+	       'pagetop=s',
+	       'columns=i',
+	       'sort=s',
+	       'enumerate',
+	       'width=i',
+	       'height=i',
+	       'show=s',
+	       'section=s',
+               'version',
+	       'prefix=s',
+	       'rrdviewer=s') or pod2usage(-verbose => 1);
+    if ($$opt{prefix}){
+	$$opt{prefix} .= '/';
+	$$opt{prefix} =~ s|/+$|/|;
+    }
+    die ("Indexmaker for mrtg-2.9.17\n") if $$opt{version};
+    pod2usage(-exitval => 1, -verbose => 2) if $$opt{man};
+    pod2usage(-verbose => 1) if not @ARGV;
+}
+
+__END__
+
+=pod
+
+=head1 NAME
+
+indexmaker - Creates index files for mrtg web sites (mrtg-2.9.17)
+
+=head1 SYNOPSIS
+
+indexmaker [options] regexp mrtg.cfg [other.cfg ...]
+
+=head1 OPTIONS
+
+ --output=filename   set output filename (default: stdout)
+
+ --filter title=~regexp  select targets by matching regexp against titles
+ --filter pagetop=~regexp  select targets by matching regexp against pagetop
+ --filter name=~regexp  select targets by matchin regexp against name
+
+ --title=text        set title of generated index file
+ --bodyopt=text      set body tag options
+ --pagetop=text      insert this text between <BODY> and <H1>...</H1>
+
+ --columns=number    show graphs in a table with x columns (default: 2)
+
+ --sort=title        sort graphs by title
+ --sort=name         sort graphs by their name
+ --sort=descr        sort graphs by their description
+ --sort=original     leave as is (default)
+
+ --enumerate         add a sequence number to the title of each graph
+
+ --width=number      set width of graphs (default: not set)
+ --height=number
+
+ --show=day          pick which graph to show in the index (default)
+ --show=week
+ --show=month
+ --show=year
+ --show=none
+
+ --section=h1        h1 tag from pagetop as section heading (default)
+ --section=title     title as section headings for graphs
+ --section=name      graph name as section heading
+ --section=descr     graph description as section heading
+ --section=portname  port name entry in pagetop as section heading
+
+ --rrdviewer=path    path to rrdviewer (default: /cgi-bin/14all.cgi)
+ --prefix=path       path from the location of the index.html to the graphs
+
+=head1 DESCRIPTION
+
+B<Indexmaker> can create web pages which display the status of an
+array of mrtg interface status pages.
+
+=over
+
+=item B<--output> I<filename>
+
+set output filename (default: stdout)
+
+=item B<--filter> (B<title>|B<pagetop>|B<name>)(B<=~>|B<!~>)I<regexp>
+
+Several filters may get set.  Each filter can match agains the contents
+of a specific section of the mrtg config file. B<Name> refers to the
+bit in square brackets (option[name]: bla).
+
+Depending on the match operator chosen (B<=~> or B<!~>) the match will be
+positive or negative.
+
+Note that some shells consider B<!> a special character.  It may be
+necessary to type B<\!~> instead.
+
+=item B<--title> I<text>
+
+Set title of generated index file (default: regexp)
+
+=item B<--bodyopt> I<text>
+
+The value of this argument gets appended to
+the E<lt>BODYE<gt> tag. This allows to set document colors.
+By default this option is set to
+
+ bgcolor="#ffffff" text="#000000" link="#000000" vlink="#000000" alink="#000000"
+
+=item  B<--columns> I<number>
+
+Display graphs in a table with I<number> columns (default: 2)
+
+=item B<--sort> B<title>|B<name>|B<descr>|B<original>
+
+Sort the graphs in the page either by B<title>, by B<name>, by interface
+B<descr>iption, or leave them as is.
+
+=item B<--enumerate>
+
+Add a sequence number to the title of each graph
+
+=item B<--width> I<number>
+
+Set width of graphs
+
+=item B<--height> I<number>
+
+Set the height of the graphs
+
+=item B<--show> B<day>|B<week>|B<month>|B<year>|B<none>
+
+Select which graph to show in the index page. You can supress images
+completely with B<--show=none>.
+
+=item B<--section> B<h1>|B<title>|B<name>|B<description>|B<portname>
+
+Select what to use as the title for each graph in the page.  B<h1> is
+the H1 section from pagetop, B<title> is the graph title, B<name> is
+the bit in square brackets (option[name]: bla), and B<descr> or
+B<description> is the text from the Description field of the PageTop
+(the Cisco description text if it's available, otherwise just the
+interface description). B<portname> is the C<Port Name:> from pagetop.
+
+=item B<--rrdviewer> I<path>
+
+If you have set the B<LogFormat: rrdtool> property in the mrtg.cfg
+file, the index will take this into account. The only thing you must
+tell it is the path to your grapher cgi. (default: /cgi-bin/14all.cgi)
+
+=item B<--prefix> I<path>
+
+By  default we assume    that  the file generated by indexmaker is stored in
+I<WorkDir>.  If you want to  store it somewhere   else, specify how to reach
+I<WorkDir>  from  the place where the Index is stored. Note that you have to
+use '/' as path separator as this will be used in urls. Speaking of which,
+you can even enter a whole url.
+
+=back
+
+=head1 AUTHOR
+
+Tobias Oetiker E<lt>tobi@oetiker.chE<gt>
+
+=head1 LICENSE
+
+GNU General Public License
+
+=head1 COPYRIGHT
+
+2000-2001 Tobias Oetiker E<lt>tobi@oetiker.chE<gt>
+
+=cut

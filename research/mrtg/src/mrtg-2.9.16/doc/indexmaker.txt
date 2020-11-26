@@ -1,0 +1,138 @@
+INDEXMAKER(1)                  mrtg                 INDEXMAKER(1)
+
+
+
+NNNNAAAAMMMMEEEE
+       indexmaker - Creates index files for mrtg web sites
+       (mrtg-2.9.16)
+
+SSSSYYYYNNNNOOOOPPPPSSSSIIIISSSS
+       indexmaker [options] regexp mrtg.cfg [other.cfg ...]
+
+OOOOPPPPTTTTIIIIOOOONNNNSSSS
+        --output=filename   set output filename (default: stdout)
+
+        --filter title=~regexp  select targets by matching regexp against titles
+        --filter pagetop=~regexp  select targets by matching regexp against pagetop
+        --filter name=~regexp  select targets by matchin regexp against name
+
+        --title=text        set title of generated index file
+        --bodyopt=text      set body tag options
+        --pagetop=text      insert this text between <BODY> and <H1>...</H1>
+
+        --columns=number    show graphs in a table with x columns (default: 2)
+
+        --sort=title        sort graphs by title
+        --sort=name         sort graphs by their name
+        --sort=descr        sort graphs by their description
+        --sort=original     leave as is (default)
+
+        --enumerate         add a sequence number to the title of each graph
+
+        --width=number      set width of graphs (default: not set)
+        --height=number
+
+        --show=day          pick which graph to show in the index (default)
+        --show=week
+        --show=month
+        --show=year
+        --show=none
+
+        --section=h1        h1 tag from pagetop as section heading (default)
+        --section=title     title as section headings for graphs
+        --section=name      graph name as section heading
+        --section=descr     graph description as section heading
+        --section=portname  port name entry in pagetop as section heading
+
+        --rrdviewer=path    path to rrdviewer (default: /cgi-bin/14all.cgi)
+        --prefix=path       path from the location of the index.html to the graphs
+
+
+DDDDEEEESSSSCCCCRRRRIIIIPPPPTTTTIIIIOOOONNNN
+       IIIInnnnddddeeeexxxxmmmmaaaakkkkeeeerrrr can create web pages which display the status
+       of an array of mrtg interface status pages.
+
+       --------oooouuuuttttppppuuuutttt _f_i_l_e_n_a_m_e
+           set output filename (default: stdout)
+
+       --------ffffiiiilllltttteeeerrrr (ttttiiiittttlllleeee|ppppaaaaggggeeeettttoooopppp|nnnnaaaammmmeeee)(====~~~~|!!!!~~~~)_r_e_g_e_x_p
+           Several filters may get set.  Each filter can match
+           agains the contents of a specific section of the mrtg
+           config file. NNNNaaaammmmeeee refers to the bit in square brackets
+           (option[name]: bla).
+
+           Depending on the match operator chosen (====~~~~ or !!!!~~~~) the
+           match will be positive or negative.
+
+           Note that some shells consider !!!! a special character.
+           It may be necessary to type \\\\!!!!~~~~ instead.
+
+       --------ttttiiiittttlllleeee _t_e_x_t
+           Set title of generated index file (default: regexp)
+
+       --------bbbbooooddddyyyyoooopppptttt _t_e_x_t
+           The value of this argument gets appended to the <BODY>
+           tag. This allows to set document colors.  By default
+           this option is set to
+
+            bgcolor="#ffffff" text="#000000" link="#000000" vlink="#000000" alink="#000000"
+
+
+       --------ccccoooolllluuuummmmnnnnssss _n_u_m_b_e_r
+           Display graphs in a table with _n_u_m_b_e_r columns
+           (default: 2)
+
+       --------ssssoooorrrrtttt ttttiiiittttlllleeee|nnnnaaaammmmeeee|ddddeeeessssccccrrrr|oooorrrriiiiggggiiiinnnnaaaallll
+           Sort the graphs in the page either by ttttiiiittttlllleeee, by nnnnaaaammmmeeee,
+           by interface ddddeeeessssccccrrrription, or leave them as is.
+
+       --------eeeennnnuuuummmmeeeerrrraaaatttteeee
+           Add a sequence number to the title of each graph
+
+       --------wwwwiiiiddddtttthhhh _n_u_m_b_e_r
+           Set width of graphs
+
+       --------hhhheeeeiiiigggghhhhtttt _n_u_m_b_e_r
+           Set the height of the graphs
+
+       --------sssshhhhoooowwww ddddaaaayyyy|wwwweeeeeeeekkkk|mmmmoooonnnntttthhhh|yyyyeeeeaaaarrrr|nnnnoooonnnneeee
+           Select which graph to show in the index page. You can
+           supress images completely with --------sssshhhhoooowwww====nnnnoooonnnneeee.
+
+       --------sssseeeeccccttttiiiioooonnnn hhhh1111|ttttiiiittttlllleeee|nnnnaaaammmmeeee|ddddeeeessssccccrrrriiiippppttttiiiioooonnnn|ppppoooorrrrttttnnnnaaaammmmeeee
+           Select what to use as the title for each graph in the
+           page.  hhhh1111 is the H1 section from pagetop, ttttiiiittttlllleeee is the
+           graph title, nnnnaaaammmmeeee is the bit in square brackets
+           (option[name]: bla), and ddddeeeessssccccrrrr or ddddeeeessssccccrrrriiiippppttttiiiioooonnnn is the
+           text from the Description field of the PageTop (the
+           Cisco description text if it's available, otherwise
+           just the interface description). ppppoooorrrrttttnnnnaaaammmmeeee is the "Port
+           Name:" from pagetop.
+
+       --------rrrrrrrrddddvvvviiiieeeewwwweeeerrrr _p_a_t_h
+           If you have set the LLLLooooggggFFFFoooorrrrmmmmaaaatttt:::: rrrrrrrrddddttttoooooooollll property in the
+           mrtg.cfg file, the index will take this into account.
+           The only thing you must tell it is the path to your
+           grapher cgi. (default: /cgi-bin/14all.cgi)
+
+       --------pppprrrreeeeffffiiiixxxx _p_a_t_h
+           By  default we assume    that  the file generated by
+           indexmaker is stored in _W_o_r_k_D_i_r.  If you want to
+           store it somewhere   else, specify how to reach
+           _W_o_r_k_D_i_r  from  the place where the Index is stored.
+           Note that you have to use '/' as path separator as
+           this will be used in urls. Speaking of which, you can
+           even enter a whole url.
+
+AAAAUUUUTTTTHHHHOOOORRRR
+       Tobias Oetiker <tobi@oetiker.ch>
+
+LLLLIIIICCCCEEEENNNNSSSSEEEE
+       GNU General Public License
+
+CCCCOOOOPPPPYYYYRRRRIIIIGGGGHHHHTTTT
+       2000-2001 Tobias Oetiker <tobi@oetiker.ch>
+
+
+
+2001-06-05                    2.9.16                INDEXMAKER(1)

@@ -1,0 +1,120 @@
+FAQ(1)                         mrtg                        FAQ(1)
+
+
+
+NNNNAAAAMMMMEEEE
+       help - How to get help if you have problems with MRTG
+
+SSSSYYYYNNNNOOOOPPPPSSSSIIIISSSS
+       MRTG seems to raise a lot of questions. There are a number
+       of resources apart from the documentation where you can
+       find help for mrtg.
+
+FFFFAAAAQQQQ
+       Alex van den Bogaerdt <alex@ergens.op.Het.Net> maintains
+       the MRTG FAQ website on
+
+        http://faq.mrtg.org
+
+       In the following sections you find some additonal Fre-
+       quently Asked Questions, with Answers.
+
+       WWWWhhhhyyyy iiiissss tttthhhheeeerrrreeee nnnnoooo """"@@@@####$$$$%%%%"""" ((((mmmmyyyy nnnnaaaattttiiiivvvveeee llllaaaannnngggguuuuaaaaggggeeee)))) vvvveeeerrrrssssiiiioooonnnn ooooffff
+       MMMMRRRRTTTTGGGG
+
+       Nobody has contributed a _@_#_$_%_._p_m_d file yet. Go into the
+       _m_r_t_g_-_2_._9_._2_2_/_t_r_a_n_s_l_a_t_e directory and create your own trans-
+       lation file.  When you are happy with it send it to me for
+       inclusion with the next mrtg release.
+
+       IIII nnnneeeeeeeedddd aaaa ssssccccrrrriiiipppptttt ttttoooo mmmmaaaakkkkeeee mmmmrrrrttttgggg wwwwoooorrrrkkkk wwwwiiiitttthhhh mmmmyyyy xxxxyyyyzzzz ddddeeeevvvviiiicccceeee....
+
+       Probably this has already been done. Check the stuff in
+       the _m_r_t_g_-_2_._9_._2_2_/_c_o_n_t_r_i_b directory. There is a file called
+       _0_0_I_N_D_E_X in that directory which tells what you can find in
+       there.
+
+       HHHHoooowwww ddddooooeeeessss tttthhhhiiiissss SSSSNNNNMMMMPPPP tttthhhhiiiinnnngggg wwwwoooorrrrkkkk
+
+       There are many resources on the net, explaining about
+       SNMP.  Take a look at this article from the Linux Journal
+       by David Guerrero:
+
+        http://www.develnet.es/~david/papers/snmp/
+
+       And at this rather long document from CISCO
+
+        http://www.cisco.com/univercd/cc/td/doc/cisintwk/ito_doc/snmp.htm
+
+
+       TTTThhhheeee IIIImmmmaaaaggggeeeessss ccccrrrreeeeaaaatttteeeedddd bbbbyyyy MMMMRRRRTTTTGGGG llllooooooookkkk vvvveeeerrrryyyy ssssttttrrrraaaannnnggggeeee....
+
+       Remove the *-{week,day,month,year}.png files and start
+       MRTG again.  Using MRTG for the first time, you might have
+       to do this twice. This will also help, when you introduce
+       new routers into the cfg file.
+
+       WWWWhhhhaaaatttt iiiissss mmmmyyyy CCCCoooommmmmmmmuuuunnnniiiittttyyyy NNNNaaaammmmeeee????
+
+       Ask the person in charge of your Router or try 'public',
+       as this is the default Community Name.
+
+       MMMMyyyy ggggrrrraaaapppphhhhssss sssshhhhoooowwww aaaa ffffllllaaaatttt lllliiiinnnneeee dddduuuurrrriiiinnnngggg aaaannnn oooouuuuttttaaaaggggeeee.... WWWWhhhhyyyy ????
+
+       Well, the short answer is that when an SNMP query goes out
+       and a response doesn't come back, MRTG has to assume some-
+       thing to put in the graph, and by default it assumes that
+       the last answer we got back is probably closer to the
+       truth than zero.  This assumption is not perfect (as you
+       have noticed), it's a trade-off that happens to fail dur-
+       ing a total outage.
+
+       If this is an unacceptable trade-off,use the uuuunnnnkkkknnnnaaaasssszzzzeeeerrrroooo
+       option.
+
+       You may want to know what you're trading off, so in the
+       spirit of trade-offs, here's the long answer:
+
+       The problem is that MRTG doesn't know *why* the data
+       didn't come back, all it knows is that it didn't come
+       back.  It has to do something, and it assumes it's a stray
+       lost packet rather than an outage.
+
+       Why don't we always assume the circuit is down, and use
+       zero, which will (we think) be more nearly right?  Well,
+       it turns out that you may be taking advantage of MRTG's
+       "assume last" behaviour without being aware of it.
+
+       MRTG uses SNMP (Simple Network Management Protocol) to
+       collect data, and SNMP uses UDP (User Datagram Protocol)
+       to ship packets around.  UDP is connectionless (not guar-
+       anteed) - unlike TCP where packets are tracked and
+       acknowledged and, if needed, re-transmitted, UDP just
+       throws packets at the network and hopes they arrive. Some-
+       times they don't.
+
+       One likely cause of lost SNMP data is congestion, another
+       is busy routers.  Other possibilities include transient
+       telecommunications problems, router buffer overflows
+       (which may or may not be congestion-related), "dirty
+       lines" (links with high error rates), and acts of God.
+       These things happen all the time, we just don't notice
+       because many interactive services are TCP-based and the
+       lost packets get retransmitted automatically.
+
+       In the above cases where some SNMP packets are lost but
+       traffic is flowing, assuming zero is the wrong thing to do
+       - you end up with a graph that looks like it's missing
+       teeth whenever the link fills up.  MRTG interpolates the
+       lost data to produce a smoother graph which is more accu-
+       rate in cases of intermittent packet loss.  But with
+       V2.8.4 and above, you can use the "unknaszero" option to
+       produce whichever graph is best under the conditions typi-
+       cal of your network.
+
+AAAAUUUUTTTTHHHHOOOORRRR
+       Tobias Oetiker <oetiker@ee.ethz.ch>
+
+
+
+2002-07-31                    2.9.22                       FAQ(1)

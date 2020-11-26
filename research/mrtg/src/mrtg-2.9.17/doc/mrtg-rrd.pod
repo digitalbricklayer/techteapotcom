@@ -1,0 +1,114 @@
+=head1 NAME
+
+mrtg-rrd - How to use RRDtool with MRTG
+
+=head1 SYNOPSIS
+
+After using MRTG for some time you may find some limitations. Mostly in the
+areas of performance and graphing flexibility. These are exactly the areas
+addressed by rrdtool. To learn more about RRDtool check out its website on
+
+ http://people.ee.ethz.ch/~oetiker/webtools/rrdtool
+
+=head1 RRDTOOL INTEGRATION
+
+When using mrtg with RRDtool you are replacing F<rateup> with the
+RRDtool perl module F<RRDs.pm>. To enable RRDtool support in mrtg
+you have to add the line
+
+ LogFormat: rrdtool
+
+MRTG needs access to both the RRDtool perl module B<RRDs.pm> and to the
+B<rrdtool> executable.
+
+If these two items are not installed in locations where perl can find them
+on its own, then you can use the following two parameters to supply the
+appropriate directories.
+
+For the location of the B<rrdtool> executable you put
+
+ PathAdd: /usr/local/rrdtool/bin/
+
+or
+
+ PathAdd: c:\rrdtool\bin
+
+For the location of the perl module it would be:
+
+ LibAdd: /usr/local/rrdtool/lib/perl/
+
+or
+
+ LibAdd: c:\rrdtool\bin\lib\perl
+
+When you have made this modification to the configuration file, several
+things will happen when you run mrtg again with the new config file:
+
+=over
+
+=item 1.
+
+mrtg will take all your old C<.log> files and B<convert> them to C<.rrd>
+format. (The C<.log> files don't get touched in the process, so if things
+don't work out they are still there.)
+
+=item 2.
+
+mrtg will use B<rrdtool> to update its databases. These will have a new format
+called I<rrd> which is totally different than the native I<log> format of
+the classic mrtg.
+
+=item 3.
+
+mrtg will B<not> create any webpages of graphs anymore.
+It will only query the routers for traffic information and update its I<rrd>
+databases.
+
+=back 
+
+The advantage of whole thing is that the mrtg will become B<much>
+faster. Expect the runtime to drop to 20% of the previous value. (I would like
+to get some feedback on this from folks with large installations)
+
+Mind you though, while the logging process of RRDtool is B<very> fast, you
+are also gaining some time by neither creating graphs nor updating webpages.
+The idea behind this is that it is more efficient to create
+graphs and webpages on demmand. Using a cgi script.
+
+At the moment there is no B<official> script to do this, but two
+contributers have created such scripts:
+
+=over
+
+=item B<14all.cgi>
+
+Was the first program to take over the webpage creation and graphing task.
+It has been developed by S<Rainer Bawidamann
+E<lt>Rainer.Bawidamann@informatik.uni-ulm.deE<gt>>. You can find a copy 
+on Rainers website:
+
+ http://www.uni-ulm.de/~rbawidam/mrtg-rrd/
+
+The program comes with its own documentation
+
+=item B<routers.cgi>, B<servers.cgi> and B<generic.cgi>
+
+are other cgi frontends to mrtg running with rrdtool. Thier main difference
+to 14all is, that the web pages it creates are much more stylish than the
+ones from mrtg. These tools have been written by S<Steve Shipway
+E<lt>steve.shipway@adsweu.comE<gt>>. You can find a copy in
+
+ http://www.cheshire.demon.co.uk/pub/
+
+The scripts comes with their own installation instructions.
+
+=back
+
+=head1 FUTURE
+
+Just as a side note: MRTG-3 will be based entirely on rrdtool technology.
+But don't wait for it ... get going B<now>!
+
+=head1 AUTHOR
+
+Tobias Oetiker E<lt>oetiker@ee.ethz.chE<gt>
