@@ -1,6 +1,8 @@
 # MRTG
 
-See [comp.lang.perl.misc](https://groups.google.com/g/comp.lang.perl.misc/) and search for MRTG as per the link
+See [comp.lang.perl.misc](https://groups.google.com/g/comp.lang.perl.misc/) and search for MRTG as per the link.
+
+See also [comp.lang.perl](https://groups.google.com/g/comp.lang.perl/).
 
 See for [first MRTG announcement](https://groups.google.com/g/comp.lang.perl/c/FaAWCOBdgKo/m/g7IAn-LRGicJ) on 28 April 1995.
 
