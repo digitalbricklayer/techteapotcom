@@ -1,5 +1,9 @@
 # MRTG
 
+Freshmeat [entry for MRTG](http://freshmeat.sourceforge.net/projects/mrtg). Has quite a lot of version info including dates.
+
+Wikipedia [entry for MRTG](https://en.wikipedia.org/wiki/Multi_Router_Traffic_Grapher).
+
 See [comp.lang.perl.misc](https://groups.google.com/g/comp.lang.perl.misc/) and search for MRTG as per the link.
 
 See also [comp.lang.perl](https://groups.google.com/g/comp.lang.perl/).
