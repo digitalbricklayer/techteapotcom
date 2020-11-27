@@ -18,7 +18,9 @@ draft: true
 
 MRTG is an open source network management tool originally developed by Tobias Oetiker in the spring of 1995 whilst he was working as a system administrator at De Montfort University, UK.
 
-The story of a particular location is set out in the various sections of an archaeological dig. In a similar way, the story of an open source project is set out in how the source code has evolved over the project's lifetime. It may also be possible to discern broader technical changes through the evolution of the project.
+MRTG appeared just at the time that it was possible for it to exist. Perl had to exist, cmu-snmp had to exist and netpbm had to exist too. Without these things existing and the wherewithall to distribute them freely, MRTG would either not have existed at all or would have been a small local utility inside De Montfort University.
+
+The story of a particular location can be described in the various trenches of an archaeological dig. In a similar way, the story of an open source project is set out in how the source code has evolved over the project's lifetime. It may also be possible to discern broader technical changes through the evolution of the project.
 
 ## Network management landscape
 
