@@ -559,7 +559,7 @@ From: Tobi
 * fixed compilation of rateup.exe for windows to get the new strftime
   function to be actually used ...
 
-Changes 2.11.00, 2004-12-08
+Changes 2.11.00 (2004-12-08)
 ---------------------------
 
 From: Al Payne <apayne location pleiades.com>
@@ -603,7 +603,7 @@ From: Mateusz <mateusz location republika.pl>
 From: Ulf Härnhammar <Ulf.Harnhammar.9485 location student.uu.se>
 * prevent potential buffer overflow in ratup due to 'strange' input files
 
-Changes 2.10.15, 2004-08-08
+Changes 2.10.15 (2004-08-08)
 ---------------------------
 
 From: NormW <normw location bocnet.com.au>
@@ -687,7 +687,7 @@ From: Tobi and Bernd Drefs <drefs location gmx.de>
 From: Kenji <kenji location club.h14m.org>
 * make thresholds work when maxbytes1 and maxbytes2 are in use ...
 
-Changes 2.10.13
+Changes 2.10.13 (2004/01/19)
 ---------------
 From: Pedro Marcolino <pedro location jazznet.pt>
 * fixed undef data problem with forks
@@ -697,7 +697,7 @@ From: Tobi
 * faild rrdtune should not kill mrtg complaining is enough.
 * fixed manpages first lines to include mrtg as well
 
-Changes 2.10.12
+Changes 2.10.12 (2004/01/08)
 ---------------
 From: Nico Kadel-Garcia <nkadel location merl.com>
 * Makefile should not complain when running clean on a clean setup
@@ -748,7 +748,7 @@ From: Don Russell <drussel2 location san.rr.com>
 From: Tobi
 * for running on old perls ... we need %Lf not %lf for sprintf.
 
-Changes 2.10.6
+Changes 2.10.6 (2003/11/29)
 --------------
 From: Dave Plonka <plonka location doit.wisc.edu>
 * modified fork code to use select to determine if data is ready to be read
@@ -810,7 +810,7 @@ Changes 2.10.4
 From: Tobi
 * More BigFloat portability fixes
 
-Changes 2.10.3
+Changes 2.10.3 (2003/09/11)
 --------------
 From: Tobi
 * Can only use BigFloat in perl > 5.6.1
@@ -825,7 +825,7 @@ Changes 2.10.1
 From: Tobi
 * make snmp_session work with old perls
 
-Changes 2.10.0
+Changes 2.10.0 (2003/09/23)
 --------------
 From: Simon Leinen <simon location limmat.switch.ch>
 * New Version of SNMP Library (0.97)
@@ -987,7 +987,7 @@ From: Tobi
 From: Fernando Nieto <fnieto location satec.es>
 * make cfgmaker handle highspeed interface speed better
 
-Changes 2.9.27
+Changes 2.9.27 (2003/04/12)
 --------------
 From: Gordon Tetlow <gordon location FreeBSD.org>
 * allow unsetting of Unscaled, WithPeak, and Suppress
@@ -1035,7 +1035,7 @@ From: Ambrose Li <a.c.li location ieee.org>
 From: Norbert Klasen <norbert.klasen location avinci.de>
 *  strings for sys* are too long in cfgmaker use snmpwalk
 
-Changes 2.9.26
+Changes 2.9.26 (2002/11/17)
 --------------
 From: André Silveira <ASilveira location multirede.com.br>
 * with thresholds ... have two decimals in % mode
@@ -1070,7 +1070,7 @@ From: Fernando Nieto <fnieto location satec.es>
 From: "Davids, Ronald" <Ronald.Davids location Essent.nl>
 * make output of cfgmaker such that indexmaker will sort propperly
 
-Changes 2.9.25
+Changes 2.9.25 (2002/10/19)
 --------------
 * die gracefully when LANG is set to UTF-8 and give advice (RedHat 8)
 * updated squid monitoring example
@@ -1283,7 +1283,7 @@ From: dima location Chg.RU
 From: Amir Guindehi <amir location datacore.ch>
  * added missing prefix to flastmod in indexmaker
 
-Changes 2.9.18pre2
+Changes 2.9.18pre2 (2002/05/31)
 ------------------
 
 From: Tobi
@@ -1322,19 +1322,19 @@ From: "Leitch, Roger (CRTLDN)" <Roger.Leitch location concert.com>
 From: Roman Festchook <roma location polesye.net>
  * translation file for mrtg to ukrainian language
 
-Changes 2.9.17
+Changes 2.9.17 (2001/06/05)
 --------------
 From: Tobi
  * mrtg_lib had broken scanning for Ip tables in populateconfcache
    this caused reference by IP to break
 
-Changes 2.9.16
+Changes 2.9.16 (2001/06/05)
 --------------
 From: Tobi
  * Removed win32::console from daemon mode mrtg
  * updated docu to get nt mrtg started with wperl instead of perl ...
 
-Changes 2.9.15
+Changes 2.9.15 (2001/06/04)
 --------------
 From: Tobi
  * new rateup.exe which creates pngs ... created using a mingw32
@@ -1349,14 +1349,14 @@ From: Tobi
    also be set to 'eventlog' which will make all mrtg output go to the
    eventlog.
 
-Changes 2.9.14
+Changes 2.9.14 (2001/06/02)
 --------------
 From: Martin.Frys location newtonit.cz
  * fix for configure ... -lfreetrype will not work :-)
 From: Tobi
  * propper caching for new gd lib variant tests in configure.in
 
-Changes 2.9.13
+Changes 2.9.13 (2001/06/02)
 --------------
 From: Damien <damien location detonate.net>
  * contrib mrtg_php_portal
@@ -1398,18 +1398,19 @@ From: Tobi
 From: Jakob Ilves <jakob.ilves location oracle.com>
  * configuration templates for cfgmaker ... read the docs
  * fix for broken --dns-domain in cfgmaker
-Changes 2.9.12a
+
+Changes 2.9.12a (2001/04/25)
 ---------------
 From: Tobi
  * the windows binary  rateup.exe creates gif file ... fixed mrtg accordingly ...
  * no changes to unix mrtg
 
-Changes 2.9.12
+Changes 2.9.12 (2001/04/21)
 --------------
 From: Tobi & Jeff Frost <jeff location digitalpipe.net>
  * fix for broken RouterUptime[] configurable
 
-Changes 2.9.11
+Changes 2.9.11 (2001/04/17)
 --------------
 From: Mike Mitchell <Mike.Mitchell location sas.com>
  * fix for broken snmp with returns negative numbers for counters ...
@@ -1506,7 +1507,7 @@ From: Tobi
  * accept numbers starting with + comming from snmp
  * changed library version to  2.090009
 
-Changes 2.9.8
+Changes 2.9.8 (2000/02/16)
 -----------------
 From: Tobi
 
@@ -1563,7 +1564,7 @@ From: Anthony Fabian <anthony.fabian location comindico.com.au>
  * fixed threshold feature: threshprog was not getting the right parameters
    when called
 
-Changes 2.9.7
+Changes 2.9.7 (2001/01/02)
 -------------
 From: Tobi
  * improved scanning of results from external scripts ...
@@ -1583,14 +1584,14 @@ From: Simon
  * Upgrade to snmp_session.pm ... the beast was not reacting to udp packets
    coming from another interface of the router.
 
-Changes 2.9.6
+Changes 2.9.6 (2000/12/12)
 -------------
 From: Tobi
  * downgraded rateup code ... 2.9.5 was completely broken
  * fixed .pid fiel code ... now it should work, and double starts of mrtg
    will get prevented as well ...
 
-Changes 2.9.5
+Changes 2.9.5 (2000/12/12)
 -------------
 From: Jakob Ilves <jakob.ilves location oracle.com>
  * rewrote  --ifdesc in cfgmaker ... there are many more options now
@@ -1648,12 +1649,12 @@ From: Miroslaw.Maczka location bze.com.pl
 From: Tobi
 
 
-Changes 2.9.4
+Changes 2.9.4 ()
 -------------
 From: Curtis Doty <Curtis location GreenKey.net>
  * excess whitespace after cfgmaker ECHO line was wrecking havoc
 
-Changes 2.9.3
+Changes 2.9.3 (2000/10/27)
 -------------
 From: Andrew Farrior <afarrior location king.vc.cc.tx.us>
  + teach cfgmaker about catalyst port names
@@ -1695,7 +1696,7 @@ From: Chris Pepper <pepper location mail.reppep.com>
 From: Dan Harkless <mrtg location dilvish.speed.net>
  * spell fix for MRTG_lib.pm again ...
 
-Changes 2.9.2
+Changes 2.9.2 (2000/10/13)
 -------------
 From: Tobi
  * revisited and fixed forking code. mrtg was not stable when run as daemon
@@ -1717,7 +1718,7 @@ From: Dan Harkless <mrtg location dilvish.speed.net>
 From: Lars Christiansen <lcr location dk.uu.net>
  * get subif description on cisco hssi interfaces in cfgmaker
 
-Changes 2.9.0
+Changes 2.9.0 (2000/10/05)
 -------------
 
 * The rrdtool integration allows for massively increased logging
@@ -2321,7 +2322,7 @@ From: Tobi
  - shame on me ... all these nice translations and I forgot to update the MANIFEST ...
    now they are all in ...
 
-Changes 2.8.12
+Changes 2.8.12 (2000/02/07)
 --------------
 From: Tobi + Hoorelbeke Rik <rik.hoorelbeke location online.be>
  - make -M and -r work in indexmaker
@@ -3113,6 +3114,6 @@ Generate 3 graphs 24 hours, 7 days and 365 days of router traffic retrieved via 
 
 Log data in output file
 
-Simple command line program written in Perl genereates a web page for each input config file
+Simple command line program written in Perl generates a web page for each input config file
 
 Command line program is run every 5 minutes by scheduling it via cron
