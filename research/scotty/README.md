@@ -2,8 +2,9 @@
 
 https://sourceforge.net/p/tkined-scotty/wiki/Home/
 
-Latest source code is here:
-https://sourceforge.net/p/tkined-scotty/code/HEAD/tree/
+Latest source code is [here](https://sourceforge.net/p/tkined-scotty/code/HEAD/tree/)
+
+What looks like the current project on github is [here](https://github.com/flightaware/scotty)
 
 tkined was a port of an earlier graphical program called ined.
 The original ined editor was written by Thomas Birke birke@ibr.cs.tu-bs.de and Hinnerk Ruemenapf rueme@ibr.cs.tu-bs.de using the InterViews toolkit.
