@@ -3081,14 +3081,32 @@ are stupid anyway.
 -----
 Fixed ascendget script
 
+1.6
+---
+29/6/1995
+
+Support Tricklet & getone SNMP packages
+
+Configurable SNMP community string
+
+Graphs all equally wide. Now 31 hours in daily and 8 days in the weekly
+
+Support for multiple stats in the same graph
+
+First release with multiple contributors: Johannes Demel & Mike Convey
+
 1.1
 ---
+20/5/1995
+
 Small fixes to code and generated HTML
 
 Under Netscape, generated pages reload automatically
 
 1.0
 ---
+28/4/1995
+
 First version
 
 Generate 3 graphs 24 hours, 7 days and 365 days of router traffic retrieved via SNMP (cmu-snmp)
