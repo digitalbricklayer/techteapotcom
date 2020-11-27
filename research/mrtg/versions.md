@@ -1,3 +1,4 @@
+# MRTG Versions
 
 This file is a local version of this page: http://www.mrtg.cz/pub/CHANGES
 
@@ -3079,3 +3080,21 @@ are stupid anyway.
 2.0.1
 -----
 Fixed ascendget script
+
+1.1
+---
+Small fixes to code and generated HTML
+
+Under Netscape, generated pages reload automatically
+
+1.0
+---
+First version
+
+Generate 3 graphs 24 hours, 7 days and 365 days of router traffic retrieved via SNMP (cmu-snmp)
+
+Log data in output file
+
+Simple command line program written in Perl genereates a web page for each input config file
+
+Command line program is run every 5 minutes by scheduling it via cron
