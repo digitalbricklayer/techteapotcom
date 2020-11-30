@@ -54,6 +54,8 @@ Found [this succinct listing of MRTG versions](http://www.mrtg.cz/pub/CHANGES) (
 
 Example [here](https://www.noao.edu/kpno/router-stats/readme.html) with some history of MRTG.
 
+First reference I can find on Google Books is in 1998 in SysAdmin: The Journal for UNIX Administrators. See https://books.google.co.uk/books?id=WUlVAAAAMAAJ&q=mrtg&dq=mrtg&hl=en&sa=X&ved=2ahUKEwius4zfjartAhVpRhUIHcyEAck4FBDoATACegQIBRAC the article is about diagnosing a NFS problem using MRTG to show that a network link is overloaded.
+
 ## Outstanding research
 
 * Most significant milestone releases - when did major features ship?
