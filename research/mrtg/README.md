@@ -54,9 +54,17 @@ Found [this succinct listing of MRTG versions](http://www.mrtg.cz/pub/CHANGES) (
 
 Example [here](https://www.noao.edu/kpno/router-stats/readme.html) with some history of MRTG.
 
-## Outstanding Research
+## Outstanding research
 
 * Most significant milestone releases - when did major features ship?
 * Most significate contributors - what were the contributors doing? Were they sysadmins doing their job using MRTG?
 * Project activity - when did the project reach its peak and when did it start to lose momentum
 * Diff all of the releases to gauge the changes
+
+## Post ideas
+
+* A disection of MRTG v1.0
+* Open source when v1.0 emerged and the state of the internet at the time
+* A disection of v2.0 rateup
+* A disection of the first version to introduce rrdtool
+* MRTG: a history
