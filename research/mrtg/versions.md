@@ -3082,9 +3082,8 @@ are stupid anyway.
 -----
 Fixed ascendget script
 
-1.6
+1.6 (29/6/1995)
 ---
-29/6/1995
 
 Support Tricklet & getone SNMP packages
 
@@ -3096,17 +3095,15 @@ Support for multiple stats in the same graph
 
 First release with multiple contributors: Johannes Demel & Mike Convey
 
-1.1
+1.1 (20/5/1995)
 ---
-20/5/1995
 
 Small fixes to code and generated HTML
 
 Under Netscape, generated pages reload automatically
 
-1.0
+1.0 (28/4/1995)
 ---
-28/4/1995
 
 First version
 

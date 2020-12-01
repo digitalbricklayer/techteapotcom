@@ -56,6 +56,8 @@ Example [here](https://www.noao.edu/kpno/router-stats/readme.html) with some his
 
 First reference I can find on Google Books is in 1998 in SysAdmin: The Journal for UNIX Administrators. See https://books.google.co.uk/books?id=WUlVAAAAMAAJ&q=mrtg&dq=mrtg&hl=en&sa=X&ved=2ahUKEwius4zfjartAhVpRhUIHcyEAck4FBDoATACegQIBRAC the article is about diagnosing a NFS problem using MRTG to show that a network link is overloaded.
 
+Interesting example of MRTG site circa 2000 [here](http://mrtg.xidus.net/). Has an example of an old config file with a lot of interesting stuff in it.
+
 ## Outstanding research
 
 * Most significant milestone releases - when did major features ship?
