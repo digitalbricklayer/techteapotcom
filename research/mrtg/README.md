@@ -58,6 +58,8 @@ First reference I can find on Google Books is in 1998 in SysAdmin: The Journal f
 
 Interesting example of MRTG site circa 2000 [here](http://mrtg.xidus.net/). Has an example of an old config file with a lot of interesting stuff in it.
 
+Paper presented by Tobi Oetiker at LISA 98 is [here](https://www.usenix.org/legacy/event/lisa98/full_papers/oetiker/oetiker.pdf) in PDF form.
+
 ## Outstanding research
 
 * Most significant milestone releases - when did major features ship?
