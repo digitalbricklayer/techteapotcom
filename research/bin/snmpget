@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+# Pretent to interact with a SNMP device and return dummy data
+
+for var in "${@:5}"
+do
+    echo "$RANDOM"
+done
