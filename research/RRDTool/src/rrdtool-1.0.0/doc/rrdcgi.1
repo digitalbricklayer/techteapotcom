@@ -1,0 +1,342 @@
+.rn '' }`
+''' $RCSfile$$Revision$$Date$
+'''
+''' $Log$
+'''
+.de Sh
+.br
+.if t .Sp
+.ne 5
+.PP
+\fB\\$1\fR
+.PP
+..
+.de Sp
+.if t .sp .5v
+.if n .sp
+..
+.de Ip
+.br
+.ie \\n(.$>=3 .ne \\$3
+.el .ne 3
+.IP "\\$1" \\$2
+..
+.de Vb
+.ft CW
+.nf
+.ne \\$1
+..
+.de Ve
+.ft R
+
+.fi
+..
+'''
+'''
+'''     Set up \*(-- to give an unbreakable dash;
+'''     string Tr holds user defined translation string.
+'''     Bell System Logo is used as a dummy character.
+'''
+.tr \(*W-|\(bv\*(Tr
+.ie n \{\
+.ds -- \(*W-
+.ds PI pi
+.if (\n(.H=4u)&(1m=24u) .ds -- \(*W\h'-12u'\(*W\h'-12u'-\" diablo 10 pitch
+.if (\n(.H=4u)&(1m=20u) .ds -- \(*W\h'-12u'\(*W\h'-8u'-\" diablo 12 pitch
+.ds L" ""
+.ds R" ""
+'''   \*(M", \*(S", \*(N" and \*(T" are the equivalent of
+'''   \*(L" and \*(R", except that they are used on ".xx" lines,
+'''   such as .IP and .SH, which do another additional levels of
+'''   double-quote interpretation
+.ds M" """
+.ds S" """
+.ds N" """""
+.ds T" """""
+.ds L' '
+.ds R' '
+.ds M' '
+.ds S' '
+.ds N' '
+.ds T' '
+'br\}
+.el\{\
+.ds -- \(em\|
+.tr \*(Tr
+.ds L" ``
+.ds R" ''
+.ds M" ``
+.ds S" ''
+.ds N" ``
+.ds T" ''
+.ds L' `
+.ds R' '
+.ds M' `
+.ds S' '
+.ds N' `
+.ds T' '
+.ds PI \(*p
+'br\}
+.\"	If the F register is turned on, we'll generate
+.\"	index entries out stderr for the following things:
+.\"		TH	Title 
+.\"		SH	Header
+.\"		Sh	Subsection 
+.\"		Ip	Item
+.\"		X<>	Xref  (embedded
+.\"	Of course, you have to process the output yourself
+.\"	in some meaninful fashion.
+.if \nF \{
+.de IX
+.tm Index:\\$1\t\\n%\t"\\$2"
+..
+.nr % 0
+.rr F
+.\}
+.TH RRDCGI 1 "rrdtool-1.0.0" "15/Jul/99" "rrdtool"
+.UC
+.if n .hy 0
+.if n .na
+.ds C+ C\v'-.1v'\h'-1p'\s-2+\h'-1p'+\s0\v'.1v'\h'-1p'
+.de CQ          \" put $1 in typewriter font
+.ft CW
+'if n "\c
+'if t \\&\\$1\c
+'if n \\&\\$1\c
+'if n \&"
+\\&\\$2 \\$3 \\$4 \\$5 \\$6 \\$7
+'.ft R
+..
+.\" @(#)ms.acc 1.5 88/02/08 SMI; from UCB 4.2
+.	\" AM - accent mark definitions
+.bd B 3
+.	\" fudge factors for nroff and troff
+.if n \{\
+.	ds #H 0
+.	ds #V .8m
+.	ds #F .3m
+.	ds #[ \f1
+.	ds #] \fP
+.\}
+.if t \{\
+.	ds #H ((1u-(\\\\n(.fu%2u))*.13m)
+.	ds #V .6m
+.	ds #F 0
+.	ds #[ \&
+.	ds #] \&
+.\}
+.	\" simple accents for nroff and troff
+.if n \{\
+.	ds ' \&
+.	ds ` \&
+.	ds ^ \&
+.	ds , \&
+.	ds ~ ~
+.	ds ? ?
+.	ds ! !
+.	ds /
+.	ds q
+.\}
+.if t \{\
+.	ds ' \\k:\h'-(\\n(.wu*8/10-\*(#H)'\'\h"|\\n:u"
+.	ds ` \\k:\h'-(\\n(.wu*8/10-\*(#H)'\`\h'|\\n:u'
+.	ds ^ \\k:\h'-(\\n(.wu*10/11-\*(#H)'^\h'|\\n:u'
+.	ds , \\k:\h'-(\\n(.wu*8/10)',\h'|\\n:u'
+.	ds ~ \\k:\h'-(\\n(.wu-\*(#H-.1m)'~\h'|\\n:u'
+.	ds ? \s-2c\h'-\w'c'u*7/10'\u\h'\*(#H'\zi\d\s+2\h'\w'c'u*8/10'
+.	ds ! \s-2\(or\s+2\h'-\w'\(or'u'\v'-.8m'.\v'.8m'
+.	ds / \\k:\h'-(\\n(.wu*8/10-\*(#H)'\z\(sl\h'|\\n:u'
+.	ds q o\h'-\w'o'u*8/10'\s-4\v'.4m'\z\(*i\v'-.4m'\s+4\h'\w'o'u*8/10'
+.\}
+.	\" troff and (daisy-wheel) nroff accents
+.ds : \\k:\h'-(\\n(.wu*8/10-\*(#H+.1m+\*(#F)'\v'-\*(#V'\z.\h'.2m+\*(#F'.\h'|\\n:u'\v'\*(#V'
+.ds 8 \h'\*(#H'\(*b\h'-\*(#H'
+.ds v \\k:\h'-(\\n(.wu*9/10-\*(#H)'\v'-\*(#V'\*(#[\s-4v\s0\v'\*(#V'\h'|\\n:u'\*(#]
+.ds _ \\k:\h'-(\\n(.wu*9/10-\*(#H+(\*(#F*2/3))'\v'-.4m'\z\(hy\v'.4m'\h'|\\n:u'
+.ds . \\k:\h'-(\\n(.wu*8/10)'\v'\*(#V*4/10'\z.\v'-\*(#V*4/10'\h'|\\n:u'
+.ds 3 \*(#[\v'.2m'\s-2\&3\s0\v'-.2m'\*(#]
+.ds o \\k:\h'-(\\n(.wu+\w'\(de'u-\*(#H)/2u'\v'-.3n'\*(#[\z\(de\v'.3n'\h'|\\n:u'\*(#]
+.ds d- \h'\*(#H'\(pd\h'-\w'~'u'\v'-.25m'\f2\(hy\fP\v'.25m'\h'-\*(#H'
+.ds D- D\\k:\h'-\w'D'u'\v'-.11m'\z\(hy\v'.11m'\h'|\\n:u'
+.ds th \*(#[\v'.3m'\s+1I\s-1\v'-.3m'\h'-(\w'I'u*2/3)'\s-1o\s+1\*(#]
+.ds Th \*(#[\s+2I\s-2\h'-\w'I'u*3/5'\v'-.3m'o\v'.3m'\*(#]
+.ds ae a\h'-(\w'a'u*4/10)'e
+.ds Ae A\h'-(\w'A'u*4/10)'E
+.ds oe o\h'-(\w'o'u*4/10)'e
+.ds Oe O\h'-(\w'O'u*4/10)'E
+.	\" corrections for vroff
+.if v .ds ~ \\k:\h'-(\\n(.wu*9/10-\*(#H)'\s-2\u~\d\s+2\h'|\\n:u'
+.if v .ds ^ \\k:\h'-(\\n(.wu*10/11-\*(#H)'\v'-.4m'^\v'.4m'\h'|\\n:u'
+.	\" for low resolution devices (crt and lpr)
+.if \n(.H>23 .if \n(.V>19 \
+\{\
+.	ds : e
+.	ds 8 ss
+.	ds v \h'-1'\o'\(aa\(ga'
+.	ds _ \h'-1'^
+.	ds . \h'-1'.
+.	ds 3 3
+.	ds o a
+.	ds d- d\h'-1'\(ga
+.	ds D- D\h'-1'\(hy
+.	ds th \o'bp'
+.	ds Th \o'LP'
+.	ds ae ae
+.	ds Ae AE
+.	ds oe oe
+.	ds Oe OE
+.\}
+.rm #[ #] #H #V #F C
+.SH "NAME"
+rrdcgi \- create web pages containing RRD graphs based on templates
+.SH "SYNOPSIS"
+#!/path/to/\fBrrdcgi\fR 
+[\fB--goodfor\fR|\fB\-g\fR\ \fIseconds\fR]
+[\fB--filter\fR]
+[\fB--refresh\fR|\fB\-r\fR]
+.SH "DESCRIPTION"
+\fBrrdcgi\fR is a sort of very limited script interpreter. Its purpose
+is to run as a cgi-program and parse a web page template containing special
+<RRD:: tags. \fBrrdcgi\fR will interpret and act according to these tags.
+In the end it will printout a web page including the necessary CGI headers.
+.PP
+\fBrrdcgi\fR parses the contents of the template in 2 steps. In each step it looks
+only for a subset of tags. This allows to nest tags. 
+.PP
+The argument parser uses the same semantics as you are used from your c shell.
+.Ip "\fB--goodfor\fR|\fB\-g\fR \fIseconds\fR" 8
+Specify the number of seconds this page should remain valid. This will prompt
+the rrdcgi to output a Last-Modified and a Expire header.
+.Ip "\fB--filter\fR" 8
+Assume that rrdcgi is being run as a filter and not as a cgi.
+.Ip "\fB--refresh\fR|\fB\-r\fR" 8
+If the \fB--goodfor\fR flag is specified, then \fB--refresh\fR will cause rrdcgi
+to output a Refresh header with the value of the \fB--goodfor\fR value.
+.Sh "Pass 1"
+.Ip "\s-1RRD::CV\s0 \fIname\fR" 8
+Inserts the \s-1CGI\s0 variable of the given name.
+.Ip "\s-1RRD::CV::QUOTE\s0 \fIname\fR" 8
+Inserts the \s-1CGI\s0 variable of the given name but quotes it, ready for
+use as an argument in another \s-1RRD\s0:: tag. So even when there are spaces in the
+value of the \s-1CGI\s0 variable it will still be considered as one argument.
+.Ip "\s-1RRD::CV::PATH\s0 \fIname\fR" 8
+Inserts the \s-1CGI\s0 variable of the given name, quotes it and makes sure
+the it starts neither with a \*(L'/\*(R' nor contains \*(L'..\*(R'. This is to make
+sure that no problematic pathnames can be introduced through the 
+\s-1CGI\s0 interface.
+.Sh "Pass 2"
+.Ip "\s-1RRD::INCLUDE\s0 \fIfilename\fR" 8
+Include the contents of the given file into the page returned from the cgi
+.Sh "Pass 3"
+.Ip "\s-1RRD::GRAPH\s0 \fIrrdgraph arguments\fR" 8
+This tag creates the \s-1RRD\s0 graph defined in its argument and then gets
+replaced by an appropriate <\s-1IMG\s0> tag referring to the graph.
+The \fB--lazy\fR option in \s-1RRD\s0 graph can be used to make sure that graphs
+are only regenerated when they are out of date. The arguments
+to the \fB\s-1RRD::GRAPH\s0\fR tag work as described in the \fBrrdgraph\fR manual page.
+.Sp
+Use the \fB--lazy\fR option in your \s-1RRD::GRAPH\s0 tags, to reduce the load
+on your server. This option makes sure that graphs are only regenerated when
+the old ones are out of date.
+.Sp
+If you do not specify your own \fB--imginfo\fR format, the following will
+be used:
+.Sp
+.Vb 1
+\& <IMG SRC="%s" WIDTH="%lu" HEIGHT="%lu">
+.Ve
+Note that \f(CW%s\fR stands for the filename part of the graph generated, all
+directories given in the \s-1GIF\s0 file argument will get dropped.
+.Ip "\s-1RRD::PRINT\s0 \fInumber\fR" 8
+If the preceding  \fB\s-1RRD::GRAPH\s0\fR tag contained and \fB\s-1PRINT\s0\fR arguments,
+then you can access their output with this tag. The \fInumber\fR argument refers to the
+number of the \fB\s-1PRINT\s0\fR argument. This first \fB\s-1PRINT\s0\fR has \fInumber\fR 0.
+.SH "EXAMPLE"
+The example below creates a web pages with a single RRD graph.
+.PP
+.Vb 9
+\& #!/usr/local/bin/rrdcgi
+\& <HTML>
+\& <HEAD><TITLE>RRDCGI Demo</TITLE></HEAD>
+\& <BODY>
+\& <H1>RRDCGI Example Page</H1>
+\& <P>
+\& <RRD::GRAPH demo.gif --lazy --title="Temperatures"
+\&          DEF:cel=demo.rrd:exhaust:AVERAGE
+\&          LINE2:cel#00a000:"D. Celsius">
+.Ve
+.Vb 3
+\& </P>
+\& </BODY>
+\& </HTML>
+.Ve
+.SH "EXAMPLE 2"
+This script is slightly more elaborate, it allows you to run it from 
+a form which sets RRD_NAME. RRD_NAME is then used to select which RRD
+you want to use a source for your graph.
+.PP
+.Vb 15
+\& #!/usr/local/bin/rrdcgi
+\& <HTML>
+\& <HEAD><TITLE>RRDCGI Demo</TITLE></HEAD>
+\& <BODY>
+\& <H1>RRDCGI Example Page for <RRD::CV RRD_NAME></H1>
+\& <H2>Selection</H2>
+\& <FORM><INPUT NAME=RRD_NAME TYPE=RADIO VALUE=roomA> Room A,
+\&       <INPUT NAME=RRD_NAME TYPE=RADIO VALUE=roomB> Room B.
+\&       <INPUT TYPE=SUBMIT></FORM>
+\& <H2>Graph</H2>
+\& <P>
+\& <RRD::GRAPH <RRD::CV::PATH RRD_NAME>.gif --lazy 
+\&          --title "Temperatures for "<RRD::CV::QUOTE RRD_NAME>
+\&          DEF:cel=<RRD::CV::PATH RRD_NAME>.rrd:exhaust:AVERAGE
+\&          LINE2:cel#00a000:"D. Celsius">
+.Ve
+.Vb 3
+\& </P>
+\& </BODY>
+\& </HTML>
+.Ve
+.SH "AUTHOR"
+Tobias Oetiker <oetiker@ee.ethz.ch>
+
+.rn }` ''
+.IX Title "RRDCGI 1"
+.IX Name "rrdcgi - create web pages containing RRD graphs based on templates"
+
+.IX Header "NAME"
+
+.IX Header "SYNOPSIS"
+
+.IX Header "DESCRIPTION"
+
+.IX Item "\fB--goodfor\fR|\fB\-g\fR \fIseconds\fR"
+
+.IX Item "\fB--filter\fR"
+
+.IX Item "\fB--refresh\fR|\fB\-r\fR"
+
+.IX Subsection "Pass 1"
+
+.IX Item "\s-1RRD::CV\s0 \fIname\fR"
+
+.IX Item "\s-1RRD::CV::QUOTE\s0 \fIname\fR"
+
+.IX Item "\s-1RRD::CV::PATH\s0 \fIname\fR"
+
+.IX Subsection "Pass 2"
+
+.IX Item "\s-1RRD::INCLUDE\s0 \fIfilename\fR"
+
+.IX Subsection "Pass 3"
+
+.IX Item "\s-1RRD::GRAPH\s0 \fIrrdgraph arguments\fR"
+
+.IX Item "\s-1RRD::PRINT\s0 \fInumber\fR"
+
+.IX Header "EXAMPLE"
+
+.IX Header "EXAMPLE 2"
+
+.IX Header "AUTHOR"
+
