@@ -1,6 +1,6 @@
 ---
-title: "MRTG In Depth"
-date: "2020-11-23"
+title: "A look at how MRTG v1.0 stored time series data"
+date: "2021-01-11"
 categories:
   - Open Source
   - Network Management
@@ -8,7 +8,7 @@ tags:
   - MRTG
 series:
   - In Depth
-summary: "An in depth examination of the MRTG project history, architecture and implementation and how it has evolved over the past 25 years."
+summary: "An in depth examination of the time series storage at the heart of MRTG v1.0."
 draft: true
 ---
 
@@ -16,7 +16,7 @@ draft: true
 
 ## Introduction
 
-MRTG is an open source network management tool originally developed by Tobias Oetiker in the spring of 1995 whilst he was working as a system administrator at De Montfort University, UK.
+MRTG is an open source network management tool originally developed by Tobias Oetiker in the spring of 1995 whilst he was working as a system administrator at De Montfort University, Leicester, UK.
 
 MRTG appeared just at the time that it was possible for it to exist. Perl had to exist, cmu-snmp had to exist and netpbm had to exist too. Without these things existing and the wherewithall to distribute them freely, MRTG would either not have existed at all or would have been a small local utility inside De Montfort University.
 
@@ -46,7 +46,7 @@ Dependencies:
 
 * cmu-snmp - a set of command line tools for interacting with SNMP enabled devices as well as an extensible SNMP agent (eventually morphed into [ucd-snmp and then net-snmp](http://www.net-snmp.org/about/history.html)
 * netpbm - a [very old set of command line tools](http://netpbm.sourceforge.net/) for image manipulation harking back to the 1980s when a vast number of image formats proliferated and a desperate need emerged to be able to convert between all of the different formats
-* perl - the undisputed language of the web back in the early days of the internet
+* perl - the undisputed language of the web back in the 1990s
 * cron - a unix tool for running episodic jobs on unix systems. MRTG expects to be run every 5 minutes
 
 Time series output
