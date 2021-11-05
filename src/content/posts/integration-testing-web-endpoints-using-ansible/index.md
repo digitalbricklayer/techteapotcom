@@ -13,3 +13,9 @@ An outline of the potential strategies for adding integration tests to your Ansi
 web server and then implemented simple testing of the web endpoint prior to deployment.
 
 Text goes here...
+
+https://www.unixarena.com/2019/05/passing-variable-from-one-playbook-to-another-playbook-ansible.html/
+
+https://serverfault.com/questions/962040/sharing-ansible-variable-between-plays
+
+https://docs.ansible.com/ansible/latest/collections/ansible/builtin/set_stats_module.html
