@@ -20,6 +20,14 @@ The imperative to know your system is in a working state is only amplified if yo
 
 Relying solely on the Ansible built-in checks is unlikely to be sufficient to ensure that you don't deploy to production a broken system.
 
+## Test the system
+
+Luckily with web systems their are plenty of free tools available to intereact with web systems. These tools can be used to check that the website is behaving in ways we expect.
+
+At the simplest level, just checking that the website homepage returns a 200 HTTP status code would be a good start. It doesn't guarantee what the content that is being returned, but at least you know something is responding.
+
+From the simplest tests, you can then expand outward to more comprehensive tests.
+
 Text goes here...
 
 https://www.unixarena.com/2019/05/passing-variable-from-one-playbook-to-another-playbook-ansible.html/
