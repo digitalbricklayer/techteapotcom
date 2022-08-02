@@ -8,7 +8,7 @@ series: ["Reading Log"]
 
 It has been a strange year. Reading wise it has been slightly above average with another good year for non-fiction. Not sure why non-fiction is doing so well. I just find books that cast a light into areas I don't know well absolutely compelling. If the unread books on my kindle are any guide, then I doubt this trend will be going away any time soon.
 
-This year the highlight was definetely ***Britain B.C.*** by Francis Pryor. I wouldn't usually touch a TV show tie in with a barge pole but this one is superb. The book opened up the early story of Britain in a wonderfully evocative way. It is fair to say that the writings of Mr. Pryor have dominated my first lockdown and did much to make it rather more bearable.
+This year the highlight was definitely ***Britain B.C.*** by Francis Pryor. I wouldn't usually touch a TV show tie in with a barge pole but this one is superb. The book opened up the early story of Britain in a wonderfully evocative way. It is fair to say that the writings of Mr. Pryor have dominated my first lockdown and did much to make it rather more bearable.
 
 Fiction wise I did well too. My highlight was ***The Fifth Season*** by N.K. Jemison.  
 
