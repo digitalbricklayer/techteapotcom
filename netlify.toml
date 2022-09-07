@@ -8,7 +8,7 @@
 
   # Default build command - build production site. Can be overriden below for
   # specific branches.
-  command = "hugo"
+  command = "hugo --environment development"
 
 [build.environment]
   HUGO_VERSION = "0.102.2"
@@ -16,7 +16,3 @@
 # Production context: this is the live website (master branch)
 [context.production]
   command = "hugo --environment production --minify"
-
-# 'develop' is the branch where site development happens
-[context."feat/src"]
-  command = "hugo --environment development"
