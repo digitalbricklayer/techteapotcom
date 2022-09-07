@@ -10,12 +10,12 @@
   # specific branches.
   command = "hugo"
 
+[build.environment]
+  HUGO_VERSION = "0.102.2"
+
 # Production context: this is the live website (master branch)
 [context.production]
   command = "hugo --environment production --minify"
-
-[context.production.environment]
-  HUGO_VERSION = "0.102.2"
 
 # 'develop' is the branch where site development happens
 [context."feat/src"]
