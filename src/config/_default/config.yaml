@@ -9,7 +9,7 @@ taxonomies:
   tag: tags
   series: series
 disqusShortname: "techteapot-com"
-googleAnalytics: "UA-71383-41"
+googleAnalytics: ""   # No GA tracking
 enableRobotsTXT: true
 frontmatter:
   lastmod: ["lastmod", ":default"]
