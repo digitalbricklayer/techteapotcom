@@ -8,7 +8,7 @@ taxonomies:
   category: categories
   tag: tags
   series: series
-disqusShortname: "techteapot-com"
+disqusShortname: ""   # No comments
 googleAnalytics: ""   # No GA tracking
 enableRobotsTXT: true
 frontmatter:
