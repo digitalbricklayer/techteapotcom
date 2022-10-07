@@ -18,7 +18,7 @@ It wouldn't be too difficult to determine whether you should automate if you kne
 
 The size of the job plainly has a very big part to play in the decision to automate. If the job is small, then you almost certainly aren't going to save yourself much time if any time. On the other hand, a job with many thousands or even millions of items would be unthinkable to do manually.
 
-The problem lies in the middle. If there are from the mid hundreds to the low thousands. It is entirely possible that you could manually undertake the process with the minimum of automation. But, it is always tempting to think there is some easier way to do it. Especially when faced with a tedious and often extremely boring process to carry out.
+The problem lies in the middle. It is entirely possible that you could manually undertake the process with the minimum of automation. But it is always tempting to think there is some easier way to do it. Especially when faced with a tedious and often extremely boring process to carry out.
 
 ## Partial automation
 
