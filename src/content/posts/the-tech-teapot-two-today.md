@@ -23,7 +23,6 @@ A selection of some of my favourite posts from the last year:
 	<li> <a title="Permanent Link to Open source software from a VAR perspective" rel="bookmark" href="{{< ref "/posts/open-source-software-from-a-var-perspective.md" >}}">Open source software from a VAR perspective</a></li>
 	<li> <a title="Permanent Link to My first job" rel="bookmark" href="{{< ref "/posts/my-first-job.md" >}}">My first job</a></li>
 	<li> <a title="Permanent Link to Where is Java's CPAN?" rel="bookmark" href="{{< ref "/posts/where-is-javas-cpan.md" >}}">Where is Java's CPAN?</a></li>
-	<li> <a title="Permanent Link to Cabling as data centre art" rel="bookmark" href="{{< ref "/posts/cabling-as-data-centre-art.md" >}}">Cabling as data centre art</a></li>
 	<li> <a title="Permanent Link to Programmer middle age" rel="bookmark" href="{{< ref "/posts/programmer-middle-age.md" >}}">Programmer middle age</a></li>
 	<li> <a title="Permanent Link to Ain't no such thing as SMB class kit" rel="bookmark" href="{{< ref "/posts/aint-no-such-thing-as-smb-class-kit.html" >}}">Ain't no such thing as SMB class kit</a></li>
 	<li> <a title="Permanent Link to Lessons learnt writing open source software" rel="bookmark" href="{{< ref "/posts/lessons-learnt-writing-open-source-software.md" >}}">Lessons learnt writing open source software</a></li>
