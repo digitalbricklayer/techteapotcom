@@ -8,7 +8,7 @@ aliases: [/ultimate-low-power-server/]
 
 Want a home server but don't want the electric bills that come from leaving a high powered machine on all of the time? Help is at hand.
 
-The <a href="http://www.fit-pc.com/">fit-PC</a> is a miniature, noiseless, extremely power efficient PC capable of running either Windows XP or Linux. And there's built in WiFi too.
+The [fit-PC](http://www.fit-pc.com/) is a miniature, noiseless, extremely power efficient PC capable of running either Windows XP or Linux. And there's built in WiFi too.
 
 {{< gallery match="images/*"
             sortOrder="desc"
