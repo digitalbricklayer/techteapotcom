@@ -6,7 +6,7 @@ tags: [dia, visio]
 aliases: [/dia-the-open-source-visio/]
 ---
 
-If you need to create quick and easy diagrams but can't justify a full priced tool like <a href="http://www.smartdraw.com/">SmartDraw</a> or <a href="http://office.microsoft.com/visio">Visio</a> then you're in luck. <a href="http://projects.gnome.org//dia/">Dia is an open source diagramming tool</a> that will make a welcome addition to your diagramming toolkit.
+If you need to create quick and easy diagrams but can't justify a full priced tool like [SmartDraw](http://www.smartdraw.com/) or [Visio](http://office.microsoft.com/visio) then you're in luck. [Dia is an open source diagramming tool](http://projects.gnome.org/dia/) that will make a welcome addition to your diagramming toolkit.
 
 <!--more-->
 
