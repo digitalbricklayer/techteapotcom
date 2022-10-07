@@ -6,6 +6,8 @@ tags: [comparison, "Groundwork Open Source", Hyperic, Nagios, "OpenNMS", Zabbix,
 aliases: [/a-perspective-on-open-source-network-monitoring-tools/]
 ---
 
-...by <a href="http://agiletesting.blogspot.com/">Grig Gheorghiu</a> over on the Agile Testing blog: <a href="http://agiletesting.blogspot.com/2008/11/sad-state-of-open-source-monitoring.html">The sad state of open source monitoring tools</a>.
-<blockquote><em><strong>"I wish there was a standard nomenclature for this stuff, as well as a standard way for these tools to inter-operate. As it is, you have to learn each tool and train your brain to ignore all the weirdness that it encounters."</strong></em></blockquote>
+...by [Grig Gheorghiu](http://agiletesting.blogspot.com/) over on the Agile Testing blog: [The sad state of open source monitoring tools](http://agiletesting.blogspot.com/2008/11/sad-state-of-open-source-monitoring.html).
+
+> I wish there was a standard nomenclature for this stuff, as well as a standard way for these tools to inter-operate. As it is, you have to learn each tool and train your brain to ignore all the weirdness that it encounters.
+
 One of the problems with I.T. is the absence of a standard terminology. It would make things a lot easier if everybody used a standard set of terminology. Kinda hard to see how this can be imposed though. I guess over time a standard terminology will just evolve after the industry has matured a little more.
