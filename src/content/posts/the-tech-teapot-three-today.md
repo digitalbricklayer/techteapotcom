@@ -6,14 +6,16 @@ tags: []
 aliases: [/the-tech-teapot-three-today/]
 ---
 
-<img class="alignright size-full wp-image-1510" title="The Tech Teapot Third Birthday Cake" src="/images/uploads/2009/11/phpRrWWSsAM.jpg" alt="The Tech Teapot Third Birthday Cake" width="233" height="350" align="right" />The Tech Teapot is three years old today. Well, if you want to be pedantic, it was three years old last Thursday but I forgot all about it!
+{{< figure src="/images/uploads/2009/11/phpRrWWSsAM.jpg#floatright" alt="The Tech Teapot Third Birthday Cake" >}}
+
+The Tech Teapot is three years old today. Well, if you want to be pedantic, it was three years old last Thursday but I forgot all about it!
 
 A selection of my favourite posts from the last year:
-<ul>
- 	<li><a title="Permanent Link to Open source network management buzz comparison 2008" href="{{< ref "/posts/open-source-network-management-buzz-comparison-2008.md" >}}" rel="bookmark">Open source network management buzz comparison 2008</a></li>
- 	<li><a title="Permanent Link to Tivoli vs open source network management buzz 2008" href="{{< ref "/posts/tivoli-vs-open-source-network-management-buzz-2008.md" >}}" rel="bookmark">Tivoli vs open source network management buzz 2008</a></li>
- 	<li><a title="Permanent Link to Open source network management activity comparison" href="{{< ref "/posts/open-source-network-management-activity-comparison.md" >}}" rel="bookmark">Open source network management activity comparison</a></li>
-</ul>
+
+- [Open source network management buzz comparison 2008]({{< ref "/posts/open-source-network-management-buzz-comparison-2008.md" >}})
+- [Tivoli vs open source network management buzz 2008]({{< ref "/posts/tivoli-vs-open-source-network-management-buzz-2008.md" >}})
+- [Open source network management activity comparison]({{< ref "/posts/open-source-network-management-activity-comparison.md" >}})
+
 It has been a thin blogging year, mainly because my time has been squeezed by a combination of my regular work and TimeTag.
 
 Many thanks for reading over the last year.
