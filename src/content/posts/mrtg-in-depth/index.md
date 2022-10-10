@@ -1,7 +1,8 @@
 ---
-title: "A look at how MRTG v1.0 stored time series data"
+title: "An in-depth examination of MRTG v1.0"
 date: "2022-10-10"
-summary: "An in depth examination of the time series storage at the heart of MRTG v1.0."
+summary: "An in-depth examination of MRTG v1.0 and how it took advantage of the emerging public internet to conquer the world."
+thumbnail: "images/mrtg_logo.gif"
 categories:
   - Open Source
   - Network Management
@@ -11,8 +12,6 @@ series:
   - In Depth
 draft: true
 ---
-
-{{< figure src="images/mrtg_logo.gif#alignright" alt="MRTG Logo" >}}
 
 ## Introduction
 
