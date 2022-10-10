@@ -18,6 +18,7 @@ Before cable moves, it doesn't do any harm to make sure the label is up to date.
 A number of different technologies exist for tracing network cabling. Each technology has their plus points and their down sides too. A brief explanation of each technology will now follow outlining when each should be applied.
 
 ## Tone Tracing
+
 Tone tracing is pretty much as old as copper cabling itself. Tone tracing is the grand daddy of all cable tracer technologies. The basic idea is that at one end of the cable you place an electrical signal onto the cable, using a tone generator, and then trace that signal, using a tone tracer, in order to understand where the cable is located.
 
 It could not really be much simpler. Well unfortunately, it is simple in theory, and usually it really is that simple in practice, but there are some things in network cabling especially that manage to make things a little more complex.
