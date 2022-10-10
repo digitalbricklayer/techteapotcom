@@ -6,11 +6,12 @@ tags: []
 aliases: [/whither-met-office-openness-update/]
 ---
 
-A couple of months ago or so <a href="{{< ref "/posts/whither-met-office-openness.md" >}}">I lamented the fact that the raw temperature data from the UK met office is not publicly available</a>.
+A couple of months ago or so [I lamented the fact that the raw temperature data from the UK met office is not publicly available]({{< ref "/posts/whither-met-office-openness.md" >}}).
 
 I've just received some further feedback from the Met Office.
 
 I was partially wrong, there is a lot more information available than I thought. Here's a quote with a list of resources:
+
 <blockquote>
 <div><span style="font-family: Arial;"><span style="font-size: x-small;">There is a wide variety of historical information that is available on our website and information can also be obtained from our National Meteorological Library and Archive (see </span><a href="http://www.metoffice.gov.uk/corporate/library/index.html"><span style="font-size: x-small;">http://www.metoffice.gov.uk/corporate/library/index.html</span></a><span style="font-size: x-small;">).
 </span></span></div>
@@ -24,12 +25,13 @@ I was partially wrong, there is a lot more information available than I thought.
 </span><a href="http://hadobs.metoffice.com/hadukp/"><span style="font-family: Arial; font-size: x-small;">http://hadobs.metoffice.com/hadukp/</span></a></div>
 <div><span style="font-family: Arial; font-size: x-small;">Much of the above information is summarised on the following page.
 </span><span style="font-family: Arial; font-size: x-small;">http://www.metoffice.gov.uk/climate/uk/about/archives.html</span></div></blockquote>
+
 The problem, and the reason I'm only partially wrong, is that all of the above data is normalised and averaged. What I'd like are the raw readings from the weather stations themselves, information that is not available without charge.
 
 On the one hand I can understand why the information is charged for. The government sees a service that they have to provide for the armed services among others and then wonders whether they can offset some of the costs by selling services on the side.
 
 The main problem I can see is that innovation is stifled by restricting access to the raw data. At present the Met Office has a monopoly on the presentation and interpretation of the raw data. If the raw data is opened up then others would have the opportunity to present it in new innovative ways.
 
-I doubt that opening up the data would adversely affect the Met Office. My expectation is that most of their commercial customers are not interested in the raw data, they want the interpretation that the Met Office provide. Wouldn't it be better for the Met Office to win business not just because they are the <em>only</em> supplier, but because they are the best?
+I doubt that opening up the data would adversely affect the Met Office. My expectation is that most of their commercial customers are not interested in the raw data, they want the interpretation that the Met Office provide. Wouldn't it be better for the Met Office to win business not just because they are the *only* supplier, but because they are the best?
 
 Competition is good, and the Met Office should welcome it.
