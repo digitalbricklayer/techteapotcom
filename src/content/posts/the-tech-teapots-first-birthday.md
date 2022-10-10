@@ -25,3 +25,5 @@ Alan Lord -- blogger over at [The Open Sourcerer](http://www.theopensourcerer.co
 I'd better mention my OPENXTRA colleagues too (they *do* read this!). :smile:
 
 One thing I've learnt over the last year...blogging isn't as easy as some people make it look! Writing a good post takes far more time than I would have believed a year ago.
+
+**Update**: Lukas Beeler unfortunately died some time ago. Rest in peace and thank you.
