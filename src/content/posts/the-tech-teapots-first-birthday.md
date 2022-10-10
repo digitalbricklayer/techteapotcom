@@ -6,22 +6,22 @@ tags: []
 aliases: [/the-tech-teapots-first-birthday/]
 ---
 
-<img src="/images/uploads/2007/11/birthday-cake.jpg" alt="Happy birthday cake for the Tech Teapot" align="right" style="border-left:solid 4px white" />
+{{< figure src="/images/uploads/2007/11/birthday-cake.jpg#floatright" alt="Tech Teapot Logo" >}}
 
 The Tech Teapot, or as it was originally called, the OPENXTRA Blog is one year old today. Ten categories, 186 posts, 156 comments &amp; trackbacks and more tags than I care to count and we're still going strong.
 
 Thank you all for reading. A blog is nothing without readers and commenters. Extra special thanks to the following people:
 
-<a href="http://www.chrisg.com/about/">Chris Garrett</a> -- Sage <a href="http://www.chrisg.com/">advice on blogging</a>. Thanks Chris!
+[Chris Garrett](http://www.chrisg.com/about/) -- Sage [advice on blogging](http://www.chrisg.com/). Thanks Chris!
 
 Robert Aronsson -- creator of the Intellipool software and blog
 
-Tarus Balog -- principal for the <a href="https://www.opennms.org/">OpenNMS</a> project &amp; <a href="http://www.opennms.com/">business</a>
+Tarus Balog -- principal for the [OpenNMS](https://www.opennms.org/) project &amp; [business](http://www.opennms.com/)
 
-Alan Lord -- blogger over at <a href="http://www.theopensourcerer.com/">The Open Sourcerer</a>
+Alan Lord -- blogger over at [The Open Sourcerer](http://www.theopensourcerer.com/)
 
-<a href="http://web.archive.org/web/20131112094643/http://projectdream.org:80/wordpress/about/">Lukas Beeler</a> -- SMB IT blogger over at <a href="http://web.archive.org/web/20140817143458/http://projectdream.org/wordpress/">Lukas Beeler's IT Blog</a>
+[Lukas Beeler](http://web.archive.org/web/20131112094643/http://projectdream.org:80/wordpress/about/) -- SMB IT blogger over at [Lukas Beeler's IT Blog](http://web.archive.org/web/20140817143458/http://projectdream.org/wordpress/)
 
-I'd better mention my OPENXTRA colleagues too (they <em>do</em> read this!). :smile:
+I'd better mention my OPENXTRA colleagues too (they *do* read this!). :smile:
 
 One thing I've learnt over the last year...blogging isn't as easy as some people make it look! Writing a good post takes far more time than I would have believed a year ago.
