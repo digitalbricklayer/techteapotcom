@@ -1,6 +1,7 @@
 ---
 title: "A look at how MRTG v1.0 stored time series data"
-date: "2021-01-11"
+date: "2022-10-10"
+summary: "An in depth examination of the time series storage at the heart of MRTG v1.0."
 categories:
   - Open Source
   - Network Management
@@ -8,7 +9,6 @@ tags:
   - MRTG
 series:
   - In Depth
-summary: "An in depth examination of the time series storage at the heart of MRTG v1.0."
 draft: true
 ---
 
@@ -50,3 +50,5 @@ Dependencies:
 * cron - a unix tool for running episodic jobs on unix systems. MRTG expects to be run every 5 minutes
 
 Time series output
+
+Why did such a simple tool take off in such a big way?
