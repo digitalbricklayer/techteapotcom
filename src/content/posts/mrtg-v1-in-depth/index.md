@@ -17,11 +17,11 @@ draft: true
 
 MRTG is an open source network management tool originally developed by Tobias Oetiker in the spring of 1995 whilst he was working as a system administrator at De Montfort University, Leicester, UK.
 
-## MRTG Release
+## MRTG Announcement
 
 The [original announcement of the MRTG project](https://groups.google.com/g/comp.lang.perl/c/FaAWCOBdgKo/m/g7IAn-LRGicJ) took place on 28th April 1995 on the *comp.lang.perl* news group.
 
-Here is the announcement in full:
+Here is the text of the announcement in full:
 
 >ANNOUNCE: mrtg - Network Traffic Stats on the Web
 >
@@ -57,9 +57,11 @@ The story of a particular location can be described in the various trenches of a
 
 ## Network management landscape
 
+MRTG was released into an internet that was before Google, Facebook and even Amazon. The web did exist but there were very few websites kicking around.
+
 ## MRTG architecture
 
-MRTG version 1 could not be much simpler. The software consists of a single executable program written in Perl, a sample configuration file, rudimentary documentation (see figure 1) in the form of a web page and some images to be used in the outputted html pages.
+MRTG version 1.0 could not be much simpler. The software consists of a single executable program written in Perl, a sample configuration file, rudimentary documentation (see figure 1) in the form of a web page and some images to be used in the outputted html pages.
 
 In order to install MRTG you first need to copy the sample configuration file and modify it to point to a local router supporting SNMP. You then need to schedule a cron job to run every 5 minutes to run the MRTG executable with the configuration file as the first parameter. The `mrtg` executable will run and query your local router via SNMP for the in/out octets and slowly build a series of graphs embedded onto a single web page. If you have multiple routers, create a configuration file for each one and a new cron job. Your output will be a series of web pages with the in/out octets displayed in a series of graphs as well as a file with the raw time series data.
 
@@ -67,15 +69,17 @@ Version 1 file format:
 
 {{< figure src="images/mrtg-help-v1-0.png#center"
            link="images/mrtg-help-v1-0.png"
-           alt="MRTG v1 documentation"
-           caption="Figure 1: MRTG v1 documentation" >}}
+           alt="MRTG v1.0 documentation"
+           caption="Figure 1: MRTG v1.0 documentation" >}}
 
 {{< figure src="images/dmu-ac-uk-mrtg-jips.png#center"
            link="images/dmu-ac-uk-mrtg-jips.png"
            alt="De Montfort University internet link throughput graphs"
            caption="Figure 2: De Montfort University internet link throughput graphs last updated 16th October 1995" >}}
 
-Dependencies:
+## Dependencies
+
+In order for MRTG to exist a number of tools needed to exist. The following tools were dependencies of MRTG v1.0.
 
 * cmu-snmp - a set of command line tools for interacting with SNMP enabled devices as well as an extensible SNMP agent (eventually morphed into [ucd-snmp and then net-snmp](http://www.net-snmp.org/about/history.html)
 * netpbm - a [very old set of command line tools](http://netpbm.sourceforge.net/) for image manipulation harking back to the 1980s when a vast number of image formats proliferated and a desperate need emerged to be able to convert between all of the different formats
@@ -84,4 +88,6 @@ Dependencies:
 
 Time series output
 
-Why did such a simple tool take off in such a big way?
+Open source collaboration - how quickly changes to the software were made by a community of people who began to make improvements to the project.
+
+Why did such a simple tool take off in such a big way? MRTG just prior to 1995 would have just been a script produced internally and then used exclusively internally by a very small number of people. At best, it might have been shared around a few other colleagues in other similar institutions with a similar itch to scratch.
