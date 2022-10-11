@@ -6,7 +6,7 @@ tags: []
 aliases: [/social-animals/]
 ---
 
-I volunteered for a rabbit sanctuary a few weeks ago. I stumbed onto <a href="http://campnibble.com/">Cample Nibble's</a> website and saw the advert for volunteers to help with packing groceries in a supermarket.
+I volunteered for a rabbit sanctuary a few weeks ago. I stumbed onto [Cample Nibble's website](http://campnibble.com/) and saw the advert for volunteers to help with packing groceries in a supermarket.
 
 Looking back on it, my abiding memory is the social difficulty a lot of people had when dealing with a charity bag packer.
 
@@ -18,4 +18,4 @@ You'd get a queue of people at the checkout and if the first person agreed, then
 
 So you'd get very busy periods and very quiet periods all dictated by a single person agreeing or declining.
 
-P.S. If you want to donate to this very worthy charity, please visit their donation page <a href="http://www.justgiving.com/campnibble/">here</a>.
+P.S. If you want to donate to this very worthy charity, please visit their donation page [here](http://www.justgiving.com/campnibble/).
