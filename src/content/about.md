@@ -16,5 +16,6 @@ Most of Jack's career in I.T. has been spent at the code face writing a variety 
 
 Jack now does lots of different tasks including stints of programming, inbound marketing, e-commerce and office cleaner. Most of his time is dedicated to helping run OPENXTRA Ltd., a specialist IT reseller / distributor.
 
-Cheers,<br>
+Cheers,
+
 Jack Hughes
