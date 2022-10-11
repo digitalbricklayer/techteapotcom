@@ -6,4 +6,4 @@ tags: []
 aliases: [/surving-a-hobby-open-source-project/]
 ---
 
-Excellent post on the <a href="http://www.pushing-pixels.org/">Pushing Pixels</a> blog about <a href="http://www.pushing-pixels.org/?p=305">surviving a hobby open source project</a>. Well worth a read if you are involved in a single person open source project.
+Excellent post on the [Pushing Pixels](http://www.pushing-pixels.org/) blog about [surviving a hobby open source project](http://www.pushing-pixels.org/?p=305). Well worth a read if you are involved in a single person open source project.

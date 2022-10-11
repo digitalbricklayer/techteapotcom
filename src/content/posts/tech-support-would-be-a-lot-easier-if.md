@@ -16,15 +16,14 @@ A lot of people are not very good at diagnosing problems. One of the challenges 
 
 A recent tech support call went something like this:
 
-<strong>Customer</strong>: <em>Hello support, I need you to send me a new X mine has stopped working.</em>
+**Customer**: *Hello support, I need you to send me a new X mine has stopped working.*
 
-<strong>Tech support: </strong><em>Oh, I'm sorry to hear that. Can I ask have you made any changes to X?
-</em>
+**Tech support**: *Oh, I'm sorry to hear that. Can I ask have you made any changes to X?*
 
-<strong>Customer</strong>: <em>No, it just stopped working.</em>
+**Customer**: *No, it just stopped working.*
 
 Turns out that the customer had made a change. The customer may not have been overtly dishonest. There may have been some time between making the change and discovering the fault.
 
-We don't have a problem with replacing faulty equipment. Quite the contrary. But, there is no point in going to the considerable expense of replacing equipment if that wasn't the root cause of the fault. All that happens then is that customer now has two pieces of equipment that don't work and are still no closer to knowing what the original problem was.
+We don't have a problem with replacing faulty equipment. Quite the contrary. But, there is no point in going to the considerable expense of replacing equipment if the equipment isn't faulty. All that happens is that customer now has two pieces of equipment that don't work and is still no closer to knowing what the original problem was.
 
 Whilst the customer won't appreciate at the time being dragged back through a thorough diagnosis, they probably will appreciate in the end getting to a solution a little bit faster.

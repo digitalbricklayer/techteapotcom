@@ -6,4 +6,4 @@ tags: []
 aliases: [/posts/37/, /test-um-triporter-now-available-online/]
 ---
 
-As was <a href="{{< ref "/posts/the-test-um-tri-porter-has-landed.md" >}}">mentioned on a previous post</a>, the Test-Um Tri-Porter is now available. It has now been added to our e-commerce system so it can now be purchased online.
+As was [mentioned on a previous post]({{< ref "/posts/the-test-um-tri-porter-has-landed.md" >}}), the Test-Um Tri-Porter is now available. It has now been added to our e-commerce system so it can now be purchased online.
