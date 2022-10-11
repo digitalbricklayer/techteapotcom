@@ -13,11 +13,9 @@ series:
 draft: true
 ---
 
-## Introduction
-
 MRTG is an open source network management tool originally developed by Tobias Oetiker in the spring of 1995 whilst he was working as a system administrator at De Montfort University, Leicester, UK.
 
-## MRTG Announcement
+## First Public Announcement
 
 The [original announcement of the MRTG project](https://groups.google.com/g/comp.lang.perl/c/FaAWCOBdgKo/m/g7IAn-LRGicJ) took place on 28th April 1995 on the *comp.lang.perl* news group.
 
