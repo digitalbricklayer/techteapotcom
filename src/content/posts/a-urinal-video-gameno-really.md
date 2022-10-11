@@ -6,7 +6,7 @@ tags: []
 aliases: [/a-urinal-video-gameno-really/]
 ---
 
-Great find by <a href="http://www.knowing.net/">Larry O'Brien</a>, a game to play whilst you're urinating. I wonder if it is multi-player?
+Great find by [Larry O'Brien](http://www.knowing.net/), a game to play whilst you're urinating. I wonder if it is multi-player?
 
 I just can't imagine springing out of bed on a morning to go program a urinal game. They must have had industrial quantities of water around for the developers to drink!
 

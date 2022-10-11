@@ -30,8 +30,7 @@ Who do you think will get the call when your software doesn't send the expected 
 
 Yup, you guessed it. It will be you again.
 
-So, what is my advice to you? Simple. You can't avoid interfacing to external systems, but you
-can make it a lot less painful to diagnose customer problems. Implement a ***Test Connection*** feature alongside the external system configuration. Make sure that the diagnostic information is actually useful when your user presses the test button.
+So, what is my advice to you? Simple. You can't avoid interfacing to external systems, but you can make it a lot less painful to diagnose customer problems. Implement a *Test Connection* feature alongside the external system configuration. Make sure that the diagnostic information is actually useful when your user presses the test button.
 
 And write decent application logs. Log absolutely everything even the batshit crazy stuff you know you'll never need.
 
@@ -39,4 +38,4 @@ You will.
 
 Make the logs easily available so that your customer can send them to you with the minimum of fuss. Your customer should be able to send the logs to you in one or two clicks.
 
-No sending of half a page of instructions to explain how to do it manually.
+No sending off half a page of instructions to explain how to do it manually.
