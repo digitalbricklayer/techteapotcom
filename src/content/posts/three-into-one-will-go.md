@@ -6,7 +6,7 @@ tags: []
 aliases: [/three-into-one-will-go/]
 ---
 
-Triple play is a marketing term coined to describe the provision of voice, video and data services over network connections. It is not a technical specification as such. It does not describe what the technology will be, how it will work or indeed why it is necessary. Though the why is the usual reason...cheaper & easier to manage a single set of infrastructure than a mangled rats nest of separate systems blah blah...
+Triple play is a marketing term coined to describe the provision of voice, video and data services over network connections. It is not a technical specification as such. It does not describe what the technology will be, how it will work or indeed why it is necessary. Though the why is the usual reason...cheaper &amp; easier to manage a single set of infrastructure than a mangled rats nest of separate systems blah blah...
 
 It is happening, we've got a shiny new PBX and it uses standard CAT5e cabling everybody has throughout their offices. No separate cabling required. And that has been the norm for a while. If we really wanted we could enable the VoIP option and run everything over IP. Everything is converging on the network, or more precisely, the network infrastructure. Not quite the same thing. Because everything is converging on the network infrastructure it is ending up at the network manager's in tray.
 

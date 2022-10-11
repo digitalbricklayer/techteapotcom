@@ -16,6 +16,6 @@ Tech magazines are becoming a rare breed. Even more rare for them to be in print
 </ul>
 For IT VARs and resellers, I'd recommend <a href="http://www.channelweb.co.uk/">CRN</a>.
 
-If you want an exhaustive list of worldwide tech mags then the <a href="http://web.archive.org/web/20141122201525/https://dir.yahoo.com/computers_and_internet/news_and_media/magazines/">Computer & Internet category @ Yahoo</a> is a great resource. Most mags in the UK are run either by VNU or <a href="http://www.cmp.com/">CMP</a>.
+If you want an exhaustive list of worldwide tech mags then the <a href="http://web.archive.org/web/20141122201525/https://dir.yahoo.com/computers_and_internet/news_and_media/magazines/">Computer &amp; Internet category @ Yahoo</a> is a great resource. Most mags in the UK are run either by VNU or <a href="http://www.cmp.com/">CMP</a>.
 
 If you know of any good ones I've missed, please leave a comment.

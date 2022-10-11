@@ -10,7 +10,7 @@ Most <a href="https://www.openxtra.co.uk/environment-monitors.html">temperature 
 
 Many of you use the z-text fixed line SMS modem for this performing the SMS end of the alerting. If that is you, you can stop reading right now because this doesn't apply to you.
 
-If you are using a GSM based modem, like the Falcom 55 & 75, you need to make sure that your particular <a href="https://en.wikipedia.org/wiki/Subscriber_Identity_Module">SIM</a> won't time out. Some GSM network operators disable their pay as you go customers after a certain amount of activity.
+If you are using a GSM based modem, like the Falcom 55 &amp; 75, you need to make sure that your particular <a href="https://en.wikipedia.org/wiki/Subscriber_Identity_Module">SIM</a> won't time out. Some GSM network operators disable their pay as you go customers after a certain amount of activity.
 
 Given the nature of monitoring, most of the time nothing much happens. Everything works as expected so no alerts are generated. That can mean that, to a GSM network operator, your SIM doesn't look very active. Your operator may disable your SIM.
 

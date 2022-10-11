@@ -10,7 +10,7 @@ Another strange COVID-19 affected year, another above average reading year. I re
 be a bit of a trend I've noticed. The older I get the more I tend to be attracted to non-fiction books. It isn't a conscious thing, come book choosing time I 
 seem to veer towards non-fiction for some reason. If I was guessing as to why, I would suspect it is due to a bit of risk aversion kicking in. Fiction seems like 
 much riskier proposition especially when a lot of fiction is pushing 400-500 pages and almost inevitably each book is port of a trilogy especially in my favourite 
-genre science fiction & fantasy.
+genre science fiction &amp; fantasy.
 
 My favourite book of 2021 was Stoner by John Williams. Nothing very exciting happens in the book, but the small events that did happen were of great significance to 
 the protagonists in the book. A life, when all is said and done, boils down to significant interactions with very few people. Maybe a dozen if you are lucky.

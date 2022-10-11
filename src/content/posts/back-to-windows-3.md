@@ -24,6 +24,6 @@ We need a new generation of operating systems that will protect each instance of
 
 The central assumption that each application will be delivered to the user as a separate executable no longer holds water. Operating systems must change to embrace the new reality.
 
-So come on Microsoft, Apple & Linux give us a next generation operating system ready for the [Web 2.0](https://en.wikipedia.org/wiki/Web_2) world.
+So come on Microsoft, Apple &amp; Linux give us a next generation operating system ready for the [Web 2.0](https://en.wikipedia.org/wiki/Web_2) world.
 
 **Update April 2015**: turns out the solution was to make each browser window or tab into a seperate process.

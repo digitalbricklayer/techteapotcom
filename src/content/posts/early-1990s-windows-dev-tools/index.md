@@ -8,6 +8,8 @@ aliases: [/early-1990s-windows-dev-tools/]
 
 The early 1990s were an interesting time for software developers. Many of the tools that are taken for granted today made their debut for a mass market audience.
 
+<!--more-->
+
 I don't mean that the tools were not available previously. Both Smalltalk and LISP sported what would today be considered modern development environments all the way back in the 1970s, but hardware requirements put the tools well beyond the means of regular joe programmers. Not too many people had workstations at home or in the office for that matter.
 
 I spent the early 1990s giving most of my money to software development tool companies of one flavour or another.
