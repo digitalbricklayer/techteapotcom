@@ -6,4 +6,4 @@ tags: [blekko]
 aliases: [/blekko-cluster-live-visualisation-station/]
 ---
 
-<a href="http://www.skrenta.com/">Rich Skrenta</a> has done a post about the <a href="http://www.skrenta.com/2009/04/blekkos_ambient_cluster_health.html">Blekko cluster health visualisation console</a>. Very neat!
+[Rich Skrenta](http://www.skrenta.com/) has done a post about the [Blekko cluster health visualisation console](http://www.skrenta.com/2009/04/blekkos_ambient_cluster_health.html). Very neat!

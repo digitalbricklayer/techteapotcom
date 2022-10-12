@@ -6,7 +6,7 @@ tags: []
 aliases: [/banned-from-pandora-internet-radio-station/]
 ---
 
-Sigh. Just received this email from the folks at <a href="http://www.pandora.com/">Pandora</a>. What a shame, Pandora is by far the best internet radio station out there.
+Sigh. Just received this email from the folks at [Pandora](http://www.pandora.com/). What a shame, Pandora is by far the best internet radio station out there.
 
 <blockquote>hi, it's Tim,
 
