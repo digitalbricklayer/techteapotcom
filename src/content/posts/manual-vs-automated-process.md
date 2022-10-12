@@ -6,15 +6,17 @@ categories: [General]
 tags: ['Hugo']
 ---
 
-You have a one off task you need to do. There's an automatic process you can build to achieve the end result or you could do the process manually.
+You have a one off task you need to do. There's an automated process you can build to achieve the end result or you could do the process manually.
 
 How do you decide which route to go down?
 
-The automatic process requires you to undertake a period of software development using one or more tools to generate your desired output. This could be as complicated as firing up your Python IDE of choice and building a program or programs to automate your process or just hitting your favourite unix shell and creating a shell script.
+The automated process requires you to undertake a period of software development using one or more tools to generate your desired output. This could be as complicated as firing up your Python IDE of choice and building a program or programs to automate your process or just hitting your favourite unix shell and creating a shell script.
 
 The problem is the process is a one off. The artifacts you create will be thrown away afterwards.
 
 It wouldn't be too difficult to determine whether you should automate if you knew for sure how long the automation process would take. That's the problem. Software development is difficult to estimate at the best of times.
+
+## Job size
 
 The size of the job plainly has a very big part to play in the decision to automate. If the job is small, then you almost certainly aren't going to save yourself much time if any time. On the other hand, a job with many thousands or even millions of items would be unthinkable to do manually.
 
