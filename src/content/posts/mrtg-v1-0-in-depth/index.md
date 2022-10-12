@@ -19,7 +19,7 @@ Tobias Oetiker was originally motivated to write MRTG in order to provide insigh
 
 ## First Public Announcement
 
-The [original announcement of the MRTG project](https://groups.google.com/g/comp.lang.perl/c/FaAWCOBdgKo/m/g7IAn-LRGicJ) took place on 28th April 1995 on the *comp.lang.perl* news group.
+The [original announcement of the MRTG project](https://groups.google.com/g/comp.lang.perl/c/FaAWCOBdgKo/m/g7IAn-LRGicJ) took place on 28th April 1995 when Tobias Oetiker posted the following message to the *comp.lang.perl* news group.
 
 Here is the text of the announcement in full:
 
