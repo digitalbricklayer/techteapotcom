@@ -6,9 +6,9 @@ tags: [Hyperic, Zenoss, "Groundwork Open Source"]
 aliases: [/new-wave-windows-support/]
 ---
 
-One of the odd things <a href="{{< ref "/posts/network-managements-new-wave.md" >}}">about the three new wave players</a> is that, of the three, only one (<a href="http://www.hyperic.com/">Hyperic</a>) supports Windows natively.
+One of the odd things [about the three new wave players]({{< ref "/posts/network-managements-new-wave.md" >}}) is that, of the three, only one [Hyperic](http://www.hyperic.com/) supports Windows natively.
 
-The lack of native Windows support in the other two (<a href="http://www.zenoss.org/">Zenoss</a>/<a href="http://www.groundworkopensource.com/">Groundwork</a>) seems like quite an oversight. It will be interesting to see whether the lack of native Windows support hinders their adoption. I'd be surprised if it doesn't.
+The lack of native Windows support in the other two [Zenoss](http://www.zenoss.org/)/[Groundwork](http://www.groundworkopensource.com/) seems like quite an oversight. It will be interesting to see whether the lack of native Windows support hinders their adoption. I'd be surprised if it doesn't.
 
 Zenoss have produced a nice virtual machine for VMWare. Kudos to them for that. But, it is just a fig leaf for their lack of native Windows support. Scrape underneath the virtual machine and it's Linux hiding underneath. A lot of Windows admins may not fancy learning Linux.
 
