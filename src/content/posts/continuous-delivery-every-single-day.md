@@ -21,7 +21,7 @@ The unit tests are fast running single aim tests with very few dependencies and 
 
 If the nightly build is successful, TeamCity then kicks off a deployment to our dev server.
 
-Until fairly recently, automated deployment was quite a painful business in the .NET world. Microsoft <a href="http://www.iis.net/download/WebDeploy">have a solution for deploying ASP.Net websites</a> but we found it to be unsatisfactory for our requirements. We use <a href="http://octopusdeploy.com/">Octopus Deploy</a> for managing the deployment process.
+Until fairly recently, automated deployment was quite a painful business in the .NET world. Microsoft [have a solution for deploying ASP.Net websites](http://www.iis.net/download/WebDeploy) but we found it to be unsatisfactory for our requirements. We use [Octopus Deploy](http://octopusdeploy.com/) for managing the deployment process.
 
 Octopus Deploy provides a nice web based console to help you visualize and manage the release process. We maintain a release pipeline of dev, stage and production but the specific workflow is quite flexible. The TeamCity nightly build process pushes the newly built software into the dev server. The developers are then able to test the software on dev and when we believe a feature is working we push it to the stage server. That's when the wider company can get involved in testing the feature. When satisfied that the feature is working on stage, we then push the release into production.
 
@@ -30,8 +30,8 @@ Octopus Deploy provides a nice web based console to help you visualize and manag
 Apart from the initial TeamCity push to dev, the process is administered manually. You tell Octopus to push the software to stage and then production. But, the actual deployment process is automatic. And crucially, the software deployed further down the pipeline is exactly the same software you were testing earlier in the process.
 
 What are the benefits of continuous delivery?
-<ul>
-	<li><strong>Fewer failed deployments</strong> - if you manually deploy, you will make mistakes;</li>
-	<li><strong>Greater code coverage</strong> - even without automating tests you are ensuring that each part of your product is being tested. Of course, it is best to automate a lot of the testing but there are always going to be parts of the software that are tricky to get to. Auto deployment can help you test these parts. For instance, the Xsensior Live database layer code does not yet have any integration tests, but because we auto deploy I know that the database update script is being executed at least twice prior to it being run against the production database. So, I have a reasonable amount of confidence that the upgrade will work as expected.</li>
-</ul>
+
+- *Fewer failed deployments* -- if you manually deploy, you will make mistakes;
+- *Greater code coverage* -- even without automating tests you are ensuring that each part of your product is being tested. Of course, it is best to automate a lot of the testing but there are always going to be parts of the software that are tricky to get to. Auto deployment can help you test these parts. For instance, the Xsensior Live database layer code does not yet have any integration tests, but because we auto deploy I know that the database update script is being executed at least twice prior to it being run against the production database. So, I have a reasonable amount of confidence that the upgrade will work as expected.
+
 The last thing you want as a software developer, is for your customer to do your testing for you. Continuous delivery helps you exercise your product before your customers. Never a bad thing.
