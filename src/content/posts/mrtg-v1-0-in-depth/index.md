@@ -15,6 +15,8 @@ draft: true
 
 MRTG is an open source network management tool originally developed by Tobias Oetiker in the spring of 1995 whilst he was working as a system administrator at De Montfort University, Leicester, UK.
 
+Tobias Oetiker was originally motivated to write MRTG in order to provide insight into the usage of the university internet link. Back at the dawn of the public internet, links to the internet were extremely slow. If you had students or faculty complaining about internet speed, it would be helpful to know whether the slowdown was caused by a saturated link or some other problem.
+
 ## First Public Announcement
 
 The [original announcement of the MRTG project](https://groups.google.com/g/comp.lang.perl/c/FaAWCOBdgKo/m/g7IAn-LRGicJ) took place on 28th April 1995 on the *comp.lang.perl* news group.
@@ -65,13 +67,11 @@ In order to install MRTG you first need to copy the sample configuration file an
 
 Version 1 file format:
 
-{{< figure src="images/mrtg-help-v1-0.png#center"
-           link="images/mrtg-help-v1-0.png"
+{{< figure src="images/mrtg-help-v1-0.png"
            alt="MRTG v1.0 documentation"
            caption="Figure 1: MRTG v1.0 documentation" >}}
 
-{{< figure src="images/dmu-ac-uk-mrtg-jips.png#center"
-           link="images/dmu-ac-uk-mrtg-jips.png"
+{{< figure src="images/dmu-ac-uk-mrtg-jips.png"
            alt="De Montfort University internet link throughput graphs"
            caption="Figure 2: De Montfort University internet link throughput graphs last updated 16th October 1995" >}}
 
@@ -79,10 +79,10 @@ Version 1 file format:
 
 In order for MRTG to exist a number of tools needed to exist. The following tools were dependencies of MRTG v1.0.
 
-* cmu-snmp - a set of command line tools for interacting with SNMP enabled devices as well as an extensible SNMP agent (eventually morphed into [ucd-snmp and then net-snmp](http://www.net-snmp.org/about/history.html)
-* netpbm - a [very old set of command line tools](http://netpbm.sourceforge.net/) for image manipulation harking back to the 1980s when a vast number of image formats proliferated and a desperate need emerged to be able to convert between all of the different formats
-* perl - the undisputed language of the web back in the 1990s
-* cron - a unix tool for running episodic jobs on unix systems. MRTG expects to be run every 5 minutes
+- *cmu-snmp* - a set of command line tools for interacting with SNMP enabled devices as well as an extensible SNMP agent (eventually morphed into [ucd-snmp and then net-snmp](http://www.net-snmp.org/about/history.html)
+- *netpbm* - a [very old set of command line tools](http://netpbm.sourceforge.net/) for image manipulation harking back to the 1980s when a vast number of image formats proliferated and a desperate need emerged to be able to convert between all of the different formats
+- *perl* - the undisputed language of the web back in the 1990s
+- *cron* - a unix tool for running episodic jobs on unix systems. MRTG expects to be run every 5 minutes
 
 Time series output
 
