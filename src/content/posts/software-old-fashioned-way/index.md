@@ -6,7 +6,10 @@ tags: []
 aliases: [/software-old-fashioned-way/]
 ---
 
-I was clearing out my old bedroom after many years nagging by my parents when I came across two of my old floppy disk boxes. Contained within is a small snapshot of my personal computing starting from 1990 through until late 1992. Everything before and after those dates doesn't survive I'm afraid.
+I was clearing out my old bedroom after many years nagging by my parents when I came across two of my old floppy disk boxes. Contained within is a small snapshot of my personal computing starting from 1990 through until late 1992. Everything 
+before and after those dates doesn't survive I'm afraid.
+
+<!--more-->
 
 {{< gallery match="images/*"
             sortOrder="desc"
