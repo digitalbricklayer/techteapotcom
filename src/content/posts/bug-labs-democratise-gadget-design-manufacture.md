@@ -18,10 +18,10 @@ The basic concept behind Bug is that you have a basic gadget chassis called BUGb
 
 ## What will BUG mean for you?
 
-<strong>Gadget design just got a whole lot more accessible</strong>. Prior to the BUG, you'd need a serious amount of money to design, manufacture and program your gadget. All without really knowing whether there was any demand for your gadget.
+**Gadget design just got a whole lot more accessible**. Prior to the BUG, you'd need a serious amount of money to design, manufacture and program your gadget. All without really knowing whether there was any demand for your gadget.
 
-<strong>Time to market will be compressed</strong>. A typical hardware production process takes a long time. First design your product, then have a test run produced then re-design and so on. BUG shortens that process considerable. At the very least you can prototype your gadget very quickly.
+**Time to market will be compressed**. A typical hardware production process takes a long time. First design your product, then have a test run produced then re-design and so on. BUG shortens that process considerable. At the very least you can prototype your gadget very quickly.
 
-<strong>Niche gadgets will now be viable</strong>. One of the biggest fixed costs in creating any device is creating the moldings. Whether you make one device or a million the cost of the moldings is the same. BUG changes that, you don't need to create a molding!
+**Niche gadgets will now be viable**. One of the biggest fixed costs in creating any device is creating the moldings. Whether you make one device or a million the cost of the moldings is the same. BUG changes that, you don't need to create a molding!
 
-There is a blog for you to keep up with all things Bug. <strong>Bug is shipping Q4 2007!</strong>. More BUGmodules are due Q1 2008.
+There is a blog for you to keep up with all things Bug. **Bug is shipping Q4 2007!**. More BUGmodules are due Q1 2008.

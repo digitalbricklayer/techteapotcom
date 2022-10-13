@@ -14,6 +14,6 @@ Any emails sent during business hours yesterday are either lost or bounced. Thin
 
 Email subscribers may have been a little bemused to receive a whole raft of posts from November. My apologies. Things will soon be back to normal.
 
-<strong>Update</strong>: Things were back to normal until the ISP decided to restore their backups over our backup. Stopping the web, email and database servers in the process. Things really are back to normal now. I think we've pretty well exhausted all of the things that can go wrong!
+**Update**: Things were back to normal until the ISP decided to restore their backups over our backup. Stopping the web, email and database servers in the process. Things really are back to normal now. I think we've pretty well exhausted all of the things that can go wrong!
 
-<strong>Update 2</strong>: Well, I think I spoke a little bit too soon. Things weren't completely back to normal. Though I sure hope they are now. We ran out of disk space on our system partition. I'm not going to say that we exhausted all of the things that can go wrong though this time...because we so patently didn't do the last time. Should make a good blog post tomorrow. I've had a belly full of computers today. :smile:
+**Update 2**: Well, I think I spoke a little bit too soon. Things weren't completely back to normal. Though I sure hope they are now. We ran out of disk space on our system partition. I'm not going to say that we exhausted all of the things that can go wrong though this time...because we so patently didn't do the last time. Should make a good blog post tomorrow. I've had a belly full of computers today. :smile:

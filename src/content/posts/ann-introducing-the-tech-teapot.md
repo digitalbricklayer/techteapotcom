@@ -6,7 +6,7 @@ tags: []
 aliases: [/ann-introducing-the-tech-teapot/]
 ---
 
-Some of you may have noticed a name change. This blog is now called <strong>The Tech Teapot</strong>. Why? Well, we are pretty obsessed with tea :smile:
+Some of you may have noticed a name change. This blog is now called **The Tech Teapot**. Why? Well, we are pretty obsessed with tea :smile:
 
 We make nice steaming pots of tea at least three times a day. Great for team building!
 
