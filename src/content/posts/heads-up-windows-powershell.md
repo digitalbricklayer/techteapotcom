@@ -6,6 +6,6 @@ tags: [powershell]
 aliases: [/heads-up-windows-powershell/]
 ---
 
-Just a quick <a href="http://www.microsoft.com/windowsserver2003/technologies/management/powershell/default.mspx">heads up about Windows PowerShell</a>. Looks a really neat way to automate a lot of dull, repetitive admin tasks.
+Just a quick [heads up about Windows PowerShell](http://www.microsoft.com/windowsserver2003/technologies/management/powershell/default.mspx). Looks a really neat way to automate a lot of dull, repetitive admin tasks.
 
 Windows PowerShell version 1 has now been released and is available as a free download for Windows XP and beyond.

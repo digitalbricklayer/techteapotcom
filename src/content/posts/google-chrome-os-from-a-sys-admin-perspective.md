@@ -6,9 +6,9 @@ tags: []
 aliases: [/google-chrome-os-from-a-sys-admin-perspective/]
 ---
 
-What does Google's recent <a href="http://googleblog.blogspot.com/2009/07/introducing-google-chrome-os.html">announcement that it is getting into the operating system business</a> tell us from a sys admin perspective?
+What does Google's recent [announcement that it is getting into the operating system business](http://googleblog.blogspot.com/2009/07/introducing-google-chrome-os.html) tell us from a sys admin perspective?
 
-For a start whatever effects it will have are some way off. Chrome OS isn't due to be released until the second half of next year. It is amazing how much fuss a company like Google can generate with a single press release. Chrome OS doesn't exist yet, and won't exist for another year and yet here we are all talking about it like we've never seen a <a href="http://www.canonical.com/projects/ubuntu/unr">Linux based NetBook OS before</a>.
+For a start whatever effects it will have are some way off. Chrome OS isn't due to be released until the second half of next year. It is amazing how much fuss a company like Google can generate with a single press release. Chrome OS doesn't exist yet, and won't exist for another year and yet here we are all talking about it like we've never seen a [Linux based NetBook OS before](http://www.canonical.com/projects/ubuntu/unr).
 
 The main thrust of Google Chrome OS seems to be to strip everything out except  the web browser. A kind of <em>back to basics</em> operating system predicated upon applications being in the cloud where all you need to play is a modern web browser and an internet connection.
 

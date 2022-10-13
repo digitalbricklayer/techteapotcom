@@ -6,4 +6,4 @@ tags: []
 aliases: [/chris-sanders-on-arp-poisoning/]
 ---
 
-Great post by Chris Sanders on <a href="http://www.chrissanders.org/?p=121">ARP poisoning for protocol analysis</a>. Well worth a read.
+Great post by Chris Sanders on [ARP poisoning for protocol analysis](http://www.chrissanders.org/?p=121). Well worth a read.

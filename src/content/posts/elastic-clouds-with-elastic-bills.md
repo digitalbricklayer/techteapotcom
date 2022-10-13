@@ -6,11 +6,11 @@ tags: [amazon]
 aliases: [/elastic-clouds-with-elastic-bills/]
 ---
 
-I mentioned <a href="http://www.johnmwillis.com/amazon/clouddroplets/#comments">this in a comment</a> over on <a href="http://www.johnmwillis.com/">John M Willis ESM Blog</a>. I thought it deserved a post all to itself because I think it's important.
+I mentioned [this in a comment](http://www.johnmwillis.com/amazon/clouddroplets/#comments) over on [John M Willis ESM Blog](http://www.johnmwillis.com/). I thought it deserved a post all to itself because I think it's important.
 
 One anxiety I have with hosting my websites is the bill I need to pay each month. There are many many hosting options out there, all with their own particular risk characteristics.
 
-With the advent of on-demand cloud offerings like <a href="http://aws.amazon.com/ec2/">Amazon EC2</a> there are lot of new options. One of the characteristics of cloud offerings is easy scalability. Scalability does have a problem though, because your bill will scale too.
+With the advent of on-demand cloud offerings like [Amazon EC2](http://aws.amazon.com/ec2/) there are lot of new options. One of the characteristics of cloud offerings is easy scalability. Scalability does have a problem though, because your bill will scale too.
 
 The main thing that attracted me to my current hosting provider was the capped bill. I effectively lease a virtual pipe into my server through which all of the traffic passes. If the traffic exceeds the capacity of my pipe, then some of the requests start failing. Whilst that isn't ideal, it is better than the alternative, and I can always buy a bigger virtual pipe.
 

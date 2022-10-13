@@ -6,7 +6,7 @@ tags: []
 aliases: [/last-savages/]
 ---
 
-Ray Kurzweil has a history of <a href="http://slumz.boxden.com/f244/google-s-ray-kurzweil-predicts-how-world-will-change-2023326/">making accurate future forecasts</a>. One of them is that the 3D printer is coming and the current ones are but a small hint of what is to come.
+Ray Kurzweil has a history of [making accurate future forecasts](http://slumz.boxden.com/f244/google-s-ray-kurzweil-predicts-how-world-will-change-2023326/). One of them is that the 3D printer is coming and the current ones are but a small hint of what is to come.
 
 That got me thinking. We are quite possibly the last generation to have a direct connection between taking raw materials and making an end product.
 

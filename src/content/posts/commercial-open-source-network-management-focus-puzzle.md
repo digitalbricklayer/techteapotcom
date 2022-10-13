@@ -6,7 +6,7 @@ tags: []
 aliases: [/commercial-open-source-network-management-focus-puzzle/]
 ---
 
-One of the interesting things to emerge in network management over the last year or two has been the commercial open source vendors like <a href="http://www.groundworkopensource.com/">Groundwork</a> &amp; <a href="https://www.zenoss.com/">Zenoss</a>.
+One of the interesting things to emerge in network management over the last year or two has been the commercial open source vendors like [Groundwork](http://www.groundworkopensource.com/) &amp; [Zenoss](https://www.zenoss.com/).
 
 The commercialisation of open source isn't new, nor is it particularly surprising that commercialisation has happened in the network management space. Open source has been big in network and systems management from the beginning.
 
@@ -16,4 +16,4 @@ Perhaps that shouldn't surprise me. Venture capitalists fund most of the new com
 
 Maybe the tendency to go after the enterprise suggests that the competition in the enterprise is perceived to be easier?
 
-In addition, the commercial non-open source competition in the SMB/SME sectors is pretty fierce. I wouldn't relish going up against the likes of <a href="http://www.ipswitch.com/products/whatsup/index.asp">What's Up Gold</a>, <a href="http://www.solarwinds.net/products/orion/index.aspx">SolarWinds Orion</a> and INM. All three are on the top of their respective games.
+In addition, the commercial non-open source competition in the SMB/SME sectors is pretty fierce. I wouldn't relish going up against the likes of [What's Up Gold](http://www.ipswitch.com/products/whatsup/index.asp), [SolarWinds Orion](http://www.solarwinds.net/products/orion/index.aspx) and INM. All three are on the top of their respective games.

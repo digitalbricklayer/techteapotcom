@@ -12,6 +12,6 @@ Microsoft used to announce mediocre products and people went potty for it. Becau
 
 Now Google elicit exactly the same response for exactly the same reason.
 
-If anybody else announced <a href="https://appengine.google.com/">App Engine</a> the obvious limitations of their offering would be leapt upon by commentators and roundly criticised. But, it's Google. They are fulfilling their manifest destiny to become the Microsoft of the internet, so their foray into cloud computing is news.
+If anybody else announced [App Engine](https://appengine.google.com/) the obvious limitations of their offering would be leapt upon by commentators and roundly criticised. But, it's Google. They are fulfilling their manifest destiny to become the Microsoft of the internet, so their foray into cloud computing is news.
 
 Still, won't have done Python any harm.

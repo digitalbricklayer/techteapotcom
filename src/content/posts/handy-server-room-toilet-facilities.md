@@ -6,6 +6,6 @@ tags: []
 aliases: [/handy-server-room-toilet-facilities/]
 ---
 
-Working in the server room and busting for a pee? You need to install a toilet where it's convenient...yes folks <a href="http://thedailywtf.com/Articles/The-Stalled-Server-Room.aspx">somebody installed a server room so that you've got to go through the women's toilet in order to enter the server room</a>.
+Working in the server room and busting for a pee? You need to install a toilet where it's convenient...yes folks [somebody installed a server room so that you've got to go through the women's toilet in order to enter the server room](http://thedailywtf.com/Articles/The-Stalled-Server-Room.aspx).
 
 Just think of all of the time you'd save not having to walk all the way to the men's toilet.

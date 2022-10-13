@@ -6,7 +6,7 @@ tags: []
 aliases: [/intel-study-shows-no-effect-from-using-none-conditioned-air/]
 ---
 
-Intel have carried out a limited pilot to find out how a <a href="http://www.intel.com/it/pdf/Reducing_Data_Center_Cost_with_an_Air_Economizer.pdf">data centre would perform without the usual data centre environmental controls</a> [PDF].
+Intel have carried out a limited pilot to find out how a [data centre would perform without the usual data centre environmental controls](http://www.intel.com/it/pdf/Reducing_Data_Center_Cost_with_an_Air_Economizer.pdf) [PDF].
 
 The top and bottom of it was that the servers, over a nine month test period performed as well whilst exposed to regular none air conditioned air and limited air filtration as servers in a fully air conditioned data centre.
 

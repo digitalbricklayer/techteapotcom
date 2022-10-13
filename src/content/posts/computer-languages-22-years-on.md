@@ -6,36 +6,36 @@ tags: ["artificial intelligence", "computer language"]
 aliases: [/computer-languages-22-years-on/]
 ---
 
-Many moons ago in the late 1980s, right at the start of my interest in computers, I bought a book about computer languages. The book titled <a href="http://www.amazon.com/Computer-Languages-Perplexed-Naomi-Baron/dp/0385232144/ref=sr_1_7">Computer Languages: A Guide for the Perplexed</a> by <a href="https://en.wikipedia.org/wiki/Naomi_Baron">Naomi S Baron</a> inspired me to get into programming and eventually led me to program professionally (in the sense that somebody paid me :smile: .)
+Many moons ago in the late 1980s, right at the start of my interest in computers, I bought a book about computer languages. The book titled [Computer Languages: A Guide for the Perplexed](http://www.amazon.com/Computer-Languages-Perplexed-Naomi-Baron/dp/0385232144/ref=sr_1_7) by [Naomi S Baron](https://en.wikipedia.org/wiki/Naomi_Baron) inspired me to get into programming and eventually led me to program professionally (in the sense that somebody paid me :smile: .)
 
 What is interesting, 22 years on, is what has changed and perhaps just as interesting, what hasn't changed.
 
 The languages highlighted in the book are:
-<ul>
-	<li><a href="https://en.wikipedia.org/wiki/Ada_(programming_language)">Ada</a></li>
-	<li><a href="https://en.wikipedia.org/wiki/ALGOL">ALGOL</a></li>
-	<li><a href="https://en.wikipedia.org/wiki/APL_(programming_language)">APL</a></li>
-	<li><a href="https://en.wikipedia.org/wiki/Assembly_language">Assembly</a></li>
-	<li><a href="https://en.wikipedia.org/wiki/BASIC_programming_language">BASIC</a></li>
-	<li><a href="https://en.wikipedia.org/wiki/C_(programming_language)">C</a></li>
-	<li><a href="https://en.wikipedia.org/wiki/COBOL">COBOL</a></li>
-	<li><a href="https://en.wikipedia.org/wiki/Forth_(programming_language)">FORTH</a></li>
-	<li><a href="https://en.wikipedia.org/wiki/Fortran">FORTRAN</a></li>
-	<li>Intellect</li>
-	<li><a href="https://en.wikipedia.org/wiki/Lisp_programming_language">LISP</a></li>
-	<li><a href="https://en.wikipedia.org/wiki/Logo">Logo</a></li>
-	<li>micro-PROLOG</li>
-	<li><a href="http://www.modula2.org/">Modula-2</a></li>
-	<li><a href="https://en.wikipedia.org/wiki/Pascal_programming_language">Pascal</a></li>
-	<li><a href="https://en.wikipedia.org/wiki/PILOT_programming_language">PILOT</a></li>
-	<li><a href="https://en.wikipedia.org/wiki/PL/I">PL/1</a></li>
-	<li><a href="https://en.wikipedia.org/wiki/Prolog">PROLOG</a></li>
-	<li><a href="https://en.wikipedia.org/wiki/Query_by_Example">QBE</a></li>
-	<li><a href="https://en.wikipedia.org/wiki/Simula">SIMULA</a></li>
-	<li><a href="http://www.smalltalk.org/">Smalltalk</a></li>
-	<li><a href="https://en.wikipedia.org/wiki/SNOBOL">SNOBOL</a></li>
-</ul>
-The late 1980s saw one of the <a href="https://en.wikipedia.org/wiki/AI_winter">periodic booms and busts in artificial intelligence</a> and the languages selected for the book reflects that. Believe it or not PROLOG was considered to be a good candidate to become a mainstream language for a time in the mid-late 1980s. You couldn't move for articles on artificial intelligence using PROLOG in the hobbyist end of the computer press.
+
+- [Ada](https://en.wikipedia.org/wiki/Ada_(programming_language))
+- [ALGOL](https://en.wikipedia.org/wiki/ALGOL)
+- [APL](https://en.wikipedia.org/wiki/APL_(programming_language))
+- [Assembly](https://en.wikipedia.org/wiki/Assembly_language)
+- [BASIC](https://en.wikipedia.org/wiki/BASIC_programming_language)
+- [C](https://en.wikipedia.org/wiki/C_(programming_language))
+- [COBOL](https://en.wikipedia.org/wiki/COBOL)
+- [FORTH](https://en.wikipedia.org/wiki/Forth_(programming_language))
+- [FORTRAN](https://en.wikipedia.org/wiki/Fortran)
+- Intellect
+- [LISP](https://en.wikipedia.org/wiki/Lisp_programming_language)
+- [Logo](https://en.wikipedia.org/wiki/Logo)
+- micro-PROLOG
+- [Modula-2](http://www.modula2.org/)
+- [Pascal](https://en.wikipedia.org/wiki/Pascal_programming_language)
+- [PILOT](https://en.wikipedia.org/wiki/PILOT_programming_language)
+- [PL/1](https://en.wikipedia.org/wiki/PL/I)
+- [PROLOG](https://en.wikipedia.org/wiki/Prolog)
+- [QBE](https://en.wikipedia.org/wiki/Query_by_Example)
+- [SIMULA](https://en.wikipedia.org/wiki/Simula)
+- [Smalltalk](http://www.smalltalk.org/)
+- [SNOBOL](https://en.wikipedia.org/wiki/SNOBOL)
+
+The late 1980s saw one of the [periodic booms and busts in artificial intelligence](https://en.wikipedia.org/wiki/AI_winter) and the languages selected for the book reflects that. Believe it or not PROLOG was considered to be a good candidate to become a mainstream language for a time in the mid-late 1980s. You couldn't move for articles on artificial intelligence using PROLOG in the hobbyist end of the computer press.
 
 Whilst at college I ran across Intellect, a natural language relational database query tool. It did have a spooky ability to understand your queries so I am a little surprised it never caught on. Sometimes technologies don't fail because of any technical limitations but more for social reasons. Perhaps database administrators didn't relish the thought of the great unwashed having access to their precious databases?
 

@@ -6,6 +6,6 @@ tags: []
 aliases: [/great-it-in-education-website/]
 ---
 
-If you are involved in IT in the education sector in the UK you may find the <a href="http://edugeek.net/index.php">EduGeek website to be of interest</a>. Looks like a good place to join your fellow professionals for a good chin wag.
+If you are involved in IT in the education sector in the UK you may find the [EduGeek website to be of interest](http://edugeek.net/index.php). Looks like a good place to join your fellow professionals for a good chin wag.
 
-Oh, and the founder is also a <a href="http://www.edugeek.net/index.php?name=Forums&file=viewtopic&p=57016#57016">fan of the Test-Um Validator too</a>!
+Oh, and the founder is also a [fan of the Test-Um Validator too](http://www.edugeek.net/index.php?name=Forums&file=viewtopic&p=57016#57016)!

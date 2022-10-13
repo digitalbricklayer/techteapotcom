@@ -6,6 +6,6 @@ tags: [wireshark]
 aliases: [/chris-sanders-interview/]
 ---
 
-FYI there is an <a href="http://searchnetworking.techtarget.com/qna/0,289202,sid7_gci1266202,00.html">interesting interview</a> with <a href="http://www.chrissanders.org/?p=102">Chris Sanders</a>, author of <em>"Practical Packet Analysis: Using Wireshark to solve real-world network problems"</em>.
+FYI there is an [interesting interview](http://searchnetworking.techtarget.com/qna/0,289202,sid7_gci1266202,00.html) with [Chris Sanders](http://www.chrissanders.org/?p=102), author of <em>"Practical Packet Analysis: Using Wireshark to solve real-world network problems"</em>.
 
-If you are new to packet analysis, you can <a href="{{< ref "/posts/practical-packet-analysis-book.md" >}}">do a lot worse than read the book</a>.
+If you are new to packet analysis, you can [do a lot worse than read the book]({{< ref "/posts/practical-packet-analysis-book.md" >}}).

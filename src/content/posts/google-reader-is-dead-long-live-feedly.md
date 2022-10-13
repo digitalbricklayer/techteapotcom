@@ -6,8 +6,8 @@ tags: []
 aliases: [/google-reader-is-dead-long-live-feedly/]
 ---
 
-<a href="http://www.google.co.uk/reader/view/">Google Reader</a> is being shutdown on 1st July 2013. <del>If you haven't already done so, you need to move your feeds somewhere else in the next 5 days</del>. Too late, it has gone.
+[Google Reader](http://www.google.co.uk/reader/view/) is being shutdown on 1st July 2013. <del>If you haven't already done so, you need to move your feeds somewhere else in the next 5 days</del>. Too late, it has gone.
 
-I just moved my 342 feeds over to <a href="http://www.feedly.com/">feedly</a> in literally <em>one click</em>. Didn't even need to create an account on feedly, it imported my Google account for me automatically. Doesn't get any easier than that. So far I'm loving it... :smile:
+I just moved my 342 feeds over to [feedly](http://www.feedly.com/) in literally <em>one click</em>. Didn't even need to create an account on feedly, it imported my Google account for me automatically. Doesn't get any easier than that. So far I'm loving it... :smile:
 
 <strong>Update July 2013</strong>: from the looks of the subscriber stats, it looks like most Google Reader users never made the switch.

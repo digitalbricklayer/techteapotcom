@@ -6,6 +6,6 @@ tags: [wireshark]
 aliases: [/cool-video-graphically-showing-the-development-of-wireshark/]
 ---
 
-Loris Degioanni over at <a href="http://www.cacetech.com/">CACE Technologies</a> has produced an <a href="https://blog.wireshark.org/2010/02/the-history-of-wireshark-in-3-minutes/">uber geeky animation showing the 11 year history of the Wireshark project</a>.
+Loris Degioanni over at [CACE Technologies](http://www.cacetech.com/) has produced an [uber geeky animation showing the 11 year history of the Wireshark project](https://blog.wireshark.org/2010/02/the-history-of-wireshark-in-3-minutes/).
 
-The video was produced with the aid of <a href="http://vis.cs.ucdavis.edu/%7Eogawa/codeswarm/">Codeswarm</a>.
+The video was produced with the aid of [Codeswarm](http://vis.cs.ucdavis.edu/%7Eogawa/codeswarm/).

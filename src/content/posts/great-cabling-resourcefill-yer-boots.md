@@ -6,8 +6,8 @@ tags: []
 aliases: [/great-cabling-resourcefill-yer-boots/]
 ---
 
-If you want to know more about voice, data and video cabling we strongly recommend a visit to <a href="http://www.vdvworks.com/UncleTed/">Uncle Ted's Guide to VDV</a>. Highly recommended!
+If you want to know more about voice, data and video cabling we strongly recommend a visit to [Uncle Ted's Guide to VDV](http://www.vdvworks.com/UncleTed/). Highly recommended!
 
-For a great guide to fibre optics, you will find much to enjoy in <a href="http://www.vdvworks.com/LennieLw/">Lennie Lightwave's Guide to Fiber Optics</a>.
+For a great guide to fibre optics, you will find much to enjoy in [Lennie Lightwave's Guide to Fiber Optics](http://www.vdvworks.com/LennieLw/).
 
-Both of the above have been created by <a href="http://www.vdvworks.com/">VDV Works</a> a <a href="http://www.vdvworks.com/vdvacademy/">voice, data and video cable training company</a> in the USA.
+Both of the above have been created by [VDV Works](http://www.vdvworks.com/) a [voice, data and video cable training company](http://www.vdvworks.com/vdvacademy/) in the USA.

@@ -6,4 +6,4 @@ tags: [ntop]
 aliases: [/heads-up-introduction-to-ntop-video/]
 ---
 
-Just a quick heads up to a video produced by GeekVideo featuring <a href="http://geekvideo.blogspot.com/2007/03/ntop-network-traffic-probe.html">an introduction to ntop</a>. Enjoy!
+Just a quick heads up to a video produced by GeekVideo featuring [an introduction to ntop](http://geekvideo.blogspot.com/2007/03/ntop-network-traffic-probe.html). Enjoy!

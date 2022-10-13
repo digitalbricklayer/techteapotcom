@@ -11,7 +11,7 @@ Intellipool has a large community of script writers. I thought it would be handy
 <strong>INM Mobile dashboard</strong>
 http://www.intellipool.se/forum/index.php?showtopic=1138
 
-<strong>Voice alerts with INM</strong> we've already <a href="{{< ref "/posts/voice-alerts-with-intellipool.md" >}}">covered this here</a>
+<strong>Voice alerts with INM</strong> we've already [covered this here]({{< ref "/posts/voice-alerts-with-intellipool.md" >}})
 http://www.intellipool.se/forum/index.php?showtopic=1120
 
 <strong>Monitoring of Microsoft SQL Server</strong>
@@ -30,4 +30,4 @@ http://www.intellipool.se/forum/index.php?showtopic=802
 <strong>Action to remove files older than X hours</strong>
 http://www.intellipool.se/forum/index.php?showtopic=1041
 
-Many of the scripts are written in <a href="http://www.lua.org/">LUA</a>, a lightweight scripting language embedded into Intellipool.
+Many of the scripts are written in [LUA](http://www.lua.org/), a lightweight scripting language embedded into Intellipool.

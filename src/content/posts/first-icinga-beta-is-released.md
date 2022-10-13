@@ -6,4 +6,4 @@ tags: [icinga]
 aliases: [/first-icinga-beta-is-released/]
 ---
 
-The first <a href="http://www.icinga.org/2009/05/20/icinga-v080-is-out/">ICINGA beta has been released</a> with a new GUI written in PHP 5 utilising the <a href="http://www.agavi.org/">Agavi</a> MVC framework. A project roadmap is available so you can see where the project is headed.
+The first [ICINGA beta has been released](http://www.icinga.org/2009/05/20/icinga-v080-is-out/) with a new GUI written in PHP 5 utilising the [Agavi](http://www.agavi.org/) MVC framework. A project roadmap is available so you can see where the project is headed.
