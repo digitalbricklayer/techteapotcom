@@ -17,4 +17,4 @@ There is a much easier way to subscribe to this and many other blogs. <del>[Goog
 
 Here is a [Google Reader tutorial by Andy Wibbels](http://www.andywibbels.com/flash/google_reader.htm). There's also [another one by Capture the Conversation as well](http://uk.youtube.com/watch?v=65iL0Q97RCg). Google have got into the act too with [Google Reader in Plain English](http://uk.youtube.com/watch?v=VSPZ2Uu_X3Y).
 
-<strong>Update March 2015</strong>: Google have unfortunately scrapped Google Reader, I've moved over to [Feedly](http://feedly.com/) and find it very useful. You can use your existing Google account to sign-up as well.
+**Update March 2015**: Google have unfortunately scrapped Google Reader, I've moved over to [Feedly](http://feedly.com/) and find it very useful. You can use your existing Google account to sign-up as well.

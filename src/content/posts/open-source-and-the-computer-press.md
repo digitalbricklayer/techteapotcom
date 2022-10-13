@@ -14,7 +14,7 @@ Evidence of the problem non-commercial players are facing comes from Tarus Balog
 
 Network World performed an open source network management tool review. The three products reviewed were the new wave open source projects. Non-commercial projects like OpenNMS and Nagios were not included in the review.
 
-My suspicion is that commercial open source players will become <strong>THE</strong> open source players so far as the traditional media is concerned. From the journalist's perspective, the commercial open source players are much more available and understandable. They have a marketing department, so they create press releases, marketing collateral and have a public relations company. The investors in the commercial players are also likely to have media contacts too.
+My suspicion is that commercial open source players will become **THE** open source players so far as the traditional media is concerned. From the journalist's perspective, the commercial open source players are much more available and understandable. They have a marketing department, so they create press releases, marketing collateral and have a public relations company. The investors in the commercial players are also likely to have media contacts too.
 
 Non-commercial players are going to find it more difficult to interface with more traditional media. They don't have a public relations company, and I doubt many create press releases either.
 

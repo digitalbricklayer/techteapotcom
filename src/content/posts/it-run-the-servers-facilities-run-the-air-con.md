@@ -16,12 +16,12 @@ By the time your data centre is an oven, things are too late. You are likely to 
 
 What can you do about it?
 
-- Make sure the facilities people are pro-actively monitoring the air-con units; <strong>AND</strong>
-- Give the duty mobile number to the facilities people and ask them to ring you when a failure occurs; <strong>OR</strong>
+- Make sure the facilities people are pro-actively monitoring the air-con units; **AND**
+- Give the duty mobile number to the facilities people and ask them to ring you when a failure occurs; **OR**
 - Install your own independent monitoring system.
 
 When you ask the facilities people to pro-actively monitor the air-conditioning they will bleat about the cost. Quite rightly, monitors purchased from the air-con manufacturer often cost an arm and a leg.
 
 Luckily, from your point of view,  things are a lot easier. You can source either network based or serial based sensors that are very reasonable. You can even integrate them into your existing network monitoring system.
 
-<strong>There is no excuse for not knowing when your air-con fails</strong>. :smile: If you need any help choosing a monitor, please get in touch. As always, we're happy to help.
+**There is no excuse for not knowing when your air-con fails**. :smile: If you need any help choosing a monitor, please get in touch. As always, we're happy to help.

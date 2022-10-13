@@ -18,4 +18,4 @@ Happily the blog itself was still working fine...just the admin system was affec
 
 The Bad Behavior plug-in author very quickly patched the problem. So all we had to do was install the patch and everything was back to normal. Phew! :wink:
 
-All software has problems/bugs, what <em>really</em> counts is how diligently the authors diagnose then fix the problem.
+All software has problems/bugs, what *really* counts is how diligently the authors diagnose then fix the problem.

@@ -6,4 +6,4 @@ tags: [Hyperic]
 aliases: [/the-first-cloud-friendly-network-management-system/]
 ---
 
-Hyperic have just announced the release of Hyperic HQ version 4, the first cloud friendly network management system. Setting up a network monitoring probe <em>in the cloud</em> just got a whole lot easier.
+Hyperic have just announced the release of Hyperic HQ version 4, the first cloud friendly network management system. Setting up a network monitoring probe *in the cloud* just got a whole lot easier.

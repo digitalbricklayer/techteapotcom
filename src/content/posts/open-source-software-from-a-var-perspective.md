@@ -8,7 +8,7 @@ aliases: [/open-source-software-from-a-var-perspective/]
 
 How can a network &amp; systems management [Value Added Reseller](https://en.wikipedia.org/wiki/Value-added_reseller) (VAR) benefit from offering [open source](https://en.wikipedia.org/wiki/Open_source) solutions and what are the potential problems?
 
-Any VAR not offering genuine added value is going to be left out in the cold. A "<em>SKU</em>" VAR,  a company that expects to take orders with the minimum of fuss, are going to have a problem. But then, that's the way commercial software like [What's Up Gold](http://www.whatsupgold.com/) and [Solar Winds Orion](http://www.solarwinds.com/products/orion/) is going anyway. The internet is disintermediating the relationship from producer to customer pretty well everywhere especially in the close to zero friction world of software.
+Any VAR not offering genuine added value is going to be left out in the cold. A "*SKU*" VAR,  a company that expects to take orders with the minimum of fuss, are going to have a problem. But then, that's the way commercial software like [What's Up Gold](http://www.whatsupgold.com/) and [Solar Winds Orion](http://www.solarwinds.com/products/orion/) is going anyway. The internet is disintermediating the relationship from producer to customer pretty well everywhere especially in the close to zero friction world of software.
 
 With open source software I suspect the effect of disintermediation will be felt most strongly. One of the most attractive aspects of open source is the community ecosystem. The last thing a potential open source adopter wants is to be cut off from the community. The direct relationship between user and producer is one of the main benefits of open source.
 
@@ -29,9 +29,9 @@ The nature of open source means that the source code is available to everybody. 
 
 The main problem with VARs morphing into open source consultants is that the project company may wish to keep all of that nice lucrative training and consultancy to themselves.
 
-After all, most of the revenue garnered from "<em>big 4</em>" (HP Openview, IBM Tivoli, CA Unicenter, BMC Patrol) sales come from training and consultancy services not from license sales.
+After all, most of the revenue garnered from "*big 4*" (HP Openview, IBM Tivoli, CA Unicenter, BMC Patrol) sales come from training and consultancy services not from license sales.
 
-The [new wave open source network &amp; systems management]({{< ref "/posts/network-managements-new-wave.md" >}}) companies are all venture funded. Somewhere in their respective business plans I'm sure training and consultancy feature very highly in their monetisation strategies. Indeed the new wave deliberately sacrifice some of the lucrative "<em>big 4</em>" software license sales in order to get hold of the training and consultancy business. I doubt they are going to be too enthusiastic cutting other people in on the deal.
+The [new wave open source network &amp; systems management]({{< ref "/posts/network-managements-new-wave.md" >}}) companies are all venture funded. Somewhere in their respective business plans I'm sure training and consultancy feature very highly in their monetisation strategies. Indeed the new wave deliberately sacrifice some of the lucrative "*big 4*" software license sales in order to get hold of the training and consultancy business. I doubt they are going to be too enthusiastic cutting other people in on the deal.
 
 ## Older is better?
 

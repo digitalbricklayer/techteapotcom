@@ -12,7 +12,7 @@ One of the items that Michael says is essential for structuring your systems man
 
 >Remember, if you can script it, script it. If you can't script it, make a checklist
 
-In the Windows world automation has been a pretty tough ask until Windows PowerShell came onto the scene. Whilst it was possible to script Windows with VBScript, it wasn't easy or quick. If it isn't easy <em>and</em> quick it probably won't happen.
+In the Windows world automation has been a pretty tough ask until Windows PowerShell came onto the scene. Whilst it was possible to script Windows with VBScript, it wasn't easy or quick. If it isn't easy *and* quick it probably won't happen.
 
 I still haven't noticed any network management tools supporting PowerShell yet. Shame. Given that nearly everything seems to be sprouting PowerShell support it is a shame that network and systems management vendors are slow supporting a technology designed to help sys admins do their job more easily.
 

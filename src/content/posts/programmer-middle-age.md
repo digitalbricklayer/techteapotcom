@@ -28,7 +28,7 @@ There are plenty of exciting things happening in software, it's just that you ha
 
 Similarly, jumping on every new agile method, design pattern or practice is a brilliant way to kill productivity. Too much design has killed as many projects as no design at all.
 
-Slowly the software industry is figuring out how to "<strong><em>engineer</em></strong>" software. Agile methods may not suite every situation, but they are a valid contribution to making software production better for many projects.
+Slowly the software industry is figuring out how to "***engineer***" software. Agile methods may not suite every situation, but they are a valid contribution to making software production better for many projects.
 
 Programmer tools are getting a lot better, and about time. Visual Studio, Eclipse, NetBeans and IntelliJ are marvellous tools when compared to tools available even ten years ago. Code coverage, performance measurement, unit testing, static analysis and even code formatting tools are all readily available.
 
@@ -40,4 +40,4 @@ And of course there are the classics like [LISP](http://lisp.org/) and [Smalltal
 
 So, maybe its not just that I'm entering programmer middle age, its that programming as a discipline is entering middle age. Gone is the youthful optimism that software creation is soon going to be so easy anybody can do it, to a realisation that it is hard, and likely to stay hard for some time, and requires tools, practices and discipline just like every other engineering discipline.
 
-The belief that the next tool will be <em>the</em> [silver bullet](https://en.wikipedia.org/wiki/Silver_bullet) is a problem. A little skepticism is a useful productivity aid.
+The belief that the next tool will be *the* [silver bullet](https://en.wikipedia.org/wiki/Silver_bullet) is a problem. A little skepticism is a useful productivity aid.

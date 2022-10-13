@@ -10,7 +10,7 @@ Firefox now has full [enhanced SSL certificate](https://en.wikipedia.org/wiki/Ex
 
 <img class="aligncenter size-full wp-image-439" title="firefox-ssl-cert-view" src="/images/uploads/2008/06/firefox-ssl-cert-view.jpg" alt="" width="500" height="18" />
 
-Expand the image above to see what it looks like. In the secure part of a site, for instance during checkout, you will now see a green area at the start of the <em>Navigation Toolbar</em>. The green area lists the verified company or organisation name and the country to which the secure SSL certificate has been assigned. If you hover your mouse over the green area a tool tip is displayed showing who authenticated the certificate.
+Expand the image above to see what it looks like. In the secure part of a site, for instance during checkout, you will now see a green area at the start of the *Navigation Toolbar*. The green area lists the verified company or organisation name and the country to which the secure SSL certificate has been assigned. If you hover your mouse over the green area a tool tip is displayed showing who authenticated the certificate.
 
 If you click on the green area more information about the owner of the certificate is displayed something like the image below:
 

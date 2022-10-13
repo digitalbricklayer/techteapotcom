@@ -26,4 +26,4 @@ So, rather than building one of the hub projects (a RRDTool equivalent) I should
 
 Ain't hindsight a wonderful thing?!
 
-<strong>Update</strong>: the [TimeTag repo](http://github.com/openxtra/TimeTag) is now hosted on Github. Feel free to fork.
+**Update**: the [TimeTag repo](http://github.com/openxtra/TimeTag) is now hosted on Github. Feel free to fork.

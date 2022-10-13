@@ -24,7 +24,7 @@ First up is a comparison of the major open source network management systems. [N
 
 Nagios is a significant open source project in and of itself. In addition, it also has an ecosystem of tools built on top of it as well. There are three main nagios core tools: [GroundWork Open Source](http://www.groundworkopensource.com/), [Centreon](http://www.centreon.com/) and [OpsView](http://opsview.org/).
 
-I haven't been able to use Groundwork Open Source because a comparison wouldn't be valid given how many words it is made up of. Many people may well type in <em>Groundwork</em> instead of <em>Groundwork Open Source</em> even though you will get a lot of civil engineering related results.
+I haven't been able to use Groundwork Open Source because a comparison wouldn't be valid given how many words it is made up of. Many people may well type in *Groundwork* instead of *Groundwork Open Source* even though you will get a lot of civil engineering related results.
 
 Configuration is one area Nagios is not very user friendly to new users, relying upon editing configuration files for changes. Both Centreon and OpsView provide an improved configuration experience, reducing or completely removing the need to directly edit configuration files. Surprisingly both Centreon and OpsView receive substantially fewer searches than Nagios.
 

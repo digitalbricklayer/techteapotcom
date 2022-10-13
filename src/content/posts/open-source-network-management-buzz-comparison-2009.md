@@ -18,7 +18,7 @@ Firstly a comparison of the major players in open source network management: [Ze
 
 ## A Comparison of the Nagios Ecosystem
 
-Whilst the above graph showed a reduction in the relative number of searches for Nagios, perhaps the Nagios ecosystem graph can explain it. [<strong>Icinga</strong>](http://www.icinga.org/), a Nagios fork, was [created during 2009]({{< ref "/posts/nagios-begets-icinga.md" >}}) and may be responsible for at least some of the decline. Icinga appears on the graph during late April and has a steady presence throughout the rest of 2009 save for a small period during the Christmas break.
+Whilst the above graph showed a reduction in the relative number of searches for Nagios, perhaps the Nagios ecosystem graph can explain it. [**Icinga**](http://www.icinga.org/), a Nagios fork, was [created during 2009]({{< ref "/posts/nagios-begets-icinga.md" >}}) and may be responsible for at least some of the decline. Icinga appears on the graph during late April and has a steady presence throughout the rest of 2009 save for a small period during the Christmas break.
 
 {{< figure src="/images/uploads/2010/01/nagios-vs-centreon-vs-opsview-vs-icinga.png" width="589" height="327" title="A Comparison of the Nagios Ecosystem 2009" alt="A Comparison of the Nagios Ecosystem 2009" link="/images/uploads/2010/01/nagios-vs-centreon-vs-opsview-vs-icinga.png" >}}
 

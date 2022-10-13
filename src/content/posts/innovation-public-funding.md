@@ -13,7 +13,7 @@ The following are quotes from David Gillies, director of technology at [Pace Mic
 <blockquote>"We work in an extremely fast-paced and competitive market,
 and the grant from Yorkshire Forward allowed us to get this product from concept to market faster than we could otherwise have done."</blockquote>
 <blockquote>"The grant made up about 50 per cent of investment in the project the balance of which was made up by ourselves allowing us to draft in the specialist expertise and resources that meant we could significantly reduce our time to market."</blockquote>
-Basically, Pace Micro got 50% (£600,000) of the cost of developing Multidweller from the tax payer, in order to <em>speed up</em> the development of something they would have done anyway.
+Basically, Pace Micro got 50% (£600,000) of the cost of developing Multidweller from the tax payer, in order to *speed up* the development of something they would have done anyway.
 
 Pace Micro is quoted on the stock exchange and has access to capital markets just like all other public companies.
 
@@ -26,4 +26,4 @@ Jim Farmery, head of innovation at Yorkshire Forward, the public body who donate
 
 I can think of a lot of uses for public money, but saving a public company a few quid in interest charges isn't one of them. It is often said that banks won't lend to you unless you can prove you don't need the money. It would appear that the same criteria applies to public funds from Yorkshire Forward.
 
-<strong>Update August 2013</strong>: Yorkshire Forward doesn't exist anymore. It was scrapped as part of the government belt tighening.
+**Update August 2013**: Yorkshire Forward doesn't exist anymore. It was scrapped as part of the government belt tighening.

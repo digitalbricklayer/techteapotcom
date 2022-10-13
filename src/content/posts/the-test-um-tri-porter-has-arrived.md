@@ -7,7 +7,7 @@ aliases: [/the-test-um-tri-porter-has-arrived/]
 
 I am happy to announce that the Test-Um Tri-Porter (IVT600) has arrived.</p>
 
-First impressions: absolutely <strong>brilliant</strong>! Three testers (voice, data &#038; video) all in a single solid unit. Oh, and you get a tone tracer too.
+First impressions: absolutely **brilliant**! Three testers (voice, data &#038; video) all in a single solid unit. Oh, and you get a tone tracer too.
 
 <img src="https:/images/uploads/2007/01/ivt600.jpg" alt="ivt600.jpg" />
 

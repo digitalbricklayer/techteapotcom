@@ -8,7 +8,7 @@ aliases: [/voice-alerts-with-intellipool/]
 
 Thanks to Robert @ Intellipool for alerting me to this one.
 
-Intellipool, as many of you may already know, is an excellent web based network monitor. One of the problems it has had, and its competitors for that matter, is the difficulty of informing off site duty IT personnel when things <strong>*really*</strong> go wrong.
+Intellipool, as many of you may already know, is an excellent web based network monitor. One of the problems it has had, and its competitors for that matter, is the difficulty of informing off site duty IT personnel when things ***really*** go wrong.
 
 Many people rely on email for alerting purposes. And that works fine whilst people are on site because email server or network failure will be noticed pretty fast or your SMS alerting will work okay.
 

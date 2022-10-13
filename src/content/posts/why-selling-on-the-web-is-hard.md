@@ -10,7 +10,7 @@ We are currently on our fifth full iteration of our website. And when I say iter
 
 We've used the simplest e-commerce system you can use, called [Mal's-ecommerce](http://www.mals-e.com/), through a [PHP based cart](http://www.jshop.co.uk/) and then eventually to our current system based upon  [Elastic Path](http://www.elasticpath.com/).
 
-Trust me, it's <em>hard</em>. But, that isn't the hardest part of e-commerce. The hardest part on the web is <strong>trust</strong>. Trust is way harder to imbue in your visitors than anything else.
+Trust me, it's *hard*. But, that isn't the hardest part of e-commerce. The hardest part on the web is **trust**. Trust is way harder to imbue in your visitors than anything else.
 
 The whole trust issue was reinforced to me yesterday. My sister's PC got infected with [spyware](https://en.wikipedia.org/wiki/Spyware). As the family IT guy I got the call. Of all of the tools to cure the problem, all of the ones I'd heard of didn't work. So, how can I figure out which of the remaining tools I can trust? Well, you can't. You just have to guess.
 

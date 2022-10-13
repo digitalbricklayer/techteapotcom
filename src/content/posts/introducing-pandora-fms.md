@@ -16,4 +16,4 @@ The server is responsible for performing all of the basic work, like receiving S
 
 The console is responsible for all of the user interface functionality using a PHP based website.
 
-<strong>Update</strong>: [Pandora FMS is available pre-installed as an appliance](http://pandorafms.com/index.php?lang=en&amp;sec=pandora&amp;sec2=appliance) if the thought of a manual install fills you with woe.
+**Update**: [Pandora FMS is available pre-installed as an appliance](http://pandorafms.com/index.php?lang=en&amp;sec=pandora&amp;sec2=appliance) if the thought of a manual install fills you with woe.

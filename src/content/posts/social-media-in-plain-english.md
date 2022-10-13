@@ -22,4 +22,4 @@ A lot of you may already be familiar with social media. If you're not, then I re
 
 According to [Google Reader](http://www.google.com/reader), I monitor 282 feeds. There is no way I could monitor that many sites without RSS.
 
-If you are not already, I urge you to start using RSS. Google Reader is a great RSS reader <strong>and</strong> it's free! You will save yourself a ton of time.
+If you are not already, I urge you to start using RSS. Google Reader is a great RSS reader **and** it's free! You will save yourself a ton of time.

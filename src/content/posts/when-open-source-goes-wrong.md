@@ -10,7 +10,7 @@ aliases: [/when-open-source-goes-wrong/]
 
 My favourite quote:
 
->"<em><strong>Clearly, their VC people have no picture of the situation other than their own return of investment</strong></em>."
+>"***Clearly, their VC people have no picture of the situation other than their own return of investment***."
 
 Well, yeah duh! Why anybody would be surprised that VCs are money focused is a mystery. VCs are managing other people's money so their focus is bound to be primarily money focused. Your retirement fund isn't going to give two figs about open source, it just wants a decent return on investment given the risks it is taking.
 

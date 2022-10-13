@@ -10,49 +10,49 @@ A number of you have asked for the ability to access the raw stats from your tem
 
 Whilst you've asked about outputting temperature logs, the same procedure works for anything else held by Intellipool.
 
-<strong>Click on Settings|Reports</strong>
+**Click on Settings|Reports**
 
-<strong>In the Customized reports section click New customized report</strong>
+**In the Customized reports section click New customized report**
 
 Type in a name for the new report. For this example I've used the name, Raw Values Report.
 
-<strong>Click Save</strong>
+**Click Save**
 
-<strong>Click on the name, Raw Values Report</strong>
+**Click on the name, Raw Values Report**
 
-<strong>Click on Items, Add graph</strong>
+**Click on Items, Add graph**
 
 In the current version of INM you need to add a graph as well as a table. There is no option to add a table alone.
 
-<strong>On Period click the dropdown and select a time period</strong>
+**On Period click the dropdown and select a time period**
 
-<strong>On Data type select Environment: Temperature measurement</strong>
+**On Data type select Environment: Temperature measurement**
 
-<strong>Click Save</strong>
+**Click Save**
 
-<strong>In Items, Type, Click on Graph</strong>
+**In Items, Type, Click on Graph**
 
-<strong>In Data inputs click on Add input</strong>
+**In Data inputs click on Add input**
 
 A list of Monitors and probes appears.
 
-<strong>Select one or more monitors and probes</strong>
+**Select one or more monitors and probes**
 
 To make multiple selections hold down the Ctrl key.
 
-<strong>Click Advanced properties</strong>
+**Click Advanced properties**
 
 This opens a further series of options
 
-<strong>In Data tables type a value in minutes, hours or days</strong>
+**In Data tables type a value in minutes, hours or days**
 
 Use the dropdown to specify the units. This specifies the time between each value in the table.
 
-<strong>Click Save</strong>
+**Click Save**
 
-<strong>To make a report</strong>
+**To make a report**
 
-<strong>Click on Settings, Reports</strong>
+**Click on Settings, Reports**
 
 Click on the book symbol to the right of your new report.
 

@@ -50,15 +50,15 @@ If the *enterprise* product is licensed under an open source licence then there 
 
 A rival copy of an open source project based upon the same source code is called a fork.
 
-As the core <em>community</em> product is freely available to anybody, there is a danger that a third party could create add-ons to the <em>community</em> edition and sell them in direct competition to the open core company. Whilst there is a danger of a competitor emerging to utilise the <em>community</em> product, there are some very good reasons why it won't happen.
+As the core *community* product is freely available to anybody, there is a danger that a third party could create add-ons to the *community* edition and sell them in direct competition to the open core company. Whilst there is a danger of a competitor emerging to utilise the *community* product, there are some very good reasons why it won't happen.
 
-The competitor would be barred from using trademarks from the <em>community</em> edition in their product name or website. Consequently, it would be very difficult to promote the add-on to the desired audience. Trademark issues were one of the [causes of the Icinga Nagios fork](http://blogs.the451group.com/opensource/2009/05/08/nagios-fork-commercial-growing-pains-commercial-interests/) for instance.
+The competitor would be barred from using trademarks from the *community* edition in their product name or website. Consequently, it would be very difficult to promote the add-on to the desired audience. Trademark issues were one of the [causes of the Icinga Nagios fork](http://blogs.the451group.com/opensource/2009/05/08/nagios-fork-commercial-growing-pains-commercial-interests/) for instance.
 
-In order to get around the trademark issue, the competitor would be forced to fork the <em>community</em> edition and release it under a new name. They could then sell an add-on product. Plainly the original community wouldn't know anything about the fork and it would take a lot of marketing effort, in an already competitive market, for anybody to notice.
+In order to get around the trademark issue, the competitor would be forced to fork the *community* edition and release it under a new name. They could then sell an add-on product. Plainly the original community wouldn't know anything about the fork and it would take a lot of marketing effort, in an already competitive market, for anybody to notice.
 
 With the original community largely closed off, the competitor would have to start afresh and build a new community from scratch. Building a community takes time and money, external investment would be a very useful way to kick start the process. The competitor would not make a particularly attractive target for investment given that it doesn't own any of the intellectual property of the fork.
 
-In addition, the competitor would need to be absolutely certain that there are no source code or other artefacts which are being distributed as an exception to the <em>community</em> edition licence. There may also be clauses in the licence that have been inserted to guard against forking. The Zenoss [licence contains just such a poisoning clause](https://www.adventuresinoss.com/?p=1234) for instance.
+In addition, the competitor would need to be absolutely certain that there are no source code or other artefacts which are being distributed as an exception to the *community* edition licence. There may also be clauses in the licence that have been inserted to guard against forking. The Zenoss [licence contains just such a poisoning clause](https://www.adventuresinoss.com/?p=1234) for instance.
 
 Whilst forking is a danger to any commercial open core company, it does not appear to be a very pressing danger in practice.
 
@@ -66,9 +66,9 @@ Whilst forking is a danger to any commercial open core company, it does not appe
 
 The open core strategy employed within network management companies encompasses quite a high degree of differences. There are companies like [Hyperic](http://www.hyperic.com/) who have [pursued a pure open core strategy very successfully](http://blog.hyperic.com/springsource/), controlling all of the software in both the core and enterprise products.
 
-At the other end of the spectrum, [Groundwork Open Source](http://www.groundworkopensource.com/) have executed more of an <em>aggregation</em> strategy, by bundling together well known open source projects together and making them into an enterprise network management platform with their own glue software.
+At the other end of the spectrum, [Groundwork Open Source](http://www.groundworkopensource.com/) have executed more of an *aggregation* strategy, by bundling together well known open source projects together and making them into an enterprise network management platform with their own glue software.
 
-The <em>aggregation</em> strategy could be considered to be more in keeping with the open source philosophy of software reuse. There are a number of advantages and disadvantages to the <em>aggregation</em> strategy. The main advantage being that by reusing a lot of best of breed components you get to market much faster than starting off from scratch. Though the vast array of licenses used by the various open source projects are likely to keep a good number of lawyers busy trying to sort out all of the requirements. Some open source licenses may well preclude use of the software within a commercial setting. Porting the software to new platforms is also likely to be difficult, you can only support the union of all of the platforms supported by the projects. Without the agreement of the project leads, you may have problems with trademark use, especially if you wish to market your software as being powered by the project in question. Many open source projects, [Nagios](http://www.nagios.org/) being a very good example, do protect their names quite vigorously.
+The *aggregation* strategy could be considered to be more in keeping with the open source philosophy of software reuse. There are a number of advantages and disadvantages to the *aggregation* strategy. The main advantage being that by reusing a lot of best of breed components you get to market much faster than starting off from scratch. Though the vast array of licenses used by the various open source projects are likely to keep a good number of lawyers busy trying to sort out all of the requirements. Some open source licenses may well preclude use of the software within a commercial setting. Porting the software to new platforms is also likely to be difficult, you can only support the union of all of the platforms supported by the projects. Without the agreement of the project leads, you may have problems with trademark use, especially if you wish to market your software as being powered by the project in question. Many open source projects, [Nagios](http://www.nagios.org/) being a very good example, do protect their names quite vigorously.
 
 On the positive side, if you can leverage existing projects, you will have a number of communities ready and waiting to be up sold to your enterprise product.
 
@@ -80,9 +80,9 @@ An exploration of open core from the community perspective.
 
 One of the most difficult balancing acts for product managers of open core products is [knowing which features should go into the community product and which should go into the enterprise product]({{< ref "/posts/a-real-world-example-of-the-problems-with-open-core-software.md">}}).
 
-Does having an open core strategy mean that there are features that will never appear in the <em>community</em> product? Does the requirement to provide sufficient leverage to the sales VP provide an artificial ceiling for the functionality of the <em>community</em> product?
+Does having an open core strategy mean that there are features that will never appear in the *community* product? Does the requirement to provide sufficient leverage to the sales VP provide an artificial ceiling for the functionality of the *community* product?
 
-In a fully functioning open source eco-system, the community would tend to close the gap between the <em>community</em> product and the <em>enterprise</em> product. Plainly an open core company is not going to be very comfortable with the value proposition of the <em>enterprise</em> product being undermined by the community.
+In a fully functioning open source eco-system, the community would tend to close the gap between the *community* product and the *enterprise* product. Plainly an open core company is not going to be very comfortable with the value proposition of the *enterprise* product being undermined by the community.
 
 ### Community contributions in an open core world
 

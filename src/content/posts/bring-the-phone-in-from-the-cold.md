@@ -12,6 +12,6 @@ When is the **phone going to come in from the cold**? How much of our lives do w
 
 When are **phones going to be integrated into our PCs** so that you can send your contact details with the press of a button. Then at the other end, with a single button press, they could include the information on a form.
 
-Not only would this **save huge amounts of time**, it would cut out the nightmare of trying to understand what people are saying. Anybody who has **tried to take somebody's email address over the phone will know the problem**. If somebody says "<em>see</em>" do they mean the letter "<em>C</em>", "<em>sea</em>" or "<em>see</em>".
+Not only would this **save huge amounts of time**, it would cut out the nightmare of trying to understand what people are saying. Anybody who has **tried to take somebody's email address over the phone will know the problem**. If somebody says "*see*" do they mean the letter "*C*", "*sea*" or "*see*".
 
 I'm sure we lose thousands of pounds worth of business a year because of miss-communication over the telephone. I doubt we are alone.

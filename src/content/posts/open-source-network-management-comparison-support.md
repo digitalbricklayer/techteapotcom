@@ -85,4 +85,4 @@ aliases: [/open-source-network-management-comparison-support/]
 </tr>
 </tbody>
 </table>
-<strong>Update 1</strong>: Zenoss has a forum / mailing list system. Both interoperate together so a post to one goes automatically into the other
+**Update 1**: Zenoss has a forum / mailing list system. Both interoperate together so a post to one goes automatically into the other

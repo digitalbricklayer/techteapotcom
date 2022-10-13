@@ -86,4 +86,4 @@ aliases: [/open-source-network-management-comparison-general/]
 <td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
 </tr>
 </tbody></table>
-<strong>Update 1</strong>: Added C to the Hyperic development languages
+**Update 1**: Added C to the Hyperic development languages

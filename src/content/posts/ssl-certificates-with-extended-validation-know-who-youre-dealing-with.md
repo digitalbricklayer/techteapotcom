@@ -8,7 +8,7 @@ aliases: [/ssl-certificates-with-extended-validation-know-who-youre-dealing-with
 
 One of the biggest problems a website encounters is trust. How do you know who you are dealing with?
 
-Well, you just look for the SSL certificate and that <em>proves</em> that the website is bona fide doesn't it? Wrong! All a traditional SSL certificate does is verify that the domain is the same as the one specified in the certificate.
+Well, you just look for the SSL certificate and that *proves* that the website is bona fide doesn't it? Wrong! All a traditional SSL certificate does is verify that the domain is the same as the one specified in the certificate.
 
 A scammer can very easily install a traditional SSL certificate for their website with the minimum of checks.
 

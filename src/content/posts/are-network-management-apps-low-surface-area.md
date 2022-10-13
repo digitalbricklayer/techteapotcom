@@ -8,7 +8,7 @@ aliases: [/are-network-management-apps-low-surface-area/]
 
 I was interested to read Open Source: What Makes for Success? by Gordon Haff. Alex Fletcher has written [an interesting follow up](http://alexfletcher.typepad.com/all_bets_off/2007/06/the_real_comple.html).
 
-Gordon Haff points out that one property of a successful open source company is to pick a very difficult problem that doesn't touch upon too many parts of an organisation. A so called <em>low surface area</em>.
+Gordon Haff points out that one property of a successful open source company is to pick a very difficult problem that doesn't touch upon too many parts of an organisation. A so called *low surface area*.
 
 Now, my question is this: are enterprise grade network and systems management applications low surface area or high surface area?
 

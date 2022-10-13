@@ -20,7 +20,7 @@ You need to pay careful attention to the minimum bend radius for the cable type 
 
 [Minimum bend radius](https://en.wikipedia.org/wiki/Minimum_bend_radius) differs with each type of cable, but for most multi-core cables, don't bend tighter than 10 times the cable diameter.
 
-Bending cable in order to pass it through a confined space is a <em>no no</em>. Better to cable pull, and then cut off the length of cable used to anchor the string.
+Bending cable in order to pass it through a confined space is a *no no*. Better to cable pull, and then cut off the length of cable used to anchor the string.
 
 As always, your cable manufacturer/supplier will be able to tell you exactly what the minimum bend radius is.
 
@@ -38,7 +38,7 @@ Pay careful attention to firebreaks and seal gaps with appropriate materials. Bu
 
 ## Terminate Carefully
 
-Terminate the cables correctly, don't leave any pairs untwisted and make sure all the crimps are secure. If the cable isn't terminated correctly it will <strong>NOT</strong> work properly.
+Terminate the cables correctly, don't leave any pairs untwisted and make sure all the crimps are secure. If the cable isn't terminated correctly it will **NOT** work properly.
 
 ## Labelling
 
@@ -56,7 +56,7 @@ Labelling is very important and will be expanded upon in a dedicated article in 
 
 Another major difference between regular electrical work and network cable installation is testing. Many electricians don't test their installations in any kind of systematic way.
 
-The bigger the job, the more important cable testing is likely to be. In fact, on even medium sized jobs, you will find that strict international standards have to be tested against. And extensive reports produced for <em>every</em> cable you install.
+The bigger the job, the more important cable testing is likely to be. In fact, on even medium sized jobs, you will find that strict international standards have to be tested against. And extensive reports produced for *every* cable you install.
 
 Testing will have a dedicated article all to itself later on in the series.
 ## Conclusion

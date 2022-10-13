@@ -10,4 +10,4 @@ As suggested by Jane Curry in her comment on the <[Open source network managemen
 
 {{< figure src="/images/uploads/2009/01/tivoli-vs-open-source-nms.png#center" width="589" height="348" title="Tivoli vs Open Source Network Management Systems" alt="Tivoli vs Open Source Network Management Systems" link="/images/uploads/2009/01/tivoli-vs-open-source-nms.png" >}}
 
-Both <em>Tivoli Monitoring</em> and <em>NetView</em> have been pretty consistent throughout 2008 unlike <em>OpenView</em> which fell substantially. It is odd that <em>Tivoli Monitoring</em> fell off a cliff in December. Presumably, that is just a really heavy seasonal decline rather than anything more fundamental. Maybe Tivoli people get very generous Christmas breaks. :wink:
+Both *Tivoli Monitoring* and *NetView* have been pretty consistent throughout 2008 unlike *OpenView* which fell substantially. It is odd that *Tivoli Monitoring* fell off a cliff in December. Presumably, that is just a really heavy seasonal decline rather than anything more fundamental. Maybe Tivoli people get very generous Christmas breaks. :wink:

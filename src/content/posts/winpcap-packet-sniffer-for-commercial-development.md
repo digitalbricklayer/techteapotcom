@@ -12,4 +12,4 @@ From a commercial software developers perspective, the GPL can be quite intimida
 
 Fortunately, the developers of WinPCap have come up with a commercial developer friendly version of WinPCap, WinPCap Professional. Of course, you've got to pay, but as a commercial developer, you're used to that! :wink:
 
-With WinPCap Professional you get an excellent packet sniffing library without the scary license <em>and</em> you get to support WinPCap open source development too. Everybody's a winner!
+With WinPCap Professional you get an excellent packet sniffing library without the scary license *and* you get to support WinPCap open source development too. Everybody's a winner!

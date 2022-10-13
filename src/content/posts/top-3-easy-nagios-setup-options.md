@@ -35,6 +35,6 @@ A VMWare appliance has been created, though it doesn't get good reviews. A bette
 
 Long term, a virtual appliance is unlikely to be satisfactory. Virtual appliances and bootable CDs are much better for training and evaluation purposes. So as soon as you have discovered whether Nagios will satisfy your needs it may be better to move onto either a natively installed version of Nagios (or Groundworks), or a hardware appliance.
 
-<strong>Update <strong>22</strong> Feb 2012</strong>:
+**Update <strong>22** Feb 2012</strong>:
 
 There is now a [Nagwin distribution](https://www.itefix.no/i2/nagwin) for Microsoft Windows using the Cygwin toolset. May be an easier install option for admins who are familiar with Windows and don't fancy learning *nix.

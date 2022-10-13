@@ -14,7 +14,7 @@ There are ways to install the loopback interface if you want, as documented [her
 
 Unless you need to do a lot of capturing, the chances are you're going to want an easier, quicker way.
 
-Happily, somebody has thought of that. Just download the [RawCap](http://www.netresec.com/?page=RawCap) utility kindly provided for free by [NETRESEC](http://www.netresec.com/) and you don't need to configure anything. You don't even need to install any software, or even unzip. Just download and copy into your <em>utils</em> folder.
+Happily, somebody has thought of that. Just download the [RawCap](http://www.netresec.com/?page=RawCap) utility kindly provided for free by [NETRESEC](http://www.netresec.com/) and you don't need to configure anything. You don't even need to install any software, or even unzip. Just download and copy into your *utils* folder.
 
 Here's how to run RawCap:
 `RawCap.exe 1 dumpfile.pcap`

@@ -22,4 +22,4 @@ The main problem with Amazon's offering is that, for Microsoft developers, you h
 
 One thing is certain: creating scalable websites just got a whole lot easier and cheaper.
 
-<strong>Update June 2013</strong>: Microsoft have indeed built a scalable .NET based PaaS offering leveraging their developer toolset, called [Windows Azure](http://www.windowsazure.com/). It is maturing very nicely.
+**Update June 2013**: Microsoft have indeed built a scalable .NET based PaaS offering leveraging their developer toolset, called [Windows Azure](http://www.windowsazure.com/). It is maturing very nicely.

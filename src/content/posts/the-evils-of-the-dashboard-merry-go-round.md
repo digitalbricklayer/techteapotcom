@@ -8,7 +8,7 @@ aliases: [/the-evils-of-the-dashboard-merry-go-round/]
 
 What is the first thing you do when you get to the office? Check your email probably. Then what? I bet you go through the same routine of checking your dashboards to see what's happened overnight.
 
-That is <em>exactly</em> what I do <strong>every single morning</strong> at work.
+That is *exactly* what I do **every single morning** at work.
 
 And I keep checking those dashboards throughout the day. Sometimes I manage to get myself in a loop, continuing around and around the same set of dashboards.
 
@@ -18,17 +18,17 @@ How many times do you check some dashboard and then action something? Me? Very r
 
 ## The Problem
 
-I call this obsessive need to view all of my various dashboards my <strong>dashboard merry-go-round</strong>.
+I call this obsessive need to view all of my various dashboards my **dashboard merry-go-round**.
 
-The <em>merry-go-round</em> is particularly a problem with real time stats. When [Google Analytics implemented real time stats](http://analytics.blogspot.co.uk/2011/09/whats-happening-on-your-site-right-now.html) I guarantee that webmaster productivity plumeted the very next day.
+The *merry-go-round* is particularly a problem with real time stats. When [Google Analytics implemented real time stats](http://analytics.blogspot.co.uk/2011/09/whats-happening-on-your-site-right-now.html) I guarantee that webmaster productivity plumeted the very next day.
 
-But the <em>merry-go-round</em> is not confined to Google Analytics or even website statistics. Any kind of statistics will do.
+But the *merry-go-round* is not confined to Google Analytics or even website statistics. Any kind of statistics will do.
 
-It is a miracle I manage to do <strong>any</strong> work. One of the most seductive things about the constant dashboard <em>merry-go-round</em> is that it feels like work. There you are frantically pounding away quickly moving between your various dashboards. It even looks to everybody else like work. Your boss probably thinks you're being really productive.
+It is a miracle I manage to do **any** work. One of the most seductive things about the constant dashboard *merry-go-round* is that it feels like work. There you are frantically pounding away quickly moving between your various dashboards. It even looks to everybody else like work. Your boss probably thinks you're being really productive.
 
-The problem is that there is <strong>no action</strong>. There is <strong>no end result</strong>.
+The problem is that there is **no action**. There is **no end result**.
 
-You log into Google Analytics, go to the "<em>Real-Time</em>" section, you discover that there are five people browsing your site. On pages X, Y, and Z.
+You log into Google Analytics, go to the "*Real-Time*" section, you discover that there are five people browsing your site. On pages X, Y, and Z.
 
 So what. You are not getting any actionable information from this.
 
@@ -36,7 +36,7 @@ You then go to the other three sites you've got in Google Analytics. Rince and r
 
 ## Solutions
 
-The obvious solution is to just <strong>stop</strong>. But if it was as simple as that, you'd already have stopped and so would I.
+The obvious solution is to just **stop**. But if it was as simple as that, you'd already have stopped and so would I.
 
 ### Notifications
 
@@ -44,7 +44,7 @@ One of the things you are trying to do by going into your dashboards is to see w
 
 I use the [Pingdom](http://www.pingdom.com/) service to monitor company websites and I almost never go into the Pingdom dashboard. Why? Because I've configured the service to send me a text message to my mobile whenever a website goes down. If I don't receive a text, then there's no need to look at the dashboard.
 
-Notifications do come with a pretty big caveat: <strong>you must trust your notifications</strong>. If I can't rely on Pingdom to tell me when my sites are down, I may be tempted to go dashboard hunting.
+Notifications do come with a pretty big caveat: **you must trust your notifications**. If I can't rely on Pingdom to tell me when my sites are down, I may be tempted to go dashboard hunting.
 
 Even if your systems are only capable of sending email alerts, you can still turn those into mobile friendly notifications and even phone call alerts using services like [PagerDuty](http://www.pagerduty.com/), [OpsGenie](http://www.opsgenie.com) and [Victorops](http://victorops.com/).
 
@@ -56,7 +56,7 @@ If you haven't received a notification, then you don't need to go anywhere near 
 
 [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) or [Timeboxing](https://en.wikipedia.org/wiki/Timeboxing) or ... lots of [other similar techniques](https://en.wikipedia.org/wiki/Time_management).
 
-None of the time management techniques will of themselves cure your statsitus, it just moves it into your own "<em>pomodori</em>", or, the time in between your productive tasks. If you want to sacrifice your own leisure time to stats, then <em>go nuts</em>. But at least you're getting work done in the mean time.
+None of the time management techniques will of themselves cure your statsitus, it just moves it into your own "*pomodori*", or, the time in between your productive tasks. If you want to sacrifice your own leisure time to stats, then *go nuts*. But at least you're getting work done in the mean time.
 
 ### The Writers' Den
 

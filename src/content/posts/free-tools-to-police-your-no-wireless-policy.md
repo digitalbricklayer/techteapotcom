@@ -6,19 +6,19 @@ tags: []
 aliases: [/free-tools-to-police-your-no-wireless-policy/]
 ---
 
-If you don't have a wireless network and you do not need to validate that you <em>don't</em> have a wireless network, you can blithely ignore what I'm going to say here.
+If you don't have a wireless network and you do not need to validate that you *don't* have a wireless network, you can blithely ignore what I'm going to say here.
 
 However, if you don't have a wireless network, and you need to ensure that you don't, then this post may be of some interest to you.
 
-There are a number of reasons why you have a <em>no wireless</em> policy, from worries about security to compliance issues.
+There are a number of reasons why you have a *no wireless* policy, from worries about security to compliance issues.
 
 In our case it is a compliance issue. We process credit cards on our website and consequently have to be PCI DSS compliant.
 
 The PCI DSS wireless network security requirements are quite onerous, especially for small / medium sized companies. The mere thought of implementing a wireless network here, whilst adhering to the PCI DSS requirements, brings me out in a cold sweat.
 
-That's why we have a <em>no wireless</em> policy. It's all very well having a policy, but how do you police it?
+That's why we have a *no wireless* policy. It's all very well having a policy, but how do you police it?
 
-Tools are available, like dedicated 24/7 [wireless intrusion detection systems](https://en.wikipedia.org/wiki/Wireless_intrusion_prevention_system), to help you enforce your <em>no wireless</em> policy, but if you don't have the budget, what other options are available?
+Tools are available, like dedicated 24/7 [wireless intrusion detection systems](https://en.wikipedia.org/wiki/Wireless_intrusion_prevention_system), to help you enforce your *no wireless* policy, but if you don't have the budget, what other options are available?
 <h2>Software Based Solutions</h2>
 If you are running Microsoft Windows then the [netsh](https://en.wikipedia.org/wiki/Netsh) command is very handy. If you type something like:
 <pre>netsh wlan show networks mode=bssid</pre>

@@ -8,11 +8,11 @@ aliases: [/musings-upon-the-open-core-functionality-ceiling/]
 
 One of the things you'd expect from an active open source project is that the code base is likely to grow as more and more features are added.
 
-In [An exploration of open core licensing in network management]({{< ref "/posts/an-exploration-of-open-core-licensing-in-network-management.md" >}}) I mentioned that one possible side effect of open core software is the creation of a <em>functionality ceiling</em>.
+In [An exploration of open core licensing in network management]({{< ref "/posts/an-exploration-of-open-core-licensing-in-network-management.md" >}}) I mentioned that one possible side effect of open core software is the creation of a *functionality ceiling*.
 
-A <em>functionality ceiling</em> is a level of functionality beyond which the <em>community</em> edition product manager is unwilling to implement because of the fear that the <em>enterprise</em> product will be less attractive to potential customers.
+A *functionality ceiling* is a level of functionality beyond which the *community* edition product manager is unwilling to implement because of the fear that the *enterprise* product will be less attractive to potential customers.
 
-That got me thinking, if a <em>functionality ceiling</em> does exist, how can I demonstrate it?
+That got me thinking, if a *functionality ceiling* does exist, how can I demonstrate it?
 
 The graphs below are taken from the [Ohloh open source project directory](http://www.ohloh.net/). The rather useful thing about Ohloh is, in addition to cataloguing open source projects, it also performs extensive code analysis.
 
@@ -22,6 +22,6 @@ The two graphs below are taken from the [Hyperic code analysis](http://www.ohloh
 
 {{< figure src="/images/uploads/2010/03/zenoss-code-analysis.png" width="300" height="129" title="Zenoss Code Analysis Graph" alt="Zenoss Code Analysis Graph" link="/images/uploads/2010/03/zenoss-code-analysis.png" >}}
 
-Both of the graphs clearly show a plateau in the quantity of code committed to the respective <em>community</em> edition code repositories. There may be a number of explanations for the plateau, perhaps heavy re-factoring work clears the space required by new features. Though, realistically I doubt that re-factoring would be capable of continually reducing the size of the code base in order to make way for new code.
+Both of the graphs clearly show a plateau in the quantity of code committed to the respective *community* edition code repositories. There may be a number of explanations for the plateau, perhaps heavy re-factoring work clears the space required by new features. Though, realistically I doubt that re-factoring would be capable of continually reducing the size of the code base in order to make way for new code.
 
 The plateau look suspiciously like evidence that open core software, at least in the network management world, tends towards a functional ceiling.

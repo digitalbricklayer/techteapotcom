@@ -34,6 +34,6 @@ The representation problem is solvable too with a number of compromises on the t
 
 Believe it or not I've been working on this on and off for the best part of twenty years. :smile:
 
-<strong>Update June 2015</strong>: I'm currently prototyping the missing application over [here](https://github.com/digitalbricklayer/dyna).
+**Update June 2015**: I'm currently prototyping the missing application over [here](https://github.com/digitalbricklayer/dyna).
 
-<strong>Update December 2015</strong>: The prototype is now called [Constraint Capers Workbench](http://constraint-capers.github.io/) and the source code is hosted [here](https://github.com/digitalbricklayer/workbench).
+**Update December 2015**: The prototype is now called [Constraint Capers Workbench](http://constraint-capers.github.io/) and the source code is hosted [here](https://github.com/digitalbricklayer/workbench).

@@ -12,4 +12,4 @@ Recently I've been musing about the computer languages that will take us into th
 
 Mozart/Oz is a dynamic object oriented language..stop yawning at the back there...and what separates it from the rest of the pack is the built in constraint based and logic programming. It is built from the ground up to support massive concurrency inside a computer as well as between computers.
 
-<strong>Update</strong>: looks like [erlang](http://www.erlang.org/) is pretty solidly in Mozart/Oz territory too.
+**Update**: looks like [erlang](http://www.erlang.org/) is pretty solidly in Mozart/Oz territory too.

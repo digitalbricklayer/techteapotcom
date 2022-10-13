@@ -12,4 +12,4 @@ I doubt there are too many IT pros who haven't had [Repetitive Strain Injury](ht
 
 [WorkRave](http://www.workrave.org/), available for Linux &amp; Windows, is an open source tool designed to help alleviate RSI by prompting you to take appropriate breaks and exercise.
 
-You only get <strong>so many clicks per day, so you better use them wisely</strong>!
+You only get **so many clicks per day, so you better use them wisely**!

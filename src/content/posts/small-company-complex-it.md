@@ -8,7 +8,7 @@ aliases: [/small-company-complex-it/]
 
 I was daydreaming today and I wondered just how many files actually make up the openxtra website. For a small site you would assume that wouldn't be many?
 
-Well, I've counted and I got quite a shock. The website is made up of <strong>4974</strong> files. And that doesn't count the databases. There are three of those.
+Well, I've counted and I got quite a shock. The website is made up of **4974** files. And that doesn't count the databases. There are three of those.
 
 It just goes to show that things grow organically and before you know it you've got yourself quite a headache. Changing the website is not something we do lightly.
 

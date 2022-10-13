@@ -50,11 +50,11 @@ One of the side effects of managing in a cloud world is that vendors will need t
 
 ## Clouds are made of data centres, right?
 
-Compute clouds are going to be housed in data centres, big ones too <em>and</em> lots of them. That's good news for the enterprise network management vendors because those data centres are going to need managing.
+Compute clouds are going to be housed in data centres, big ones too *and* lots of them. That's good news for the enterprise network management vendors because those data centres are going to need managing.
 
 People running small &amp; medium sized data centres are likely to be the people most attracted to cloud computing. Therefore, there is likely to be a consolidation away from the small and medium data centres to large data centres. The only people who'll be able to justify the cost of running a small or medium data centre are those with specialist requirements that cannot easily be accommodated using a cloud based solution.
 
-It is hard to see the transition as anything other than <em>party time</em> for enterprise vendors. Open source enterprise vendors will be in a very good position to win new customers. The transition to cloud computing is a once in a lifetime disruption causing a lot of cloud vendors to look for new, more flexible tools to help them manage their new, ultra-flexible infrastructure. In addition, the new cloud vendors are utilising open source software extensively in building their offerings, so they will be more amenable to open source based network management solutions.
+It is hard to see the transition as anything other than *party time* for enterprise vendors. Open source enterprise vendors will be in a very good position to win new customers. The transition to cloud computing is a once in a lifetime disruption causing a lot of cloud vendors to look for new, more flexible tools to help them manage their new, ultra-flexible infrastructure. In addition, the new cloud vendors are utilising open source software extensively in building their offerings, so they will be more amenable to open source based network management solutions.
 
 ## Conclusion
 
