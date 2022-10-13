@@ -6,13 +6,13 @@ tags: []
 aliases: [/if-you-havent-made-it-by-the-time-you-reach-age-x-you-never-will/]
 ---
 
-I forget where I read that, but for a while it made me very unhappy. I was approaching X at the time and I most certainly had not "<em>made it</em>".
+I forget where I read that, but for a while it made me very unhappy. I was approaching X at the time and I most certainly had not *made it*.
 
 Still haven't.
 
 Probably never will by my definition when aged X. And you know, it doesn't bother me one bit now.
 
-One of the nicer things about getting older is that your definition of "<em>making it</em>" changes. In my twenties it was about money for the most part. But, it is hard not to be sucked into thinking about your position at work.
+One of the nicer things about getting older is that your definition of *making it* changes. In my twenties it was about money for the most part. But, it is hard not to be sucked into thinking about your position at work.
 
 There's a lot of status tied up with managing people.
 
