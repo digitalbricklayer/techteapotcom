@@ -8,7 +8,7 @@ aliases: [/code-documentation-mix-up-on-google-code/]
 
 [Google Code](http://code.google.com/) is a fabulous, minimalist open source development portal. I love it because there's no faffing around and it uses lots of standard open source development tools like [subversion](http://subversion.tigris.org/).
 
-<img class="aligncenter size-medium wp-image-747" title="google-code-change-list" src="/images/uploads/2008/09/google-code-change-list.jpg" alt="" width="300" height="132" />
+![" width="300" height="132](/images/uploads/2008/09/google-code-change-list.jpg)
 
 One of the more bizarre design decisions Google made when they developed the service was to show changes to code and changes to the wiki pages in the same place.
 
