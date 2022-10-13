@@ -8,15 +8,15 @@ aliases: [/musings-upon-the-open-core-functionality-ceiling/]
 
 One of the things you'd expect from an active open source project is that the code base is likely to grow as more and more features are added.
 
-In <a href="{{< ref "/posts/an-exploration-of-open-core-licensing-in-network-management.md" >}}">An exploration of open core licensing in network management</a> I mentioned that one possible side effect of open core software is the creation of a <em>functionality ceiling</em>.
+In [An exploration of open core licensing in network management]({{< ref "/posts/an-exploration-of-open-core-licensing-in-network-management.md" >}}) I mentioned that one possible side effect of open core software is the creation of a <em>functionality ceiling</em>.
 
 A <em>functionality ceiling</em> is a level of functionality beyond which the <em>community</em> edition product manager is unwilling to implement because of the fear that the <em>enterprise</em> product will be less attractive to potential customers.
 
 That got me thinking, if a <em>functionality ceiling</em> does exist, how can I demonstrate it?
 
-The graphs below are taken from the <a href="http://www.ohloh.net/">Ohloh open source project directory</a>. The rather useful thing about Ohloh is, in addition to cataloguing open source projects, it also performs extensive code analysis.
+The graphs below are taken from the [Ohloh open source project directory](http://www.ohloh.net/). The rather useful thing about Ohloh is, in addition to cataloguing open source projects, it also performs extensive code analysis.
 
-The two graphs below are taken from the <a href="http://www.ohloh.net/p/hyperic/analyses/latest">Hyperic code analysis</a> and the <a href="http://www.ohloh.net/p/zenoss/analyses/latest">Zenoss code analysis</a> pages on Ohloh.
+The two graphs below are taken from the [Hyperic code analysis](http://www.ohloh.net/p/hyperic/analyses/latest) and the [Zenoss code analysis](http://www.ohloh.net/p/zenoss/analyses/latest) pages on Ohloh.
 
 {{< figure src="/images/uploads/2010/03/hyperic-code-analysis.png" width="300" height="129" title="Hyperic Code Analysis Graph" alt="Hyperic Code Analysis Graph" link="/images/uploads/2010/03/hyperic-code-analysis.png" >}}
 

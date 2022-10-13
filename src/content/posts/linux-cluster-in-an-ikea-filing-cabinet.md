@@ -6,4 +6,4 @@ tags: []
 aliases: [/linux-cluster-in-an-ikea-filing-cabinet/]
 ---
 
-<a href="http://helmer.sfe.se/">This is the story of Helmer. A linux cluster in a IKEA Helmer cabinet.</a>
+[This is the story of Helmer. A linux cluster in a IKEA Helmer cabinet.](http://helmer.sfe.se/)
