@@ -11,13 +11,17 @@ Google have released a fully searchable version of their first available index 
 
 I have now added the search results for the October 2022 index.
 
-{{< gallery match="images/*"
-            sortOrder="desc"
-            rowHeight="150"
-            margins="5"
-            resizeOptions="600x300 q90 Lanczos"
-            previewType="none"
-            embedPreview="true" >}}
+{{< figure src="images/open-source-network-management-2001.jpg"
+    alt="open source network management search results 2001 "
+    caption="Figure 1: Google Results for *open source network management* search in 2001" >}}
+
+{{< figure src="images/open-source-network-management-2008.jpg"
+    alt="open source network management search results 2008 "
+    caption="Figure 2: Google Results for *open source network management* search in 2008" >}}
+
+{{< figure src="images/open-source-network-management-2022.png"
+    alt="open source network management search results 2022 "
+    caption="Figure 3: Google Results for *open source network management* search in 2022" >}}
 
 The first thing that springs out are all of the adverts in the 2008 version. My guestimate is that you're going to be bidding well north of $5 per click for the top spot on there. In a sense, the search results were much more competitive in 2008 than in 2022. There are 9 adverts in 2008 and only 4 in 2022.
 
