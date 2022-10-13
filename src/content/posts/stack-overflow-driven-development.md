@@ -6,7 +6,7 @@ tags: []
 aliases: [/stack-overflow-driven-development/]
 ---
 
-The rise of <a href="http://stackoverflow.com/">Stack Overflow</a> has certainly changed how many programmers go about their trade.
+The rise of [Stack Overflow](http://stackoverflow.com/) has certainly changed how many programmers go about their trade.
 
 I have recently been learning some new client side web skills because I need them for a new project. I have noticed that the way I go about learning is quite different from the way I used to learn pre-web.
 
@@ -24,4 +24,4 @@ Using my new approach, I've cut my learning time from one to three months down t
 
 The main downside to my approach is that, at the beginning at least, I may not write idiomatic code. But, whilst that is a problem, software is very maleable and you can always re-write parts later on if the project is a success. The biggest challenge now seems to be getting to the point when you know a project has legs as quickly as possible. Fully understanding a tech before starting a project, just delays the start and I doubt you'll get that time back later in increased productivity.
 
-Of course, by far the quickest approach is to use a tech stack you already know. Unfortunately, in my case that wasn't possible because I didn't know a suitable web client side tech. It is a testament to the designers of <a href="http://angularjs.org/">Angular.js</a>, <a href="http://signalr.net/">SignalR</a> and <a href="http://nancyfx.org/">NancyFX</a> that I found it pretty easy to get started. I wish everything was so well designed and documented.
+Of course, by far the quickest approach is to use a tech stack you already know. Unfortunately, in my case that wasn't possible because I didn't know a suitable web client side tech. It is a testament to the designers of [Angular.js](http://angularjs.org/), [SignalR](http://signalr.net/) and [NancyFX](http://nancyfx.org/) that I found it pretty easy to get started. I wish everything was so well designed and documented.

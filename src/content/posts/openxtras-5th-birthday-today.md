@@ -10,4 +10,4 @@ aliases: [/openxtras-5th-birthday-today/]
 
 Today is the 5th anniversary of the incorporation of OPENXTRA Limited. Our likkle baby finally had a legal life of its own.
 
-To celebrate we're treating everybody to a trip to see the <a href="http://www.wyplayhouse.com/events/event_details.asp?event_ID=600">Sweeney Todd</a> musical at the <a href="http://www.wyplayhouse.com/">West Yorkshire Playhouse</a>. Should keep everybody in-line when it comes to pay rise time. Maybe we'll get into the pie business. :smile:
+To celebrate we're treating everybody to a trip to see the [Sweeney Todd](http://www.wyplayhouse.com/events/event_details.asp?event_ID=600) musical at the [West Yorkshire Playhouse](http://www.wyplayhouse.com/). Should keep everybody in-line when it comes to pay rise time. Maybe we'll get into the pie business. :smile:

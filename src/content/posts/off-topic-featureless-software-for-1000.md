@@ -6,4 +6,4 @@ tags: []
 aliases: [/off-topic-featureless-software-for-1000/]
 ---
 
-So <a href="http://latimesblogs.latimes.com/technology/2008/08/iphone-i-am-ric.html">that's where I've been going wrong all of these years</a> ... if only I'd known this earlier I'd currently be sunning myself on a beach in the Bahamas.
+So [that's where I've been going wrong all of these years](http://latimesblogs.latimes.com/technology/2008/08/iphone-i-am-ric.html)... if only I'd known this earlier I'd currently be sunning myself on a beach in the Bahamas.

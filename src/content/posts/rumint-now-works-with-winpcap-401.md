@@ -6,4 +6,4 @@ tags: [Rumint]
 aliases: [/rumint-now-works-with-winpcap-401/]
 ---
 
-Greg Conti has released a new version of <a href="http://www.rumint.org/">rumint</a> that now works with <a href="http://www.winpcap.org/">WinPcap</a> 4.0.1. If you <a href="{{< ref "/posts/packet-visualization-with-rumint.md" >}}">tried rumint before and had problems</a>, I suggest you give it another go.
+Greg Conti has released a new version of [rumint](http://www.rumint.org/) that now works with [WinPcap](http://www.winpcap.org/) 4.0.1. If you [tried rumint before and had problems]({{< ref "/posts/packet-visualization-with-rumint.md" >}}), I suggest you give it another go.

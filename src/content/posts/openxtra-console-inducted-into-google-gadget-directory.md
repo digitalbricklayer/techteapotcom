@@ -6,7 +6,7 @@ tags: []
 aliases: [/openxtra-console-inducted-into-google-gadget-directory/]
 ---
 
-As I <a href="{{< ref "/posts/gadget-ahoy.html" >}}">mentioned in a previous post</a> we now have a Google Desktop Gadget. We are pleased to announce that Google have now accepted our Gadget to go on their own Desktop Gadget directory.
+As I [mentioned in a previous post]({{< ref "/posts/gadget-ahoy.html" >}}) we now have a Google Desktop Gadget. We are pleased to announce that Google have now accepted our Gadget to go on their own Desktop Gadget directory.
 
 What can I say, we are thrilled. If you have the time please install it and try it out. You will need to install Google Desktop first though.
 

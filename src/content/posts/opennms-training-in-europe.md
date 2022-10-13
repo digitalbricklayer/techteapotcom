@@ -6,7 +6,7 @@ tags: ["OpenNMS"]
 aliases: [/opennms-training-in-europe/]
 ---
 
-Are you wanting to get into <a href="https://www.opennms.org/">OpenNMS</a> but are struggling to get started? OpenNMS are running a series of training courses in Europe during May.
+Are you wanting to get into [OpenNMS](https://www.opennms.org/) but are struggling to get started? OpenNMS are running a series of training courses in Europe during May.
 
 The introductory course titled  "OpenNMS - A Day in the Life" will serve as an introduction to get you started with OpenNMS.
 

@@ -6,4 +6,4 @@ tags: []
 aliases: [/network-monitoring-tools-slac-link-visualisation/]
 ---
 
-I thought it would help you to visualise the <a href="{{< ref "/posts/an-indication-of-heightened-competition-in-network-management.md" >}}">increased competition in network management</a> by <a href="http://spreadsheets.google.com/ccc?key=pHoYvvxXcX1_j_OX3pzsJfQ">producing a graph of the links</a> in the <a href="http://www.slac.stanford.edu/xorg/nmtf/nmtf-tools.html">Network Monitoring Tools directory @ SLAC</a>.
+I thought it would help you to visualise the [increased competition in network management]({{< ref "/posts/an-indication-of-heightened-competition-in-network-management.md" >}}) by [producing a graph of the links](http://spreadsheets.google.com/ccc?key=pHoYvvxXcX1_j_OX3pzsJfQ) in the [Network Monitoring Tools directory @ SLAC](http://www.slac.stanford.edu/xorg/nmtf/nmtf-tools.html).

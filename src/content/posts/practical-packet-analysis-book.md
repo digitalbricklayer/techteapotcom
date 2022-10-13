@@ -6,8 +6,8 @@ tags: []
 aliases: [/practical-packet-analysis-book/]
 ---
 
-<a href='/images/uploads/2007/06/packet_big.jpg' title='Practical Packet Analysis'><img src='/images/uploads/2007/06/packet_big.jpg' alt='Practical Packet Analysis' /></a>
+<img src='/images/uploads/2007/06/packet_big.jpg' alt='Practical Packet Analysis' />
 
-Just found an interesting book...if you're a blood 'n guts comms bod then I think this book should find a place in your bookshelf. The book can be found <a href="http://www.nostarch.com/frameset.php?startat=packet_cs">here on the publisher's website</a>.
+Just found an interesting book...if you're a blood 'n guts comms bod then I think this book should find a place in your bookshelf. The book can be found [here on the publisher's website](http://www.nostarch.com/frameset.php?startat=packet_cs).
 
-The author, Chris Sanders, also has <a href="http://www.chrissanders.org/">a good blog too</a>. Well worth adding to your feed reader.
+The author, Chris Sanders, also has [a good blog too](http://www.chrissanders.org/). Well worth adding to your feed reader.

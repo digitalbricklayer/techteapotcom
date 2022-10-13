@@ -6,7 +6,7 @@ tags: [powershell]
 aliases: [/powershell-network-monitor-powerful-netman-tool/]
 ---
 
-I am surprised that no network monitor manufacturer has jumped onto <a href="http://www.microsoft.com/windowsserver2003/technologies/management/powershell/default.mspx">Windows PowerShell</a> in a major way. Whilst tools like <a href="http://www.softwarefx.com/powergadgets/">PowerGadgets</a> use the full power of PowerShell, it isn't really aimed at the network manager. It is more of a general IT visualisation tool.
+I am surprised that no network monitor manufacturer has jumped onto [Windows PowerShell](http://www.microsoft.com/windowsserver2003/technologies/management/powershell/default.mspx) in a major way. Whilst tools like [PowerGadgets](http://www.softwarefx.com/powergadgets/) use the full power of PowerShell, it isn't really aimed at the network manager. It is more of a general IT visualisation tool.
 
 A tool that combined the power and extensibility of PowerShell, with the reporting, graphing and mapping capabilities of a major network monitoring tool would be formidable.
 

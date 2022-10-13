@@ -6,7 +6,7 @@ tags: []
 aliases: [/were-not-in-kansas-any-more/]
 ---
 
-I was researching a follow up to <a href="{{< ref "/posts/how-will-cloud-computing-change-network-management.md" >}}">how will cloud computing change network management</a> post and I came across something rather odd I'd like to share with you.
+I was researching a follow up to [how will cloud computing change network management]({{< ref "/posts/how-will-cloud-computing-change-network-management.md" >}}) post and I came across something rather odd I'd like to share with you.
 
 Below are a series of graphs culled from Google Trends showing the relative search levels of various network management related keywords.
 
@@ -32,6 +32,6 @@ What is the most significant feature of them? What struck me is the downward dec
 
 {{< figure src="/images/uploads/2014/05/snmp.png#center" width="788" height="236" title="SNMP Search Trend" alt="snmp" link="/images/uploads/2014/05/snmp.png" >}}
 
-The only search not showing a decline is <a href="http://www.icinga.org/">Icinga</a>. But, that may just be because it is a relatively recent project so it doesn't have a history of higher volumes of searches it probably would have had if it were a bit older.
+The only search not showing a decline is [Icinga](http://www.icinga.org/). But, that may just be because it is a relatively recent project so it doesn't have a history of higher volumes of searches it probably would have had if it were a bit older.
 
 {{< figure src="/images/uploads/2014/05/icinga.png#center" width="794" height="241" title="Icinga Search Trend" alt="ICINGA" link="/images/uploads/2014/05/icinga.png" >}}

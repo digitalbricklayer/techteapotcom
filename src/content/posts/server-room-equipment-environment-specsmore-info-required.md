@@ -6,9 +6,9 @@ tags: []
 aliases: [/server-room-equipment-environment-specsmore-info-required/]
 ---
 
-Manufacturers of IT equipment usually specify recommended operating temperatures for their equipment. The temperature range is usually quite wide. For instance, the temperature range specified for our Dell servers is <span class="para">10° to 35°C (50° to 95°F).</span>
+Manufacturers of IT equipment usually specify recommended operating temperatures for their equipment. The temperature range is usually quite wide. For instance, the temperature range specified for our Dell servers is 10° to 35°C (50° to 95°F).
 
-Given the wide operating temperature range, why can't we run our servers at a sizzling <span class="para">34.9°C?</span>
+Given the wide operating temperature range, why can't we run our servers at a sizzling 34.9°C?
 
 It is odd that Dell don't nuance the environmental information they specify. They don't say what level of system reliability you can expect at a given temperature.
 

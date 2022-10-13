@@ -24,6 +24,6 @@ As usual, fixing the problem is trivial when the exact cause of the problem has 
 
 The first take away it is that I really should have been concentrating on the Exchange logs a lot sooner rather than assuming it would be a connectivity problem. The logs would have told me that the email was reaching the server and that the server was rejecting them. That would have ruled out connectivity as a root cause.
 
-The second is my thankfulness for having secondary domain MX records. Back-up email servers cost us around $25 per year and just saved us from dropping a single email. Thank you <a href="http://www.mtgsy.net/">Cloudfloor DNS</a>.
+The second is my thankfulness for having secondary domain MX records. Back-up email servers cost us around $25 per year and just saved us from dropping a single email. Thank you [Cloudfloor DNS](http://www.mtgsy.net/).
 
 No emails were harmed in the making of this blog post.

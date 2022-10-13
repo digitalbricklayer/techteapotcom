@@ -6,6 +6,6 @@ tags: []
 aliases: [/seen-the-apollo-anniversary-on-tv-now-read-the-source-code/]
 ---
 
-If you want to see some excellent  assembly language programming, you can do a lot worse than read <a href="http://code.google.com/p/virtualagc/">NASA's newly released source code for the Apollo program</a>.
+If you want to see some excellent  assembly language programming, you can do a lot worse than read [NASA's newly released source code for the Apollo program](http://code.google.com/p/virtualagc/).
 
-[via <a href="http://www.computerworlduk.com/toolbox/open-source/blogs/index.cfm?RSS&amp;BlogId=10&amp;EntryId=2371">ComputerWorldUK</a>]
+[via [ComputerWorldUK](http://www.computerworlduk.com/toolbox/open-source/blogs/index.cfm?RSS&amp;BlogId=10&amp;EntryId=2371)]

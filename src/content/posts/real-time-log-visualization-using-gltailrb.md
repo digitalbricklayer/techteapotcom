@@ -8,9 +8,9 @@ aliases: [/real-time-log-visualization-using-gltailrb/]
 
 <img src="/images/uploads/2007/10/gltail-partial.gif" alt="Partial screenshot of glTail.rb in action" align="right" style="border-left:solid 4px white" />
 
-Hat tip to <a href="http://dougal.gunters.org/about-this-site">Dougal Campbell</a> over at <a href="http://dougal.gunters.org/">Geek Ramblings</a> for finding this.
+Hat tip to [Dougal Campbell](http://dougal.gunters.org/about-this-site) over at [Geek Ramblings](http://dougal.gunters.org/) for finding this.
 
-Just occasionally you come across a tool that really blows you away...that tool is <a href="http://fudgie.org/">glTail.rb</a>!
+Just occasionally you come across a tool that really blows you away...that tool is [glTail.rb](http://fudgie.org/)!
 
 Getting an instant idea for how your web server is performing can be a difficult task. One way to do that is to use a command like:
 
@@ -22,4 +22,4 @@ That's where glTail.rb comes into its own. You get a nice graphical visualizatio
 
 glTail.rb won't replace your regular analytics package, but it will provide a nice supplementary tool that's not too techie. You could wire up glTail.rb to display onto a LCD in your office and everybody could see, in real time, what's happening on your website.
 
-If you go through to the <a href="http://fudgie.org/">glTail.rb website</a> you can see some videos of the <a href="http://fudgie.org/slashdotted.html">tool in action</a>. Oh, and you can do a lot more than just website log visualization too. Pretty well anything you can tail will work!
+If you go through to the [glTail.rb website](http://fudgie.org/) you can see some videos of the [tool in action](http://fudgie.org/slashdotted.html). Oh, and you can do a lot more than just website log visualization too. Pretty well anything you can tail will work!

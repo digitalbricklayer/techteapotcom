@@ -6,14 +6,14 @@ tags: []
 aliases: [/tweets-as-open-source-network-management-metric/]
 ---
 
-The folks over at <a href="http://www.tweetvolume.com/">TweetVOLUME</a> have produced a tool for counting the mentions of words or phrases on the <a href="http://twitter.com/">Twitter</a> <a href="https://en.wikipedia.org/wiki/Micro-blogging">micro-blogging</a> platform.
+The folks over at [TweetVOLUME](http://www.tweetvolume.com/) have produced a tool for counting the mentions of words or phrases on the [Twitter](http://twitter.com/) [micro-blogging](https://en.wikipedia.org/wiki/Micro-blogging) platform.
 
 I thought that it would be an interesting, though not especially significant, metric for comparing open source projects.
 
-<a href="/images/uploads/2008/03/twitter-volume-ossnms-comparison.JPG" title="twitter-volume-ossnms-comparison.JPG"><img src="/images/uploads/2008/03/twitter-volume-ossnms-comparison.JPG" alt="twitter-volume-ossnms-comparison.JPG" /></a>
+<img src="/images/uploads/2008/03/twitter-volume-ossnms-comparison.JPG" alt="twitter-volume-ossnms-comparison.JPG" />
 
-The graph above shows the number of twits in which <a href="http://www.zenoss.org/">Zenoss</a>, <a href="http://www.nagios.org/">Nagios</a>, <a href="http://www.hyperic.org/">Hyperic</a>, <a href="https://www.opennms.org/">OpenNMS</a> or <a href="http://oss.oetiker.ch/mrtg/">MRTG</a> were mentioned according to the TweetVolume algorithm.
+The graph above shows the number of twits in which [Zenoss](http://www.zenoss.org/), [Nagios](http://www.nagios.org/), [Hyperic](http://www.hyperic.org/), [OpenNMS](https://www.opennms.org/) or [MRTG](http://oss.oetiker.ch/mrtg/) were mentioned according to the TweetVolume algorithm.
 
-The graph <a href="{{< ref "/posts/new-wave-network-management-buzz-comparison.md" >}}">once again shows that Nagios is ahead of everybody</a>. The rest are too close to draw any meaningful conclusions.
+The graph [once again shows that Nagios is ahead of everybody]({{< ref "/posts/new-wave-network-management-buzz-comparison.md" >}}). The rest are too close to draw any meaningful conclusions.
 
-You can <a href="http://www.tweetvolume.com/index.php?search_phrases=zenoss,nagios,hyperic,opennms,mrtg">experiment yourself</a>. Enjoy!
+You can [experiment yourself](http://www.tweetvolume.com/index.php?search_phrases=zenoss,nagios,hyperic,opennms,mrtg). Enjoy!

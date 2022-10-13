@@ -6,6 +6,6 @@ tags: []
 aliases: [/network-instruments-in-the-blogoshere/]
 ---
 
-Brian Boyko over at Network Performance Daily mentioned in passing that <a href="http://www.networkinstruments.com/blog/">Network Instruments now have a blog</a>.
+Brian Boyko over at Network Performance Daily mentioned in passing that [Network Instruments now have a blog](http://www.networkinstruments.com/blog/).
 
-Well worth a read... oh, and <a href="http://www.networkperformancedaily.com/">Network Performance Daily</a> is well worth a read too!
+Well worth a read... oh, and [Network Performance Daily](http://www.networkperformancedaily.com/) is well worth a read too!

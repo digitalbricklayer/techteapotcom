@@ -21,12 +21,12 @@ The type of project will likely dictate how bad the problem becomes. For large c
 Less complex projects may not be in a position to offer support and training services because the project may not justify them.
 
 A large migration from Windows to Linux would imply that the following sequence of things will happen:
-<ol>
-	<li>The contributor to user ratio goes down substantially;</li>
-	<li>Both the new adopters from Windows and existing Linux users will become increasingly disgruntled with the reduction in the quality of support; and</li>
-	<li>The existing contributors will be overwhelmed and may either curtail their efforts or completely terminate their involvement;</li>
-	<li>All users will become increasingly unhappy with the deteriorating support they receive from the project with consequent effects to the projects viability and vitality.</li>
-</ol>
+
+- The contributor to user ratio goes down substantially;
+- Both the new adopters from Windows and existing Linux users will become increasingly disgruntled with the reduction in the quality of support; and
+- The existing contributors will be overwhelmed and may either curtail their efforts or completely terminate their involvement;
+- All users will become increasingly unhappy with the deteriorating support they receive from the project with consequent effects to the projects viability and vitality.
+
 What does this mean for Linux and Linux based projects? Either the free (as in beer) model has to change for some projects or migrating Windows users will have to be educated in order that the contributor/user ration remains sustainable.
 
 I am a little sceptical that the vast bulk of Windows users will ever make good open source contributors. The people most willing and best able to contribute are already, by a mechanism of self selection, contributing to open source. The remnants either don't care or can't be bothered to contribute. Hardly fertile ground for a message of help yourself, help other people.

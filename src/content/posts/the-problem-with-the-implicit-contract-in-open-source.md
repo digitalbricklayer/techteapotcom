@@ -10,7 +10,7 @@ One of the things I've found very interesting about being involved in open sourc
 
 Just because you give something away does not mean that you or your offering will be judged more kindly as a consequence. It does not mean that there will be a lower expectation of your support either.
 
-Take this exchange on the <a href="http://forums.hyperic.com/jiveforums/thread.jspa?messageID=27808&amp;tstart=0#27808">Hyperic support forum</a>. HyperMike plainly has an expectation that <a href="http://www.hyperic.com/">Hyperic</a> offer technical support via their forum for free. Something  you only guarantee if you buy the enterprise version of Hyperc HQ.
+Take this exchange on the [Hyperic support forum](http://forums.hyperic.com/jiveforums/thread.jspa?messageID=27808&amp;tstart=0#27808). HyperMike plainly has an expectation that [Hyperic](http://www.hyperic.com/) offer technical support via their forum for free. Something  you only guarantee if you buy the enterprise version of Hyperc HQ.
 
 I'm not saying that either HyperMike or Hyperic are wrong, just that you have to be very careful to set expectations of precisely what will be delivered and what will not. If you are not careful, you could very easily end up with a tarnished reputation  even though you haven't failed to deliver anything you said you would. Perhaps the problem is assuming that your users will understand what the deal with open source tools is without you setting it out in detail for them.
 

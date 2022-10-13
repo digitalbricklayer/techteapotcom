@@ -8,15 +8,15 @@ aliases: [/summer-holiday-roundup/]
 
 Summer is nearly over so I thought I'd share our summer holiday destinations with you. Please feel free to leave a comment saying where you went for your summer hols with an appropriate link to Wikipedia or whatever.
 
-Denis managed a couple of weeks in <a href="https://en.wikipedia.org/wiki/Croatia">Croatia</a>, including the beautiful town of <a href="https://en.wikipedia.org/wiki/Dubrovnik">Dubrovnik</a>.
+Denis managed a couple of weeks in [Croatia](https://en.wikipedia.org/wiki/Croatia), including the beautiful town of [Dubrovnik](https://en.wikipedia.org/wiki/Dubrovnik).
 
-Annie escaped for a week to the <a href="https://en.wikipedia.org/wiki/Majorca">beautiful Mediterranean isle of Mallorca</a>.
+Annie escaped for a week to the [beautiful Mediterranean isle of Mallorca](https://en.wikipedia.org/wiki/Majorca).
 
-Andrea is <a href="http://locationprivacy.org/">currently finishing her PhD</a> so she only managed a few days camping in the <a href="https://en.wikipedia.org/wiki/Lake_District">Lake District</a>.
+Andrea is [currently finishing her PhD](http://locationprivacy.org/) so she only managed a few days camping in the [Lake District](https://en.wikipedia.org/wiki/Lake_District).
 
-Dean is a <a href="http://www.formula1.com/">Formula 1</a> fan, so he spent the best part of a week at <a href="http://www.silverstone.co.uk/">Silverstone</a> enjoying the whole F1 circus atmosphere.
+Dean is a [Formula 1](http://www.formula1.com/) fan, so he spent the best part of a week at [Silverstone](http://www.silverstone.co.uk/) enjoying the whole F1 circus atmosphere.
 
-For my sins, I haven't had a summer holiday yet, I hope to get away in the autumn. I will be cycling over to <a href="https://en.wikipedia.org/wiki/Helmsley">Helmsley</a> youth hostel with my nephew for a night though. I spent a few days there last year and it was gorgeous.
+For my sins, I haven't had a summer holiday yet, I hope to get away in the autumn. I will be cycling over to [Helmsley](https://en.wikipedia.org/wiki/Helmsley) youth hostel with my nephew for a night though. I spent a few days there last year and it was gorgeous.
 
 <img src="/images/uploads/2007/08/180px-helmsley_castle3.jpg" alt="Helmsley Castle" />Helmsley Castle
 

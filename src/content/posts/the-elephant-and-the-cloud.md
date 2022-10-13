@@ -6,7 +6,7 @@ tags: []
 aliases: [/the-elephant-and-the-cloud/]
 ---
 
-<a href="/images/uploads/2007/12/elephant.gif"><img style="border-left: solid 4px white;" alt="Elephant flying on clouds" src="/images/uploads/2007/12/elephant.gif" align="right" /></a>
+<img style="border-left: solid 4px white;" alt="Elephant flying on clouds" src="/images/uploads/2007/12/elephant.gif" align="right" />
 
 The most interesting thing about technology change are the odd juxtapositions it throws up. If you'd asked me a few years ago who would be the leader in cloud computing, I wouldn't have predicted that it would be Amazon.
 
@@ -22,4 +22,4 @@ The main problem with Amazon's offering is that, for Microsoft developers, you h
 
 One thing is certain: creating scalable websites just got a whole lot easier and cheaper.
 
-<strong>Update June 2013</strong>: Microsoft have indeed built a scalable .NET based PaaS offering leveraging their developer toolset, called <a href="http://www.windowsazure.com/">Windows Azure</a>. It is maturing very nicely.
+<strong>Update June 2013</strong>: Microsoft have indeed built a scalable .NET based PaaS offering leveraging their developer toolset, called [Windows Azure](http://www.windowsazure.com/). It is maturing very nicely.

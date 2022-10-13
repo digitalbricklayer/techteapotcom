@@ -7,14 +7,14 @@ tags: []
 aliases: [/new-domain-and-last-chance-to-subscribe-via-email/]
 ---
 
-If you receive <em>The Tech Teapot</em> via email, this is your last chance to continue doing so. From now <em>The Tech Teapot</em> is moving over to use <a href="http://mailchimp.com/">MailChimp</a> instead of <a href="http://feedburner.google.com/">Google Feedburner</a> for delivering email with the latest posts.
+If you receive *The Tech Teapot* via email, this is your last chance to continue doing so. From now *The Tech Teapot* is moving over to use [MailChimp](http://mailchimp.com/) instead of [Google Feedburner](http://feedburner.google.com/) for delivering email with the latest posts.
 
 Feedburner has been withering on the vine since being taken over by Google. The reason that this is your final chance is because Google doesn't manage the email list. Of the 500+ email subscribers, not a single one has been removed from the list due to email bouncing. I find it hard to believe that no subscriber has moved jobs in the last 8 years. Consequently, the Feedburner list is full of invalid, out of date email addresses. As a consequence, MailChimp will not import the Feedburner list.
 
-Sorry about that, but fear not, you can <a href="{{< ref "/subscribe.md" >}}">sign-up here</a>.
+Sorry about that, but fear not, you can [sign-up here]({{< ref "/subscribe.md" >}}).
 
 P.S. The more observant may have noticed the change of domain, I've owned the domain for a while and thought it about time the blog was moved onto its very own domain. Hope you like it.
 
-P.P.S. <del>Feed subscribers will also need to update the feed URL to <strong><a href="{{< ref "/" >}}index.xml">here</a></strong></del>
+P.P.S. ~~Feed subscribers will also need to update the feed URL to [here]({{< ref "/" >}}index.xml)~~
 
-<strong>Update 5 March 2015</strong>: turns out that when you delete your feed in Feedburner you are given the option to redirect the Feedburner feed back to the original feed. So, if you're subscribed to the feed through your feed reader, you will <strong>not</strong> need to change anything in order to continue receiving new updates :smile:
+**Update 5 March 2015**: turns out that when you delete your feed in Feedburner you are given the option to redirect the Feedburner feed back to the original feed. So, if you're subscribed to the feed through your feed reader, you will *not* need to change anything in order to continue receiving new updates :smile:

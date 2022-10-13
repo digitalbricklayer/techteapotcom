@@ -6,7 +6,7 @@ tags: []
 aliases: [/wordpress-5-minute-install/]
 ---
 
-...used to be a category leader in ease of installation. It isn't now. You can install very powerful CMS software like <a href="http://www.silverstripe.org/blog/">SilverStripe</a> in under a minute. By comparison, five minutes seems like an eternity.
+...used to be a category leader in ease of installation. It isn't now. You can install very powerful CMS software like [SilverStripe](http://www.silverstripe.org/blog/) in under a minute. By comparison, five minutes seems like an eternity.
 
 The SilverStripe installer does away with any database and config file messing around. Just run the install script and bob's your uncle it creates the database <em><strong>and</strong></em> creates the necessary config files for you.
 

@@ -6,8 +6,8 @@ tags: []
 aliases: [/the-lowdown-on-writing-a-technical-book/]
 ---
 
-If you've ever hankered after writing a technical book then  <a href="http://www.voidspace.org.uk/">Michael Foord</a> has <a href="http://www.voidspace.org.uk/python/articles/technical-writing.shtml">some advice for you</a> garnered from writing <a href="http://www.ironpythoninaction.com/">IronPython in Action</a>.
+If you've ever hankered after writing a technical book then  [Michael Foord](http://www.voidspace.org.uk/) has [some advice for you](http://www.voidspace.org.uk/python/articles/technical-writing.shtml) garnered from writing [IronPython in Action](http://www.ironpythoninaction.com/).
 
 Sounds like a shed load of work for no money... something I seem to be specialising in at the moment. :wink:
 
-<strong>Update</strong>: Michael has done a post <a href="http://www.voidspace.org.uk/python/weblog/arch_d7_2009_07_18.shtml#e1111">detailing his first quarter earning from IronPython in Action</a>. Not a lot of money for two years work... the only thing worse paid than writing a book is writing open source software. :wink:
+<strong>Update</strong>: Michael has done a post [detailing his first quarter earning from IronPython in Action](http://www.voidspace.org.uk/python/weblog/arch_d7_2009_07_18.shtml#e1111). Not a lot of money for two years work... the only thing worse paid than writing a book is writing open source software. :wink:

@@ -6,4 +6,4 @@ tags: []
 aliases: [/open-source-management-options-paper-complete/]
 ---
 
-<a href="http://www.skills-1st.co.uk/">Jane Curry</a> has completed her <a href="http://www.skills-1st.co.uk/papers/jane/open_source_mgmt_options.pdf">Open Source Management Options</a> [PDF] white paper.
+[Jane Curry](http://www.skills-1st.co.uk/) has completed her [Open Source Management Options](http://www.skills-1st.co.uk/papers/jane/open_source_mgmt_options.pdf) [PDF] white paper.

@@ -6,7 +6,7 @@ tags: []
 aliases: [/re-microsoft-wake-up-apple-is-gaining-intellectual-capital-and-market/]
 ---
 
-<a href="http://forbesontech.typepad.com/my_weblog/">Jim Forbes</a> wrote an interesting piece <em><a href="http://forbesontech.typepad.com/my_weblog/2007/08/microsoft-wake-.html">Microsoft Wake Up--Apple is gaining Intellectual Capital and Market</a></em> over on his blog.
+[Jim Forbes](http://forbesontech.typepad.com/my_weblog/) wrote an interesting piece <em>[Microsoft Wake Up--Apple is gaining Intellectual Capital and Market](http://forbesontech.typepad.com/my_weblog/2007/08/microsoft-wake-.html)</em> over on his blog.
 
 I have to disagree with most of it though. I don't see Apple gaining momentum outside of a few new media folks, who've always held an exaggerated sense of their own importance.
 

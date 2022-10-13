@@ -8,7 +8,7 @@ aliases: [/top-3-easy-nagios-setup-options/]
 
 <img src="/images/uploads/2007/05/status-detail-t.jpg" alt="Nagios" align="right" />
 
-Everybody loves <a href="http://www.nagios.org/">Nagios</a>, but let's be honest, it can be a pain to set up, especially if you work in a Windows only environment. A few solutions do exist to make Nagios a little easier to get yourself up and running.
+Everybody loves [Nagios](http://www.nagios.org/), but let's be honest, it can be a pain to set up, especially if you work in a Windows only environment. A few solutions do exist to make Nagios a little easier to get yourself up and running.
 
 <h2>#1: Hardware Appliances</h2>
 <img src="/images/uploads/2007/05/azeti-a_small.png" alt="Nagios Appliance" align="right" />
@@ -21,7 +21,7 @@ The down side? Price is obviously one but perhaps the biggest problem is going t
 
 <img src="/images/uploads/2007/05/gw-header.gif" alt="Groundwork Open Source" align="right" />
 
-<a href="http://www.groundworkopensource.com/">Groundwork</a> is a company dedicated to bringing commercial level support to Nagios, including a nice easy to install &amp; configure distribution. A number of versions are available including a free version. Pre-compiled binary versions with installer are available for all versions, as well as the source code.
+[Groundwork](http://www.groundworkopensource.com/) is a company dedicated to bringing commercial level support to Nagios, including a nice easy to install &amp; configure distribution. A number of versions are available including a free version. Pre-compiled binary versions with installer are available for all versions, as well as the source code.
 
 Nice solution, but you're going to need a Linux/Unix machine. If you are just curious, it may be worth using a virtual appliance first before diving into setting up a Linux machine.
 
@@ -37,4 +37,4 @@ Long term, a virtual appliance is unlikely to be satisfactory. Virtual appliance
 
 <strong>Update <strong>22</strong> Feb 2012</strong>:
 
-There is now a <a href="https://www.itefix.no/i2/nagwin">Nagwin distribution</a> for Microsoft Windows using the Cygwin toolset. May be an easier install option for admins who are familiar with Windows and don't fancy learning *nix.
+There is now a [Nagwin distribution](https://www.itefix.no/i2/nagwin) for Microsoft Windows using the Cygwin toolset. May be an easier install option for admins who are familiar with Windows and don't fancy learning *nix.

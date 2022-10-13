@@ -6,9 +6,9 @@ tags: [nagios, wireshark, "OpenNMS", "MRTG"]
 aliases: [/open-source-network-management-comparison-2007/]
 ---
 
-<a href="http://socializedsoftware.com/">Mark Hinkle</a> from <a href="http://zenoss.org/">Zenoss</a> sent me a link to an <a href="http://docs.google.com/Doc?id=dgrmj57q_9g8pjxpdp">interesting document he prepared</a> yesterday.
+[Mark Hinkle](http://socializedsoftware.com/) from [Zenoss](http://zenoss.org/) sent me a link to an [interesting document he prepared](http://docs.google.com/Doc?id=dgrmj57q_9g8pjxpdp) yesterday.
 
-<a title="Open source network management download comparison 2007" href="/images/uploads/2008/01/open-source-management-adoption.png"><img src="/images/uploads/2008/01/open-source-management-adoption.png" alt="Open source network management download comparison 2007" width="100%" height="100%" /></a>
+<img src="/images/uploads/2008/01/open-source-management-adoption.png" alt="Open source network management download comparison 2007" width="100%" height="100%" />
 
 I think Mark may be over egging Zenoss "<em>clear market leadership</em>" but without any doubt their growth over the last year has been impressive.
 

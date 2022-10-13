@@ -6,6 +6,6 @@ tags: []
 aliases: [/that-old-it-vs-facilities-thing-again/]
 ---
 
-<a href="http://thedailywtf.com/Articles/The-Hot-Room.aspx">The classic problem with facilities people running the air-conditioning systems</a>.
+[The classic problem with facilities people running the air-conditioning systems](http://thedailywtf.com/Articles/The-Hot-Room.aspx).
 
-[via <a href="http://thedailywtf.com/">The Daily WTF</a>]
+[via [The Daily WTF](http://thedailywtf.com/)]

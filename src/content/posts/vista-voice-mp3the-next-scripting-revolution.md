@@ -6,7 +6,7 @@ tags: []
 aliases: [/vista-voice-mp3the-next-scripting-revolution/]
 ---
 
-I was quite amused by a story about a potential <a href="http://news.bbc.co.uk/1/hi/technology/6320865.stm">Vista voice recognition security hole</a>.
+I was quite amused by a story about a potential [Vista voice recognition security hole](http://news.bbc.co.uk/1/hi/technology/6320865.stm).
 
 It got me thinking that perhaps in the future I'll be able to perform some maintenance tasks on my Mother's PC by sending her a MP3 file of me instructing her computer what to do. Perhaps, I could give her a range of files for performing those little jobs like rebooting her wireless router which I have to do from time to time.
 
