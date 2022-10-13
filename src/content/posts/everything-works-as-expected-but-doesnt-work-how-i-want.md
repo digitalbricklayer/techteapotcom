@@ -12,9 +12,9 @@ Nothing particularly unusual in that. The database process went rogue and stoppe
 
 Once the problem was detected, restarting the process solved the problem very easily.
 
-The rather unfortunate side effect was that <a href="http://code.google.com/p/elmah/">Elmah</a> sent 10,844 emails to <a href="https://www.uservoice.com/">UserVoice</a>, which then created the corresponding number of issues.
+The rather unfortunate side effect was that [Elmah](http://code.google.com/p/elmah/) sent 10,844 emails to [UserVoice](https://www.uservoice.com/), which then created the corresponding number of issues.
 
-That's <em>not</em> very helpful.
+That's *not* very helpful.
 
 What is interesting is how dumb all of the tools actually are in the chain. Elmah detects a problem so it sends an email to our UserVoice account. UserVoice receives the email and creates an issue for each one.
 
