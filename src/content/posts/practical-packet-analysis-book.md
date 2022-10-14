@@ -6,7 +6,7 @@ tags: []
 aliases: [/practical-packet-analysis-book/]
 ---
 
-<img src='/images/uploads/2007/06/packet_big.jpg' alt='Practical Packet Analysis' />
+{{< figure src="/images/uploads/2007/06/packet_big.jpg#floatright" alt="Practical Packet Analysis" >}}
 
 Just found an interesting book...if you're a blood 'n guts comms bod then I think this book should find a place in your bookshelf. The book can be found [here on the publisher's website](http://www.nostarch.com/frameset.php?startat=packet_cs).
 

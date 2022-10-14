@@ -8,7 +8,7 @@ aliases: [/happy-new-year/]
 
 I actually refused some chocolate last night...not often that happens! Geese, I need to get down the gym today. :smile:
 
-<img height="192" alt="uglysisters372" src="/images/uploads/2008/01/uglysisters372.jpg" width="372" align="right" />
+{{< figure src="/images/uploads/2008/01/uglysisters372.jpg#floatright" alt="Panto Ugly Sisters" >}}
 
 I must confess that I've been looking forward to going back to work for the last few days. The highlight of my holiday was the annual family trip to the [pantomime](http://yorktheatreroyal.wordpress.com/2007/12/19/review-sinbad-the-sailor-8/) at the [Theatre Royal in York](http://www.yorktheatreroyal.co.uk/). The [award winning performance](http://arts.guardian.co.uk/theatre/drama/reviews/story/0,,2229144,00.html) was up to its usual high standard and I recommend a visit if you can make it...the performance runs until the 2nd February.
 
