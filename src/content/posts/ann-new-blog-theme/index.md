@@ -12,4 +12,4 @@ The theme, and the blog for that matter, are intended to be a bit folksy and cha
 
 The theme isn't completely finished, we're short of a decent photo for the about us page. It will probably take until September before everybody is together again...because of the summer holidays. So the pictures will have to wait till then!
 
-![New blog theme](/images/uploads/2007/08/blog.JPG)
+![New blog theme](blog.JPG)
