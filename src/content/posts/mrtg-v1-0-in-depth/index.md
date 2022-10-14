@@ -89,3 +89,13 @@ Time series output
 Open source collaboration - how quickly changes to the software were made by a community of people who began to make improvements to the project.
 
 Why did such a simple tool take off in such a big way? MRTG just prior to 1995 would have just been a script produced internally and then used exclusively internally by a very small number of people. At best, it might have been shared around a few other colleagues in other similar institutions with a similar itch to scratch.
+
+## Early Release History
+
+See for [MRTG 1.1 announcement](https://groups.google.com/g/comp.lang.perl.misc/c/bhOhM6Grii4/m/1Y8LlDrkKzcJ)
+
+See for [MRTG 1.6 announcement](https://groups.google.com/g/comp.lang.perl.misc/c/4gUbj7tBi14/m/R2fzLDA_bLcJ)
+
+See for [MRTG 2.0 announcement](https://groups.google.com/g/comp.lang.perl.misc/c/KqlEw0PexWA/m/cjYGNVFl-ScJ)
+
+See [Perl and the dynamic web](https://opensource.com/life/16/11/perl-and-birth-dynamic-web)
