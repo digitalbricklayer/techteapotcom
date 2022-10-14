@@ -6,7 +6,7 @@ tags: []
 aliases: [/the-lowdown-on-writing-a-technical-book/]
 ---
 
-If you've ever hankered after writing a technical book then  [Michael Foord](http://www.voidspace.org.uk/) has [some advice for you](http://www.voidspace.org.uk/python/articles/technical-writing.shtml) garnered from writing [IronPython in Action](http://www.ironpythoninaction.com/).
+If you've ever hankered after writing a technical book then [Michael Foord](http://www.voidspace.org.uk/) has [some advice for you](http://www.voidspace.org.uk/python/articles/technical-writing.shtml) garnered from writing [IronPython in Action](http://www.ironpythoninaction.com/).
 
 Sounds like a shed load of work for no money... something I seem to be specialising in at the moment. :wink:
 

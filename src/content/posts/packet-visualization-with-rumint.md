@@ -12,8 +12,8 @@ One of the tools recommended in [Chris Sander's](http://www.chrissanders.org/) [
 
 Rumint is a free, open source packet visualization tool available for Microsoft Windows (written in Visual Basic.)
 
-Roomint's author, [Greg Conti](http://www.rumint.org/gregconti/), has a book to be published by  [No Starch Press](http://nostarch.com/) called [Security Data Visualization](http://nostarch.com/securityvisualization.htm).
+Roomint's author, [Greg Conti](http://www.rumint.org/gregconti/), has a book to be published by [No Starch Press](http://nostarch.com/) called [Security Data Visualization](http://nostarch.com/securityvisualization.htm).
 
-One problem I've run into with Rumint is that it doesn't work on my setup. I run Windows XP and I've got WinPCap  4.0.1. It looks to me like a problem between Rumint and the latest version of WinPCap. The problem is that Rumint won't show any network interfaces to sniff, so obviously things don't work too well. :wink:
+One problem I've run into with Rumint is that it doesn't work on my setup. I run Windows XP and I've got WinPCap 4.0.1. It looks to me like a problem between Rumint and the latest version of WinPCap. The problem is that Rumint won't show any network interfaces to sniff, so obviously things don't work too well. :wink:
 
 <img src="/images/uploads/2007/08/rumint_panorama_lg.gif" alt="Various packet visualizations" />

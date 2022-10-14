@@ -10,7 +10,7 @@ aliases: [/microsoft-myopia/]
 
 I've just installed Visual Studio Pro 2008 and there's one thing bugging me.
 
-I use the very mature and powerful open source tool called [NUnit](http://www.nunit.org/) to write  unit tests.
+I use the very mature and powerful open source tool called [NUnit](http://www.nunit.org/) to write unit tests.
 
 Microsoft came pretty late to the whole unit testing thing. They didn't provide a unit testing framework until pretty recently by which time a number of high quality open source frameworks were available.
 

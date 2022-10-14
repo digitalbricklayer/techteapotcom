@@ -15,4 +15,4 @@ Take a look at the [Boost library](http://www.boost.org/). C++ is finally gettin
 
 So, what's the answer. Well, pragmatically I'm going to ignore all of those nice new features. Learning whilst in production mode is one of the more stressful things you can do in programming. Also, the resulting code is rarely of high quality.
 
-As a [pragmatic programmer](http://www.pragmaticprogrammer.com/) I am  going to write the code in a style I already know with a liberal sprinkling of [unit tests](http://www.extremeprogramming.org/rules/unittests.html). That way, I can [refactor](http://www.refactoring.com/) the code to my hearts content with the firm knowledge that when I break something I will know immediately.
+As a [pragmatic programmer](http://www.pragmaticprogrammer.com/) I am going to write the code in a style I already know with a liberal sprinkling of [unit tests](http://www.extremeprogramming.org/rules/unittests.html). That way, I can [refactor](http://www.refactoring.com/) the code to my hearts content with the firm knowledge that when I break something I will know immediately.

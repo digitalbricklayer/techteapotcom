@@ -18,7 +18,7 @@ As open source is a significant part of the new wave's strategy, why is it impor
 
 One thing that is going to be a big part of the buying process is credibility. Has the solution solved problems for lots of other people just like me. With the widespread adoption that open source can bring, the answer will likely be yes.
 
-Open source can help build a user base very quickly. Better than that, you can build a user base of evangelical users quickly. What's more, you can build a participatory eco-system too, in a way that is very difficult around a  proprietary product.
+Open source can help build a user base very quickly. Better than that, you can build a user base of evangelical users quickly. What's more, you can build a participatory eco-system too, in a way that is very difficult around a proprietary product.
 
 Evangelical users, through access to the source code, can modify the system to suit themselves and others in the community. Of course, not every systems admin has the hard core software engineering skills required to modify some of the new wave products. Systems built upon Java, like Hyperic, can pose significant skills barrier making a select few in the community able to modify them in anything but a trivial way. One of the big wins for Zenoss is likely to be their adoption of Python as their implementation language. Python lowers the skills barrier and should encourage admins who would otherwise be unwilling to climb a steep Java learning curve.
 

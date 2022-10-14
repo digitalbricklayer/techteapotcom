@@ -6,7 +6,7 @@ tags: []
 aliases: [/hub-projects-in-open-source-network-management/]
 ---
 
-Almost as a doodle I thought I'd create a graph depicting the dependencies between a selection of open source  network management projects.
+Almost as a doodle I thought I'd create a graph depicting the dependencies between a selection of open source network management projects.
 
 Once I'd done it, it occurred to me how much just about everything depends on just a couple of projects or project variants of, RRDTool &amp; Net-SNMP.
 

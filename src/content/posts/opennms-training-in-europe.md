@@ -8,7 +8,7 @@ aliases: [/opennms-training-in-europe/]
 
 Are you wanting to get into [OpenNMS](https://www.opennms.org/) but are struggling to get started? OpenNMS are running a series of training courses in Europe during May.
 
-The introductory course titled  "OpenNMS - A Day in the Life" will serve as an introduction to get you started with OpenNMS.
+The introductory course titled "OpenNMS - A Day in the Life" will serve as an introduction to get you started with OpenNMS.
 
 At the end of the day, you should have a firm grasp on how to get OpenNMS installed, how to discover the network, basic and some advanced OpenNMS configuration options, as well as troubleshooting skills.
 

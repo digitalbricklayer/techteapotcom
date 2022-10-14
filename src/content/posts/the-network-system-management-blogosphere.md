@@ -19,7 +19,7 @@ Thought I'd share the network &amp; systems management blogs I read on a daily b
 - [Everything Sysadmin](http://everythingsysadmin.com/)
 - [Lone Sysadmin](http://lonesysadmin.net/)
 - [Standalone Sysadmin](http://standalone-sysadmin.blogspot.com/)
-- [Last In -  First Out](http://lastinfirstout.blogspot.com/)
+- [Last In - First Out](http://lastinfirstout.blogspot.com/)
 - [Jeff Hengesbach](http://jeffhengesbach.blogspot.com/)
 - [IT Skeptic](http://www.itskeptic.org/)
 

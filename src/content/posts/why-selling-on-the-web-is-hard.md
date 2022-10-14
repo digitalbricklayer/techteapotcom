@@ -8,7 +8,7 @@ aliases: [/why-selling-on-the-web-is-hard/]
 
 We are currently on our fifth full iteration of our website. And when I say iteration, I mean full gut wrenching, throw everything out and do it again iteration. That works out to over one full iteration per year.
 
-We've used the simplest e-commerce system you can use, called [Mal's-ecommerce](http://www.mals-e.com/), through a [PHP based cart](http://www.jshop.co.uk/) and then eventually to our current system based upon  [Elastic Path](http://www.elasticpath.com/).
+We've used the simplest e-commerce system you can use, called [Mal's-ecommerce](http://www.mals-e.com/), through a [PHP based cart](http://www.jshop.co.uk/) and then eventually to our current system based upon [Elastic Path](http://www.elasticpath.com/).
 
 Trust me, it's *hard*. But, that isn't the hardest part of e-commerce. The hardest part on the web is **trust**. Trust is way harder to imbue in your visitors than anything else.
 

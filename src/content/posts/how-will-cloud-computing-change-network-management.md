@@ -46,7 +46,7 @@ The obvious place is to put your service oriented monitoring in the cloud right 
 
 An alternative to deploying your own monitoring solution could be to use one of the many vendors promoting SaaS based online monitoring solutions. Whilst that is probably going to be a more robust solution, it may be difficult to know precisely how the vendor has deployed their solution. What if the vendor is using the same cloud computing vendor that you have chosen? Then it won't be any better than deploying your own monitoring solution in the cloud.
 
-One of the side effects of managing in a cloud world is that vendors will need to be more open about their infrastructure arrangements. If your management vendor is using a cloud then they need to be open about it.  Otherwise, when the 800 pound gorilla of the cloud computing space inevitably develops, there may be a danger that both management and managed services use exactly the same infrastructure.
+One of the side effects of managing in a cloud world is that vendors will need to be more open about their infrastructure arrangements. If your management vendor is using a cloud then they need to be open about it. Otherwise, when the 800 pound gorilla of the cloud computing space inevitably develops, there may be a danger that both management and managed services use exactly the same infrastructure.
 
 ## Clouds are made of data centres, right?
 

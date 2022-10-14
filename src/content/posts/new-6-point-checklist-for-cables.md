@@ -12,11 +12,11 @@ Dr Jeremy Hodge, BASEC's Chief Executive, said: "For any size of project, the la
 
 BASEC's six-point Spec Check was designed as a quick-check guide to reducing the risk of things going wrong for specifiers and installers, the outlines are briefly:
 
-- **Get the installation design right**.  Good installation design reveals the technical specification for each circuit on the mode of use, accessories, current loading, physical protection needs, fire and smoke performance, operating temperature, future expansion and so on...
-- **Get the cable specification right**.  From the circuit specification, the cables should be specified by reference to the standard number and table / type
-- **Communicate specification**.  Use one of the standard specification packages or forms usable by quantity surveyors and procurement specialists.
-- **Check application of the spec**.  When changes are proposed make sure these are signed off by the designer to ensure continuing compliance with the design rules.- **Check product on delivery**.  This is important for both installer and client.  When cable arrives on site check more specifically what has been purchased for you and inspect the product.
-- **Final check**.  Commissioning tests and inspections are the last opportunity to enforce the specification.  Make sure these are rigorously carried out and if problems are found check what is installed against the original specification again.  If there are problems found with or questions are raised about a cable, don't automatically strip out the cable, but seek advice.  If necessary get the cable tested. BASEC can provide advice in such circumstances.
+- **Get the installation design right**. Good installation design reveals the technical specification for each circuit on the mode of use, accessories, current loading, physical protection needs, fire and smoke performance, operating temperature, future expansion and so on...
+- **Get the cable specification right**. From the circuit specification, the cables should be specified by reference to the standard number and table / type
+- **Communicate specification**. Use one of the standard specification packages or forms usable by quantity surveyors and procurement specialists.
+- **Check application of the spec**. When changes are proposed make sure these are signed off by the designer to ensure continuing compliance with the design rules.- **Check product on delivery**. This is important for both installer and client. When cable arrives on site check more specifically what has been purchased for you and inspect the product.
+- **Final check**. Commissioning tests and inspections are the last opportunity to enforce the specification. Make sure these are rigorously carried out and if problems are found check what is installed against the original specification again. If there are problems found with or questions are raised about a cable, don't automatically strip out the cable, but seek advice. If necessary get the cable tested. BASEC can provide advice in such circumstances.
 
 If you would like to read the Full Alert, it's available online at [www.basec.org.uk](http://www.basec.org.uk/news/basec-news-detail.asp?news=60).
 

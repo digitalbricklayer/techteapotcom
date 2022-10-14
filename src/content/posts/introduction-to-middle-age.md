@@ -12,7 +12,7 @@ I passed the marker buoy on the journey to middle age last week. At least accord
 
 To celebrate I treat my family (all twelve of them) to a play at the Theatre Royal in York to see *Twinkle, Little Star*.
 
-The protagonist plays a pantomime dame,  for whom life hasn't been altogether kind, playing his last ever season.
+The protagonist plays a pantomime dame, for whom life hasn't been altogether kind, playing his last ever season.
 
 The play was expertly played by *Kenneth Alan Taylor* on top form. As good a 75 minutes straight of acting I've ever seen.
 

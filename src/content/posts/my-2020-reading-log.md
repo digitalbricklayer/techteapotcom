@@ -10,7 +10,7 @@ It has been a strange year. Reading wise it has been slightly above average with
 
 This year the highlight was definitely ***Britain B.C.*** by Francis Pryor. I wouldn't usually touch a TV show tie in with a barge pole but this one is superb. The book opened up the early story of Britain in a wonderfully evocative way. It is fair to say that the writings of Mr. Pryor have dominated my first lockdown and did much to make it rather more bearable.
 
-Fiction wise I did well too. My highlight was ***The Fifth Season*** by N.K. Jemison.  
+Fiction wise I did well too. My highlight was ***The Fifth Season*** by N.K. Jemison.
 
 <span style="color: #ff0000;">January</span>
 

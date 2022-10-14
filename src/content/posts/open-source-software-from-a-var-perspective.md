@@ -8,7 +8,7 @@ aliases: [/open-source-software-from-a-var-perspective/]
 
 How can a network &amp; systems management [Value Added Reseller](https://en.wikipedia.org/wiki/Value-added_reseller) (VAR) benefit from offering [open source](https://en.wikipedia.org/wiki/Open_source) solutions and what are the potential problems?
 
-Any VAR not offering genuine added value is going to be left out in the cold. A "*SKU*" VAR,  a company that expects to take orders with the minimum of fuss, are going to have a problem. But then, that's the way commercial software like [What's Up Gold](http://www.whatsupgold.com/) and [Solar Winds Orion](http://www.solarwinds.com/products/orion/) is going anyway. The internet is disintermediating the relationship from producer to customer pretty well everywhere especially in the close to zero friction world of software.
+Any VAR not offering genuine added value is going to be left out in the cold. A "*SKU*" VAR, a company that expects to take orders with the minimum of fuss, are going to have a problem. But then, that's the way commercial software like [What's Up Gold](http://www.whatsupgold.com/) and [Solar Winds Orion](http://www.solarwinds.com/products/orion/) is going anyway. The internet is disintermediating the relationship from producer to customer pretty well everywhere especially in the close to zero friction world of software.
 
 With open source software I suspect the effect of disintermediation will be felt most strongly. One of the most attractive aspects of open source is the community ecosystem. The last thing a potential open source adopter wants is to be cut off from the community. The direct relationship between user and producer is one of the main benefits of open source.
 
