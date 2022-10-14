@@ -10,11 +10,11 @@ aliases: [/open-source-network-management-comparison-platform/]
 <thead>
 <tr align="center">
 <th>Attribute / Project</th>
-<th><a href="https://www.opennms.org/">OpenNMS</a></th>
-<th><a href="http://www.nagios.org/">Nagios</a></th>
-<th><a href="http://www.zenoss.org/">Zenoss</a> <sup>[1]</sup></th>
+<th>[OpenNMS](https://www.opennms.org/)</th>
+<th>[Nagios](http://www.nagios.org/)</th>
+<th>[Zenoss](http://www.zenoss.org/) <sup>[1]</sup></th>
 <th>Hyperic <sup>[2]</sup></th>
-<th><a href="http://www.zabbix.com/">Zabbix</a></th>
+<th>[Zabbix](http://www.zabbix.com/)</th>
 </tr>
 </thead>
 <tbody>
@@ -78,7 +78,7 @@ aliases: [/open-source-network-management-comparison-platform/]
 <td><img src="/images/uploads/2008/07/cross.png" alt="X" /> <sup>[4]</sup></td>
 </tr>
 </tbody></table>
-<sup>[1]</sup> <a href="http://www.zenoss.org/">Zenoss Core</a> is used for the purpose of this comparison.
+<sup>[1]</sup> [Zenoss Core](http://www.zenoss.org/) is used for the purpose of this comparison.
 
 <sup>[2]</sup> Hyperic HQ is used for the purpose of this comparison.
 

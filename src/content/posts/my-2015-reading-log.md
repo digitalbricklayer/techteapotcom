@@ -7,7 +7,7 @@ aliases: [/my-2015-reading-log/]
 series: ["Reading Log"]
 ---
 
-I've not managed to read as many books this year. Mostly due to the competition from playing <a href="https://www.dragonage.com/en_GB/home">Dragon Age: Inquisition</a> for the first four months of the year. On the plus side, it has been a good year for books. I've had a run of superb books. I've tried to broaden the range of books I read. I've always been a sci-fi fan but not a great fan of ork and goblin style fantasy but I've made a conscious effort to try more contemporary fantasy and have been very pleased with the quality of work I've found.
+I've not managed to read as many books this year. Mostly due to the competition from playing [Dragon Age: Inquisition](https://www.dragonage.com/en_GB/home) for the first four months of the year. On the plus side, it has been a good year for books. I've had a run of superb books. I've tried to broaden the range of books I read. I've always been a sci-fi fan but not a great fan of ork and goblin style fantasy but I've made a conscious effort to try more contemporary fantasy and have been very pleased with the quality of work I've found.
 
 I've read a total of 12 books in 2015, 10 fiction (mostly science fiction and fantasy) and just 2 non-fiction. Note to self, must read more non fiction in 2016. Neither of the two non-fiction books were particularly inspiring, but at least **The Silent Day: A Landmark Oral History of D-Day on the Home Front** gave me some insight into life in England during the preparations for D-Day.
 

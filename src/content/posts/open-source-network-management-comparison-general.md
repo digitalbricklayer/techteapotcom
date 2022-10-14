@@ -10,11 +10,11 @@ aliases: [/open-source-network-management-comparison-general/]
 <thead>
 <tr align="center">
 <th>Attribute / Project</th>
-<th><a href="https://www.opennms.org/">OpenNMS</a></th>
-<th><a href="http://www.nagios.org/">Nagios</a></th>
-<th><a href="http://www.zenoss.org/">Zenoss</a></th>
+<th>[OpenNMS](https://www.opennms.org/)</th>
+<th>[Nagios](http://www.nagios.org/)</th>
+<th>[Zenoss](http://www.zenoss.org/)</th>
 <th>Hyperic</th>
-<th><a href="http://www.zabbix.com/">Zabbix</a></th>
+<th>[Zabbix](http://www.zabbix.com/)</th>
 </tr>
 </thead>
 <tbody>
