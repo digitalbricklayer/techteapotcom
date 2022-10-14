@@ -1,5 +1,6 @@
 ---
 title: "Open source network management comparison: General"
+summary: "A comparison of various open source network management tools."
 date: "2008-07-17T14:14:09+00:00"
 categories: ["Network Management", "Open Source"]
 tags: [nagios, Zenoss, Zabbix, "OpenNMS"]
@@ -86,4 +87,5 @@ aliases: [/open-source-network-management-comparison-general/]
 <td><img src="/images/uploads/2008/07/tick.png" alt="X" /></td>
 </tr>
 </tbody></table>
+
 **Update 1**: Added C to the Hyperic development languages
