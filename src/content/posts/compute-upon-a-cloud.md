@@ -6,7 +6,8 @@ tags: [amazon, "cloud computing", "data center"]
 aliases: [/compute-upon-a-cloud/]
 ---
 
-<img src="/images/uploads/2007/12/20141000_bah0036_s.jpg" alt="Data centre worker" align="right" style="border-left:solid 4px white" />
+
+{{< figure src="/images/uploads/2007/12/20141000_bah0036_s.jpg#floatright" alt="Data centre worker" >}}
 
 Interesting what [Amazon](http://www.amazon.com/) is up to...first with [cloud storage](http://www.amazon.com/S3-AWS-home-page-Money/b/ref=sc_fe_l_2?ie=UTF8&node=16427261&no=3435361) then [cloud computing](http://www.amazon.com/b/ref=sc_fe_l_2?ie=UTF8&node=201590011&no=3435361) and now [cloud databases](http://www.amazon.com/b/ref=sc_fe_l_2?ie=UTF8&node=342335011&no=3435361). Is the art of data centre management going to be concentrated into a few massive data centres?
 

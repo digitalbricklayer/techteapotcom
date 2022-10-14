@@ -6,7 +6,7 @@ tags: []
 aliases: [/power-line-networking-my-experience/]
 ---
 
-<img src="/images/uploads/2007/10/highspeed.jpg" alt="Devolo Homeplug High Speed Starter Kits" style="border: 4px solid white" align="right" />
+{{< figure src="/images/uploads/2007/10/highspeed.jpg#floatright" alt="Devolo Homeplug High Speed Starter Kits" >}}
 
 Over the weekend my wireless adaptor at home gave up the ghost. Not being the greatest fan of my wireless network at home (I find it too unreliable and slow) I took the opportunity to look at [power line networking](https://en.wikipedia.org/wiki/Powerline_networking).
 

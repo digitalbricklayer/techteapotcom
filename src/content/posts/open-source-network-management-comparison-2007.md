@@ -8,7 +8,7 @@ aliases: [/open-source-network-management-comparison-2007/]
 
 [Mark Hinkle](http://socializedsoftware.com/) from [Zenoss](http://zenoss.org/) sent me a link to an [interesting document he prepared](http://docs.google.com/Doc?id=dgrmj57q_9g8pjxpdp) yesterday.
 
-<img src="/images/uploads/2008/01/open-source-management-adoption.png" alt="Open source network management download comparison 2007" width="100%" height="100%" />
+{{< figure src="/images/uploads/2008/01/open-source-management-adoption.png#floatright" alt="Open source network management download comparison 2007" >}}
 
 I think Mark may be over egging Zenoss "*clear market leadership*" but without any doubt their growth over the last year has been impressive.
 

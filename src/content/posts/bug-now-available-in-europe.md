@@ -6,7 +6,7 @@ tags: []
 aliases: [/bug-now-available-in-europe/]
 ---
 
-<img class="alignright" title="Bug Labs Logo" src="/images/uploads/2007/11/bug_logo_whiteback_sm.jpg" alt="Bug Labs Logo" width="150" height="105" align="right" />
+{{< figure src="/images/uploads/2007/11/bug_logo_whiteback_sm.jpg#floatright" alt="Bug Labs Logo" >}}
 
 Great news for gadget fans in Europe. [Bug Labs](http://buglabs.net/) have announced the availability of their amazing gadget making kit in Europe with all of the appropriate approvals like RoHS and CE.
 

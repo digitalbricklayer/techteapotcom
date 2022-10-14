@@ -6,7 +6,7 @@ tags: ["network tap"]
 aliases: [/budget-network-taps/]
 ---
 
-<img src="/images/uploads/2008/02/ntap1.jpg" alt="NTap Network Tap" width="144" height="144" align="right" />
+{{< figure src="/images/uploads/2008/02/ntap1.jpg#floatright" alt="NTap Network Tap" >}}
 
 Sometimes you fall over a product and it blows you away. Network taps have until now been exotic hardware affordable only by large IT departments with the budget to match.
 

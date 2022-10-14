@@ -6,7 +6,7 @@ tags: []
 aliases: [/bug-labs-democratise-gadget-design-manufacture/]
 ---
 
-<img src="/images/uploads/2007/11/bug_logo_whiteback_sm.jpg" alt="Bug Labs Logo" align="right" />
+{{< figure src="/images/uploads/2007/11/bug_logo_whiteback_sm.jpg#floatright" alt="Bug Labs Logo" >}}
 
 [bug labs](http://buglabs.net/) has come out of stealth mode at last. If you've got a gadget in you screaming to get out then I've got good news. :smile:
 
@@ -14,7 +14,7 @@ aliases: [/bug-labs-democratise-gadget-design-manufacture/]
 
 The basic concept behind Bug is that you have a basic gadget chassis called BUGbase which you program. You can then plug into the chassis a number of add on modules called BUGmodules like GPS, touch sensitive LCD, accelerometer motion detector &amp; digital camera. More BUGmodules like a mini-keyboard and speaker, are due early next year.
 
-<img src="/images/uploads/2007/11/ph_bug_handled_hirop_med.jpg" alt="BUGbase plus BUGmodule" height="50%" width="50%" />
+![BUGbase plus BUGmodule](/images/uploads/2007/11/ph_bug_handled_hirop_med.jpg)
 
 ## What will BUG mean for you?
 

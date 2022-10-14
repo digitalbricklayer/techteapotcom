@@ -6,7 +6,7 @@ tags: []
 aliases: [/packet-visualization-with-rumint/]
 ---
 
-<img src="/images/uploads/2007/08/securitydataviz.jpg" alt="Security Data Visualization Book Cover" align="right" />
+{{< figure src="/images/uploads/2007/08/securitydataviz.jpg#floatright" alt="Security Data Visualization Book Cover" >}}
 
 One of the tools recommended in [Chris Sander's](http://www.chrissanders.org/) [Practical Packet Analysis](https://www.nostarch.com/packet2.htm) book is called [Rumint](http://www.rumint.org/).
 
@@ -16,4 +16,4 @@ Roomint's author, [Greg Conti](http://www.rumint.org/gregconti/), has a book to 
 
 One problem I've run into with Rumint is that it doesn't work on my setup. I run Windows XP and I've got WinPCap 4.0.1. It looks to me like a problem between Rumint and the latest version of WinPCap. The problem is that Rumint won't show any network interfaces to sniff, so obviously things don't work too well. :wink:
 
-<img src="/images/uploads/2007/08/rumint_panorama_lg.gif" alt="Various packet visualizations" />
+{{< figure src="/images/uploads/2007/08/rumint_panorama_lg.gif" alt="Various packet visualizations" >}}

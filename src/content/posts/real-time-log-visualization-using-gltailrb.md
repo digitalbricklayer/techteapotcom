@@ -6,8 +6,7 @@ tags: []
 aliases: [/real-time-log-visualization-using-gltailrb/]
 ---
 
-<img src="/images/uploads/2007/10/gltail-partial.gif" alt="Partial screenshot of glTail.rb in action" align="right" style="border-left:solid 4px white" />
-
+{{< figure src="/images/uploads/2007/10/gltail-partial.gif#floatright" alt="Partial screenshot of glTail.rb in action" >}}
 Hat tip to [Dougal Campbell](http://dougal.gunters.org/about-this-site) over at [Geek Ramblings](http://dougal.gunters.org/) for finding this.
 
 Just occasionally you come across a tool that really blows you away...that tool is [glTail.rb](http://fudgie.org/)!
