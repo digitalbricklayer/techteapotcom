@@ -6,7 +6,7 @@ tags: []
 aliases: [/introduction-to-middle-age/]
 ---
 
-<img class="alignnone size-medium wp-image-409" style="border-left:solid 4px white" title="twinkle-little-star" src="/images/uploads/2008/04/twinkle-little-star.jpg" alt="Actor in makeup" width="170" height="255" align="right" />
+![Actor in makeup]("/images/uploads/2008/04/twinkle-little-star.jpg)
 
 I passed the marker buoy on the journey to middle age last week. At least according to the Collins Dictionary anyway. Of course, according to the Oxford English Dictionary definition, I've got a further five years to go. :smile:
 

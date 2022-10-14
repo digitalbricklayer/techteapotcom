@@ -7,7 +7,7 @@ tags: []
 aliases: [/subscribing-to-blogs-the-easy-way/]
 ---
 
-<img class="alignright size-thumbnail wp-image-1053" title="rss" src="/images/uploads/2008/11/rss.jpg" alt="" width="130" height="129" align="right" />
+{{< figure src="/images/uploads/2008/11/rss.jpg#floatright" alt="RSS Logo" >}}
 
 One of the things that has surprised me about running this blog has been the number of people who subscribe via email.
 

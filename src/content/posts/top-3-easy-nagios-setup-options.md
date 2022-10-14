@@ -10,14 +10,15 @@ aliases: [/top-3-easy-nagios-setup-options/]
 
 Everybody loves [Nagios](http://www.nagios.org/), but let's be honest, it can be a pain to set up, especially if you work in a Windows only environment. A few solutions do exist to make Nagios a little easier to get yourself up and running.
 
-<h2>#1: Hardware Appliances</h2>
+## 1: Hardware Appliances
+
 {{< figure src="/images/uploads/2007/05/azeti-a_small.png#floatright" alt="Nagios Appliance" >}}
 
 Hardware appliances take the hassle out of Nagios, for a price. You buy a rack mountable appliance with Nagios all ready to go. Just plug the device in, configure the network settings and off you go.
 
 The down side? Price is obviously one but perhaps the biggest problem is going to be expandability. Upgrading disk space and memory may be a problem.
 
-<h2>#2: Groundwork</h2>
+## 2: Groundwork
 
 {{< figure src="/images/uploads/2007/05/gw-header.gif#floatright" alt="Groundwork Open Source" >}}
 
@@ -25,7 +26,7 @@ The down side? Price is obviously one but perhaps the biggest problem is going t
 
 Nice solution, but you're going to need a Linux/Unix machine. If you are just curious, it may be worth using a virtual appliance first before diving into setting up a Linux machine.
 
-<h2>#3: Virtual Appliances</h2>
+## 3: Virtual Appliances
 
 {{< figure src="/images/uploads/2007/05/nagiosvma.png#floatright" alt="NagiosVMA" >}}
 
@@ -35,6 +36,4 @@ A VMWare appliance has been created, though it doesn't get good reviews. A bette
 
 Long term, a virtual appliance is unlikely to be satisfactory. Virtual appliances and bootable CDs are much better for training and evaluation purposes. So as soon as you have discovered whether Nagios will satisfy your needs it may be better to move onto either a natively installed version of Nagios (or Groundworks), or a hardware appliance.
 
-**Update <strong>22** Feb 2012</strong>:
-
-There is now a [Nagwin distribution](https://www.itefix.no/i2/nagwin) for Microsoft Windows using the Cygwin toolset. May be an easier install option for admins who are familiar with Windows and don't fancy learning *nix.
+**Update 22 Feb 2012**: There is now a [Nagwin distribution](https://www.itefix.no/i2/nagwin) for Microsoft Windows using the Cygwin toolset. May be an easier install option for admins who are familiar with Windows and don't fancy learning *nix.
