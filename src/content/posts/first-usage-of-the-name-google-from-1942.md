@@ -10,6 +10,6 @@ Denis, a co-founder of OPENXTRA, was reading a story to his son last night. He w
 
 The book is called *Circus Days Again* by *Enid Blyton*, the book is copyright 1942, though the version quoted is from a battered 1962 edition. The reference starts on page 50.
 
-<blockquote>"Yes - it's just the sort of thing you'd like to do yourself, isn't it," grinned Stickly Stanley, who knew what a little monkey Lotta was. "Well, the third clown is **Google**. He's really funny too. He has a wonderful motor-car, and everything goes wrong with it--and in the end it blows up into a hundred different pieces! **Google** has a fine little dog called Squib. You'll like him. He helps **Google** with his nonsense."</blockquote>
+>"Yes - it's just the sort of thing you'd like to do yourself, isn't it," grinned Stickly Stanley, who knew what a little monkey Lotta was. "Well, the third clown is **Google**. He's really funny too. He has a wonderful motor-car, and everything goes wrong with it--and in the end it blows up into a hundred different pieces! **Google** has a fine little dog called Squib. You'll like him. He helps **Google** with his nonsense."
 
 Are there any earlier references?

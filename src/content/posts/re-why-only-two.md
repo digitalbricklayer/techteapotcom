@@ -8,7 +8,7 @@ aliases: [/re-why-only-two/]
 
 John Willis over at [IT Management and Cloud Blog](http://www.johnmwillis.com/) posted an [interesting post](http://www.johnmwillis.com/nagios/why-only-two/) I'd like to reply to.
 
-<blockquote>*The key question is will Enterprise customers make an investment in companies like OpenNMS and Nagios with out the warm and fuzzy that Software Companies provide.*</blockquote>
+>*The key question is will Enterprise customers make an investment in companies like OpenNMS and Nagios with out the warm and fuzzy that Software Companies provide.*
 
 That's certainly an interesting perspective John...
 
@@ -18,7 +18,7 @@ Nagios/OpenNMS is more of a bottom up kinda sell. Network technicians use the pr
 
 The "**mighty two**" (Zenoss/Hyperic) sell in a more traditional "enterprise" way by going through the CIO and getting a "**Big 4 lite**" sale.
 
-<blockquote>*As impressive as OpenNMS, and Nagios have been bootstrapping themselves it is extremely difficult for them to compete at the enterprise level without the same kind of funding that Hyperic and Zenoss have.*</blockquote>
+>*As impressive as OpenNMS, and Nagios have been bootstrapping themselves it is extremely difficult for them to compete at the enterprise level without the same kind of funding that Hyperic and Zenoss have.*
 
 Ultimately, If you are right, then the "**mighty two**" products should be substantially better, more feature rich than Nagios/OpenNMS.
 
