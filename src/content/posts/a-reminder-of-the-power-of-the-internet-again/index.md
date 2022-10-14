@@ -11,4 +11,4 @@ The telescope that took the image below is based on the top of a mountain in Ten
 
 [telescope.org](http://telescope.org) is not the only internet enabled telescope. There are quite a few options especially if you are happy to pay. For instance, [iTelescope](https://www.itelescope.net/) has 18 telescopes in 5 observatories including Australia, Spain, Peru and USA. Plans start at a mere &pound;14.95 per month.
 
-{{< figure src="/images/orion-nebula.jpeg#center" title="Orion Nebula taken by and copyright © The Open University" alt="Orion Nebula taken from Tenerife" link="/images/orion-nebula.jpeg" >}}
+{{< figure src="orion-nebula.jpeg" title="Orion Nebula taken by and copyright © The Open University" alt="Orion Nebula taken from Tenerife" >}}
