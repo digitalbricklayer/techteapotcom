@@ -6,7 +6,7 @@ tags: []
 aliases: [/paypal-and-google-checkout-use-in-uk-businesses/]
 ---
 
-{{< figure src="/images/uploads/2007/10/google_checkout.gif#floatright" alt="Google Checkout Logo" >}}
+{{< figure src="google_checkout.gif#floatright" alt="Google Checkout Logo" >}}
 
 It's technical planning week this week, so **I need to know about payment options you'd like to see**.
 

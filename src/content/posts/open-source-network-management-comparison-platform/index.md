@@ -23,59 +23,59 @@ aliases: [/open-source-network-management-comparison-platform/]
 </tr>
 <tr class="odd" align="center">
 <td align="right">Linux</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![X](/images/tick.png)</td>
 </tr>
 <tr align="center">
 <td align="right">Windows</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![](/images/uploads/2008/07/cross.png)</td>
-<td>![](/images/uploads/2008/07/cross.png)</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![](/images/uploads/2008/07/cross.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![](/images/cross.png)</td>
+<td>![](/images/cross.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![](/images/cross.png)</td>
 </tr>
 <tr class="odd" align="center">
 <td align="right">OSX</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![X](/images/tick.png)</td>
 </tr>
 <tr align="center">
 <td align="right">Solaris</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![X](/images/tick.png)</td>
 </tr>
 <tr class="odd" align="center">
 <td align="right">*BSD</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![X](/images/tick.png)</td>
 </tr>
 <tr align="center">
 <td align="right">Hardware Appliance</td>
-<td>![X](/images/uploads/2008/07/cross.png)</td>
-<td>![](/images/uploads/2008/07/tick.png)</td>
-<td>![](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/cross.png)</td>
-<td>![X](/images/uploads/2008/07/cross.png)</td>
+<td>![X](/images/cross.png)</td>
+<td>![](/images/tick.png)</td>
+<td>![](/images/tick.png)</td>
+<td>![X](/images/cross.png)</td>
+<td>![X](/images/cross.png)</td>
 </tr>
 <tr align="center">
 <td align="right">Virtual Appliance</td>
-<td>![](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/cross.png) <sup>[3]</sup></td>
-<td>![](/images/uploads/2008/07/tick.png)</td>
-<td>![](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/cross.png) <sup>[4]</sup></td>
+<td>![](/images/tick.png)</td>
+<td>![X](/images/cross.png) <sup>[3]</sup></td>
+<td>![](/images/tick.png)</td>
+<td>![](/images/tick.png)</td>
+<td>![X](/images/cross.png) <sup>[4]</sup></td>
 </tr>
 </tbody></table>
 <sup>[1]</sup> [Zenoss Core](http://www.zenoss.org/) is used for the purpose of this comparison.

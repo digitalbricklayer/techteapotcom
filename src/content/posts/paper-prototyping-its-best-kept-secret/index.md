@@ -6,7 +6,7 @@ tags: []
 aliases: [/paper-prototyping-its-best-kept-secret/]
 ---
 
-{{< figure src="/images/uploads/2007/10/paper-prototyping.jpg#floatright" alt="Paper Prototyping Book Cover" >}}
+{{< figure src="paper-prototyping.jpg#floatright" alt="Paper Prototyping Book Cover" >}}
 
 One of the biggest problems when developing a system, be it software or a website, is getting the customer to visualise how your proposed solution is going to work.
 

@@ -6,7 +6,7 @@ tags: []
 aliases: [/re-show-me-da-money-a-cautionary-tale/]
 ---
 
-{{< figure src="/images/uploads/2008/01/piggy-bank-1.jpg#floatright" alt="Piggy bank" >}}
+{{< figure src="piggy-bank-1.jpg#floatright" alt="Piggy bank with dollar bills sticking out of the top" >}}
 
 This is a reply to Tarus Balog's Show Me Da Money (a Cautionary Tale) post.
 

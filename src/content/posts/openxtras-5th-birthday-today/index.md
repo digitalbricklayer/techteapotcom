@@ -6,7 +6,7 @@ tags: []
 aliases: [/openxtras-5th-birthday-today/]
 ---
 
-{{< figure src="/images/uploads/2008/02/birthday-cake.jpg#floatright" alt="Birthday Cake" >}}
+{{< figure src="birthday-cake.jpg#floatright" alt="Birthday Cake" >}}
 
 Many moons ago back in the mists of time, well late 2002, Denis &amp; myself thought it would be a good idea to start a company.
 

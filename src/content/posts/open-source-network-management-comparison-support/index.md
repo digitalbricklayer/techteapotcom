@@ -23,65 +23,65 @@ aliases: [/open-source-network-management-comparison-support/]
 </tr>
 <tr class="odd" align="center">
 <td align="right">Forum</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![X](/images/tick.png)</td>
 </tr>
 <tr align="center">
 <td align="right">Mailing list</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![](/images/uploads/2008/07/cross.png)</td>
-<td>![](/images/uploads/2008/07/cross.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![](/images/cross.png)</td>
+<td>![](/images/cross.png)</td>
 </tr>
 <tr class="group-ttl">
 <td colspan="6">Commercial Support</td>
 </tr>
 <tr class="odd" align="center">
 <td align="right">Support contract</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![X](/images/tick.png)</td>
 </tr>
 <tr align="center">
 <td align="right">Training</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![X](/images/tick.png)</td>
 </tr>
 <tr class="odd" align="center">
 <td align="right">Consulting</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![X](/images/tick.png)</td>
 </tr>
 <tr class="group-ttl">
 <td colspan="6">Learning resources</td>
 </tr>
 <tr class="odd" align="center">
 <td align="right">Blog</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![](/images/uploads/2008/07/cross.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![](/images/tick.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![](/images/cross.png)</td>
 </tr>
 <tr align="center">
 <td align="right">Book(s)</td>
-<td>![](/images/uploads/2008/07/cross.png)</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![](/images/uploads/2008/07/cross.png)</td>
-<td>![](/images/uploads/2008/07/cross.png)</td>
+<td>![](/images/cross.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![](/images/cross.png)</td>
+<td>![](/images/cross.png)</td>
 </tr>
 </tbody>
 </table>

@@ -6,7 +6,7 @@ tags: []
 aliases: [/pay-extra-for-peace-of-mind/]
 ---
 
-{{< figure src="/images/uploads/2008/01/istock-000003886153xsmall.jpg#floatright" alt="" >}}
+{{< figure src="istock-000003886153xsmall.jpg#floatright" alt="" >}}
 
 Sometimes you're glad you spent that little bit more money on resiliency. Today is that day. I've just been informed by our ISP that one of the disks in the server that brought you this page has died and gone to hard disk heaven.
 

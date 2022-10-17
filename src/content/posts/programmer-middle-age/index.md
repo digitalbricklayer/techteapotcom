@@ -6,7 +6,7 @@ tags: []
 aliases: [/programmer-middle-age/]
 ---
 
-{{< figure src="/images/uploads/2008/01/istock-000004300948xsmall.jpg#floatright" alt="Prisoner sneering through bars on prison cell" >}}
+{{< figure src="istock-000004300948xsmall.jpg#floatright" alt="Prisoner sneering through bars on prison cell" >}}
 
 You know when you've reached programmer middle age, a new operating system/IDE drops through your letter box and you don't run off to install it. :wink:
 

@@ -64,11 +64,11 @@ aliases: [/open-source-network-management-comparison-general/]
 </tr>
 <tr align="center">
 <td align="right">Extensible</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/tick.png)
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![X](/images/tick.png)
+<td>![X](/images/tick.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![X](/images/tick.png)</td>
 </tr>
 <tr class="odd" align="center">
 <td align="right">User interface</td>
@@ -80,11 +80,11 @@ aliases: [/open-source-network-management-comparison-general/]
 </tr>
 <tr align="center">
 <td align="right">Reporting</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
-<td>![X](/images/uploads/2008/07/tick.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![X](/images/tick.png)</td>
+<td>![X](/images/tick.png)</td>
 </tr>
 </tbody></table>
 
