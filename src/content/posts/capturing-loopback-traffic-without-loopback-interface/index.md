@@ -16,9 +16,8 @@ Unless you need to do a lot of capturing, the chances are you're going to want a
 
 Happily, somebody has thought of that. Just download the [RawCap](http://www.netresec.com/?page=RawCap) utility kindly provided for free by [NETRESEC](http://www.netresec.com/) and you don't need to configure anything. You don't even need to install any software, or even unzip. Just download and copy into your *utils* folder.
 
-Here's how to run RawCap:
-`RawCap.exe 1 dumpfile.pcap`
+Here's how to run RawCap: `RawCap.exe 1 dumpfile.pcap`
 
-The `1` is the identifier for the loopback interface and `dumpfile.pcap` is the output file. If you're not sure, just run RawCap.exe and you'll be prompted.
+The `1` is the identifier for the loopback interface and `dumpfile.pcap` is the output file. If you're not sure, just run `RawCap.exe` and you'll be prompted.
 
 The output file is in [PCAP](http://www.tcpdump.org/) format, so it's a snap to load into Wireshark for later analysis.
