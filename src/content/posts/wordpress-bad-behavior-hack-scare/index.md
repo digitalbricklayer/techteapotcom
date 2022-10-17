@@ -6,7 +6,7 @@ tags: []
 aliases: [/wordpress-bad-behavior-hack-scare/]
 ---
 
-![Bad Behavior wordpress plug-in error message](/images/uploads/2007/12/bad-behaviour-bug1.jpg)
+![Bad Behavior wordpress plug-in error message](bad-behaviour-bug1.jpg)
 
 One of my pet hates is coming into the office only to be presented with a nice problem on the website. This morning I tried to log into [this website]({{< ref "/" >}}) and saw the screenshot above.
 

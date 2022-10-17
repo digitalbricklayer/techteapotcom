@@ -59,6 +59,7 @@ Another major difference between regular electrical work and network cable insta
 The bigger the job, the more important cable testing is likely to be. In fact, on even medium sized jobs, you will find that strict international standards have to be tested against. And extensive reports produced for *every* cable you install.
 
 Testing will have a dedicated article all to itself later on in the series.
+
 ## Conclusion
 
 As you can see, there are a number of differences between regular electrical work and network cable installation. The differences don't provide huge barriers to overcome, but you should keep them in mind when bidding on jobs.

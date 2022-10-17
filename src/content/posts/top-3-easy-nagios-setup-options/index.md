@@ -6,13 +6,13 @@ tags: [nagios]
 aliases: [/top-3-easy-nagios-setup-options/]
 ---
 
-{{< figure src="/images/uploads/2007/05/status-detail-t.jpg#floatright" alt="Nagios" >}}
+{{< figure src="status-detail-t.jpg#floatright" alt="Nagios" >}}
 
 Everybody loves [Nagios](http://www.nagios.org/), but let's be honest, it can be a pain to set up, especially if you work in a Windows only environment. A few solutions do exist to make Nagios a little easier to get yourself up and running.
 
 ## 1: Hardware Appliances
 
-{{< figure src="/images/uploads/2007/05/azeti-a_small.png#floatright" alt="Nagios Appliance" >}}
+{{< figure src="azeti-a_small.png#floatright" alt="Nagios Appliance" >}}
 
 Hardware appliances take the hassle out of Nagios, for a price. You buy a rack mountable appliance with Nagios all ready to go. Just plug the device in, configure the network settings and off you go.
 
@@ -20,7 +20,7 @@ The down side? Price is obviously one but perhaps the biggest problem is going t
 
 ## 2: Groundwork
 
-{{< figure src="/images/uploads/2007/05/gw-header.gif#floatright" alt="Groundwork Open Source" >}}
+{{< figure src="gw-header.gif#floatright" alt="Groundwork Open Source" >}}
 
 [Groundwork](http://www.groundworkopensource.com/) is a company dedicated to bringing commercial level support to Nagios, including a nice easy to install &amp; configure distribution. A number of versions are available including a free version. Pre-compiled binary versions with installer are available for all versions, as well as the source code.
 
@@ -28,7 +28,7 @@ Nice solution, but you're going to need a Linux/Unix machine. If you are just cu
 
 ## 3: Virtual Appliances
 
-{{< figure src="/images/uploads/2007/05/nagiosvma.png#floatright" alt="NagiosVMA" >}}
+{{< figure src="nagiosvma.png#floatright" alt="NagiosVMA" >}}
 
 Virtual appliances are a great way to try things out without having to mess your current system configuration. Either run the boot CD or use virtual machine software like VMWare or Virtual PC. Traditionally virtual machines have been a great way to try out Linux without having to modify your existing setup. Now, you can do the same with Nagios.
 

@@ -7,7 +7,7 @@ tags: []
 aliases: [/tracking-live-network-cables/]
 ---
 
-{{< figure src="/images/uploads/2007/08/200px-cat5.jpg#floatright" alt="Category 5 cable" >}}
+{{< figure src="200px-cat5.jpg#floatright" alt="Category 5 cable" >}}
 
 More and more companies have systems that are in operation 24/7, that cannot in any circumstances be switched off. Sometimes the data centre cabling is poorly documented.
 

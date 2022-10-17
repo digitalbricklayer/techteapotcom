@@ -12,26 +12,26 @@ Below are a series of graphs culled from Google Trends showing the relative sear
 
 What is the most significant feature of them? What struck me is the downward decline with various degrees of steepness. The searches don't just represent commercial network management tools, there are open source projects and open core products there too. I even put searches for network management protocols like SNMP and NetFlow in too. They all show declines.
 
-{{< figure src="/images/uploads/2014/05/netcool.png#center" width="801" height="242" title="NetCool Search Trend" alt="netcool" link="/images/uploads/2014/05/netcool.png" >}}
+{{< figure src="netcool.png" title="NetCool Search Trend" alt="netcool" >}}
 
-{{< figure src="/images/uploads/2014/05/netflow.png#center" width="797" height="245" title="NetFlow Search Trend" alt="NetFlow" link="/images/uploads/2014/05/netflow.png" >}}
+{{< figure src="netflow.png" title="NetFlow Search Trend" alt="NetFlow" >}}
 
-{{< figure src="/images/uploads/2014/05/opennms.png#center" width="801" height="243" title="OpenNMS Search Trend" alt="OpenNMS" link="/images/uploads/2014/05/opennms.png" >}}
+{{< figure src="opennms.png" title="OpenNMS Search Trend" alt="OpenNMS" >}}
 
-{{< figure src="/images/uploads/2014/05/openview.png#center" width="795" height="233" title="OpenView Search Trend" alt="OpenView" link="/images/uploads/2014/05/openview.png" >}}
+{{< figure src="openview.png" title="OpenView Search Trend" alt="OpenView" >}}
 
-{{< figure src="/images/uploads/2014/05/sflow.png#center" width="799" height="231" title="sflow Search Trend" alt="OpenView" link="/images/uploads/2014/05/sflow.png" >}}
+{{< figure src="sflow.png" title="sflow Search Trend" alt="OpenView" >}}
 
-{{< figure src="/images/uploads/2014/05/syslog.png#center" width="794" height="240" title="Syslog Search Trend" alt="syslog" link="/images/uploads/2014/05/syslog.png" >}}
+{{< figure src="syslog.png" title="Syslog Search Trend" alt="syslog" >}}
 
-{{< figure src="/images/uploads/2014/05/zenoss.png#center" width="793" height="234" title="Zenoss Search Trend" alt="zenoss" link="/images/uploads/2014/05/zenoss.png" >}}
+{{< figure src="zenoss.png" title="Zenoss Search Trend" alt="zenoss" >}}
 
-{{< figure src="/images/uploads/2014/05/mrtg.png#center" width="792" height="239" title="MRTG Search Trend" alt="MRTG" link="/images/uploads/2014/05/mrtg.png" >}}
+{{< figure src="mrtg.png" title="MRTG Search Trend" alt="MRTG" >}}
 
-{{< figure src="/images/uploads/2014/05/nagios.png#center" width="792" height="245" title="Nagios Search Trend" alt="nagios" link="/images/uploads/2014/05/nagios.png" >}}
+{{< figure src="nagios.png" title="Nagios Search Trend" alt="nagios" >}}
 
-{{< figure src="/images/uploads/2014/05/snmp.png#center" width="788" height="236" title="SNMP Search Trend" alt="snmp" link="/images/uploads/2014/05/snmp.png" >}}
+{{< figure src="snmp.png" title="SNMP Search Trend" alt="snmp" >}}
 
 The only search not showing a decline is [Icinga](http://www.icinga.org/). But, that may just be because it is a relatively recent project so it doesn't have a history of higher volumes of searches it probably would have had if it were a bit older.
 
-{{< figure src="/images/uploads/2014/05/icinga.png#center" width="794" height="241" title="Icinga Search Trend" alt="ICINGA" link="/images/uploads/2014/05/icinga.png" >}}
+{{< figure src="icinga.png" title="Icinga Search Trend" alt="ICINGA" >}}
