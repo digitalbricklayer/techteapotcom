@@ -1,6 +1,7 @@
 ---
 title: "Open source network management comparison: Platform"
 date: "2008-06-19T09:00:14+00:00"
+summary: "A comparison of various open source network management tools with information about the platforms the tools support."
 categories: ["Network Management", "Open Source"]
 tags: [nagios, Zenoss, Zabbix, "OpenNMS"]
 aliases: [/open-source-network-management-comparison-platform/]
