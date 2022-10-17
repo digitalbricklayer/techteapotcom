@@ -6,7 +6,7 @@ tags: [nagios, Zenoss, Zabbix, "OpenNMS"]
 aliases: [/open-source-network-management-comparison-introduction/]
 ---
 
-One side effect of the [increased competition in open source network management]({{< ref "/posts/network-managements-new-wave.md" >}}) is that it is becoming increasingly hard to choose which tool is right for you.
+One side effect of the [increased competition in open source network management]({{< ref "/posts/network-managements-new-wave/index.md" >}}) is that it is becoming increasingly hard to choose which tool is right for you.
 
 With that in mind I intend to create a comparison featuring the best known open source tools to make the process of choosing the right tool a little bit easier.
 

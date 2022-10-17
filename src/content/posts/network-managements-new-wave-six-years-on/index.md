@@ -8,7 +8,7 @@ aliases: [/network-managements-new-wave-six-years-on/]
 
 How time flies.
 
-It has been six years since I wrote about [Network management's "new wave"]({{< ref "/posts/network-managements-new-wave.md" >}}) and thought it would be interesting to go back and see what has happened. We are now at the outer envelope of the VC funding cycle so things should be sorting themselves out one way or another.
+It has been six years since I wrote about [Network management's "new wave"]({{< ref "/posts/network-managements-new-wave/index.md" >}}) and thought it would be interesting to go back and see what has happened. We are now at the outer envelope of the VC funding cycle so things should be sorting themselves out one way or another.
 
 The *new wave* was [Hyperic](http://www.hyperic.com/), [Zenoss](https://www.zenoss.com/) and [Groundwork Open Source](http://www.gwos.com/) VC funded, open source network management companies.
 
@@ -36,7 +36,7 @@ The open source moniker has gone. Hard to tell that, say Zenoss for instance, is
 
 ## Effects upon closed source competitors
 
-I suggested that the *new wave* would [have the effect of opening up the "big 4"]({{< ref "/posts/new-wave-challenging-the-big-4.md" >}}). I can see no evidence of this at all. I also thought that the "big 4" would be good candidates to buy the "new wave" and that hasn't happened either.
+I suggested that the *new wave* would [have the effect of opening up the "big 4"]({{< ref "/posts/new-wave-challenging-the-big-4/index.md" >}}). I can see no evidence of this at all. I also thought that the "big 4" would be good candidates to buy the "new wave" and that hasn't happened either.
 
 ## Effects upon consumers
 

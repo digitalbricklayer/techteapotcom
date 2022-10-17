@@ -6,7 +6,7 @@ tags: [Hugo]
 series: ["Reading Log"]
 ---
 
-I have recently ported this [blog over to Hugo]({{< ref "/posts/a-new-dawn.md" >}}). [Hugo](https://gohugo.io/) is a static site generator written in the [Go language](https://golang.org/). In preparation, I thought it would be a good idea to read a book on the topic. The world is not exactly overburdened with up to date books about Hugo so the shortlist was very short. In Hugo's defence, the documentation provided by the project is pretty good. But, it is always helpful to have an outside perspective.
+I have recently ported this [blog over to Hugo]({{< ref "/posts/a-new-dawn/index.md" >}}). [Hugo](https://gohugo.io/) is a static site generator written in the [Go language](https://golang.org/). In preparation, I thought it would be a good idea to read a book on the topic. The world is not exactly overburdened with up to date books about Hugo so the shortlist was very short. In Hugo's defence, the documentation provided by the project is pretty good. But, it is always helpful to have an outside perspective.
 
 {{< notice note >}}
 The *Hugo in Action* book is a work in progress at the moment. I have reviewed the chapters that were available in the middle of October. The only parts of the book that are complete are the chapters around building a static website. The JAMstack chapters are due soon. I will update the review when they are ready. The book is due to be fully published in December 2020.

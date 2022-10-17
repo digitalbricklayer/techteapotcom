@@ -6,7 +6,7 @@ tags: [nagios, wireshark, "OpenNMS", "MRTG"]
 aliases: [/open-source-network-management-buzz-comparison-2009/]
 ---
 
-I did a [comparison of the buzz for the leading open source network management tools in 2008]({{< ref "/posts/open-source-network-management-buzz-comparison-2008.md" >}}) so I thought it would be interesting to do the same comparison for 2009 and see what's changed.
+I did a [comparison of the buzz for the leading open source network management tools in 2008]({{< ref "/posts/open-source-network-management-buzz-comparison-2008/index.md" >}}) so I thought it would be interesting to do the same comparison for 2009 and see what's changed.
 
 As I did last year, I've compared the number of searches for the project name using Google Trends. As always, this post is not intended to be indicative of the usefulness of a particular tool to your requirements.
 
@@ -18,7 +18,7 @@ Firstly a comparison of the major players in open source network management: [Ze
 
 ## A Comparison of the Nagios Ecosystem
 
-Whilst the above graph showed a reduction in the relative number of searches for Nagios, perhaps the Nagios ecosystem graph can explain it. [**Icinga**](http://www.icinga.org/), a Nagios fork, was [created during 2009]({{< ref "/posts/nagios-begets-icinga.md" >}}) and may be responsible for at least some of the decline. Icinga appears on the graph during late April and has a steady presence throughout the rest of 2009 save for a small period during the Christmas break.
+Whilst the above graph showed a reduction in the relative number of searches for Nagios, perhaps the Nagios ecosystem graph can explain it. [**Icinga**](http://www.icinga.org/), a Nagios fork, was [created during 2009]({{< ref "/posts/nagios-begets-icinga/index.md" >}}) and may be responsible for at least some of the decline. Icinga appears on the graph during late April and has a steady presence throughout the rest of 2009 save for a small period during the Christmas break.
 
 {{< figure src="nagios-vs-centreon-vs-opsview-vs-icinga.png" title="A Comparison of the Nagios Ecosystem 2009" alt="A Comparison of the Nagios Ecosystem 2009" >}}
 

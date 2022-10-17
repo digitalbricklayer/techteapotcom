@@ -40,4 +40,4 @@ We've had the German Sensatronics site for several years. Thought that the rest 
 
 When I did the review of 2006 the blog was just over a month old. The blog recently celebrated its first birthday. I must confess that the blog has been a steep learning curve. One of the problems with a blog is that, whilst it might look easy from the outside, it isn't easy to do well.
 
-The open source posts seem to have been well received. The most trafficed post was about [paper prototyping]({{< ref "/posts/paper-prototyping-its-best-kept-secret.md" >}})!
+The open source posts seem to have been well received. The most trafficed post was about [paper prototyping]({{< ref "/posts/paper-prototyping-its-best-kept-secret/index.md" >}})!

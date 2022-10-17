@@ -6,7 +6,7 @@ tags: []
 aliases: [/were-not-in-kansas-any-more/]
 ---
 
-I was researching a follow up to [how will cloud computing change network management]({{< ref "/posts/how-will-cloud-computing-change-network-management.md" >}}) post and I came across something rather odd I'd like to share with you.
+I was researching a follow up to [how will cloud computing change network management]({{< ref "/posts/how-will-cloud-computing-change-network-management/index.md" >}}) post and I came across something rather odd I'd like to share with you.
 
 Below are a series of graphs culled from Google Trends showing the relative search levels of various network management related keywords.
 

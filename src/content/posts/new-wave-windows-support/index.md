@@ -6,7 +6,7 @@ tags: [Hyperic, Zenoss, "Groundwork Open Source"]
 aliases: [/new-wave-windows-support/]
 ---
 
-One of the odd things [about the three new wave players]({{< ref "/posts/network-managements-new-wave.md" >}}) is that, of the three, only one [Hyperic](http://www.hyperic.com/) supports Windows natively.
+One of the odd things [about the three new wave players]({{< ref "/posts/network-managements-new-wave/index.md" >}}) is that, of the three, only one [Hyperic](http://www.hyperic.com/) supports Windows natively.
 
 The lack of native Windows support in the other two [Zenoss](http://www.zenoss.org/)/[Groundwork](http://www.groundworkopensource.com/) seems like quite an oversight. It will be interesting to see whether the lack of native Windows support hinders their adoption. I'd be surprised if it doesn't.
 

@@ -11,7 +11,7 @@ Intellipool has a large community of script writers. I thought it would be handy
 **INM Mobile dashboard**
 http://www.intellipool.se/forum/index.php?showtopic=1138
 
-**Voice alerts with INM** we've already [covered this here]({{< ref "/posts/voice-alerts-with-intellipool.md" >}})
+**Voice alerts with INM** we've already [covered this here]({{< ref "/posts/voice-alerts-with-intellipool/index.md" >}})
 http://www.intellipool.se/forum/index.php?showtopic=1120
 
 **Monitoring of Microsoft SQL Server**

@@ -29,7 +29,7 @@ But, real time data processing does present a number of challenges to any implem
 
 Put a lot of effort into the software connecting to your cloud service. You will save yourself a lot of pain if the client is able to handle down time on the cloud side without losing data.
 
-Getting outside of the customer's firewall can be quite an effort. The more enterprise your customer, the more support effort it will be. [Expect an enhanced support effort]({{< ref "/posts/adding-anything-external-to-your-software-will-triple-support.md" >}}) even when using well supported protocols like HTTPS. If you are using something more exotic, expect an even bigger effort, especially if a new port has to be opened in the corporate firewall. That's gonna be painful and the customer will blame you.
+Getting outside of the customer's firewall can be quite an effort. The more enterprise your customer, the more support effort it will be. [Expect an enhanced support effort]({{< ref "/posts/adding-anything-external-to-your-software-will-triple-support/index.md" >}}) even when using well supported protocols like HTTPS. If you are using something more exotic, expect an even bigger effort, especially if a new port has to be opened in the corporate firewall. That's gonna be painful and the customer will blame you.
 
 Make sure your customer can test the connection from the client to the server easily and provide great diagnostic information upon failure.
 
@@ -63,7 +63,7 @@ Unit testing is great but don't forget the integration tests. There are bugs tha
 
 ## Deployment
 
-Automate deployment of the whole system. You need to be able deploy new versions at the push of a *single* button. Tools are available to make automated deployment quite simple and straight forward. We've used [Octopus Deploy](http://octopusdeploy.com/) for the last two years and [find it invaluable]({{< ref "/posts/continuous-delivery-every-single-day.md" >}}). It is free for small deployments too, so no excuses. Other stacks like Ruby, Node and Java all have rich ecosystems of tools for automated deployment too.
+Automate deployment of the whole system. You need to be able deploy new versions at the push of a *single* button. Tools are available to make automated deployment quite simple and straight forward. We've used [Octopus Deploy](http://octopusdeploy.com/) for the last two years and [find it invaluable]({{< ref "/posts/continuous-delivery-every-single-day/index.md" >}}). It is free for small deployments too, so no excuses. Other stacks like Ruby, Node and Java all have rich ecosystems of tools for automated deployment too.
 
 Architect the site so that the machine to machine part is separate from the user interface part of the site. The chances are that the machine to machine part will not change very much, whereas the user interface will change much more frequently.
 

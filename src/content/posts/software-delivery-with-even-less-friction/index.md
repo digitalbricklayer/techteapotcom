@@ -6,7 +6,7 @@ tags: []
 aliases: [/software-delivery-with-even-less-friction/]
 ---
 
-I've talked before about the [joys of continuous software delivery]({{< ref "/posts/continuous-delivery-every-single-day.md" >}}) before.
+I've talked before about the [joys of continuous software delivery]({{< ref "/posts/continuous-delivery-every-single-day/index.md" >}}) before.
 
 Well, I've been building a couple of micro sites recently and thought it would be nice to try out a few new technologies and techniques.
 

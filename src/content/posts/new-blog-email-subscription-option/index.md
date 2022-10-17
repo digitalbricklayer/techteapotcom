@@ -6,7 +6,7 @@ tags: []
 aliases: [/new-blog-email-subscription-option/]
 ---
 
-The more observant among you may have noticed some changes on this 'ere blog. The blog was a wee bit anonymous so I've added an [About link at the top of each page]({{< ref "/about.md" >}}). I've also added a link through to the [products section too](https://www.openxtra.co.uk/). Just so new visitors landing on the blog get an idea of what we're about.
+The more observant among you may have noticed some changes on this 'ere blog. The blog was a wee bit anonymous so I've added an [About link at the top of each page]({{< ref "/about/index.md" >}}). I've also added a link through to the [products section too](https://www.openxtra.co.uk/). Just so new visitors landing on the blog get an idea of what we're about.
 
 There's also a mini About section on the main blog page too on the right hand side. Haven't figured out how to get that on every page, but I'm working on it. Hey, I'm new to all this blog thing, so this is a work in progress. :wink:
 

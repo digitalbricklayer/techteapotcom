@@ -16,7 +16,7 @@ The main mistake was to write TimeTag at all. Perhaps it would help to explain w
 
 TimeTag was intended to kick start an open source network management / systems administration software ecosystem based around the PowerShell environment. (If you don't know what PowerShell is, there is a [good explanation here](http://www.developer.com/lang/other/article.php/3674886/An-Introduction-To-PowerShell.htm).)
 
-If you want to build an ecosystem like the Linux network management / sys admin toolset, you are going to need the basic tools available to build upon. The Linux ecosystem has a [few hub projects upon which most of the rest of the ecosystem build]({{< ref "/posts/hub-projects-in-open-source-network-management.md" >}}). It stands to reason that if you don't have the hub tools, the ecosystem won't take root.
+If you want to build an ecosystem like the Linux network management / sys admin toolset, you are going to need the basic tools available to build upon. The Linux ecosystem has a [few hub projects upon which most of the rest of the ecosystem build]({{< ref "/posts/hub-projects-in-open-source-network-management/index.md" >}}). It stands to reason that if you don't have the hub tools, the ecosystem won't take root.
 
 So that's where TimeTag came into the picture, it was my feeble attempt to build one of the hub tools for the PowerShell environment. The problem is that the Linux ecosystem didn't develop in the way I envisaged the PowerShell environment developing.
 

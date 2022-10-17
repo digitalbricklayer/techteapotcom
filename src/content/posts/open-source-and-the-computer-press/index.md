@@ -8,7 +8,7 @@ aliases: [/open-source-and-the-computer-press/]
 
 For a long time non-commercial open source projects had exclusive access to an audience. Sites like [Slashdot](http://slashdot.org/) are very focused on open source, commercial software doesn't get a look in.
 
-With the [emergence of commercial open source players ]({{< ref "/posts/network-managements-new-wave.md" >}})things are a little more complex. The commercial open source players have access to traditional media, but they are also able to access the traditional open source audience as well. That is bound to cause problems for the non-commercial players.
+With the [emergence of commercial open source players ]({{< ref "/posts/network-managements-new-wave/index.md" >}})things are a little more complex. The commercial open source players have access to traditional media, but they are also able to access the traditional open source audience as well. That is bound to cause problems for the non-commercial players.
 
 Evidence of the problem non-commercial players are facing comes from Tarus Balog, the project lead at [OpenNMS](https://www.opennms.org/), in a recent post.
 

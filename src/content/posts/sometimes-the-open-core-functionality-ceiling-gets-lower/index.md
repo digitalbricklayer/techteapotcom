@@ -22,9 +22,9 @@ Zope's native database format limits how scalable Zope can be, which in turn lim
 
 ## A bit more background
 
-Way back in 2010 [myself]({{< ref "/posts/a-real-world-example-of-the-problems-with-open-core-software.md" >}}) and [others](https://www.adventuresinoss.com/?p=1523) suggested that an open core strategy would lead to some [difficult decisions about which features]({{< ref "/posts/an-exploration-of-open-core-licensing-in-network-management.md" >}}) go into the open source product and the closed enterprise product.
+Way back in 2010 [myself]({{< ref "/posts/a-real-world-example-of-the-problems-with-open-core-software/index.md" >}}) and [others](https://www.adventuresinoss.com/?p=1523) suggested that an open core strategy would lead to some [difficult decisions about which features]({{< ref "/posts/an-exploration-of-open-core-licensing-in-network-management/index.md" >}}) go into the open source product and the closed enterprise product.
 
-I suggested that a feature ceiling could be reached in the open source product and [offered some modest proof]({{< ref "/posts/musings-upon-the-open-core-functionality-ceiling.md" >}}) that it existed.
+I suggested that a feature ceiling could be reached in the open source product and [offered some modest proof]({{< ref "/posts/musings-upon-the-open-core-functionality-ceiling/index.md" >}}) that it existed.
 
 ## The ceiling fell in... a bit
 

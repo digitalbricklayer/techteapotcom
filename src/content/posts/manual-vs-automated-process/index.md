@@ -26,7 +26,7 @@ The problem lies in the middle. It is entirely possible that you could manually 
 
 The way I went with the port of this blog over to Hugo was fairly pragmatic. I decided to automate but didn't commit to automating the entire process. Automating doesn't have to be a single step process ie you run a command and hey presto at the end of the process your desired output is there ready to be used. No, converting this blog was actually lots of small pieces of automation. Some used simple search and replace and others a little bit of scripting.
 
-I split the task into lots of small tasks. The site itself is around 500 posts. I wrote [a small script to extract the posts from a MySQL database]({{< ref "posts/a-new-dawn.md" >}}) and dump into seperate HTML files. I then went about the process of converting over to a format that Hugo is happy with. I did that with a combination of manually editing and text search / replace.
+I split the task into lots of small tasks. The site itself is around 500 posts. I wrote [a small script to extract the posts from a MySQL database]({{< ref "posts/a-new-dawn/index.md" >}}) and dump into seperate HTML files. I then went about the process of converting over to a format that Hugo is happy with. I did that with a combination of manually editing and text search / replace.
 
 A lot of the older posts are still not fully converted. The metric I used to determine how much effort to expend was how old the post is and how much traction the post originally received. An old post with very little traction received the very minimum amount of attention. A newer post that recieved quite a lot of traction received a lot of attention and was fully ported over to Hugo best practices.
 

@@ -6,7 +6,7 @@ tags: []
 aliases: [/the-big-it-workers-bug-bear/]
 ---
 
-Looks like I'm not the only one to have [problems with friends and family wanting help with their computers](http://www.reddit.com/r/programming/comments/6ygwg/how_do_you_deal_wfriends_and_family_constantly/). I've [talked about this before]({{< ref "/posts/my-worst-nightmare.md" >}}) and, whilst my own problem has been much reduced, plainly a lot of people in IT have problems associated with people expecting unreasonable amounts of help with their home electrical equipment.
+Looks like I'm not the only one to have [problems with friends and family wanting help with their computers](http://www.reddit.com/r/programming/comments/6ygwg/how_do_you_deal_wfriends_and_family_constantly/). I've [talked about this before]({{< ref "/posts/my-worst-nightmare/index.md" >}}) and, whilst my own problem has been much reduced, plainly a lot of people in IT have problems associated with people expecting unreasonable amounts of help with their home electrical equipment.
 
 In many ways the problem isn't close friends and family, it's when friends and family start farming you out to their friends and acquaintances.
 

@@ -6,7 +6,7 @@ tags: []
 aliases: [/are-operating-systems-important-anymore/]
 ---
 
-I was thinking about [Jim Forbes post](http://forbesontech.typepad.com/my_weblog/2007/08/microsoft-wake-.html), and [my reply to it]({{< ref "/posts/re-microsoft-wake-up-apple-is-gaining-intellectual-capital-and-market.md" >}}). The more I think about it, the more the Windows vs OSX battle really is getting kinda irrelevant.
+I was thinking about [Jim Forbes post](http://forbesontech.typepad.com/my_weblog/2007/08/microsoft-wake-.html), and [my reply to it]({{< ref "/posts/re-microsoft-wake-up-apple-is-gaining-intellectual-capital-and-market/index.md" >}}). The more I think about it, the more the Windows vs OSX battle really is getting kinda irrelevant.
 
 It's just coming up for 11:30 in the morning and I have a confession to make. I have only used two applications so far this morning: Firefox &amp; Thunderbird, a web browser and email application respectively. I'm pretty sure I didn't use anything else yesterday either.
 

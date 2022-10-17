@@ -12,9 +12,9 @@ The Tech Teapot is three years old today. Well, if you want to be pedantic, it w
 
 A selection of my favourite posts from the last year:
 
-- [Open source network management buzz comparison 2008]({{< ref "/posts/open-source-network-management-buzz-comparison-2008.md" >}})
-- [Tivoli vs open source network management buzz 2008]({{< ref "/posts/tivoli-vs-open-source-network-management-buzz-2008.md" >}})
-- [Open source network management activity comparison]({{< ref "/posts/open-source-network-management-activity-comparison.md" >}})
+- [Open source network management buzz comparison 2008]({{< ref "/posts/open-source-network-management-buzz-comparison-2008/index.md" >}})
+- [Tivoli vs open source network management buzz 2008]({{< ref "/posts/tivoli-vs-open-source-network-management-buzz-2008/index.md" >}})
+- [Open source network management activity comparison]({{< ref "/posts/open-source-network-management-activity-comparison/index.md" >}})
 
 It has been a thin blogging year, mainly because my time has been squeezed by a combination of my regular work and TimeTag.
 

@@ -31,7 +31,7 @@ The main problem with VARs morphing into open source consultants is that the pro
 
 After all, most of the revenue garnered from "*big 4*" (HP Openview, IBM Tivoli, CA Unicenter, BMC Patrol) sales come from training and consultancy services not from license sales.
 
-The [new wave open source network &amp; systems management]({{< ref "/posts/network-managements-new-wave.md" >}}) companies are all venture funded. Somewhere in their respective business plans I'm sure training and consultancy feature very highly in their monetisation strategies. Indeed the new wave deliberately sacrifice some of the lucrative "*big 4*" software license sales in order to get hold of the training and consultancy business. I doubt they are going to be too enthusiastic cutting other people in on the deal.
+The [new wave open source network &amp; systems management]({{< ref "/posts/network-managements-new-wave/index.md" >}}) companies are all venture funded. Somewhere in their respective business plans I'm sure training and consultancy feature very highly in their monetisation strategies. Indeed the new wave deliberately sacrifice some of the lucrative "*big 4*" software license sales in order to get hold of the training and consultancy business. I doubt they are going to be too enthusiastic cutting other people in on the deal.
 
 ## Older is better?
 

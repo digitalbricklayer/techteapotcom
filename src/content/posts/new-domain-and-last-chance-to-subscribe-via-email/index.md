@@ -11,7 +11,7 @@ If you receive *The Tech Teapot* via email, this is your last chance to continue
 
 Feedburner has been withering on the vine since being taken over by Google. The reason that this is your final chance is because Google doesn't manage the email list. Of the 500+ email subscribers, not a single one has been removed from the list due to email bouncing. I find it hard to believe that no subscriber has moved jobs in the last 8 years. Consequently, the Feedburner list is full of invalid, out of date email addresses. As a consequence, MailChimp will not import the Feedburner list.
 
-Sorry about that, but fear not, you can [sign-up here]({{< ref "/subscribe.md" >}}).
+Sorry about that, but fear not, you can [sign-up here]({{< ref "/subscribe/index.md" >}}).
 
 P.S. The more observant may have noticed the change of domain, I've owned the domain for a while and thought it about time the blog was moved onto its very own domain. Hope you like it.
 

@@ -30,7 +30,7 @@ The main similarity between open core and shareware business models is the desir
 
 ## Open core in network management
 
-There has been quite a [large influx of commercial open source companies into network management]({{< ref "/posts/network-managements-new-wave.md" >}}) in the last few years, many with the largess of venture capital behind them. The most recent, [RiverMuse](http://www.rivermuse.com/), released the *community* edition of their event and fault management offering during 2009 and is following an open core strategy with the imminent release of their *enterprise* edition during early 2010.
+There has been quite a [large influx of commercial open source companies into network management]({{< ref "/posts/network-managements-new-wave/index.md" >}}) in the last few years, many with the largess of venture capital behind them. The most recent, [RiverMuse](http://www.rivermuse.com/), released the *community* edition of their event and fault management offering during 2009 and is following an open core strategy with the imminent release of their *enterprise* edition during early 2010.
 
 In many ways network management is a perfect environment in which to exploit an open core strategy. Network management products are commonly structured around a central engine with add-ons integrating with third party networking hardware and servers.
 

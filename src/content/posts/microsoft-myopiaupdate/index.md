@@ -6,7 +6,7 @@ tags: []
 aliases: [/microsoft-myopiaupdate/]
 ---
 
-I complained in my recent [Microsoft mypopia]({{< ref "/posts/microsoft-myopia.md" >}}) post that Microsoft had failed to support the main unit testing framework inside Visual Studio.
+I complained in my recent [Microsoft mypopia]({{< ref "/posts/microsoft-myopia/index.md" >}}) post that Microsoft had failed to support the main unit testing framework inside Visual Studio.
 
 Happily, I've found a solution in the form of a Visual Studio add-in called [TestDriven.NET](http://testdriven.net/). Now I can execute and debug my [NUnit](http://www.nunit.org/) tests all from inside Visual Studio. :smile:
 
