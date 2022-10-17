@@ -18,6 +18,6 @@ On Friday I met [a group of northern bloggers at a meeting in Leeds](http://www.
 
 If you are feeling a little bit jaded with the IT industry and need to get some of the enthusiasm back that brought you into the industry in the first place, you could do a lot worse than join a group with a few industry colleagues and just chew the fat in an informal setting. It is something that I believe our American colleagues do far more than we do and perhaps is responsible, at least in part, for their more vibrant IT industry.
 
-Many thanks to: [Chris Garrett](http://www.chrisg.com/) &amp; [Jamie Harrop](http://www.jamieharrop.com/) for organising the event and the rest of the participants: Richard, Andrew, Tim, [Andrew](http://www.didigetthingsdone.com), [Dominic](http://www.thehodge.co.uk/) (I owe Dominic a pint of Hoegarden so I've got to keep him sweet :smile: ), [Zath](http://www.zath.co.uk/) for being there. Thanks and I hope to see you at the next meeting. :wink:
+Many thanks to: [Chris Garrett](http://www.chrisg.com/) &amp; Jamie Harrop for organising the event and the rest of the participants: Richard, Andrew, Tim, Andrew, [Dominic](http://www.thehodge.co.uk/) (I owe Dominic a pint of Hoegarden so I've got to keep him sweet :smile: ), [Zath](http://www.zath.co.uk/) for being there. Thanks and I hope to see you at the next meeting. :wink:
 
 If I've missed anybody above, please let me know in the comments and I will add you.
