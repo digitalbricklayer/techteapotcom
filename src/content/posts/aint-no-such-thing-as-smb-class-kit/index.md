@@ -6,7 +6,7 @@ tags: [downtime, enterprise, "SMB"]
 aliases: [/aint-no-such-thing-as-smb-class-kit/]
 ---
 
-{{< figure src="/images/uploads/2008/01/net-downtime.jpg#floatright" alt="Network outage" height="149" width="225" >}}
+{{< figure src="net-downtime.jpg#floatright" alt="Network outage" height="149" width="225" >}}
 
 Every bout of downtime teaches you a lesson. At least one. :smile:
 
