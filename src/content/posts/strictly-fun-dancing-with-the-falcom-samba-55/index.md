@@ -5,7 +5,7 @@ categories: [General]
 aliases: [/strictly-fun-dancing-with-the-falcom-samba-55/]
 ---
 
-{{< figure src="/images/uploads/2006/11/samba_phonetools.gif#floatright" alt="Samba 55 Screenshot" >}}
+{{< figure src="samba_phonetools.gif#floatright" alt="Samba 55 Screenshot" >}}
 
 Is it just me or does everyone find the [Falcom](http://www.falcom.de/) Samba 55 GSM Modem a real pain to set up? Loading the driver is OK, but trying to get the Mobile Phone Tools to install is a struggle.
 

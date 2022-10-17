@@ -6,7 +6,7 @@ tags: []
 aliases: [/the-tech-teapot-two-today/]
 ---
 
-{{< figure src="/images/uploads/2008/10/istock_000007188544xsmall.jpg#floatright" alt="The Tech Teapot Second Birthday Cake" >}}
+{{< figure src="istock_000007188544xsmall.jpg#floatright" alt="The Tech Teapot Second Birthday Cake" >}}
 
 The Tech Teapot is two years old today. Now we've got 13 categories, 334 posts &amp; 412 comments.
 

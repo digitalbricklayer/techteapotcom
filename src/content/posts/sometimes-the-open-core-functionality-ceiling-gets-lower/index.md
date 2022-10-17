@@ -37,7 +37,7 @@ rmatte:
 
 [Bill Karpovitch](https://www.zenoss.com/about/team/management) Co-founder and CEO of Zenoss Inc.:
 > "a mistake we made in the process was that product management had it slated for an enterprise feature but we began development in the core trunk. for better or worse, our decision was to pull it back. we are continuing to look this as part of the plan forward."
-
+>
 > "all good points. to be clear, the Core/Enterprise feature decisions are challenging and involve tough trade offs."
 
 As Bill Karpovitch says above, the relstorage feature wasn't intended to go into Core, it was supposed to be an Enterprise only feature.

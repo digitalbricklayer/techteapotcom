@@ -18,10 +18,10 @@ Dean is a [Formula 1](http://www.formula1.com/) fan, so he spent the best part o
 
 For my sins, I haven't had a summer holiday yet, I hope to get away in the autumn. I will be cycling over to [Helmsley](https://en.wikipedia.org/wiki/Helmsley) youth hostel with my nephew for a night though. I spent a few days there last year and it was gorgeous.
 
-{{< figure src="/images/uploads/2007/08/180px-helmsley_castle3.jpg" alt="Helmsley Castle" caption="Helmsley Castle" >}}
+{{< figure src="180px-helmsley_castle3.jpg" alt="Helmsley Castle" title="Helmsley Castle" >}}
 
-{{< figure src="/images/uploads/2007/08/360px-alfabia2.jpg" alt="Typical scenery in Mallorca" caption="Typical scenery in Mallorca" >}}
+{{< figure src="360px-alfabia2.jpg" alt="Typical scenery in Mallorca" title="Typical scenery in Mallorca" >}}
 
-{{< figure src="/images/uploads/2007/08/250px-dubra.JPG" alt="Dubrovnik" caption="Dubrovnik from the air" >}}
+{{< figure src="250px-dubra.JPG" alt="Dubrovnik from the air" title="Dubrovnik from the air" >}}
 
-{{< figure src="/images/uploads/2007/08/320px-lakeland_view.jpg" alt="Typical scenery in English Lake District" caption="Typical scenery in the English Lake District" >}}
+{{< figure src="320px-lakeland_view.jpg" alt="Typical scenery in English Lake District" title="Typical scenery in the English Lake District" >}}

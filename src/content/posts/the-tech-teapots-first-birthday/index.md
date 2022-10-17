@@ -6,7 +6,7 @@ tags: []
 aliases: [/the-tech-teapots-first-birthday/]
 ---
 
-{{< figure src="/images/uploads/2007/11/birthday-cake.jpg#floatright" alt="Tech Teapot Logo" >}}
+{{< figure src="birthday-cake.jpg#floatright" alt="Tech Teapot Logo" >}}
 
 The Tech Teapot, or as it was originally called, the OPENXTRA Blog is one year old today. Ten categories, 186 posts, 156 comments &amp; trackbacks and more tags than I care to count and we're still going strong.
 

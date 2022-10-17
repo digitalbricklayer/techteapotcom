@@ -10,7 +10,7 @@ I've talked before about the [joys of continuous software delivery]({{< ref "/po
 
 Well, I've been building a couple of micro sites recently and thought it would be nice to try out a few new technologies and techniques.
 
-Firstly, I've built them with [HTML5](https://en.wikipedia.org/wiki/HTML5) and the [<del>Twitter</del> Bootstrap](http://getbootstrap.com/) framework, there's a very good tutorial [here](http://www.w3resource.com/twitter-bootstrap/tutorial.php). Bootstrap provides a combination of CSS and Javascript to make building a clean, responsive site without having to worry about cross browser compatibility.
+Firstly, I've built them with [HTML5](https://en.wikipedia.org/wiki/HTML5) and the [~~Twitter~~ Bootstrap](http://getbootstrap.com/) framework, there's a very good tutorial [here](http://www.w3resource.com/twitter-bootstrap/tutorial.php). Bootstrap provides a combination of CSS and Javascript to make building a clean, responsive site without having to worry about cross browser compatibility.
 
 We use TeamCity and [Octopus Deploy](http://octopusdeploy.com/) for another much larger site. For micro sites I think that Octopus is overkill. A large complicated deployment workflow isn't necessary for a simple micro site. Octopus really comes into its own when you need to deploy to a large web farm, or you need a workflow prior to releasing the website into production.
 

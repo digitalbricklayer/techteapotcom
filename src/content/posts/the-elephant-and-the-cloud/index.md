@@ -6,7 +6,7 @@ tags: []
 aliases: [/the-elephant-and-the-cloud/]
 ---
 
-{{< figure src="/images/uploads/2007/12/elephant.gif#floatright" alt="Elephant flying on clouds" >}}
+{{< figure src="elephant.gif#floatright" alt="Elephant flying on clouds" >}}
 
 The most interesting thing about technology change are the odd juxtapositions it throws up. If you'd asked me a few years ago who would be the leader in cloud computing, I wouldn't have predicted that it would be Amazon.
 

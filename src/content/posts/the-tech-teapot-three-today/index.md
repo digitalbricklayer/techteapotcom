@@ -6,7 +6,7 @@ tags: []
 aliases: [/the-tech-teapot-three-today/]
 ---
 
-{{< figure src="/images/uploads/2009/11/phpRrWWSsAM.jpg#floatright" alt="The Tech Teapot Third Birthday Cake" >}}
+{{< figure src="phpRrWWSsAM.jpg#floatright" alt="The Tech Teapot Third Birthday Cake" >}}
 
 The Tech Teapot is three years old today. Well, if you want to be pedantic, it was three years old last Thursday but I forgot all about it!
 

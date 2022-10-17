@@ -6,7 +6,7 @@ tags: []
 aliases: [/spamassassin-just-works/]
 ---
 
-{{< figure src="/images/uploads/2007/09/arrowlogo.png#floatright" alt="SpamAssassin Logo" >}}
+{{< figure src="arrowlogo.png#floatright" alt="SpamAssassin Logo" >}}
 
 One of the great tools we have discovered recently has been [Apache SpamAssassin](http://spamassassin.apache.org/), an open source spam identifier.
 
