@@ -6,7 +6,7 @@ tags: []
 aliases: [/packet-visualization-with-rumint/]
 ---
 
-{{< figure src="/images/uploads/2007/08/securitydataviz.jpg#floatright" alt="Security Data Visualization Book Cover" >}}
+{{< figure src="securitydataviz.jpg#floatright" alt="Security Data Visualization Book Cover" >}}
 
 One of the tools recommended in [Chris Sander's](http://www.chrissanders.org/) [Practical Packet Analysis](https://www.nostarch.com/packet2.htm) book is called [Rumint](http://www.rumint.org/).
 

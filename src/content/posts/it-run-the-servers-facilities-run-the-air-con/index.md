@@ -6,7 +6,7 @@ tags: []
 aliases: [/it-run-the-servers-facilities-run-the-air-con/]
 ---
 
-{{< figure src="/images/uploads/2007/10/thermometer.jpg#floatright" alt="An analog thermometer" >}}
+{{< figure src="thermometer.jpg#floatright" alt="An analog thermometer" >}}
 
 Facilities running the air-con in a datacentre has to be one of the classical IT [anti-patterns](https://en.wikipedia.org/wiki/Anti-pattern). You've got your nice shiny data centre, rows and rows of cabinets full to the brim with IT kit. Problem is, you don't run the air conditioning, the facilities people do.
 

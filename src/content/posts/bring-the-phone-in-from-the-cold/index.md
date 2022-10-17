@@ -6,7 +6,7 @@ tags: []
 aliases: [/bring-the-phone-in-from-the-cold/]
 ---
 
-{{< figure src="/images/uploads/2007/08/telephone.png#floatright" alt="An old telephone" >}}
+{{< figure src="telephone.png#floatright" alt="An old telephone" >}}
 
 When is the **phone going to come in from the cold**? How much of our lives do we spend continually giving the same information to the same companies time and again down the telephone? Only for those companies to spend even more time typing the same information into their systems.
 

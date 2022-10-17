@@ -6,7 +6,7 @@ tags: []
 aliases: [/data-voice-and-video-cabling-book/]
 ---
 
-{{< figure src="/images/uploads/2007/07/d-v-book.jpg#floatright" alt="Data, Voice, and Video Cabling book cover" >}}
+{{< figure src="d-v-book.jpg#floatright" alt="Data, Voice, and Video Cabling book cover" >}}
 
 If you are involved in installing data, voice or video cabling then you won't be disappointed by [Data, Voice, and Video Cabling](http://www.jimhayes.com/writings/dvvc.htm) by Jim Hayes and Paul Rosenberg.
 

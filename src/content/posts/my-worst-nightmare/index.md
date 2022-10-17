@@ -6,7 +6,7 @@ tags: []
 aliases: [/my-worst-nightmare/]
 ---
 
-{{< figure src="/images/uploads/2007/09/headhold.gif#floatright" alt="IT person regretting he agreed to fix somebody else's PC" >}}
+{{< figure src="headhold.gif#floatright" alt="IT person regretting he agreed to fix somebody else's PC" >}}
 
 Every IT person I've ever met has at least one nightmare story about being roped into fixing somebody's home PC/network/broadband and everything going wrong.
 

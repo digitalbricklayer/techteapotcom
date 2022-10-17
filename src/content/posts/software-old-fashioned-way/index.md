@@ -47,4 +47,4 @@ PS All of the floppies I've tried so far still work :smile: Not bad after 23 yea
 
 PPS I found a letter from October 1990 ordering ten disks from the library.
 
-{{< figure src="/images/uploads/2014/07/pdsl-letter.png#center" title="Letter ordering disks from a public domain / shareware library" alt="Letter ordering disks" >}}
+{{< figure src="pdsl-letter.png#center" title="Letter ordering disks from a public domain / shareware library" alt="Letter ordering disks" >}}

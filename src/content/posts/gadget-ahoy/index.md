@@ -5,7 +5,7 @@ categories: [General]
 aliases: [/gadget-ahoy/]
 ---
 
-{{< figure src="/images/uploads/2006/12/openxtra-console.gif#floatright" alt="OPENXTRA Console Screenshot" >}}
+{{< figure src="openxtra-console.gif#floatright" alt="OPENXTRA Console Screenshot" >}}
 
 I've been seeing lots of activity on the Desktop recently. [Apple](http://www.apple.com/) started it all off with their [Dashboard](http://www.apple.com/macosx/leopard/dashboard.html) built into [OSX](http://www.apple.com/macosx/). All very impressive but hardly of much interest to [Microsoft Windows](http://www.microsoft.com/windows/) users.
 
