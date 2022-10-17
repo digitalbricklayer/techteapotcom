@@ -6,7 +6,7 @@ tags: []
 aliases: [/microsoft-myopia/]
 ---
 
-{{< figure src="/images/uploads/2008/04/istock_000004306521xsmall.jpg#floatright" alt="Cross Eyed" >}}
+{{< figure src="istock_000004306521xsmall.jpg#floatright" alt="Cross eyed man looking straight into the camera" >}}
 
 I've just installed Visual Studio Pro 2008 and there's one thing bugging me.
 

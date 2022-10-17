@@ -6,7 +6,7 @@ tags: ["data center"]
 aliases: [/how-green-is-your-valley/]
 ---
 
-{{< figure src="/images/uploads/2007/10/datacenter.jpg#floatright" alt="" >}}
+{{< figure src="datacenter.jpg#floatright" alt="Women examining data center equipment" >}}
 
 "**Few have made the connection between IT efficiency and green compliance**" so says [Steve Nunn in The Green Room](http://news.bbc.co.uk/1/hi/sci/tech/7010539.stm), BBC's green issues series. But **I'm not so sure**. I have noticed a significant increase in awareness at least in the IT press of the need to reduce power costs particularly in the Data centre environment, no doubt aided by the introduction of [virtualisation](http://news.zdnet.co.uk/security/0,1000000189,39170099,00.htm) which can reduce a Data centre's energy bill by as much as 60%.
 

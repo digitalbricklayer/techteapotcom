@@ -14,7 +14,7 @@ I have omitted [Groundwork Open Source](http://www.groundworkopensource.com/) &a
 
 ## Hyperic vs Zenoss
 
-{{< figure src="/images/uploads/2007/09/zenoss-vs-hyperic.PNG" alt="Hyperic vs Zenoss Search Trend" link="http://www.google.com/trends?q=hyperic%2Czenoss" caption="Figure 1: Hyperic vs Zenoss Search Trend" >}}
+{{< figure src="zenoss-vs-hyperic.PNG" alt="Hyperic vs Zenoss Search Trend" link="http://www.google.com/trends?q=hyperic%2Czenoss" caption="Figure 1: Hyperic vs Zenoss Search Trend" >}}
 
 Firstly, I'd like to congratulate both [Zenoss](https://www.zenoss.com/) &amp;[Hyperic](http://www.hyperic.com/) for appearing in Google Trends. That's no mean feat in itself.
 
@@ -24,7 +24,7 @@ Zenoss is also more customisable by sysadmins. As Zenoss is written in Python an
 
 ## New wave vs Non-commercial Open Source Projects
 
-{{< figure src="/images/uploads/2007/09/oss-comparison.png" alt="New wave vs Open Source Projects Trend" link="http://www.google.com/trends?q=hyperic%2Czenoss%2Cnagios%2Cmrtg%2Copennms&ctab=0&geo=all&date=all&sort=0" caption="Figure 2: New wave vs Open Source Projects Trend" >}}
+{{< figure src="oss-comparison.png" alt="New wave vs Open Source Projects Trend" link="http://www.google.com/trends?q=hyperic%2Czenoss%2Cnagios%2Cmrtg%2Copennms&ctab=0&geo=all&date=all&sort=0" caption="Figure 2: New wave vs Open Source Projects Trend" >}}
 
 Figure 2 shows the relative search volume between Hyperic, Zenoss, [MRTG](http://oss.oetiker.ch/mrtg/), [Nagios](http://www.nagios.org/) and [OpenNMS](https://www.opennms.org/). The first thing that struck me is the massive search volume for MRTG. WOW! Given how far behind in terms of features and performance MRTG is behind the rest it is quite staggering how many searches it receives. MRTG is losing search volume though, down by two thirds since the beginning of 2004. Nagios has done very well, gaining search volume throughout the last three years.
 
@@ -35,7 +35,7 @@ What does the graph mean for Hyperic &amp; Zenoss?
 
 ## Commercial Products vs New Wave
 
-{{< figure src="/images/uploads/2007/09/big2-comparison1.PNG" alt="OpenView/NetIQ vs New Wave" link="http://www.google.com/trends?q=hyperic%2Czenoss%2Copenview%2Cnetiq&ctab=0&geo=all&date=all&sort=0" caption="Figure 3: OpenView/NetIQ vs New Wave" >}}
+{{< figure src="big2-comparison1.PNG" alt="OpenView/NetIQ vs New Wave" link="http://www.google.com/trends?q=hyperic%2Czenoss%2Copenview%2Cnetiq&ctab=0&geo=all&date=all&sort=0" caption="Figure 3: OpenView/NetIQ vs New Wave" >}}
 
 The most surprising thing about Figure 3 is the downward trend on both of the commercial tools: OpenView &amp; NetIQ. Though, I don't think that the downward trend can be attributed to either Zenoss or Hyperic, given that the trend started long before they came on the scene.
 

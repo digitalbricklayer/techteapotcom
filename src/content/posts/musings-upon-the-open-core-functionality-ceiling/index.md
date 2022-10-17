@@ -18,9 +18,9 @@ The graphs below are taken from the [Ohloh open source project directory](http:/
 
 The two graphs below are taken from the [Hyperic code analysis](http://www.ohloh.net/p/hyperic/analyses/latest) and the [Zenoss code analysis](http://www.ohloh.net/p/zenoss/analyses/latest) pages on Ohloh.
 
-{{< figure src="/images/uploads/2010/03/hyperic-code-analysis.png" width="300" height="129" title="Hyperic Code Analysis Graph" alt="Hyperic Code Analysis Graph" link="/images/uploads/2010/03/hyperic-code-analysis.png" >}}
+{{< figure src="hyperic-code-analysis.png" title="Hyperic Code Analysis Graph" alt="Hyperic Code Analysis Graph" >}}
 
-{{< figure src="/images/uploads/2010/03/zenoss-code-analysis.png" width="300" height="129" title="Zenoss Code Analysis Graph" alt="Zenoss Code Analysis Graph" link="/images/uploads/2010/03/zenoss-code-analysis.png" >}}
+{{< figure src="zenoss-code-analysis.png" title="Zenoss Code Analysis Graph" alt="Zenoss Code Analysis Graph" >}}
 
 Both of the graphs clearly show a plateau in the quantity of code committed to the respective *community* edition code repositories. There may be a number of explanations for the plateau, perhaps heavy re-factoring work clears the space required by new features. Though, realistically I doubt that re-factoring would be capable of continually reducing the size of the code base in order to make way for new code.
 

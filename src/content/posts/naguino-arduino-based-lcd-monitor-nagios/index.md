@@ -6,7 +6,7 @@ tags: [arduino, icinga]
 aliases: [/naguino-arduino-based-lcd-monitor-nagios/]
 ---
 
-{{< figure src="/images/uploads/2009/05/zz08e4cb70.jpg" width="435" height="315" title="Naguino: an Arduino-based LCD monitor for Nagios and Icinga" alt="Naguino: an Arduino-based LCD monitor for Nagios and Icinga" link="/images/uploads/2009/05/zz08e4cb70.jpg" >}}
+{{< figure src="zz08e4cb70.jpg" width="435" height="315" title="Naguino: an Arduino-based LCD monitor for Nagios and Icinga" alt="Naguino: an Arduino-based LCD monitor for Nagios and Icinga" >}}
 
 If you've ever wanted to know the status of your Nagios installation without having to open a browser, you may find [Naguino a fun and useful addition to your monitoring toolkit](http://blog.fupps.com/2009/05/11/naguino-an-arduino-based-lcd-monitor-for-nagios-and-icinga/).
 

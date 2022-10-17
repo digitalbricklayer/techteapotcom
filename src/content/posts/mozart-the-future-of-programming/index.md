@@ -6,7 +6,7 @@ tags: []
 aliases: [/mozart-the-future-of-programming/]
 ---
 
-{{< figure src="/images/uploads/2008/02/mozart-259x112.gif#floatright" alt="Mozart/Oz Logo" >}}
+{{< figure src="mozart-259x112.gif#floatright" alt="Mozart/Oz Logo" >}}
 
 Recently I've been musing about the computer languages that will take us into the twenty first century. One candidate I've been watching for a few years is [Mozart/Oz](http://mozart.github.io/).
 

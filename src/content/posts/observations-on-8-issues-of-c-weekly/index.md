@@ -18,11 +18,11 @@ I figured that I might as well give the newsletter a go. Whilst the audience was
 
 I've now curated eight issues, I thought it about time to take stock. The first issue was sent on Friday 27th February 2015 and has been sent every Friday since.
 
-{{< figure src="/images/uploads/2015/04/csharpweekly-subscribers.png#center" width="50%" title="C# Weekly Subscribers" alt="C# Weekly Subscribers" link="/images/uploads/2015/04/csharpweekly-subscribers.png" >}}
+{{< figure src="csharpweekly-subscribers.png" title="C# Weekly Subscribers" alt="C# Weekly Subscribers" >}}
 
 The number of subscribers has grown over the last eight weeks, starting from a base of 194 subscribers there are now 231. A net increase of 37 in eight weeks. Of course there have been unsubscribes, but the new subscribers each week have always outnumbered them.
 
-{{< figure src="/images/uploads/2015/04/csharpweekly-visitors.png#center" width="50%" title="C# Weekly Website Visitors Chart" alt="C# Weekly Website Visitors Chart" link="/images/uploads/2015/04/csharpweekly-visitors.png" >}}
+{{< figure src="csharpweekly-visitors.png" title="C# Weekly Website Visitors Chart" alt="C# Weekly Website Visitors Chart" >}}
 
 The website traffic has also trended upwards over the last year, especially since the first issue was curated. Now there are a number of pages on the website, the site is receiving more traffic from the search engines. The number of visitors is not high, but at least progress is being made.
 
@@ -40,7 +40,7 @@ If you want to learn about a topic, I can certainly recommend curating a newslet
 
 One of my better ideas over the last year was to move over to [Curated](http://curated.co/), a newsletter service provider founded by the folks who run the very successful [iOS Dev Weekly](http://iosdevweekly.com/) newsletter. The tools provided by Curated have helped a lot.
 
-{{< figure src="/images/uploads/2015/04/csharpweekly-stats.png#center" width="50%" title="C# Weekly Content Interaction Stats Chart" alt="C# Weekly Content Interaction Stats Chart" link="/images/uploads/2015/04/csharpweekly-stats.png" >}}
+{{< figure src="csharpweekly-stats.png" title="C# Weekly Content Interaction Stats Chart" alt="C# Weekly Content Interaction Stats Chart" >}}
 
 One of the best features of Curated is the statistics it provides for each issue. You can learn a lot from discovering which content subscribers are most interested in. You won't be surprised to find that the low level C# content is the most popular.
 
