@@ -59,9 +59,9 @@ When writing new content or updating the website design, it can be helpful to se
 
 One of the nice features of the built-in server in development mode is that it can keep track of changes whilst you are doing them and then update itself and your browser. It isn't completely foolproof, but it works pretty well.
 
->server_1  | Change detected, rebuilding site.<br>
->server_1  | 2020-11-19 14:05:05.839 +0000<br>
->server_1  | Source changed "/src/content/posts/handy-hugo-website-test-scripts/index.md": WRITE<br>
+>server_1  | Change detected, rebuilding site.
+>server_1  | 2020-11-19 14:05:05.839 +0000
+>server_1  | Source changed "/src/content/posts/handy-hugo-website-test-scripts/index.md": WRITE
 >server_1  | Total in 415 ms
 
 You will notice that there are two parts to running the development server. One part is the `docker-compose.yml` configuration file. This file tells docker compose what services it needs to run. Whilst the Hugo server only needs a single service, you could have say a web server plus a database server in the configuration file and then docker compose would then start both services for you. The second part is a very simple script that executes `docker-compose`.

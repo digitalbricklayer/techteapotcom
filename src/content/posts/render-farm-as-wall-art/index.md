@@ -16,4 +16,4 @@ If only data centres looked like this...
             previewType="none"
             embedPreview="true" >}}
 
-[via Devicelnn &amp; <a href="http://www.coroflot.com/public/individual_file.asp?individual_id=226605&amp;portfolio_id=1566546&amp;specialty=4&amp;sort_by=1&amp;c=1&amp;">Frederik Perman</a>]
+Via Devicelnn &amp; [Frederik Perman](http://www.coroflot.com/public/individual_file.asp?individual_id=226605&amp;portfolio_id=1566546&amp;specialty=4&amp;sort_by=1&amp;c=1&amp;)

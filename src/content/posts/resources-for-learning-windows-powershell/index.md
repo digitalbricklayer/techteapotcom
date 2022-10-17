@@ -21,8 +21,7 @@ I am currently in the process of broadening my knowledge of Windows Powershell a
 
 ## Books
 
-- [Windows Powershell in Action](http://www.manning.com/payette/) -- *the* book from one of the founders of the Windows Powershell team</li>
-number available with sample chapters online</li>
+- [Windows Powershell in Action](http://www.manning.com/payette/) -- *the* book from one of the founders of the Windows Powershell team
 
 ## Blogs
 

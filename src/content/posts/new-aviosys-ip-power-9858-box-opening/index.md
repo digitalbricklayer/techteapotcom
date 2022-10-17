@@ -14,7 +14,7 @@ A series of box opening photos of the new Aviosys IP Power 9858 4 port network p
 This model has now been superseded by the [Aviosys IP Power 9858MT-S](https://www.openxtra.co.uk/aviosys-ip-power-switch-9858mt-s-4-port.html).
 {{< /notice >}}
 
-The new model supports WiFi (802.11n-b/g and WPS for easy WiFi setup), auto reboot on ping failure, time of day scheduler and internal temperature sensor. Aviosys have also built apps for iOS and Android, so you can now manage your power switch on the move. Together with the 8 port <a href="{{< ref "/posts/aviosys-9820-box-opening.md" >}}">Aviosys IP Power 9820</a> they provide very handy tools for remote power management of devices. Say goodbye to travelling to a remote site just to reboot a broadband router.
+The new model supports WiFi (802.11n-b/g and WPS for easy WiFi setup), auto reboot on ping failure, time of day scheduler and internal temperature sensor. Aviosys have also built apps for iOS and Android, so you can now manage your power switch on the move. Together with the 8 port [Aviosys IP Power 9820]({{< ref "/posts/aviosys-9820-box-opening/index.md" >}}) they provide very handy tools for remote power management of devices. Say goodbye to travelling to a remote site just to reboot a broadband router.
 
 {{< gallery match="images/*"
             sortOrder="desc"
