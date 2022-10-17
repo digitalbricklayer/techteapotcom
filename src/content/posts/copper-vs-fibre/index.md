@@ -6,7 +6,7 @@ tags: ["copper cabling", "fibre cabling"]
 aliases: [/copper-vs-fibre/]
 ---
 
-{{< figure src="/images/uploads/2007/09/180px-fibreoptic.jpg#floatright" alt="Dangling Fibre Optic Cables" >}}
+{{< figure src="180px-fibreoptic.jpg#floatright" alt="Dangling Fibre Optic Cables" >}}
 
 You might assume that because the technology involved in manufacturing [optical fibre cable](https://en.wikipedia.org/wiki/Optical_Fiber) is more complex than copper, installation of fibre networks would inevitably be more expensive than using copper. However, with the advent of [CAT6 cabling](https://en.wikipedia.org/wiki/Category_6_cable) means that copper *is getting faster* -- but at a cost.
 
