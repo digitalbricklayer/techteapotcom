@@ -1,12 +1,11 @@
 ---
 title: "Guide to Snmp"
 date: 2022-10-18T15:22:36+01:00
-thumbnail: "/images/snmp.svg"
+thumbnail: "/images/snmp-logo.png"
 categories:
   - Network Management
 tags:
   - snmp
-draft: true
 ---
 
 An explanation of what SNMP is and how it can fit into your broader environmental monitoring efforts.
@@ -19,7 +18,7 @@ An explanation of what SNMP is and how it can fit into your broader environmenta
 
 Here's what [Wikipedia has to say about SNMP](http://en.wikipedia.org/wiki/Snmp):
 
->*Simple Network Management Protocol (SNMP) is used in network management systems to monitor network-attached devices for conditions that warrant administrative attention. SNMP is a component of the Internet Protocol Suite as defined by the Internet Engineering Task Force (IETF). It consists of a set of standards for network management, including an application layer protocol, a database schema, and a set of data objects.
+>*Simple Network Management Protocol (SNMP) is used in network management systems to monitor network-attached devices for conditions that warrant administrative attention. SNMP is a component of the Internet Protocol Suite as defined by the Internet Engineering Task Force (IETF). It consists of a set of standards for network management, including an application layer protocol, a database schema, and a set of data objects.*
 
 The main design principle for SNMP was that it must interoperate between different platforms seemlessly. In other words, whichever operating system or hardware platform you are using, you must be able to access the information exposed via SNMP easily and reliably.
 
