@@ -6,7 +6,7 @@ comments: false
 pager: false
 ---
 
-{{< figure src="/images/logo.png#floatright" alt="Tech Teapot Logo" >}}
+{{< figure src="/images/techteapot-logo.png#floatright" alt="Tech Teapot Logo" >}}
 
 The Tech Teapot is a blog, written by Jack Hughes, focused on systems management and programming with a Microsoft Windows flavour as well as the trials and tribulations of running a small IT company.
 
