@@ -1,8 +1,8 @@
 ---
-title: "High Density Data Center Monitoring Verification and Auditing"
+title: "Server Room Installation Verification Testing"
 description: "High density verification testing can be required when equipment is newly installed or moved from some other location in the server room."
 date: 2022-02-18
-thumbnail: "img/placeholder.png"
+thumbnail: "/images/accessories_tn.png"
 draft: true
 ---
 
@@ -22,8 +22,7 @@ Measure the temperature and humidity in the centre of the equipment 50mm in fron
 
 If you have a rack of 20 devices in a single vertical stack measure at the top centre, the middle centre and the bottom centre.
 
-<<Full rack mount points image>>
-caption: Figure 1: Full Rack Monitor Points
+{{< figure src="images/Rack_with_9_servers.drawio_shade.png#center" alt="Monitor Points in Full Rack" caption="Figure 1: Full Rack Monitor Points" >}}
 
 ## Test Results
 

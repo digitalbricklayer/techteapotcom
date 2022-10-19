@@ -1,13 +1,16 @@
 ---
 title: "Server Room Facility Health & Auditing Testing"
+description: "Facility health and audit testing should be used to proactively assess the health of your server room to avoid temperature and humidity related equipment failures."
 date: "2022-03-17"
 thumbnail: "/images/tdr_tn.png"
 draft: true
 ---
 
-Whilst you are not mandated to run Server Room Facility Health & Audit tests on a continuous basis, you should consider this kind of testing on a regular basis. When you undertake this testing, ensure that the test is repeatable. Repeatable tests and therefore test data sets give you the ability to spot trends over the course of multiple test runs.
+Facility health and audit tests should be used to assess the health of your server room to help detect conditions that may lead to temperature and humidity related equipment failures.
 
 <!--more-->
+
+Whilst you are not mandated to run Server Room Facility Health &amp; Audit tests on a continuous basis, you should consider this kind of testing on a regular basis. When you undertake this testing, ensure that the test is repeatable. Repeatable tests and therefore test data sets give you the ability to spot trends over the course of multiple test runs.
 
 The ASHRAE publication [Thermal Guidelines for Data Processing Environments](https://www.ashrae.org/technical-resources/bookstore/datacom-series#thermalguidelines) contains specific advice and recommendations for data equipment environmental monitoring. If you want more in-depth information about equipment installation verification testing, I strongly recommend you buy the publication.
 
