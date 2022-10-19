@@ -10,7 +10,7 @@ Equipment troubleshooting tests are used to determine if the failure of equipmen
 
 <!--more-->
 
-The objective of equipment troubleshooting testing is to determine if the temperature and relative humidity of the air going into the equipment inlets is within the allowable range. Please see [Recommended Server Room Temperature]({{<< ref "/articles/recommended-server-room-temperature/index.md" >>}}) for more details about the allowable ranges.
+The objective of equipment troubleshooting testing is to determine if the temperature and relative humidity of the air going into the equipment inlets is within the allowable range. Please see [Recommended Server Room Temperature]({{< ref "/articles/recommended-server-room-temperature/index.md" >}}) for more details about the allowable ranges.
 
 ## Monitor Points
 
