@@ -1,5 +1,5 @@
 ---
-title: "Guide to Snmp"
+title: "Guide to SNMP"
 date: 2022-10-18T15:22:36+01:00
 thumbnail: "/images/snmp-logo.png"
 categories:
