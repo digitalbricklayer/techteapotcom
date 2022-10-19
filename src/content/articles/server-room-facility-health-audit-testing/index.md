@@ -1,9 +1,15 @@
 ---
+title: "Server Room Facility Health & Auditing Testing"
+date: "2022-03-17"
+thumbnail: "/images/tdr_tn.png"
+draft: true
 ---
 
 Whilst you are not mandated to run Server Room Facility Health & Audit tests on a continuous basis, you should consider this kind of testing on a regular basis. When you undertake this testing, ensure that the test is repeatable. Repeatable tests and therefore test data sets give you the ability to spot trends over the course of multiple test runs.
 
-The ASHRAE publication Thermal Guidelines for Data Processing Environments contains specific advice and recommendations for data equipment environmental monitoring. If you want more in-depth information about equipment installation verification testing, I strongly recommend you buy the publication.
+<!--more-->
+
+The ASHRAE publication [Thermal Guidelines for Data Processing Environments](https://www.ashrae.org/technical-resources/bookstore/datacom-series#thermalguidelines) contains specific advice and recommendations for data equipment environmental monitoring. If you want more in-depth information about equipment installation verification testing, I strongly recommend you buy the publication.
 
 ## Aisle Measurement Locations
 
@@ -15,7 +21,7 @@ Use the following guidelines to establish locations for measuring aisle ambient 
 - locate measurement locations midway along the aisle, centred between equipment rows
 - only locate measurement locations in the cold aisle of a server room with a hot aisle / cold aisle configuration
 
-<<measurement points image here>>
+{{< figure src="images/measurement-points-in-aisle.png#center" alt="Measurement points in a server room aisle" caption="Figure 1: Measurement locations in aisle" >}}
 
 Measurement locations should be representative of the ambient temperature and humidity of that aisle. Telcordia GR-63-CORE (2021) suggests measuring aisle temperature 1.5m above floor level. Lacking a more elaborate measurement system, this is considered the minimum measurement.
 
@@ -32,7 +38,7 @@ Measure and record the following status points at all HVAC AC units as applicabl
 
 Automatic logging of HVAC equipment parameters can provide valuable insight into operational trends and will make data collection less error prone. The objective of the measurements is to confirm your HVAC AC units are working correctly.
 
-<<location to measure air flow image here>>
+{{< figure src="images/Air_Speed_Probe.gif#center" alt="Location to measure air speed inflow on air conditioner" caption="Figure 2: Location to measure air flow on air conditioner" >}}
 
 ## Evaluation
 
@@ -44,13 +50,11 @@ The temperature and/or humidity of any aisle with equipment inlets that is found
 
 Temperature and humidity levels at the HVAC unit should be consistent with design values. Return air temperatures significantly below room ambient temperatures could indicate short circuiting of supply air. Short circuiting is a pathway that allows cold supply air to bypass equipment and return directly to the HVAC unit. Short circuiting can be very expensive as you are paying to cool air that is not being used to cool your equipment. The cause of any short-circuiting should be investigated and evaluated for corrective action.
 
-<<air short circuiting air con image here>>
+{{< figure src="images/Short_Circulating_Air.gif#center" alt="Short circuiting air on air conditioner" caption="Figure 3: Air short circuiting from air outlet to inlet" >}}
 
 ## Summary
 
 Facility health and audit testing should be carried out on a regular basis to ensure that the inlet temperature for your equipment is within the recommended range for that equpment environment class. You should mark your measurement locations so that you are able to reliably repeat the testing. The sensor data should be recorded, stored and analysed so that future trends can be spotted and corrected as necessary.
-
-If you need any help with choosing an environment monitor to help you achieve Server Room Facility Health & Audit Testing, please get in touch.
 
 ## References
 
