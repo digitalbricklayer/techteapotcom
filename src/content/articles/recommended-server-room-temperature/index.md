@@ -2,6 +2,7 @@
 title: "Recommended Server Room Temperature"
 description: "An exploration of the recommended temperature for server rooms. Figuring out the right temperature for your server room can be complicated, you don't want to run your server room too hot and suffer increased server failure, but you don't want to run it too cold and potentially over cool your servers."
 date: 2022-02-15
+thumbnail: "/images/thermometer.jpg"
 toc: true
 draft: true
 ---
