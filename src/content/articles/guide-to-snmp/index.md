@@ -6,6 +6,7 @@ categories:
   - Network Management
 tags:
   - snmp
+aliases: [/posts/guide-to-snmp/]
 ---
 
 An explanation of what SNMP is and how it can fit into your broader environmental monitoring efforts.
