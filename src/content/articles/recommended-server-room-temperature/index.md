@@ -2,7 +2,6 @@
 title: "Recommended Server Room Temperature"
 description: "An exploration of the recommended temperature for server rooms. Figuring out the right temperature for your server room can be complicated, you don't want to run your server room too hot and suffer increased server failure, but you don't want to run it too cold and potentially over cool your servers."
 date: 2022-02-15
-thumbnail: "/images/thermometer.jpg"
 toc: true
 draft: true
 ---
@@ -10,6 +9,8 @@ draft: true
 An exploration of the recommended server room temperature. Figuring out the right temperature for your server room can be tricky, you don't want to run your server room too hot and suffer increased component failure, but you don't want to run it too cold and potentially waste money.
 
 <!--more-->
+
+{{< figure src="images/thermometer.jpg#floatright" alt="Thermometer against a blue sky" >}}
 
 Just what is the right temperature for your server room? Over the last twenty years, there has been a recognition that the IT industry must play its part in increasing server room [Power Usage Effectiveness](https://en.wikipedia.org/wiki/Power_usage_effectiveness) or PUE as defined by [ISO/IEC 30134-2:2016](https://www.iso.org/standard/63451.html) and [EN 50600-4-2:2016](https://www.en-standard.eu/csn-en-50600-4-2-information-technology-data-centre-facilities-and-infrastructures-part-4-2-power-usage-effectiveness/) standards. One of the ways the IT industry can increase PUE is by reducing the power consumption caused by regulating the environment in server rooms.
 
