@@ -3,7 +3,6 @@ title: "Server Room Equipment Troubleshooting Testing"
 date: 2022-02-16
 description: "Equipment troubleshooting tests are used to determine if the failure of equipment is potentially caused by the environmental conditions in which the equipment is operating."
 thumbnail: "/images/active_tn.png"
-draft: true
 ---
 
 Equipment troubleshooting tests are used to determine if the failure of equipment is potentially caused by the environmental conditions in which the equipment is operating.

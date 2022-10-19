@@ -3,7 +3,6 @@ title: "Server Room Installation Verification Testing"
 description: "High density verification testing can be required when equipment is newly installed or moved from some other location in the server room."
 date: 2022-02-18
 thumbnail: "/images/accessories_tn.png"
-draft: true
 ---
 
 High density verification testing can be required when equipment is newly installed or moved from some other location in the server room. The objective of these tests is to ensure that the temperature and relative humidity flowing into the servers is within the acceptable range.

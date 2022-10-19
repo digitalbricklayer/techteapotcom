@@ -3,7 +3,6 @@ title: "How to Monitor the Operational Status of a Computer Room Air Conditioner
 description: "A breakdown of the status factors to measure and record for each Computer Room Air Conditioner (CRAC) unit in your computer room, data centre or server room."
 date: 2022-02-15
 thumbnail: "/images/server-rack_tn.png"
-draft: true
 ---
 
 A breakdown of the status factors to measure and record for each Computer Room Air Conditioner (CRAC) unit in your computer room, data centre or server room. The paper also gives a justification for why you should record each status factor and what you should do with the information once you've recorded it.
