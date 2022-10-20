@@ -20,9 +20,9 @@ I co-founded OPENXTRA Limited all the way back in February 2003. The original id
 
 Back in the late 1990s and early 2000s, open source tools were very painful to install and configure. Microsoft Windows was also not a huge priority for many open source projects. That is the world that the original idea for OPENXTRA Limited was born in late 2002.
 
-The tools were wildly popular far exceeding my expectations. The paid support was really *not* popular. In fact, over a period of at least six months we managed to sell a single support contract for the princely sum of around $49.00. Not the kind of money that is going to keep four people in rent.
+The tools were wildly popular far exceeding my expectations. The paid support was really *not* popular. In fact, over a period of at least six months we managed to sell just a single support contract for the princely sum of around $49.00. Not the kind of money that is going to keep four people in rent.
 
-The upside of this failure is that at least we knew pretty quickly that it wasn't working and that we needed to find something else. The venture capitalists tell you to fail fast and we *definitely* did that.
+The upside is that at least we knew pretty quickly that it wasn't working and that we needed to find something else. The venture capitalists tell you to fail fast and we *definitely* did that.
 
 Our one lucky break, in spite of all the effort we put into trying to get it, was that we didn't have any external investors like angel investors or venture capital. That would not have been fun. We had a small *friends and family* round and they lost all of their investment. Those conversations were not the easiest to have and I have no plans to *ever* have them again.
 
@@ -47,6 +47,10 @@ The second product we put up on the website was very different. It was an ethern
 This was the first time I thought OPENXTRA might have a long term future. That I might *finally* get paid! :smile:
 
 Around 2006 or 2007 we did do some things I think were genuinely innovative. We paid a large four figure sum for a Java based e-commerce platform. We built what I think for a time in the late 2000s was a leading e-commerce website in our tiny niche.
+
+{{< figure src="images/e4-product-page2.JPG#center" caption="Figure 1: A product page from circa 2006." alt="A product page from circa 2006" >}}
+
+{{< figure src="images/confignbuy.png#center" caption="Figure 2: Config &amp; Buy circa 2006." alt="Config and buy from circa 2006" >}}
 
 ## The Great Recession Hits
 
