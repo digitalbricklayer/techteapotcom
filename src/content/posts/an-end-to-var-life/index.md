@@ -12,7 +12,7 @@ My reflections on nearly 20 years with OPENXTRA Limited a Value Added Reseller I
 
 ## An End
 
-OPENXTRA Limited closed their doors for the last time on X. OPENXTRA was a Value Added Reseller in the server room environment monitoring market principally with a sideline as a supplier of ethernet enable power switches.
+OPENXTRA Limited closed their doors for the last time on X. OPENXTRA was a Value Added Reseller in the server room environment monitoring market principally with a sideline as a supplier of ethernet enabled power switches.
 
 ## The Beginning
 
@@ -46,19 +46,21 @@ The second product we put up on the website was very different. It was an ethern
 
 This was the first time I thought OPENXTRA might have a long term future. That I might *finally* get paid! :smile:
 
-Around 2006 or 2007 we did do some things I think were genuinely innovative. We paid a large four figure sum for a Java based e-commerce platform. We built what I think for a time in the late 2000s was a leading e-commerce website in our tiny niche.
+Around 2006 or 2007 we did do some things I think were genuinely innovative. We paid a large four figure sum for a Java based e-commerce platform. We built what I think for a time in the late 2000s early 2010s was the leading e-commerce website in our tiny niche.
 
 {{< figure src="images/e4-product-page2.JPG#center" caption="Figure 1: A product page from circa 2006." alt="A product page from circa 2006" >}}
 
 {{< figure src="images/confignbuy.png#center" caption="Figure 2: Config &amp; Buy circa 2006." alt="Config and buy from circa 2006" >}}
 
+Many thanks to Dean for sterling work on the various websites.
+
 ## The Great Recession Hits
 
 For a long time things went on as before.
 
-The thing that hit us hardest were supplier issues. Suppliers get bought out by larger companies. It is a fact of VAR life. What surprised me was the number of suppliers being bought out and the fact that a number simply dumped the existing suppliers.
+The thing that hit us hardest were supplier issues. Suppliers get bought out by larger companies. It is a fact of VAR life. What surprised me was the number of suppliers being bought out and the fact that a number simply dumped the existing supply network.
 
-We put a lot of effort into building a customer base for some of these companies and it is heart breaking to see all of that effort wasted. Worse, the customers we had to let go, often held us responsible when we had no control over the situation at all.
+We put a lot of effort into building a customer base for some of these companies and it is heart breaking to see all of that effort going down the drain. Worse, the customers we had to let go, often held us responsible when we had no control over the situation at all.
 
 ## Google Gave and Google Hath Taken Away
 
