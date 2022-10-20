@@ -3,6 +3,8 @@ title: "Server Room Facility Health & Auditing Testing"
 description: "Facility health and audit testing should be used to proactively assess the health of your server room to avoid temperature and humidity related equipment failures."
 date: "2022-03-17"
 thumbnail: "/images/tdr_tn.png"
+tags:
+  - Data Center
 ---
 
 Facility health and audit tests should be used to assess the health of your server room to help detect conditions that may lead to temperature and humidity related equipment failures.

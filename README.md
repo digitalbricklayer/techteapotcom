@@ -1,6 +1,14 @@
-# The Tech Teapot Source Code
+# The Tech Teapot Source Code Repository
 
 This is the repository for the source code for The Tech Teapot blog. The website sources are in the `src` directory. The site is deployed [here](https://techteapot.com/).
+
+## New Content
+
+To add a new article type: `hugo new --kind article-bundle articles/my-article`
+
+To add a new post type: `hugo new --kind post-bundle posts/my-post`.
+
+## Thanks
 
 The site uses the [mainroad theme](https://themes.gohugo.io/mainroad/).
 

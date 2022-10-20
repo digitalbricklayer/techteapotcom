@@ -4,6 +4,8 @@ description: "An exploration of the recommended temperature for server rooms. Fi
 date: 2022-02-15
 thumbnail: "/images/thermometer.jpg"
 toc: true
+tags:
+  - Data Center
 ---
 
 An exploration of the recommended server room temperature. Figuring out the right temperature for your server room can be tricky, you don't want to run your server room too hot and suffer increased component failure, but you don't want to run it too cold and potentially waste money.
