@@ -62,9 +62,9 @@ We put a lot of effort into building a customer base for some of these companies
 
 ## Google Gave and Google Hath Taken Away
 
-In 2012 we were hit pretty bad by one of Google's periodic updates. Google makes changes to their ranking algorithm and some websites go up and some go down. It was our turn to go down. We were not dropped down by much but the difference between ranking in first place for a search and ranking in third place is the difference between night and day.
+In 2012 we were hit pretty hard by one of Google's periodic updates. Google makes changes to their ranking algorithm and some websites go up and some go down. It was our turn to go down. We were not dropped down by much but the difference between ranking in first place for a search and ranking in third place is the difference between night and day.
 
-Things are a bit different these days, the difference isn't so marked because all organic listings are so far down the page. The result in \#1 position in 2022 is in the same place as \#3 or lower from the 2008 search results. (As an aside, see for a comparison of one [Google search result between 2001, 2008 and 2022]({{< ref "/posts/open-source-network-management-in-google-2001-vs-google-2008/index.md" >}}).)
+Things are a bit different these days, the difference isn't so marked because all organic listings are so far down the page underneath all of the very large paid adverts. The result in \#1 position in 2022 is in the same place as \#3 or lower from the 2008 search results. (As an aside, see for a comparison of one [Google search result between 2001, 2008 and 2022]({{< ref "/posts/open-source-network-management-in-google-2001-vs-google-2008/index.md" >}}).)
 
 ## COVID-19
 
