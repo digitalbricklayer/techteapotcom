@@ -64,9 +64,9 @@ Once we were settled into selling environment monitors we looked around for othe
 
 Cable testers looked like a good bet and indeed we did sell a lot of them. There are two things you need to worry about as a reseller: the manufacturer and the product.
 
-From the manufacturer, you need a big enough margin to make your marketing efforts pay. Selling products costs money. Quite a lot of money in fact. We found the cable tester market to be quite frustrating because the manufacturers were quite hard work. Things were locked down in a way no other niche we participated in.
+From the manufacturer, you need a big enough margin to make your marketing efforts pay. Selling products costs money. Quite a lot of money in fact. We found the cable tester market to be quite frustrating because the manufacturers were quite hard work. Things were locked down in a way no other niche we participated in was.
 
-The products have got to work. Or, you are going to have a ton of hassle. One particular cable tester we sold a bucket load of was a nightmare. Whole batches of these products simply did not work and we had the job of sorting it all out for the customer. And largely at our expense.
+The products have got to work or you are going to have a ton of hassle. One particular cable tester we sold a bucket load of was a nightmare. Whole batches of these products simply did not work and we had the job of sorting it all out for the customer. And largely at our expense.
 
 We got out of the cable tester market after around five or six years. It was quite a wrench but the *right* decision given the circumstances.
 
