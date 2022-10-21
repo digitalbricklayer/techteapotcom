@@ -84,7 +84,7 @@ Around about 2010, we noticed a gap in the products we were selling. There was r
 
 {{< figure src="images/EnvironmentAd.gif#floatright" alt="Xsensior online advert" >}}
 
-Xsensior was born to fit into that brief. Xsensior was a cheap USB thermometer combined with a Microsoft Windows based GUI to log and display the data as well as alert when things go wrong. In addition, we added a cloud version of the software called Xsensior Live.
+Xsensior was born to fit into that brief. Xsensior was a cheap USB thermometer combined with a Microsoft Windows based GUI to log and display the data as well as alert when things go wrong. In addition, we added a cloud version of the software called Xsensior Live. Read the [Things I Wished I'd Known Before Developing Xsensior Live]({{< ref "/posts/things-i-wished-id-known-before-developing-xsensior-live/index.md" >}}) post for more details about my learnings from developing Xsensior Live as well as a description of the system architecture.
 
 Producing the software was one of the highlights of my time at OPENXTRA. It was an exciting time when everything seemed possible. As ever, reality has a habit of getting in the way. The big problem we had was that no one had any electronic engineering skills. We could do the software side but we just didn't have the hardware ability to design our own gadgets. This became quite a big limiting factor on Xsensior and effectively killed it when we were unable to source the USB thermometers any more.
 
