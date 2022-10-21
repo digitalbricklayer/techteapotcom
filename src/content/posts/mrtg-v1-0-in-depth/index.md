@@ -1,7 +1,7 @@
 ---
 title: "An in-depth examination of MRTG v1.0"
 date: "2022-10-10"
-summary: "An in-depth examination of MRTG v1.0 and how it took advantage of the emerging public internet to conquer the world."
+summary: "An in-depth examination of MRTG v1.0 and how and why it came into being and how it took advantage of the emerging public internet to conquer the world."
 thumbnail: "images/mrtg_logo.gif"
 categories:
   - Open Source
