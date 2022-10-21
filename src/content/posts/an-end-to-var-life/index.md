@@ -64,17 +64,17 @@ Once we were settled into selling environment monitors we looked around for othe
 
 Cable testers looked like a good bet and indeed we did sell a lot of them. There are two things you need to worry about as a reseller: the manufacturer and the product.
 
-From the manufacturer, you need a big enough margin to make your marketing efforts pay. Selling products costs money. Quite a lot of money in fact. We found the cable tester market to be quite frustrating because the manufacturers were quite hard work. Things were locked down in a way that no other niche we participated in.
+From the manufacturer, you need a big enough margin to make your marketing efforts pay. Selling products costs money. Quite a lot of money in fact. We found the cable tester market to be quite frustrating because the manufacturers were quite hard work. Things were locked down in a way no other niche we participated in.
 
 The products have got to work. Or, you are going to have a ton of hassle. One particular cable tester we sold a bucket load of was a nightmare. Whole batches of these products simply did not work and we had the job of sorting it all out for the customer. And largely at our expense.
 
-We got out of the cable tester market after around five or six years. It was quite a wrench but the right decision given the circumstances.
+We got out of the cable tester market after around five or six years. It was quite a wrench but the *right* decision given the circumstances.
 
 ## The Great Recession Hits
 
 For a long time things went on as before. Much to my surprise. Slowly, due to a long period of government austerity, whole sectors of the economy just disappeared. We'd done pretty well with local government and higher education and it was as if somebody just switched off the tap one day.
 
-The thing that hit us hardest were supplier issues. Suppliers get bought out by larger companies. It is a fact of VAR life. What surprised me was the number of suppliers being bought out and the fact that a number simply dumped the existing supply network.
+The thing that hit us hardest were supplier issues. Suppliers get bought out by larger companies. It is a fact of VAR life. What surprised me was the number of suppliers being bought out and the fact that a number simply dumped the existing supplier network.
 
 We put a lot of effort into building a customer base for some of these companies and it is heart breaking to see all of that effort going down the drain. Worse, the customers we had to inform about the broken relationship, often held us responsible. Consequently, the effect could well poison the entire relationship.
 
