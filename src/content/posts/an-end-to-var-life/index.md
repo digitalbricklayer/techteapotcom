@@ -48,7 +48,11 @@ This was the first time I thought OPENXTRA might have a long term future and tha
 
 Around 2006 or 2007 we did do some things I think were genuinely innovative. We paid a high four figure sum for a Java based e-commerce platform. We built what I think for a time in the late 2000s early 2010s was the leading e-commerce website in our tiny niche.
 
-{{< figure src="images/e4-product-page2.jpg#center" caption="Figure 1: A product page from circa 2006." alt="A product page from circa 2006" >}}
+{{< figure src="images/e4-product-page2.png#center" caption="Figure 1: A product page from circa 2006." alt="A product page from circa 2006" >}}
+
+A big thing with buying products with many optional parts is that it can give buyers a lot of anxiety when purchasing especially online. When you clicked on the *Config &amp; Buy* button, instead of just putting things into the shopping cart you entered the *Config &amp; Buy* page. All of the available options for buying the product were displayed. You couldn't buy the wrong thing because *Config &amp; Buy* wouldn't let you.
+
+When we introduced the *Config &amp; Buy* feature, calls from customers anxious about buying the wrong combination of products went down dramatically. The conversion rate of the website went up through the roof.
 
 {{< figure src="images/confignbuy.png#center" caption="Figure 2: Config &amp; Buy circa 2006." alt="Config and buy from circa 2006" >}}
 
