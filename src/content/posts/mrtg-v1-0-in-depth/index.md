@@ -13,13 +13,13 @@ series:
 draft: true
 ---
 
-MRTG is an open source network management tool originally developed by Tobias Oetiker in the spring of 1995 whilst he was working as a system administrator at De Montfort University, Leicester, UK.
+[MRTG](https://oss.oetiker.ch/mrtg/) is an open source network management tool originally developed by Tobias Oetiker in the spring of 1995 whilst he was working as a system administrator at [De Montfort University](https://www.dmu.ac.uk/), Leicester, UK.
 
-Tobias Oetiker was originally motivated to write MRTG in order to provide insight into the usage of the university internet link. Back at the dawn of the public internet, links to the internet were extremely slow. If you had students or faculty complaining about internet speed, it would be helpful to know whether the slowdown was caused by a saturated link or some other problem.
+Tobias Oetiker was originally motivated to write MRTG in order to provide insight into the usage of the university's new internet link. Back at the dawn of the public internet, links to the internet were extremely slow. If you had students or faculty complaining about internet speed, it was helpful to know whether the slowdown was caused by a saturated link or some other problem.
 
 ## First Public Announcement
 
-The [original announcement of the MRTG project](https://groups.google.com/g/comp.lang.perl/c/FaAWCOBdgKo/m/g7IAn-LRGicJ) took place on 28th April 1995 when Tobias Oetiker posted the following message to the *comp.lang.perl* news group.
+The [original announcement of the MRTG project](https://groups.google.com/g/comp.lang.perl/c/FaAWCOBdgKo/m/g7IAn-LRGicJ) took place on 28th April 1995 when Tobias Oetiker posted the following message to the [comp.lang.perl](https://groups.google.com/g/comp.lang.perl) news group.
 
 Here is the text of the announcement in full:
 
@@ -61,11 +61,9 @@ MRTG was released into an internet that was before Google, Facebook and even Ama
 
 ## MRTG architecture
 
-MRTG version 1.0 could not be much simpler. The software consists of a single executable program written in Perl, a sample configuration file, rudimentary documentation (see figure 1) in the form of a web page and some images to be used in the outputted html pages.
+MRTG version 1.0 could not be much simpler. The software consists of a single executable called `mrtg` written in Perl, a sample configuration file and rudimentary documentation (see figure 1) in the form of a web page and some images to be used in the outputted html pages.
 
 In order to install MRTG you first need to copy the sample configuration file and modify it to point to a local router supporting SNMP. You then need to schedule a cron job to run every 5 minutes to run the MRTG executable with the configuration file as the first parameter. The `mrtg` executable will run and query your local router via SNMP for the in/out octets and slowly build a series of graphs embedded onto a single web page. If you have multiple routers, create a configuration file for each one and a new cron job. Your output will be a series of web pages with the in/out octets displayed in a series of graphs as well as a file with the raw time series data.
-
-Version 1 file format:
 
 {{< figure src="images/mrtg-help-v1-0.png"
            alt="MRTG v1.0 documentation"
