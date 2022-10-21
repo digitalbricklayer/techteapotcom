@@ -58,6 +58,18 @@ When we introduced the *Config &amp; Buy* feature, calls from customers anxious 
 
 Many thanks to *Dean* for his sterling work on the various websites.
 
+## Cable Testers
+
+Once we were settled into selling environment monitors we looked around for other things we could sell to a similar audience.
+
+Cable testers looked like a good bet and indeed we did sell a lot of them. There are two things you need to worry about as a reseller: the manufacturer and the product.
+
+From the manufacturer, you need a big enough margin to make your marketing efforts pay. Selling products costs money. Quite a lot of money in fact. We found the cable tester market to be quite frustrating because the manufacturers were quite hard work. Things were locked down in a way that no other niche we participated in.
+
+The products have got to work. Or, you are going to have a ton of hassle. One particular cable tester we sold a bucket load of was a nightmare. Whole batches of these products simply did not work and we had the job of sorting it all out for the customer. And largely at our expense.
+
+We got out of the cable tester market after around five or six years. It was quite a wrench but the right decision given the circumstances.
+
 ## The Great Recession Hits
 
 For a long time things went on as before. Much to my surprise. Slowly, due to a long period of government austerity, whole sectors of the economy just disappeared. We'd done pretty well with local government and higher education and it was as if somebody just switched off the tap one day.
@@ -74,7 +86,7 @@ Around about 2010, we noticed a gap in the products we were selling. There was r
 
 Xsensior was born to fit into that brief. Xsensior was a cheap USB thermometer combined with a Microsoft Windows based GUI to log and display the data as well as alert when things go wrong. In addition, we added a cloud version of the software called Xsensior Live.
 
-Producing the software was one of the highlights of my time at OPENXTRA. It was an exciting time when everything seemed possible. As ever, reality has a habit of getting in the way. The big problem we had was that non one had any electronic engineering skills. We could do the software side but we just didn't have the hardware ability to design our own gadgets. This became quite a big limiting factor on Xsensior and effectively killed it when we were unable to source the USB thermometers any more.
+Producing the software was one of the highlights of my time at OPENXTRA. It was an exciting time when everything seemed possible. As ever, reality has a habit of getting in the way. The big problem we had was that no one had any electronic engineering skills. We could do the software side but we just didn't have the hardware ability to design our own gadgets. This became quite a big limiting factor on Xsensior and effectively killed it when we were unable to source the USB thermometers any more.
 
 It was a missed opportunity because customers absolutely loved the product.
 
@@ -94,7 +106,7 @@ You will not be surprised that COVID had some pretty large effects upon the busi
 
 Thankfully, being able to remote control the power to various devices located in the office whilst everybody is working from home became a much *bigger* concern. The only problem was that we had an early foretaste of the pernicious COVID supply problems. Because literally everybody in the world had exactly the same requirement and the manufacturers could not keep up with demand.
 
-If it hadn't been for remote power switch sales in 2020, this post would have been written much sooner. :wink:
+If it hadn't been for remote power switch sales in 2020, this post would have been written much *sooner*. :wink:
 
 ## The End
 
@@ -102,7 +114,7 @@ OPENXTRA has always been run quite conservatively. We don't have flash cars and 
 
 There comes a time when you run out of road. The good trading conditions likely to appear after the Ukraine crisis is over are just too far away for us.
 
-It has certainly been a roller coaster ride. I have certainly made my fair share of mistakes over the last twenty years. But I don't regret *any* of it.
+It has certainly been a roller coaster ride. I have made my fair share of mistakes over the last twenty years. But I don't regret *any* of it.
 
 ## A New Beginning
 
