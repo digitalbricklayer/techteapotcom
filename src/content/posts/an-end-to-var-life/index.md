@@ -118,6 +118,6 @@ It has certainly been a roller coaster ride. I have made my fair share of mistak
 
 ## A New Beginning
 
-As for me personally, I am busy up-training in DevOps. Cisco in cooperation with the Open University offer digital skills training. I am currently studying the Cisco DevNet Associate course. I already have quite a couple of decades Linux experience and a few years of using Ansible to deploy the website. Or, I might go back to programming full time.
+As for me personally, I am busy up-training in DevOps. Cisco in co-operation with the Open University offer remote digital skills training courses. The Department for Education in England have funded a number of places and luckily I managed to be selected. I am currently studying the Cisco DevNet Associate course. I already have a couple of decades Linux experience and a few years of using Ansible to deploy the website. Or, I might go back to programming full time.
 
 I do seem to specialise in job hunting during a recession. When I first exited university it was during the early 1990s recession and here I am trying to do the same during the 2022 version.
