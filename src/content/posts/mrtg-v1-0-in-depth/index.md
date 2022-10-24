@@ -1,6 +1,6 @@
 ---
 title: "An in-depth examination of MRTG v1.0"
-date: "2022-10-10"
+date: "2022-10-24"
 summary: "An in-depth examination of MRTG v1.0 and how and why it came into being and how it took advantage of the emerging public internet to conquer the world."
 thumbnail: "images/mrtg_logo.gif"
 categories:
@@ -51,13 +51,13 @@ for several routers.
 >Enjoy!
 >tobi
 
-MRTG appeared just at the time that it was possible for it to exist. Perl had to exist, cmu-snmp had to exist and netpbm had to exist too. Without these things existing and the wherewithall to distribute them freely, MRTG would either not have existed at all or would have been a small local utility used exclusively inside De Montfort University.
+MRTG appeared just at the time that it was possible for it to exist. Perl had to exist, cmu-snmp had to exist and netpbm had to exist too. Without these things existing and the wherewithal to distribute them freely, MRTG would either not have existed at all or would have been a small local utility used exclusively inside De Montfort University.
 
 The story of a particular location can be described in the various trenches of an archaeological dig. In a similar way, the story of an open source project is set out in how the source code has evolved over the project's lifetime. It may also be possible to discern broader technical changes through the evolution of the project.
 
 ## Network management landscape
 
-MRTG was released into an internet that was before Google, Facebook and even Amazon. The web did exist but there were very few websites kicking around.
+MRTG was released into an internet that was before Google, Facebook and even Amazon. The web did exist but there were very few websites.
 
 ## MRTG architecture
 
