@@ -84,7 +84,7 @@ Around about 2010, we noticed a gap in the products we were selling. There was r
 
 {{< figure src="images/EnvironmentAd.gif#floatright" alt="Xsensior online advert" >}}
 
-Xsensior was born to fit into that brief. Xsensior was a cheap USB thermometer combined with a Microsoft Windows based GUI to log and display the data as well as alert when things go wrong. In addition, we added a cloud version of the software called Xsensior Live. Read the [Things I Wished I'd Known Before Developing Xsensior Live]({{< ref "/posts/things-i-wished-id-known-before-developing-xsensior-live/index.md" >}}) post for more details about my learnings from developing Xsensior Live as well as a description of the system architecture.
+Xsensior Lite was born to fit into that brief. Xsensior Lite was a cheap USB thermometer combined with a Microsoft Windows based GUI to log and display the data as well as alert when things go wrong. In addition, we added a cloud version of the software called Xsensior Live. Read the [Things I Wished I'd Known Before Developing Xsensior Live]({{< ref "/posts/things-i-wished-id-known-before-developing-xsensior-live/index.md" >}}) post for more details about my learnings from developing Xsensior Live as well as a description of the system architecture.
 
 Producing the software was one of the highlights of my time at OPENXTRA. It was an exciting time when everything seemed possible. As ever, reality has a habit of getting in the way. The big problem we had was that no one had any electronic engineering skills. We could do the software side but we just didn't have the hardware ability to design our own gadgets. This became quite a big limiting factor on Xsensior and effectively killed it when we were unable to source the USB thermometers any more.
 
@@ -112,12 +112,12 @@ If it hadn't been for remote power switch sales in 2020, this post would have be
 
 OPENXTRA has always been run quite conservatively. We don't have flash cars and our offices could politely be described as utilitarian. We've always kept things as lean as possible. We have kept a sizeable five figure sum in the bank for rainy days. This got us through the tough times of the *Great Recession*, the Google ranking drop and COVID-19. But we were lucky that each of the previous crises were well spaced out. We were able to slowly top up the rainy day fund between crises. Unfortunately, the most recent Ukraine crisis has come hot on the heals of COVID-19. We just didn't have the opportunity to build our rainy day fund back up after COVID.
 
-There comes a time when you run out of road. The good trading conditions likely to appear after the Ukraine crisis is over are just too far away for us.
+There comes a time when you run out of road. The good trading conditions likely to appear after the Ukraine crisis are just too far away for us.
 
 It has certainly been a roller coaster ride. I have made my fair share of mistakes over the last twenty years. But I don't regret *any* of it.
 
 ## A New Beginning
 
-As for me personally, I am busy up-training in DevOps. Cisco in co-operation with the Open University offer remote digital skills training courses. The Department for Education in England have funded a number of places and luckily I managed to be selected. I am currently studying the Cisco DevNet Associate course. I already have a couple of decades Linux experience and a few years of using Ansible to deploy the website. Or, I might go back to programming full time.
+As for me personally, I am busy up-training in [DevOps](https://en.wikipedia.org/wiki/DevOps). Cisco in co-operation with the Open University offer remote digital skills training courses. The Department for Education in England have funded a number of places and luckily I managed to be selected. I am currently studying the [Cisco DevNet Associate](https://developer.cisco.com/certification/devnet-associate/) course. I already have a couple of decades Linux experience and a few years of using Ansible to deploy websites. Or, I might go back to programming full time.
 
 I do seem to specialise in job hunting during a recession. When I first exited university it was during the early 1990s recession and here I am trying to do the same during the 2022 version.
