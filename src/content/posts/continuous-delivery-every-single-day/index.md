@@ -11,7 +11,7 @@ It has taken 20 years as a professional programmer to get to this point, but I h
 
 We've been practicing continuous integration for well over a year now. It seemed a logical step to deploy the software automatically. When a process is done manually you tend to make a lot of mistakes. I did anyway. I'd run the database upgrade script before the new one had been installed and of course I would take a long time performing the upgrade. The machine is able to do the upgrade in a matter of a few seconds, I used to take several heart thumping minutes to do the same job.
 
-{{< figure src="xsensior-2.3-teamcity.png" alt="Xsensior 2.3 in TeamCity" title="Xsensior 2.3 build status in TeamCity" >}}
+{{< figure src="xsensior-2.3-teamcity.png#center" alt="Xsensior 2.3 in TeamCity" title="Xsensior 2.3 build status in TeamCity" >}}
 
 Continuous integration involves building and running tests on each change. Each time we change the software, TeamCity pulls the software from the repo and builds it, then runs the unit tests. If either the build fails or any of the tests fail, then TeamCity lets the culprit know via email so they can fix it.
 
@@ -25,7 +25,7 @@ Until fairly recently, automated deployment was quite a painful business in the 
 
 Octopus Deploy provides a nice web based console to help you visualize and manage the release process. We maintain a release pipeline of dev, stage and production but the specific workflow is quite flexible. The TeamCity nightly build process pushes the newly built software into the dev server. The developers are then able to test the software on dev and when we believe a feature is working we push it to the stage server. That's when the wider company can get involved in testing the feature. When satisfied that the feature is working on stage, we then push the release into production.
 
-{{< figure src="octopus-deploy-radiator.png" alt="octopus deploy radiator" title="Octopus Deploy radiator" >}}
+{{< figure src="octopus-deploy-radiator.png#center" alt="octopus deploy radiator" title="Octopus Deploy radiator" >}}
 
 Apart from the initial TeamCity push to dev, the process is administered manually. You tell Octopus to push the software to stage and then production. But, the actual deployment process is automatic. And crucially, the software deployed further down the pipeline is exactly the same software you were testing earlier in the process.
 

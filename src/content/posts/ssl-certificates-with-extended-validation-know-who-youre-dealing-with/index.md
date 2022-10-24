@@ -14,7 +14,7 @@ A scammer can very easily install a traditional SSL certificate for their websit
 
 Fortunately, the security industry has come up with an improved SSL certificate that not only validates the domain, but verifies that the domain is owned by a bona fide company as well.
 
-{{< figure src="sslev.jpg" alt="OPENXTRA SSL Extended Validation certificate in action" title="OPENXTRA SSL Extended Validation certificate in action" >}}
+{{< figure src="sslev.jpg#center" alt="OPENXTRA SSL Extended Validation certificate in action" title="OPENXTRA SSL Extended Validation certificate in action" >}}
 
 Unfortunately, browsers haven't been keeping up too well with the new [extended validation certificates](https://en.wikipedia.org/wiki/Extended_Validation_Certificate).
 

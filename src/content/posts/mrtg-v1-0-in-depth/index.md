@@ -65,11 +65,11 @@ MRTG version 1.0 could not be much simpler. The software consists of a single ex
 
 In order to install MRTG you first need to copy the sample configuration file and modify it to point to a local router supporting SNMP. You then need to schedule a cron job to run every 5 minutes to run the MRTG executable with the configuration file as the first parameter. The `mrtg` executable will run and query your local router via SNMP for the in/out octets and slowly build a series of graphs embedded onto a single web page. If you have multiple routers, create a configuration file for each one and a new cron job. Your output will be a series of web pages with the in/out octets displayed in a series of graphs as well as a file with the raw time series data.
 
-{{< figure src="images/mrtg-help-v1-0.png"
+{{< figure src="images/mrtg-help-v1-0.png#center"
            alt="MRTG v1.0 documentation"
            caption="Figure 1: MRTG v1.0 documentation" >}}
 
-{{< figure src="images/dmu-ac-uk-mrtg-jips.png"
+{{< figure src="images/dmu-ac-uk-mrtg-jips.png#center"
            alt="De Montfort University internet link throughput graphs"
            caption="Figure 2: De Montfort University internet link throughput graphs last updated 16th October 1995" >}}
 

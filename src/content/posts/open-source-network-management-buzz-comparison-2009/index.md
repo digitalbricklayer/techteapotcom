@@ -14,19 +14,19 @@ As I did last year, I've compared the number of searches for the project name us
 
 Firstly a comparison of the major players in open source network management: [Zenoss](https://www.zenoss.com/), [Hyperic](http://www.hyperic.com/), [Nagios](http://www.nagios.org/), [MRTG](http://oss.oetiker.ch/mrtg/) and [OpenNMS](https://www.opennms.org/). The most striking thing about the graph to me is the decline in searches for Nagios. From the middle of 2009 things have been declining quite steeply. MRTG has been declining though it just looks like a continuation of the decline evident for the last few years.
 
-{{< figure src="zenoss-vs-hyperic-vs-nagios-vs-mrtg-vs-opennms.png" title="Open Source Network Management System Trend 2009" alt="Open Source Network Management System Trend 2009" >}}
+{{< figure src="zenoss-vs-hyperic-vs-nagios-vs-mrtg-vs-opennms.png#center" title="Open Source Network Management System Trend 2009" alt="Open Source Network Management System Trend 2009" >}}
 
 ## A Comparison of the Nagios Ecosystem
 
 Whilst the above graph showed a reduction in the relative number of searches for Nagios, perhaps the Nagios ecosystem graph can explain it. [**Icinga**](http://www.icinga.org/), a Nagios fork, was [created during 2009]({{< ref "/posts/nagios-begets-icinga/index.md" >}}) and may be responsible for at least some of the decline. Icinga appears on the graph during late April and has a steady presence throughout the rest of 2009 save for a small period during the Christmas break.
 
-{{< figure src="nagios-vs-centreon-vs-opsview-vs-icinga.png" title="A Comparison of the Nagios Ecosystem 2009" alt="A Comparison of the Nagios Ecosystem 2009" >}}
+{{< figure src="nagios-vs-centreon-vs-opsview-vs-icinga.png#center" title="A Comparison of the Nagios Ecosystem 2009" alt="A Comparison of the Nagios Ecosystem 2009" >}}
 
 ## Open vs Closed Network Management Systems
 
 Given that 2009 was a year of recession in many countries, perhaps it won't surprise too many to see so many of both the commercial open source and proprietary tools trending downwards. I suspect that 2009 was a tough year for winkling money out of IT budgets.
 
-{{< figure src="hyperic-vs-zenoss-vs-openview-vs-netiq.png"  title="Open vs Closed Network Management Systems 2009" alt="Open vs Closed Network Management Systems 2009" >}}
+{{< figure src="hyperic-vs-zenoss-vs-openview-vs-netiq.png#center"  title="Open vs Closed Network Management Systems 2009" alt="Open vs Closed Network Management Systems 2009" >}}
 
 ## Conclusion
 

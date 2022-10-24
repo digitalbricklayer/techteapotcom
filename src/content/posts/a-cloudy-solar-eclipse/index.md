@@ -6,4 +6,4 @@ tags: []
 aliases: [/a-cloudy-solar-eclipse/]
 ---
 
-{{< figure src="P3201152.jpg" caption="The partial solar eclipse taken from Otley, West Yorkshire." alt="Partial Eclipse Otley, West Yorkshire" >}}
+{{< figure src="P3201152.jpg#center" caption="The partial solar eclipse taken from Otley, West Yorkshire." alt="Partial Eclipse Otley, West Yorkshire" >}}

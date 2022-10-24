@@ -34,7 +34,7 @@ Both of these goals have been achieved. Hugo content development has a nice work
 
 One of the nicer things about static websites is they are very cheap to host. You don't need any powerful databases, you don't need a powerful server. No CMS code is executed when a webpage is served. All the web server does is fetch content from a (hopefully) very fast disk.
 
-{{< figure src="tech-teapot-hugo-compilation.png" title="Compiling the Tech Teapot from the command line" alt="Compiling the Tech Teapot" >}}
+{{< figure src="tech-teapot-hugo-compilation.png#center" title="Compiling the Tech Teapot from the command line" alt="Compiling the Tech Teapot" >}}
 
 There are a number of ways you can host a static site:
 

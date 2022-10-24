@@ -10,4 +10,4 @@ Great find by [Larry O'Brien](http://www.knowing.net/), a game to play whilst yo
 
 I just can't imagine springing out of bed on a morning to go program a urinal game. They must have had industrial quantities of water around for the developers to drink!
 
-{{< figure src="piss-screen.jpg" alt="Urinal game in action" title="Urinal game in action" >}}
+{{< figure src="piss-screen.jpg#center" alt="Urinal game in action" title="Urinal game in action" >}}

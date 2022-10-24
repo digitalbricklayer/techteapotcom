@@ -12,7 +12,7 @@ A number of mid-level network monitoring products, like [What's Up Gold](http://
 
 With regular network monitoring you have a single poller measuring network and server performance from a single location on your network.
 
-{{< figure src="central-polling.png" width="400" height="429" title="Architecture of a central polling in a distributed network" alt="Architecture of a central polling in a distributed network" link="central-polling.png" >}}
+{{< figure src="central-polling.png#center" title="Architecture of a central polling in a distributed network" alt="Architecture of a central polling in a distributed network" >}}
 
 Single poller monitoring works well when the network is small or only has a single site. Every request is made from a single location to each of the resources being measured.
 
@@ -22,7 +22,7 @@ Whilst single poller network monitoring is well suited to single site performanc
 
 Distributed network monitoring involves multiple pollers distributed around your network measuring performance from multiple locations on your network
 
-{{< figure src="distributed-polling.png" width="400" height="429" title="Architecture of Distributed Polling in a Distributed Network" alt="Architecture of Distributed Polling in a Distributed Network" link="distributed-polling.png" >}}
+{{< figure src="distributed-polling.png#center" title="Architecture of Distributed Polling in a Distributed Network" alt="Architecture of Distributed Polling in a Distributed Network" >}}
 
 Multi-campus networks typically have WAN links interlinking the various sites. WAN links are usually much slower and more expensive than LAN links. By placing your network monitoring probe in a single central location you are inevitably going to send more traffic over your WAN links.
 

@@ -19,7 +19,6 @@ A script for validating all of the internal links in the website as well as imag
 
 {{< figure src="images/checklinks-output.png#center"
            alt="Output of checklinks command"
-           link="images/checklinks-output.png"
            caption="Output of the checklinks.sh script" >}}
 
 The script first starts up the site using docker and a Hugo container. It then waits for the server to be ready and then starts the `linkchecker` tool. The script is quite slow so I tend not to run it too often but it is invaluable to validate all of those pesky internal links.
@@ -36,7 +35,6 @@ This website has been around since late 2006 in one guise or another. In that ti
 
 {{< figure src="images/checkredirects-output.png#center"
           alt="Output of checkredirects command"
-          link="images/checkredirects-output.png"
           caption="Output of the checkredirects script" >}}
 
 Each line in the redirect file looks like this:

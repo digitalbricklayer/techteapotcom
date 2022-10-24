@@ -10,7 +10,7 @@ The folks over at [TweetVOLUME](http://www.tweetvolume.com/) have produced a too
 
 I thought that it would be an interesting, though not especially significant, metric for comparing open source projects.
 
-{{< figure src="twitter-volume-ossnms-comparison.JPG" alt="Comparison of the volume of tweets mentioning Zenoss, Nagios, Hyperic, OpenNMS and MRTG" >}}
+{{< figure src="twitter-volume-ossnms-comparison.jpg#center" alt="Comparison of the volume of tweets mentioning Zenoss, Nagios, Hyperic, OpenNMS and MRTG" >}}
 
 The graph above shows the number of twits in which [Zenoss](http://www.zenoss.org/), [Nagios](http://www.nagios.org/), [Hyperic](http://www.hyperic.org/), [OpenNMS](https://www.opennms.org/) or [MRTG](http://oss.oetiker.ch/mrtg/) were mentioned according to the TweetVolume algorithm.
 

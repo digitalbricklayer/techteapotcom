@@ -11,15 +11,15 @@ Google have released a fully searchable version of their first available index 
 
 I have now added the search results for the October 2022 index.
 
-{{< figure src="images/open-source-network-management-2001.jpg"
+{{< figure src="images/open-source-network-management-2001.jpg#center"
     alt="open source network management search results 2001 "
     caption="Figure 1: Google Results for *open source network management* search in 2001" >}}
 
-{{< figure src="images/open-source-network-management-2008.jpg"
+{{< figure src="images/open-source-network-management-2008.jpg#center"
     alt="open source network management search results 2008 "
     caption="Figure 2: Google Results for *open source network management* search in 2008" >}}
 
-{{< figure src="images/open-source-network-management-2022.png"
+{{< figure src="images/open-source-network-management-2022.png#center"
     alt="open source network management search results 2022 "
     caption="Figure 3: Google Results for *open source network management* search in 2022" >}}
 

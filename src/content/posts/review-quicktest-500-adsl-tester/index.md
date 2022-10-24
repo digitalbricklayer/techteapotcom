@@ -6,7 +6,7 @@ tags: []
 aliases: [/review-quicktest-500-adsl-tester/,/review-of-the-quicktest-500-adsl-tester]
 ---
 
-{{< figure src="quicktest-500.jpg" width="550" height="413" title="Front of the Vonaq Quicktest 500" alt="Quicktest 500 Front Photo" >}}
+{{< figure src="quicktest-500.jpg#center" width="550" height="413" title="Front of the Vonaq Quicktest 500" alt="Quicktest 500 Front Photo" >}}
 
 The Quicktest 500 is reviewed by Brendan Mulvaney of [Halcyon IT](https://halcyonit.co.uk/).
 

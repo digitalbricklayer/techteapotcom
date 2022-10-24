@@ -14,7 +14,7 @@ If you are evaluating network monitoring software you may not want to unleash it
 
 Unfortunately, within a few minutes of starting my evaluation Multi Server Simulator died a horrible death with the following dialog produced every few seconds.
 
-{{< figure src="paessler-multi-server-simulator.jpg" title="Paessler Multi Server Simulator Bug" alt="Paessler Multi Server Simulator Bug" >}}
+{{< figure src="paessler-multi-server-simulator.jpg#center" title="Paessler Multi Server Simulator Bug" alt="Paessler Multi Server Simulator Bug" >}}
 
 Still, it's a nice idea...
 

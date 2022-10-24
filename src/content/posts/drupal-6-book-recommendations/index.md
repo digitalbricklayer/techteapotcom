@@ -12,7 +12,7 @@ Whenever I'm taking on a new programming language or some other technology it al
 
 ## Using Drupal
 
-{{< figure src="inside-drupal.gif" alt="Inside Drupal book cover" >}}
+{{< figure src="inside-drupal.jpg#center" alt="Inside Drupal book cover" >}}
 
 Using Drual by Angela Byron et al is a book aimed at people with little or no experience of Drupal who want a leg up in implementing their first site. As such it delivers very well. It outlines the basic elements of Drupal, like what the basic content types are, simple navigation and, best of all, explores some of the many high quality modules available for Drupal.
 
@@ -20,7 +20,7 @@ The downside with all such beginner books is that things tend to be dealt with v
 
 ## Pro Drupal Development
 
-{{< figure src="pro-drupal-development.jpg" alt="Pro Drupal Development book cover" >}}
+{{< figure src="pro-drupal-development.jpg#center" alt="Pro Drupal Development book cover" >}}
 
 Pro Drupal Development by John K. VanDyk is a more developer oriented book covering topics like developing modules, forms, the search system, working with the Drupal database and the like.
 
@@ -30,7 +30,7 @@ Pro Drupal Development really gets down to the nitty gritty detail needed to do 
 
 ## Drupal 6 Themes
 
-{{< figure src="drupal-6-themes.png" alt="Drupal 6 Themes book cover" >}}
+{{< figure src="drupal-6-themes.png#center" alt="Drupal 6 Themes book cover" >}}
 
 Drupal 6 Themes is the most recent book we acquired and we've yet to get the full benefit from it. I do expect that as we come to changing the look of our site that this book will be ideal. Drupal relies on content specific template files quite a lot and we had some problems figuring out exactly what variables Drupal passes into them. Fortunately, Drupal 6 Themes covers this area quite well so we expect to learn a lot more about this important area.
 

@@ -8,7 +8,7 @@ aliases: [/affordable-wireless-packet-capture-solution/]
 
 Tools like the Test-Um Wi-Net are great for trouble shooting wireless networks. But, Wi-Net falls a long way short of giving you real low level technical insight into your wireless network. What do you do if you need more? Say, you need to capture packets and the like.
 
-{{< figure src="wireshark_ampdu_big.png" alt="Airpcap capture" title="Wireshark Capturing Wi-Fi traffic using AirPcap" >}}
+{{< figure src="wireshark_ampdu_big.png#center" alt="Airpcap capture" title="Wireshark Capturing Wi-Fi traffic using AirPcap" >}}
 
 One solution is to use the [WireShark](http://www.wireshark.org/) + [AirPcap](http://www.riverbed.com/products/performance-management-control/network-performance-management/wireless-packet-capture.html) combination.
 

@@ -18,7 +18,7 @@ First up is a comparison of the major open source network management systems. [N
 
 [Zenoss](https://www.zenoss.com/), [Hyperic](http://www.hyperic.com/) and [OpenNMS](https://www.opennms.org/) are all doing well, retaining substantial levels of searches with Zenoss retaining its early lead.
 
-{{< figure src="open-source-nms-trend-2008.png" title="Open Source NMS Trend 2008" alt="Open Source NMS Trend 2008" >}}
+{{< figure src="open-source-nms-trend-2008.png#center" title="Open Source NMS Trend 2008" alt="Open Source NMS Trend 2008" >}}
 
 ## A Comparison of the Nagios Ecosystem
 
@@ -28,7 +28,7 @@ I haven't been able to use Groundwork Open Source because a comparison wouldn't 
 
 Configuration is one area Nagios is not very user friendly to new users, relying upon editing configuration files for changes. Both Centreon and OpsView provide an improved configuration experience, reducing or completely removing the need to directly edit configuration files. Surprisingly both Centreon and OpsView receive substantially fewer searches than Nagios.
 
-{{< figure src="nagios-world-2008.png" title="A Comparison of the Nagios Ecosystem 2008" alt="A Comparison of the Nagios Ecosystem 2008" >}}
+{{< figure src="nagios-world-2008.png#center" title="A Comparison of the Nagios Ecosystem 2008" alt="A Comparison of the Nagios Ecosystem 2008" >}}
 
 ## Open vs Closed Network Management Systems
 
@@ -36,7 +36,7 @@ A comparison between a representative sample of both open source and proprietary
 
 Both NetIQ and OpenView are losing searches whilst the open tools are holding up well. Perhaps, money was tighter in 2008 due to the economic woes befalling many economies. OpenView has been particularly badly hit, being well down over the year as a whole.
 
-{{< figure src="open-vs-closed-nms-2008.png" title="Open vs Closed Network Management Systems 2008" alt="Open vs Closed Network Management Systems 2008" >}}
+{{< figure src="open-vs-closed-nms-2008.png#center" title="Open vs Closed Network Management Systems 2008" alt="Open vs Closed Network Management Systems 2008" >}}
 
 ## Conclusion
 
