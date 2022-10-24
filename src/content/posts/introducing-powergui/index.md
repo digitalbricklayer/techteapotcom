@@ -1,7 +1,7 @@
 ---
 title: "Introducing PowerGUI..."
 date: "2007-07-04T09:01:16+00:00"
-tags: [powershell]
+tags: [PowerShell]
 aliases: [/introducing-powergui/]
 ---
 

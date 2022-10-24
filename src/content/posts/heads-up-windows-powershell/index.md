@@ -1,7 +1,7 @@
 ---
 title: "Heads up: Windows PowerShell"
 date: "2007-02-08T10:11:34+00:00"
-tags: [powershell]
+tags: [PowerShell]
 aliases: [/heads-up-windows-powershell/]
 ---
 

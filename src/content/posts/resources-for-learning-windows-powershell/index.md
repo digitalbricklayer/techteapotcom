@@ -1,7 +1,7 @@
 ---
 title: "Resources for learning Windows Powershell"
 date: "2008-08-07T16:05:31+00:00"
-tags: [powershell]
+tags: [PowerShell]
 aliases: [/resources-for-learning-windows-powershell/]
 ---
 

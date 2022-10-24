@@ -1,7 +1,7 @@
 ---
 title: "Scheduling a PowerShell task on Windows 2003"
 date: "2008-10-03T08:00:50+00:00"
-tags: [powershell]
+tags: [PowerShell]
 aliases: [/scheduling-a-powershell-task-on-windows-2003/]
 ---
 
