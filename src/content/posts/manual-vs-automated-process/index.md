@@ -2,12 +2,11 @@
 title: "Manual vs automated process"
 date: "2022-10-06"
 description: "How do you decide to automate or part automate a particular process."
+lead: "You have a one off task you need to do. There's an automated process you can build to achieve the end result or you could do the process manually. How do you decide which route to go down?"
 tags: ['Hugo']
 ---
 
-You have a one off task you need to do. There's an automated process you can build to achieve the end result or you could do the process manually.
-
-How do you decide which route to go down?
+<!--more-->
 
 The automated process requires you to undertake a period of software development using one or more tools to generate your desired output. This could be as complicated as firing up your Python IDE of choice and building a program or programs to automate your process or just hitting your favourite unix shell and creating a shell script.
 
