@@ -1,8 +1,6 @@
 ---
 title: "A start to 2007"
 date: "2007-01-04T13:54:03+00:00"
-categories: [General]
-tags: []
 aliases: [/a-start-to-2007/]
 ---
 

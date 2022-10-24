@@ -1,8 +1,6 @@
 ---
 title: "Server consolidation: Stage 3"
 date: "2007-02-08T12:14:51+00:00"
-categories: [General]
-tags: []
 aliases: [/server-consolidation-stage-3/]
 ---
 

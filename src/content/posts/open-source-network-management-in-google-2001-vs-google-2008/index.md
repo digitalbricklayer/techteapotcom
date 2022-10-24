@@ -2,8 +2,6 @@
 title: "Open source network management search result in Google 2001 vs Google 2008 vs Google 2022"
 date: "2008-10-01T12:35:10+00:00"
 lastmod: "2022-10-12"
-categories: [General]
-tags: []
 aliases: [/open-source-network-management-in-google-2001-vs-google-2008/]
 ---
 

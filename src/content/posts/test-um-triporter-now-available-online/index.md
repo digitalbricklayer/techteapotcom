@@ -1,8 +1,6 @@
 ---
 title: "The Test-Um Tri-Porter is now available online"
 date: "2007-01-31T11:07:27+00:00"
-categories: [General]
-tags: []
 aliases: [/posts/37/, /test-um-triporter-now-available-online/]
 ---
 

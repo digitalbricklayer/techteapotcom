@@ -1,7 +1,6 @@
 ---
 title: "Computer Languages 22 years on"
 date: "2008-02-19T13:02:59+00:00"
-categories: [General]
 tags: ["artificial intelligence", "computer language"]
 aliases: [/computer-languages-22-years-on/]
 ---

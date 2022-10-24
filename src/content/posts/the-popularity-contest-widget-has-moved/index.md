@@ -1,8 +1,6 @@
 ---
 title: "The popularity contest widget has moved..."
 date: "2008-12-02T15:52:43+00:00"
-categories: [General]
-tags: []
 aliases: [/the-popularity-contest-widget-has-moved/]
 ---
 

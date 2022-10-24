@@ -1,8 +1,6 @@
 ---
 title: "Social animals"
 date: "2013-08-21T15:29:12+00:00"
-categories: [General]
-tags: []
 aliases: [/social-animals/]
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Your golfer's inner geek"
 date: "2007-11-22T12:50:00+00:00"
-categories: [General]
-tags: []
 aliases: [/your-golfers-inner-geek/]
 ---
 

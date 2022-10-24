@@ -1,8 +1,6 @@
 ---
 title: "Selecting a content management system"
 date: "2008-11-10T09:00:23+00:00"
-categories: [General]
-tags: []
 aliases: [/selecting-a-content-management-system/]
 ---
 

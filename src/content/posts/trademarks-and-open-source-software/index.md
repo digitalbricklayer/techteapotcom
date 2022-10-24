@@ -1,8 +1,6 @@
 ---
 title: "Trademarks and open source software"
 date: "2009-05-11T10:04:20+00:00"
-categories: [General]
-tags: []
 aliases: [/trademarks-and-open-source-software/]
 ---
 

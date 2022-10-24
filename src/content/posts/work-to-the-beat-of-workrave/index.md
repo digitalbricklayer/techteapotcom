@@ -1,8 +1,6 @@
 ---
 title: "Work to the beat of WorkRave"
 date: "2007-09-11T09:01:59+00:00"
-categories: [General]
-tags: []
 aliases: [/work-to-the-beat-of-workrave/]
 ---
 

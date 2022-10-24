@@ -1,7 +1,6 @@
 ---
 title: "OpenNMS for Windows now available"
 date: "2007-11-08T10:19:04+00:00"
-categories: [General]
 tags: ["OpenNMS"]
 aliases: [/opennms-for-windows-now-available/]
 ---

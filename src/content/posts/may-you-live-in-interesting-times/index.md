@@ -1,8 +1,6 @@
 ---
 title: "May you live in interesting times..."
 date: "2008-11-06T14:31:01+00:00"
-categories: [General]
-tags: []
 aliases: [/may-you-live-in-interesting-times/]
 ---
 

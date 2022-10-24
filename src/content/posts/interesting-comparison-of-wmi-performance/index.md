@@ -1,7 +1,6 @@
 ---
 title: "Interesting comparison of WMI performance..."
 date: "2009-06-03T15:58:27+00:00"
-categories: [General]
 tags: ["WMI"]
 aliases: [/interesting-comparison-of-wmi-performance/]
 ---

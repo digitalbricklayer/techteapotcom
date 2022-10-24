@@ -1,8 +1,6 @@
 ---
 title: "Top 5 UPS power alarming options"
 date: "2007-05-10T15:08:39+00:00"
-categories: [General]
-tags: []
 aliases: [/top-5-ups-power-alarming-options/]
 ---
 

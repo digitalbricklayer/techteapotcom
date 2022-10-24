@@ -1,8 +1,6 @@
 ---
 title: "How not to do XBox 360 support"
 date: "2008-10-29T13:35:34+00:00"
-categories: [General]
-tags: []
 aliases: [/how-not-to-do-xbox-360-support/]
 ---
 

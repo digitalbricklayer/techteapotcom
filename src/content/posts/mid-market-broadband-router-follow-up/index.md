@@ -1,8 +1,6 @@
 ---
 title: "Mid market broadband router follow up"
 date: "2008-04-01T17:05:44+00:00"
-categories: [General]
-tags: []
 aliases: [/mid-market-broadband-router-follow-up/]
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Network monitoring tools @ SLAC link visualisation"
 date: "2008-10-08T08:00:33+00:00"
-categories: [General]
-tags: []
 aliases: [/network-monitoring-tools-slac-link-visualisation/]
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "The World of Industrial Device Networking"
 date: "2007-06-21T16:06:45+00:00"
-categories: [General]
-tags: []
 aliases: [/the-world-of-industrial-device-networking/]
 ---
 

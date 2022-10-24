@@ -1,8 +1,6 @@
 ---
 title: "Great IT in education website"
 date: "2007-01-31T17:05:07+00:00"
-categories: [General]
-tags: []
 aliases: [/great-it-in-education-website/]
 ---
 

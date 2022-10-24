@@ -1,8 +1,6 @@
 ---
 title: "RE: Microsoft Wake Up--Apple is gaining Intellectual Capital and Market"
 date: "2007-08-08T15:19:27+00:00"
-categories: [General]
-tags: []
 aliases: [/re-microsoft-wake-up-apple-is-gaining-intellectual-capital-and-market/]
 ---
 

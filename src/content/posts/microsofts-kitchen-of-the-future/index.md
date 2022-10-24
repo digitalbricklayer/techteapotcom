@@ -1,7 +1,6 @@
 ---
 title: "Microsoft's kitchen of the future"
 date: "2007-01-25T12:22:39+00:00"
-categories: [General]
 aliases: [/microsofts-kitchen-of-the-future/]
 ---
 

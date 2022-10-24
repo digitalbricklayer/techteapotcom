@@ -1,7 +1,5 @@
 ---
 title: "My 2021 Reading Log"
-tags: []
-categories: [General]
 date: "2022-01-27"
 series: ["Reading Log"]
 ---

@@ -1,7 +1,6 @@
 ---
 title: "A few days on the beach"
 date: "2008-10-14T09:14:04+00:00"
-categories: [General]
 tags: []
 aliases: [/a-few-days-on-the-beach/]
 ---

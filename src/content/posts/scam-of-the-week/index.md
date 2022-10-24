@@ -2,8 +2,6 @@
 title: "Scam of the week"
 date: "2015-07-11T08:00:35+00:00"
 lastmod: "2015-07-13"
-categories: [General]
-tags: []
 aliases: [/scam-of-the-week/]
 ---
 

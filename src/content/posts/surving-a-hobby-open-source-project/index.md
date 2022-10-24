@@ -1,8 +1,6 @@
 ---
 title: "Surviving a hobby open source project"
 date: "2008-08-13T12:19:12+00:00"
-categories: [General]
-tags: []
 aliases: [/surving-a-hobby-open-source-project/]
 ---
 

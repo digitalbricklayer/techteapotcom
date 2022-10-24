@@ -1,7 +1,7 @@
 ---
 title: "Copper vs Fibre cabling costs"
 date: "2007-09-06T08:00:25+00:00"
-categories: [Cabling, General]
+categories: [Cabling]
 tags: ["copper cabling", "fibre cabling"]
 aliases: [/copper-vs-fibre/]
 ---

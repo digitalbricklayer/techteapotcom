@@ -2,7 +2,6 @@
 title: "Continuous delivery every single day"
 date: "2012-08-14T10:41:40+00:00"
 lastMod: "2020-10-13"
-categories: [General]
 tags: [teamcity]
 aliases: [/continuous-delivery-every-single-day/]
 ---

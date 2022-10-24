@@ -1,8 +1,6 @@
 ---
 title: "Microsoft myopia...update"
 date: "2008-04-28T11:10:11+00:00"
-categories: [General]
-tags: []
 aliases: [/microsoft-myopiaupdate/]
 ---
 

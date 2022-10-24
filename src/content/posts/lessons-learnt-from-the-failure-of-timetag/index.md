@@ -1,8 +1,7 @@
 ---
 title: "Lessons learnt from the failure of TimeTag"
 date: "2010-01-15T14:02:40+00:00"
-categories: [General]
-tags: []
+tags: [PowerShell]
 aliases: [/lessons-learnt-from-the-failure-of-timetag/]
 ---
 

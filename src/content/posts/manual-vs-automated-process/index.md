@@ -2,7 +2,6 @@
 title: "Manual vs automated process"
 date: "2022-10-06"
 description: "How do you decide to automate or part automate a particular process."
-categories: [General]
 tags: ['Hugo']
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "The IT Skeptic interview"
 date: "2008-10-23T13:29:39+00:00"
-categories: [General]
-tags: []
 aliases: [/the-it-skeptic-interview/]
 ---
 

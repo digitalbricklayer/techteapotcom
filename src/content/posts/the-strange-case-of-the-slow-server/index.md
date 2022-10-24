@@ -1,8 +1,6 @@
 ---
 title: "The strange case of the slow server"
 date: "2008-10-23T08:00:47+00:00"
-categories: [General]
-tags: []
 aliases: [/the-strange-case-of-the-slow-server/]
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Strictly Fun Dancing with the Falcom Samba 55"
 date: "2006-11-28T14:13:48+00:00"
-categories: [General]
 aliases: [/strictly-fun-dancing-with-the-falcom-samba-55/]
 ---
 

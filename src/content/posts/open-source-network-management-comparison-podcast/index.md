@@ -1,8 +1,6 @@
 ---
 title: "Open source network management comparison podcast"
 date: "2008-09-17T15:27:14+00:00"
-categories: [General]
-tags: []
 aliases: [/open-source-network-management-comparison-podcast/]
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Introduction to middle age"
 date: "2008-04-21T15:58:15+00:00"
-categories: [General]
-tags: []
 aliases: [/introduction-to-middle-age/]
 ---
 

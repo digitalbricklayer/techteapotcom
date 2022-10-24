@@ -1,8 +1,6 @@
 ---
 title: "Early 1990s Software Development Tools for Microsoft Windows"
 date: "2014-07-23T10:59:58+00:00"
-categories: [General]
-tags: []
 aliases: [/early-1990s-windows-dev-tools/]
 ---
 

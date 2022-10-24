@@ -1,8 +1,6 @@
 ---
 title: "Stack Overflow Driven Development"
 date: "2014-04-15T12:53:52+00:00"
-categories: [General]
-tags: []
 aliases: [/stack-overflow-driven-development/]
 ---
 

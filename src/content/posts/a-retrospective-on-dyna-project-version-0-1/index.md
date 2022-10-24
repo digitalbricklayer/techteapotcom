@@ -1,8 +1,6 @@
 ---
 title: "A retrospective on Dyna Project version 0.1"
 date: "2015-08-05T15:46:49+00:00"
-categories: [General]
-tags: []
 aliases: [/a-retrospective-on-dyna-project-version-0-1/]
 ---
 

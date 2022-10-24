@@ -1,7 +1,6 @@
 ---
 title: "Burnout is the enemy of all professionals"
 date: "2008-08-19T10:05:21+00:00"
-categories: [General]
 tags: [blogging, burnout]
 aliases: [/burnout-is-the-enemy-of-all-professionals/]
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Intellipool Network Monitor and Windows Vista"
 date: "2007-06-11T09:01:58+00:00"
-categories: [General]
 tags: [intellipool]
 aliases: [/intellipool-network-monitor-and-windows-vista/]
 ---

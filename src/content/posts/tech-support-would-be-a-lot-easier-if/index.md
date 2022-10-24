@@ -1,8 +1,6 @@
 ---
 title: "Tech Support would be a lot easier if..."
 date: "2015-07-08T12:19:15+00:00"
-categories: [General]
-tags: []
 aliases: [/tech-support-would-be-a-lot-easier-if/]
 ---
 

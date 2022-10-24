@@ -1,8 +1,6 @@
 ---
 title: "A reminder of the power of the internet"
 date: "2015-10-01T13:12:17+00:00"
-categories: [General]
-tags: []
 aliases: [/a-reminder-of-the-power-of-the-internet/]
 ---
 

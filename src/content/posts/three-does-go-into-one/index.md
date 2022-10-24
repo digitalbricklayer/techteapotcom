@@ -1,8 +1,6 @@
 ---
 title: "Three does go into one"
 date: "2007-01-22T10:17:03+00:00"
-categories: [General]
-tags: []
 aliases: [/three-does-go-into-one/]
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "A urinal video game...no, really!"
 date: "2007-08-10T09:01:28+00:00"
-categories: [General]
-tags: []
 aliases: [/a-urinal-video-gameno-really/]
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Give me a boost Boost"
 date: "2006-11-28T11:16:34+00:00"
-categories: [General]
 aliases: [/give-me-a-boost-boost/]
 ---
 

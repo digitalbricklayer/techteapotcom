@@ -1,7 +1,6 @@
 ---
 title: "Gliffy: Visio in the cloud"
 date: "2008-10-07T08:00:11+00:00"
-categories: [General]
 tags: [gliffy, "google docs", visio]
 aliases: [/gliffy-visio-in-the-cloud/]
 ---

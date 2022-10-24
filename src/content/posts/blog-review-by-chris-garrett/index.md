@@ -1,8 +1,6 @@
 ---
 title: "Blog review by Chris Garrett"
 date: "2007-04-20T12:23:36+00:00"
-categories: [General]
-tags: []
 aliases: [/blog-review-by-chris-garrett/]
 ---
 

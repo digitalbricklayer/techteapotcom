@@ -1,8 +1,6 @@
 ---
 title: "Server room equipment environment specs...more info required"
 date: "2007-09-10T13:12:23+00:00"
-categories: [General]
-tags: []
 aliases: [/server-room-equipment-environment-specsmore-info-required/]
 ---
 

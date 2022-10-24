@@ -1,8 +1,6 @@
 ---
 title: "How To Get A Windows Refund"
 date: "2007-02-01T11:33:51+00:00"
-categories: [General]
-tags: []
 aliases: [/how-to-get-a-windows-refund/]
 ---
 

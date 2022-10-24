@@ -1,8 +1,6 @@
 ---
 title: "Why lone software projects fail"
 date: "2015-07-10T11:50:09+00:00"
-categories: [General]
-tags: []
 aliases: [/why-lone-software-projects-fail/]
 ---
 

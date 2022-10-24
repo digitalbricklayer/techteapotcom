@@ -1,8 +1,6 @@
 ---
 title: 'Windows users kill "free" open source'
 date: "2008-03-12T15:16:14+00:00"
-categories: [General]
-tags: []
 aliases: [/windows-users-kill-free-open-source/]
 ---
 

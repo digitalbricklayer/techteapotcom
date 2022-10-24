@@ -1,8 +1,6 @@
 ---
 title: "SpamAssassin just works..."
 date: "2007-09-27T09:00:29+00:00"
-categories: [General]
-tags: []
 aliases: [/spamassassin-just-works/]
 ---
 

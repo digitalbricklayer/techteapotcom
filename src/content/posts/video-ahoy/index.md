@@ -1,8 +1,6 @@
 ---
 title: "Video ahoy!"
 date: "2008-09-04T11:29:56+00:00"
-categories: [General]
-tags: []
 aliases: [/video-ahoy/]
 ---
 

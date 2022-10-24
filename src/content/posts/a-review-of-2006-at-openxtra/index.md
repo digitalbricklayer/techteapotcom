@@ -1,7 +1,6 @@
 ---
 title: "A review of 2006 at OPENXTRA"
 date: "2007-01-08"
-categories: [General]
 aliases: [/a-review-of-2006-at-openxtra/]
 ---
 

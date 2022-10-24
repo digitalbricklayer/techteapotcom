@@ -1,8 +1,6 @@
 ---
 title: "Google Reader is dead, long live feedly"
 date: "2013-06-25T09:51:41+00:00"
-categories: [General]
-tags: []
 aliases: [/google-reader-is-dead-long-live-feedly/]
 ---
 

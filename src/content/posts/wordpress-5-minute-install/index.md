@@ -1,8 +1,6 @@
 ---
 title: "Wordpress 5 minute install..."
 date: "2008-12-12T09:00:59+00:00"
-categories: [General]
-tags: []
 aliases: [/wordpress-5-minute-install/]
 ---
 

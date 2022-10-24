@@ -1,7 +1,6 @@
 ---
 title: "Mark Hinkle of Zenoss interview"
 date: "2008-06-05T14:53:36+00:00"
-categories: [General]
 tags: [Zenoss]
 aliases: [/mark-hinkle-of-zenoss-interview/]
 ---

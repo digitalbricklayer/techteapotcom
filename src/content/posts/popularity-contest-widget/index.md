@@ -1,8 +1,6 @@
 ---
 title: "Popularity Contest Widget"
 date: "2007-10-29T16:19:03+00:00"
-categories: [General]
-tags: []
 aliases: [/popularity-contest-widget/]
 ---
 

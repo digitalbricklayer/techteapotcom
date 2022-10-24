@@ -1,8 +1,6 @@
 ---
 title: "PayPal and Google Checkout use in UK businesses"
 date: "2007-10-02T10:01:23+00:00"
-categories: [General]
-tags: []
 aliases: [/paypal-and-google-checkout-use-in-uk-businesses/]
 ---
 

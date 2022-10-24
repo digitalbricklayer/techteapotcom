@@ -1,8 +1,6 @@
 ---
 title: "PHP frameworks: not there yet"
 date: "2008-02-13T11:36:13+00:00"
-categories: [General]
-tags: ["PHP"]
 aliases: [/php-frameworks-not-there-yet/]
 ---
 

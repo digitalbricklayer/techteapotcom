@@ -1,8 +1,6 @@
 ---
 title: "Mozart the future of programming?"
 date: "2008-02-15T14:49:02+00:00"
-categories: [General]
-tags: []
 aliases: [/mozart-the-future-of-programming/]
 ---
 

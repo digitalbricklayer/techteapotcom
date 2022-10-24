@@ -1,8 +1,6 @@
 ---
 title: "Green Everything"
 date: "2007-07-27T12:24:17+00:00"
-categories: [General]
-tags: []
 aliases: [/green-everything/]
 ---
 

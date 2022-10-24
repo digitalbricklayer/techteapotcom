@@ -1,8 +1,7 @@
 ---
 title: "Handy server room toilet facilities"
 date: "2008-06-24T15:52:52+00:00"
-categories: [General]
-tags: []
+
 aliases: [/handy-server-room-toilet-facilities/]
 ---
 

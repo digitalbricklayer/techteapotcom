@@ -1,8 +1,6 @@
 ---
 title: "Hurrah! Some real data to play with"
 date: "2008-05-16T15:01:08+00:00"
-categories: [General]
-tags: []
 aliases: [/hurrah-some-real-data-to-play-with/]
 ---
 

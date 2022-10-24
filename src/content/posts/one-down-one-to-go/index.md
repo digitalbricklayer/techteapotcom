@@ -1,7 +1,6 @@
 ---
 title: "One down, one to go..."
 date: "2007-01-30T14:02:57+00:00"
-categories: [General]
 aliases: [/one-down-one-to-go/]
 ---
 

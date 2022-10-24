@@ -1,16 +1,15 @@
 ---
 title: "Ain't no such thing as SMB class kit"
 date: "2008-01-17T14:35:45+00:00"
-categories: [General]
 tags: [downtime, enterprise, "SMB"]
 aliases: [/aint-no-such-thing-as-smb-class-kit/]
 ---
 
-{{< figure src="net-downtime.jpg#floatright" alt="Network outage" height="149" width="225" >}}
-
 Every bout of downtime teaches you a lesson. At least one. :smile:
 
 ## The lesson
+
+{{< figure src="net-downtime.jpg#floatright" alt="Network outage" height="149" width="225" >}}
 
 What's the lesson this time: anything less than full hot swap disks just isn't good enough.
 

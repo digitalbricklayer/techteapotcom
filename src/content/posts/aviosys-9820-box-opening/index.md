@@ -1,8 +1,6 @@
 ---
 title: "New Aviosys IP Power 9820 Box Opening"
 date: "2014-05-13T09:36:31+00:00"
-categories: [General]
-tags: []
 aliases: [/aviosys-9820-box-opening/]
 ---
 

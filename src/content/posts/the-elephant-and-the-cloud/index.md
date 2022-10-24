@@ -1,8 +1,6 @@
 ---
 title: "The elephant and the cloud"
 date: "2007-12-19T11:06:43+00:00"
-categories: [General]
-tags: []
 aliases: [/the-elephant-and-the-cloud/]
 ---
 

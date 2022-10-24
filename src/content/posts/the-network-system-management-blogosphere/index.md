@@ -1,8 +1,6 @@
 ---
 title: "The network &amp; systems management blogosphere"
 date: "2008-09-22T15:14:12+00:00"
-categories: [General]
-tags: []
 aliases: [/the-network-system-management-blogosphere/]
 ---
 

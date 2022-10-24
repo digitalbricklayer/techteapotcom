@@ -1,8 +1,6 @@
 ---
 title: "What to do if you're newly qualified and can't get your first job"
 date: "2008-11-17T12:30:25+00:00"
-categories: [General]
-tags: []
 aliases: [/what-to-do-if-youre-newly-qualified-and-cant-get-your-first-job/]
 ---
 

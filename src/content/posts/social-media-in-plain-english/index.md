@@ -1,8 +1,6 @@
 ---
 title: "Social Media in Plain English"
 date: "2007-10-17T10:30:14+00:00"
-categories: [General]
-tags: []
 aliases: [/social-media-in-plain-english/]
 ---
 

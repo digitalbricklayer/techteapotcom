@@ -1,7 +1,6 @@
 ---
 title: "Google Code time bug"
 date: "2008-08-21T09:21:18+00:00"
-categories: [General]
 tags: ["google code"]
 aliases: [/google-code-time-bug/]
 ---

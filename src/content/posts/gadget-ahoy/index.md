@@ -1,7 +1,6 @@
 ---
 title: "Gadget Ahoy"
 date: "2006-12-06T18:57:59+00:00"
-categories: [General]
 aliases: [/gadget-ahoy/]
 ---
 

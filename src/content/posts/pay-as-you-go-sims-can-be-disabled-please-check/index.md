@@ -1,8 +1,6 @@
 ---
 title: "Pay as you go SIMs can be disabled -- please check"
 date: "2007-05-17T10:56:33+00:00"
-categories: [General]
-tags: []
 aliases: [/pay-as-you-go-sims-can-be-disabled-please-check/]
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Handy scripts for testing your Hugo website"
 date: 2020-11-18T10:09:19Z
-categories:
-  - General
 tags:
   - Hugo
 ---

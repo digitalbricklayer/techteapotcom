@@ -1,7 +1,6 @@
 ---
 title: "PowerTime now on Google Code"
 date: "2008-06-10T14:46:35+00:00"
-categories: [General]
 tags: [powershell]
 aliases: [/powertime-now-on-google-code/]
 ---

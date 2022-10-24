@@ -1,8 +1,6 @@
 ---
 title: "Windows based structured systems management"
 date: "2009-06-11T09:27:32+00:00"
-categories: [General]
-tags: []
 aliases: [/windows-based-structured-systems-management/]
 ---
 

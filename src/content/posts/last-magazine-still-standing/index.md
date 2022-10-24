@@ -1,7 +1,6 @@
 ---
 title: "Last magazine still standing"
 date: "2007-01-25T15:27:31+00:00"
-categories: [General]
 aliases: [/last-magazine-still-standing/]
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Looking forward to 2008"
 date: "2008-01-08T15:58:53+00:00"
-categories: [General]
-tags: []
 aliases: [/looking-forward-to-2008/]
 ---
 

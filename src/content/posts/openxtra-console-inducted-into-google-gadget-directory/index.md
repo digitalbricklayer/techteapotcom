@@ -1,8 +1,6 @@
 ---
 title: "OPENXTRA Console inducted into Google Gadget directory"
 date: "2007-02-15T10:33:09+00:00"
-categories: [General]
-tags: []
 aliases: [/openxtra-console-inducted-into-google-gadget-directory/]
 ---
 

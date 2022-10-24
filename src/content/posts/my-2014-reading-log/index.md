@@ -1,8 +1,6 @@
 ---
 title: "My 2014 Reading Log"
 date: "2015-01-20T12:43:22+00:00"
-categories: [General]
-tags: []
 series: ["Reading Log"]
 aliases: [/2014-reading-log/, /posts/2014-reading-log/]
 ---

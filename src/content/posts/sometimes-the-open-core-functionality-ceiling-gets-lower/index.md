@@ -1,8 +1,6 @@
 ---
 title: "Sometimes the open core functionality ceiling gets lower"
 date: "2013-06-20T12:27:04+00:00"
-categories: [General]
-tags: []
 aliases: [/sometimes-the-open-core-functionality-ceiling-gets-lower/]
 ---
 

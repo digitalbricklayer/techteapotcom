@@ -2,8 +2,6 @@
 title: "My early career planning"
 date: "2007-05-21T16:52:02+00:00"
 lastMod: "2020-10-13"
-categories: [General]
-tags: []
 aliases: [/my-early-career-planning/]
 ---
 

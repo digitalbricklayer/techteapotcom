@@ -1,8 +1,6 @@
 ---
 title: "The Tech Teapot Three Today"
 date: "2009-11-30T09:50:01+00:00"
-categories: [General]
-tags: []
 aliases: [/the-tech-teapot-three-today/]
 ---
 

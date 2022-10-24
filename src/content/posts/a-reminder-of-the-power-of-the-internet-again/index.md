@@ -1,8 +1,6 @@
 ---
 title: "A reminder of the power of the internet, again"
 date: "2020-09-30"
-categories: [General]
-tags: []
 ---
 
 [Some time ago]({{< ref "/posts/a-reminder-of-the-power-of-the-internet/index.md" >}}) I had a reminder of just how powerful the internet can be. I can log into a website, schedule one of a number of expensive astronomical telescopes to take a photo of whatever takes my fancy.

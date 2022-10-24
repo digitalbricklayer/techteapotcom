@@ -1,7 +1,6 @@
 ---
 title: "Tools to lesson the WPF pain"
 date: "2015-10-13T14:18:02+00:00"
-categories: [General]
 tags: ["WPF"]
 aliases: [/tools-to-lesson-the-wpf-pain/]
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Hyperic Infoworld heads up"
 date: "2007-05-23T08:53:56+00:00"
-categories: [General]
 tags: [hyperic]
 aliases: [/hyperic-infoworld-heads-up/]
 ---

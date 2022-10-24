@@ -1,7 +1,6 @@
 ---
 title: "Nagios responds to the ICINGA fork"
 date: "2009-05-08T11:06:23+00:00"
-categories: [General]
 tags: [nagios, icinga]
 aliases: [/nagios-responds-to-the-icinga-fork/]
 ---

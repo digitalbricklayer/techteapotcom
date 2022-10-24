@@ -1,7 +1,6 @@
 ---
 title: "A WEEE farce"
 date: "2008-12-03T16:21:18+00:00"
-categories: [General]
 tags: ["WEEE"]
 aliases: [/a-weee-farce/]
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Alarms as easy as 1,2,3?"
 date: "2006-12-19"
-categories: [General]
 aliases: [/alarms-as-easy-as-123/]
 ---
 

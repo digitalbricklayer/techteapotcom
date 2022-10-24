@@ -1,8 +1,6 @@
 ---
 title: "PowerShell + network monitor = powerful network management tool"
 date: "2007-08-29T11:12:35+00:00"
-categories: [General]
-tags: [powershell]
 aliases: [/powershell-network-monitor-powerful-netman-tool/]
 ---
 

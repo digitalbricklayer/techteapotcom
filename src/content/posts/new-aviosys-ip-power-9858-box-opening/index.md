@@ -1,7 +1,6 @@
 ---
 title: "New Aviosys IP Power 9858 Box Opening"
 date: "2014-10-20T07:00:30+00:00"
-categories: [General]
 tags: [Aviosys]
 aliases: [/new-aviosys-ip-power-9858-box-opening/]
 ---

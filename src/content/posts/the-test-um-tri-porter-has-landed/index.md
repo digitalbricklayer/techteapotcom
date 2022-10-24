@@ -1,8 +1,6 @@
 ---
 title: "The Test-Um Tri-Porter has landed!"
 date: "2007-01-26T16:16:30+00:00"
-categories: [General]
-tags: []
 aliases: [/the-test-um-tri-porter-has-landed/]
 ---
 

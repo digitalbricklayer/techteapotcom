@@ -1,14 +1,12 @@
 ---
 title: "Back to Basics"
 date: "2014-09-17T12:57:15+00:00"
-categories: [General]
-tags: []
 aliases: [/back-basics/]
 ---
 
 After a while things stop being new. Things that really used to excite you, stop exciting you. Things that you were passionate about, you stop being passionate about. That's just how things work.
 
-I wrote my very first computer program 26 years ago this month. It was in college, using a Perkin Elmer mini computer running Berkely BSD 4.2 on a VT220 terminal (with a really good keyboard.) The program was written in Pascal. Pascal was *the* educational programming language of the time. Every time I went near the terminal, I approached with a sense of wonder. It felt like the possibilities were endless.
+I wrote my very first computer program 26 years ago this month. It was in college, using a Perkin Elmer mini computer running Berkeley BSD 4.2 on a VT220 terminal (with a really good keyboard.) The program was written in Pascal. Pascal was *the* educational programming language of the time. Every time I went near the terminal, I approached with a sense of wonder. It felt like the possibilities were endless.
 
 But, over time, the sense of wonder starts to wane. Once somebody starts paying you to do something, the sense of wonder starts to wane real fast. You don't control it any more. You are likely to be producing something that somebody else wants you to produce. In a manner they want you to produce it.
 

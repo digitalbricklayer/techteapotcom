@@ -1,7 +1,6 @@
 ---
 title: "OpenNMS conference in Europe"
 date: "2009-01-13T11:17:15+00:00"
-categories: [General]
 tags: ["OpenNMS"]
 aliases: [/opennms-conference-in-europe/]
 ---

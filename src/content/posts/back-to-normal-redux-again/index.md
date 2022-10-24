@@ -1,8 +1,6 @@
 ---
 title: "Back to normal redux, again"
 date: "2008-01-16T16:16:50+00:00"
-categories: [General]
-tags: []
 aliases: [/back-to-normal-redux-again/]
 ---
 

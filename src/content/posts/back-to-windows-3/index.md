@@ -1,7 +1,6 @@
 ---
 title: "Back to Windows 3 with Web 2.0"
 date: "2007-10-04T12:15:48+00:00"
-categories: [General]
 tags: [AJAX, "operating systems", "system reliability", "web browsers"]
 aliases: [/back-to-windows-3/]
 ---

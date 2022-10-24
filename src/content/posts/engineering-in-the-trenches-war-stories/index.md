@@ -1,8 +1,6 @@
 ---
 title: "Engineering in the trenches war stories"
 date: "2008-03-17T17:06:22+00:00"
-categories: [General]
-tags: []
 aliases: [/engineering-in-the-trenches-war-stories/]
 ---
 

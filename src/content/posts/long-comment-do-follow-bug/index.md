@@ -1,8 +1,6 @@
 ---
 title: "Long comment do follow bug"
 date: "2008-01-04T10:41:22+00:00"
-categories: [General]
-tags: []
 aliases: [/long-comment-do-follow-bug/]
 ---
 

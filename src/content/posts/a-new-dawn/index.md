@@ -1,7 +1,6 @@
 ---
 title: "A new dawn for The Tech Teapot"
 date: "2020-10-06"
-categories: [General]
 tags: [Hugo]
 ---
 

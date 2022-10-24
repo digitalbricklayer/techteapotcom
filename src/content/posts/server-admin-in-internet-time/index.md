@@ -1,7 +1,6 @@
 ---
 title: "Server admin in Internet time"
 date: "2007-01-17"
-categories: [General]
 aliases: [/server-admin-in-internet-time/]
 ---
 

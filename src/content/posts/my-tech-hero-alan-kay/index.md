@@ -1,8 +1,6 @@
 ---
 title: "My tech hero: Alan Kay"
 date: "2007-12-20T17:10:53+00:00"
-categories: [General]
-tags: []
 aliases: [/my-tech-hero-alan-kay/]
 ---
 

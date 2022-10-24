@@ -1,7 +1,6 @@
 ---
 title: "Inch forward a bit, a bit more..."
 date: "2006-12-19T17:45:39+00:00"
-categories: [General]
 aliases: [/posts/21/, inch-forward-a-little-bit-a-bit-more/]
 ---
 

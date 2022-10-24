@@ -1,8 +1,6 @@
 ---
 title: "How not to manage your internet server"
 date: "2007-09-25T15:45:04+00:00"
-categories: [General]
-tags: []
 aliases: [/how-not-to-manage-your-internet-server/]
 ---
 

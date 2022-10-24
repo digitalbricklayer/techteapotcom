@@ -1,8 +1,6 @@
 ---
 title: "Sourceforge open source awards 2009"
 date: "2009-06-23T11:15:51+00:00"
-categories: [General]
-tags: []
 aliases: [/sourceforge-open-source-awards-2009/]
 ---
 

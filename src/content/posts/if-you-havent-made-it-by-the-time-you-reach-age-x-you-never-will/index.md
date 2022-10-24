@@ -1,8 +1,6 @@
 ---
 title: "If you haven't made it by the time you reach age X, you never will"
 date: "2015-06-26T14:19:04+00:00"
-categories: [General]
-tags: []
 aliases: [/if-you-havent-made-it-by-the-time-you-reach-age-x-you-never-will/]
 ---
 

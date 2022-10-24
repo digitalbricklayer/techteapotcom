@@ -1,7 +1,6 @@
 ---
 title: "OpenNMS training in Europe"
 date: "2008-04-16T09:22:24+00:00"
-categories: [General]
 tags: ["OpenNMS"]
 aliases: [/opennms-training-in-europe/]
 ---

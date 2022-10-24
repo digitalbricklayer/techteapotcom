@@ -1,8 +1,6 @@
 ---
 title: "The evils of the dashboard merry-go-round"
 date: "2015-04-16T15:26:31+00:00"
-categories: [General]
-tags: []
 aliases: [/the-evils-of-the-dashboard-merry-go-round/]
 ---
 

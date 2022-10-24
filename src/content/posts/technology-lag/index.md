@@ -1,8 +1,6 @@
 ---
 title: "Technology lag"
 date: "2010-02-08T15:31:37+00:00"
-categories: [General]
-tags: []
 aliases: [/technology-lag/]
 ---
 

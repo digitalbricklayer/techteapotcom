@@ -1,8 +1,6 @@
 ---
 title: "PowerShell Community Extensions well worth a look"
 date: "2007-07-03T12:14:41+00:00"
-categories: [General]
-tags: [powershell]
 aliases: [/powershell-community-extensions-well-worth-a-look/]
 ---
 

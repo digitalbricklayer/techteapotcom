@@ -1,7 +1,6 @@
 ---
 title: "Tivoli vs open source netwo2010rk management buzz 2008"
 date: "2009-01-07T14:19:28+00:00"
-categories: [General]
 tags: [Tivoli]
 aliases: [/tivoli-vs-open-source-network-management-buzz-2008/]
 ---

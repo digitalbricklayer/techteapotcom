@@ -1,8 +1,6 @@
 ---
 title: "Survey results"
 date: "2008-10-20T14:26:25+00:00"
-categories: [General]
-tags: []
 aliases: [/survey-results/]
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Drupal 6 book recommendations"
 date: "2009-07-30T13:31:08+00:00"
-categories: [General]
 tags: [drupal, book]
 aliases: [/drupal-6-book-recommendations/]
 ---

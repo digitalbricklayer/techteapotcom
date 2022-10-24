@@ -1,7 +1,6 @@
 ---
 title: "The great domain telephone test"
 date: "2006-12-14T10:53:52+00:00"
-categories: [General]
 aliases: [/the-great-domain-telephone-test/]
 ---
 

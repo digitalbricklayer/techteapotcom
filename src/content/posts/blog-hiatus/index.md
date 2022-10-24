@@ -1,8 +1,6 @@
 ---
 title: "Blog hiatus"
 date: "2009-02-02T11:28:09+00:00"
-categories: [General]
-tags: []
 aliases: [/blog-hiatus/]
 ---
 

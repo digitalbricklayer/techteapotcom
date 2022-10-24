@@ -1,7 +1,6 @@
 ---
 title: "RiverMuse has arrived"
 date: "2009-07-28T09:58:15+00:00"
-categories: [General]
 tags: [Rivermuse]
 aliases: [/rivermuse-has-arrived/]
 ---

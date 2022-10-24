@@ -1,8 +1,6 @@
 ---
 title: "Ode to odeus Microsoft Visual Studio 2005"
 date: "2006-12-17T11:36:10+00:00"
-categories: [General]
-tags: []
 aliases: [/ode-to-odeus-microsoft-visual-studio-2005/]
 ---
 

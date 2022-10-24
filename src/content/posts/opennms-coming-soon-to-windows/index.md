@@ -1,7 +1,6 @@
 ---
 title: "OpenNMS coming soon to Windows"
 date: "2007-10-26T09:30:31+00:00"
-categories: [General]
 tags: ["OpenNMS"]
 aliases: [/opennms-coming-soon-to-windows/]
 ---

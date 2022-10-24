@@ -1,7 +1,6 @@
 ---
 title: "New AVTECH Room Alert 3W Box Opening"
 date: "2015-03-31T14:49:57+00:00"
-categories: [General]
 tags: ["AVTECH Software"]
 aliases: [/new-avtech-room-alert-3w-box-opening/]
 ---

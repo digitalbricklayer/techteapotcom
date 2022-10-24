@@ -1,7 +1,6 @@
 ---
 title: "Ethereal.com website back up"
 date: "2009-01-07T09:00:21+00:00"
-categories: [General]
 tags: [ethereal, wireshark]
 aliases: [/ethereal-website-back-up/]
 ---

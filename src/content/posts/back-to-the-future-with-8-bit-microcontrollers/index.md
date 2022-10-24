@@ -1,7 +1,6 @@
 ---
 title: "Back to the future with 8-bit microcontrollers"
 date: "2007-12-05T14:32:50+00:00"
-categories: [General]
 tags: [8-bit, microcontroller]
 aliases: [/back-to-the-future-with-8-bit-microcontrollers/]
 ---

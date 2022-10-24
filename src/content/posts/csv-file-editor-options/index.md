@@ -1,8 +1,6 @@
 ---
 title: "CSV file editor options"
 date: "2007-08-17T14:08:33+00:00"
-categories: [General]
-tags: []
 aliases: [/csv-file-editor-options/]
 ---
 

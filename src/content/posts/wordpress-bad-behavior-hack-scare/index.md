@@ -1,8 +1,6 @@
 ---
 title: "Wordpress Bad Behavior hack scare"
 date: "2007-12-06T12:06:34+00:00"
-categories: [General]
-tags: []
 aliases: [/wordpress-bad-behavior-hack-scare/]
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "It's usually the firewall/anti-virus software"
 date: "2008-12-04T14:54:35+00:00"
-categories: [General]
-tags: []
 aliases: [/its-usually-the-firewallanti-virus-software/]
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Servers you can cook with"
 date: "2009-03-23T13:30:10+00:00"
-categories: [General]
-tags: []
 aliases: [/servers-you-can-cook-with/]
 ---
 

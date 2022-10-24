@@ -1,7 +1,6 @@
 ---
 title: "Hyperic hyperbole"
 date: "2008-12-16T14:02:27+00:00"
-categories: [General]
 tags: [hyperic]
 aliases: [/hyperic-hyperbole/]
 ---

@@ -1,8 +1,6 @@
 ---
 title: "Innovation &amp; public funding"
 date: "2007-09-15T20:18:49+00:00"
-categories: [General]
-tags: []
 aliases: [/innovation-public-funding/]
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Hyperic joins SpringSource"
 date: "2009-05-06T09:32:27+00:00"
-categories: [General]
 tags: [hyperic]
 aliases: [/hyperic-joins-springsource/]
 ---

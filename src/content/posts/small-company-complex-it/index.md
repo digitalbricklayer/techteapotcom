@@ -1,8 +1,6 @@
 ---
 title: "Small company, complex IT"
 date: "2006-12-14T14:20:54+00:00"
-categories: [General]
-tags: []
 aliases: [/small-company-complex-it/]
 ---
 

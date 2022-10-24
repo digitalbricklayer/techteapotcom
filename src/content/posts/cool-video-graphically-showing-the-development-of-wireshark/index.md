@@ -1,7 +1,6 @@
 ---
 title: "Cool video graphically showing the development of Wireshark"
 date: "2010-02-10T10:22:34+00:00"
-categories: [General]
 tags: [wireshark]
 aliases: [/cool-video-graphically-showing-the-development-of-wireshark/]
 ---

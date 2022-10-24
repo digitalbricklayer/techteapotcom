@@ -2,8 +2,6 @@
 title: "Ohloh, a new kind of software directory?"
 date: "2007-08-02T09:01:35+00:00"
 lastmod: "2020-10-22"
-categories: [General]
-tags: []
 aliases: [/ohloh-a-new-kind-of-software-directory/]
 ---
 

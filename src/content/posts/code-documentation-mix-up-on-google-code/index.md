@@ -1,7 +1,6 @@
 ---
 title: "Code & documentation mix-up on Google Code"
 date: "2008-09-25T11:45:24+00:00"
-categories: [General]
 tags: ["google code"]
 aliases: [/code-documentation-mix-up-on-google-code/]
 ---

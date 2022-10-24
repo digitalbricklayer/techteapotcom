@@ -1,7 +1,6 @@
 ---
 title: "RiverMuse: open source enterprise fault management system"
 date: "2008-11-14T16:51:08+00:00"
-categories: [General]
 tags: [Rivermuse]
 aliases: [/rivermuse-open-source-enterprise-fault-management-system/]
 ---

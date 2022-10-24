@@ -1,7 +1,6 @@
 ---
 title: "Firefox RSS subscription bug"
 date: "2008-12-05T09:00:16+00:00"
-categories: [General]
 tags: [firefox]
 aliases: [/firefox-rss-subscription-bug/]
 ---

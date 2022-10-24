@@ -1,7 +1,6 @@
 ---
 title: "Rivermuse release iminent?"
 date: "2009-07-22T08:15:29+00:00"
-categories: [General]
 tags: [Rivermuse]
 aliases: [/rivermuse-release-iminent/]
 ---

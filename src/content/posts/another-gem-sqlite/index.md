@@ -1,7 +1,6 @@
 ---
 title: "Another gem SQLite"
 date: "2006-12-07"
-categories: [General]
 aliases: [/another-gem-sqlite/]
 ---
 

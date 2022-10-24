@@ -2,8 +2,6 @@
 title: "Subscribing to blogs the easy way"
 date: "2008-11-19T09:00:02+00:00"
 lastmod: "2015-03-01"
-categories: [General]
-tags: []
 aliases: [/subscribing-to-blogs-the-easy-way/]
 ---
 

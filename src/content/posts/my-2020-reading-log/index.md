@@ -1,8 +1,6 @@
 ---
 title: "My 2020 Reading Log"
 date: "2021-01-18"
-categories: [General]
-tags: []
 series: ["Reading Log"]
 ---
 

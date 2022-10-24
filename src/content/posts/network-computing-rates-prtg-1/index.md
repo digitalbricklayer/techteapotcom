@@ -1,8 +1,7 @@
 ---
 title: "Network Computing rates PRTG #1"
 date: "2009-11-16T15:14:05+00:00"
-categories: [General]
-tags: [prtg]
+tags: [PRTG]
 aliases: [/network-computing-rates-prtg-1/]
 ---
 

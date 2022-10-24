@@ -1,8 +1,6 @@
 ---
 title: "The *really* ultimate low power server"
 date: "2008-10-27T10:59:35+00:00"
-categories: [General]
-tags: []
 aliases: [/the-really-ultimate-low-power-server/]
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Code performance tuning in .NET"
 date: "2008-07-02T16:48:53+00:00"
-categories: [General]
 tags: ["ado.net"]
 aliases: [/code-performance-tuning-in-net/]
 ---

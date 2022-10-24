@@ -2,8 +2,6 @@
 title: "Things I Wished I'd Known Before Developing Xsensior Live"
 date: "2015-03-09T09:00:18+00:00"
 lastmod: "2015-03-10"
-categories: [General]
-tags: []
 aliases: [/things-i-wished-id-known-before-developing-xsensior-live/]
 ---
 

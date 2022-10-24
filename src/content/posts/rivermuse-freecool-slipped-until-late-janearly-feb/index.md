@@ -1,7 +1,6 @@
 ---
 title: "RiverMuse FreeCool slipped until late Jan/early Feb"
 date: "2009-01-08T09:00:10+00:00"
-categories: [General]
 tags: [Rivermuse]
 aliases: [/rivermuse-freecool-slipped-until-late-janearly-feb/]
 ---

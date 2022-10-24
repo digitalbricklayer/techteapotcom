@@ -1,8 +1,6 @@
 ---
 title: "Introduction to the cloud for the enterprise"
 date: "2008-11-10T10:11:40+00:00"
-categories: [General]
-tags: []
 aliases: [/introduction-to-the-cloud-for-the-enterprise/]
 ---
 

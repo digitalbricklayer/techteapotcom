@@ -1,7 +1,6 @@
 ---
 title: "How Green Is Your Valley?"
 date: "2007-10-05T08:30:14+00:00"
-categories: [General]
 tags: ["data center"]
 aliases: [/how-green-is-your-valley/]
 ---

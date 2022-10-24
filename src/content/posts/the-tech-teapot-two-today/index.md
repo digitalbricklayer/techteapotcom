@@ -1,8 +1,6 @@
 ---
 title: "The Tech Teapot two today!"
 date: "2008-11-27T08:00:11+00:00"
-categories: [General]
-tags: []
 aliases: [/the-tech-teapot-two-today/]
 ---
 

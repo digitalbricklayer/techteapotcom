@@ -1,8 +1,6 @@
 ---
 title: "The big IT worker's bug bear"
 date: "2008-08-29T09:45:04+00:00"
-categories: [General]
-tags: []
 aliases: [/the-big-it-workers-bug-bear/]
 ---
 

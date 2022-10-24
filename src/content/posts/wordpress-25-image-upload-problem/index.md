@@ -1,8 +1,6 @@
 ---
 title: "Wordpress 2.5 image upload problem"
 date: "2008-04-07T16:35:52+00:00"
-categories: [General]
-tags: []
 aliases: [/wordpress-25-image-upload-problem/]
 ---
 

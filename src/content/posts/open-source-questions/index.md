@@ -1,8 +1,6 @@
 ---
 title: "Open source questions..."
 date: "2009-07-20T11:50:59+00:00"
-categories: [General]
-tags: []
 aliases: [/open-source-questions/]
 ---
 

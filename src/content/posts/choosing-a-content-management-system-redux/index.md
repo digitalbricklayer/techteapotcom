@@ -1,7 +1,6 @@
 ---
 title: "Choosing a content management system redux"
 date: "2009-03-13T14:27:30+00:00"
-categories: [General]
 tags: ["CMS", drupal]
 aliases: [/choosing-a-content-management-system-redux/]
 ---

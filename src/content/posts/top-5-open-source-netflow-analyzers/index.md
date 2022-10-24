@@ -1,7 +1,6 @@
 ---
 title: "Top 5 Open Source NetFlow Analyzers"
 date: "2013-07-29T12:39:42+00:00"
-categories: [General]
 tags: [NetFlow]
 aliases: [/top-5-open-source-netflow-analyzers/]
 ---

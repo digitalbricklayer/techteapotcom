@@ -1,8 +1,6 @@
 ---
 title: "Google Chrome OS from a sys admin perspective"
 date: "2009-07-09T09:33:26+00:00"
-categories: [General]
-tags: []
 aliases: [/google-chrome-os-from-a-sys-admin-perspective/]
 ---
 

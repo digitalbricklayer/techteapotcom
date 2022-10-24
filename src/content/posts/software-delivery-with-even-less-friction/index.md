@@ -1,8 +1,6 @@
 ---
 title: "Software delivery with even less friction"
 date: "2013-12-18T09:00:34+00:00"
-categories: [General]
-tags: []
 aliases: [/software-delivery-with-even-less-friction/]
 ---
 

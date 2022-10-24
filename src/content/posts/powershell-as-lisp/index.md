@@ -1,8 +1,6 @@
 ---
 title: "Powershell as Lisp"
 date: "2008-08-12T15:47:19+00:00"
-categories: [General]
-tags: [powershell]
 aliases: [/powershell-as-lisp/]
 ---
 

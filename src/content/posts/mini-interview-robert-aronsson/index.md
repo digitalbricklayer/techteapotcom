@@ -1,7 +1,6 @@
 ---
 title: "Mini interview: Robert Aronsson"
 date: "2007-10-08T09:28:38+00:00"
-categories: [General]
 tags: [Intellipool]
 aliases: [/mini-interview-robert-aronsson/]
 ---
