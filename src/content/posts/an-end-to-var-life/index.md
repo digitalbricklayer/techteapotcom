@@ -84,19 +84,19 @@ Around about 2010, we noticed a gap in the products we were selling. There was r
 
 {{< figure src="images/EnvironmentAd.gif#floatright" alt="Xsensior online advert" >}}
 
-Xsensior Lite was born to fit into that brief. Xsensior Lite was a cheap USB thermometer combined with a Microsoft Windows based GUI to log and display the data as well as alert when things go wrong. In addition, we added a cloud version of the software called Xsensior Live. Read the [Things I Wished I'd Known Before Developing Xsensior Live]({{< ref "/posts/things-i-wished-id-known-before-developing-xsensior-live/index.md" >}}) post for more details about my learnings from developing Xsensior Live as well as a description of the system architecture.
+Xsensior Lite was born to fit into minimum configuration brief. Xsensior Lite was a cheap USB thermometer combined with a Microsoft Windows based GUI to log and display the data as well as alert when things go wrong. We added [a cloud version of the software called Xsensior Live]({{< ref "/posts/things-i-wished-id-known-before-developing-xsensior-live/index.md" >}}) not long afterwards.
 
-Producing the software was one of the highlights of my time at OPENXTRA. It was an exciting time when everything seemed possible. As ever, reality has a habit of getting in the way. The big problem we had was that no one had any electronic engineering skills. We could do the software side but we just didn't have the hardware ability to design our own gadgets. This became quite a big limiting factor on Xsensior and effectively killed it when we were unable to source the USB thermometers any more.
+Producing the software was one of the highlights of my time at OPENXTRA. It was an exciting time when everything seemed possible. As ever, reality has a habit of getting in the way. The big problem we had was that no one had any electronic engineering skills. We could do the software side but we just didn't have the hardware ability to design our own gadgets. This became quite a big limiting factor on Xsensior and effectively killed it when we were unable to source the hardware devices any more.
 
-It was a missed opportunity because customers absolutely loved the product.
+It was a *missed* opportunity because customers absolutely loved the product.
 
 ## Google Gave and Google Hath Taken Away
 
-We had a good run. From mid 2004 until 2012 the website was an absolute ranking machine. I could put up a page and in a few hours we'd be top 5 for it on Google. Quite often even in relatively competitive areas too. You do begin to take it for granted after a while.
+We had a good run. From mid 2004 until 2012 the website was an absolute ranking machine. I could put up a page and in an hour or two we'd be top 5 for it on Google. Quite often even in relatively competitive areas too. You do begin to take it for granted after a while.
 
-In 2012 we were hit pretty hard by one of Google's periodic updates. Google makes changes to their ranking algorithm and some websites go up and some go down. It was our turn to go down. We were not dropped down by much but the difference between ranking in first place for a search and ranking in third place is the difference between night and day.
+In 2012 we were hit pretty hard by one of Google's periodic updates. Google makes changes to their ranking algorithm and some websites go up and some go down. It was our turn to go down. We were not dropped down by much but the difference between appearing in first place and third place is the difference between night and day.
 
-Things are a bit different these days, the difference isn't so marked because all organic listings are so far down the page underneath all of the very large paid adverts. The result in \#1 position in 2022 is in the same place as \#3 or lower from the 2008 search results. (As an aside, see for a comparison of one [Google search result between 2001, 2008 and 2022]({{< ref "/posts/open-source-network-management-in-google-2001-vs-google-2008/index.md" >}}). You will notice just how far down the page the \#1 result is in the 2022 results.)
+Things are a bit different these days, the difference aren't so marked because all organic listings are so far down the page underneath all of the very large paid adverts. The result in \#1 position in 2022 is in the same place as \#3 or lower from the 2008 search results. (As an aside, see for a comparison of one [Google search result between 2001, 2008 and 2022]({{< ref "/posts/open-source-network-management-in-google-2001-vs-google-2008/index.md" >}}). You will notice just how far down the page the \#1 result is in the 2022 results.)
 
 ## COVID-19
 
@@ -104,7 +104,7 @@ It was only 23rd March 2020. But it feels like a lifetime ago. I knew something 
 
 You will not be surprised that COVID had some pretty large effects upon the business. First of all the environment monitoring end of the business pretty well disappeared overnight. Monitoring the server room became rather a small concern. And the sales of environment monitors soon reflected that.
 
-Thankfully, being able to remote control the power to various devices located in the office whilst everybody is working from home became a much *bigger* concern. The only problem was that we had an early foretaste of the pernicious COVID supply problems. Because literally everybody in the world had exactly the same requirement and the manufacturers could not keep up with demand.
+Thankfully, being able to remote control the power to various devices located in the office whilst everybody is working from home became a *huge* concern. The only problem was that we had an early foretaste of the pernicious COVID supply problems. Because literally everybody in the world had exactly the same requirement and the manufacturers could not keep up with demand.
 
 If it hadn't been for remote power switch sales in 2020, this post would have been written much *sooner*. :wink:
 
