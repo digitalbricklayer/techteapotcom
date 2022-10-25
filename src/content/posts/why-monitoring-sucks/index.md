@@ -2,7 +2,6 @@
 title: "Why Monitoring Sucks"
 date: "2013-01-09T17:36:26+00:00"
 categories: ["Network Management"]
-tags: []
 aliases: [/why-monitoring-sucks/]
 ---
 

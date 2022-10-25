@@ -3,7 +3,6 @@ title: "Tracking live network cables"
 date: "2007-08-24T09:01:39+00:00"
 lastMod: "2020-10-13"
 categories: [Cabling]
-tags: []
 aliases: [/tracking-live-network-cables/]
 ---
 

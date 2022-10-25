@@ -2,7 +2,6 @@
 title: "Network management's new wave"
 date: "2007-06-13T09:01:06+00:00"
 categories: ["Network Management", "Open Source"]
-tags: []
 aliases: [/network-managements-new-wave/]
 ---
 

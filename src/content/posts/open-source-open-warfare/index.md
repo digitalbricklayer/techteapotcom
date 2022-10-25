@@ -2,7 +2,6 @@
 title: "Open source, open conflict?"
 date: "2014-01-29T12:54:07+00:00"
 categories: ["Open Source"]
-tags: []
 aliases: [/open-source-open-warfare/]
 ---
 

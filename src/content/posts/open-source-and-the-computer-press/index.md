@@ -2,7 +2,6 @@
 title: "Open source and the computer press"
 date: "2007-07-16T12:11:23+00:00"
 categories: ["Open Source"]
-tags: []
 aliases: [/open-source-and-the-computer-press/]
 ---
 

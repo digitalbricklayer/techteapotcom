@@ -2,7 +2,6 @@
 title: "Introducing the Open Systems Management Consortium"
 date: "2007-05-24T10:29:22+00:00"
 categories: ["Network Management", "Open Source"]
-tags: []
 aliases: [/introducing-the-open-systems-management-consortium/]
 ---
 

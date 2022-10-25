@@ -2,7 +2,6 @@
 title: "New 6 Point Checklist for Cables"
 date: "2008-07-01T08:30:02+00:00"
 categories: [Cabling]
-tags: []
 aliases: [/new-6-point-checklist-for-cables/]
 ---
 

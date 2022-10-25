@@ -2,7 +2,6 @@
 title: "European vs American views on open source"
 date: "2008-09-25T15:28:16+00:00"
 categories: ["Open Source"]
-tags: []
 aliases: [/european-vs-american-views-on-open-source/]
 ---
 

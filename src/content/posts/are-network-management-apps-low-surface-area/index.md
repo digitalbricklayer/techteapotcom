@@ -2,7 +2,6 @@
 title: 'Do enterprise network management apps have a "low surface area"?'
 date: "2007-06-15T09:01:21+00:00"
 categories: ["Network Management"]
-tags: []
 aliases: [/are-network-management-apps-low-surface-area/]
 ---
 

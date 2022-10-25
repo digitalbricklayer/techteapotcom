@@ -2,7 +2,6 @@
 title: "Introducing easy network simulation"
 date: "2009-05-28T16:05:36+00:00"
 categories: ["Network Simulation"]
-tags: []
 aliases: [/introducing-easy-network-simulation/]
 ---
 

@@ -2,7 +2,6 @@
 title: '"New wave" challenging the Big 4'
 date: "2007-08-03T09:01:04+00:00"
 categories: ["Network Management", "Open Source"]
-tags: []
 aliases: [/new-wave-challenging-the-big-4/]
 ---
 

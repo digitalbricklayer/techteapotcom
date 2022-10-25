@@ -2,7 +2,6 @@
 title: "In depth open source network management comparison"
 date: "2008-09-03T10:33:10+00:00"
 categories: ["Network Management"]
-tags: []
 aliases: [/in-depth-open-source-network-management-comparison/]
 ---
 

@@ -2,7 +2,6 @@
 title: "IT run the servers, facilities run the air-con..."
 date: "2007-10-10T16:21:47+00:00"
 categories: ["Data Center"]
-tags: []
 aliases: [/it-run-the-servers-facilities-run-the-air-con/]
 ---
 

@@ -2,7 +2,6 @@
 title: "Everything Works as Expected but Doesn't Work How I Want"
 date: "2013-08-01T10:49:05+00:00"
 categories: ["Event Correlation"]
-tags: []
 aliases: [/everything-works-as-expected-but-doesnt-work-how-i-want/]
 ---
 
