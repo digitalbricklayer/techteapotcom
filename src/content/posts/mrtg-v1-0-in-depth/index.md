@@ -1,7 +1,8 @@
 ---
 title: "An in-depth examination of MRTG v1.0"
-date: "2022-10-24"
-summary: "An in-depth examination of MRTG v1.0 and how and why it came into being and how it took advantage of the emerging public internet to conquer the world."
+date: "2022-10-25"
+description: "An in-depth examination of MRTG v1.0 and how and why it came into being and how it took advantage of the emerging public internet to conquer the world."
+lead: "An in-depth examination of MRTG v1.0 and how and why it came into being and how it took advantage of the emerging public internet to conquer the world."
 thumbnail: "images/mrtg_logo.gif"
 categories:
   - Open Source
@@ -13,7 +14,9 @@ series:
 draft: true
 ---
 
-[MRTG](https://oss.oetiker.ch/mrtg/) is an open source network management tool originally developed by Tobias Oetiker in the spring of 1995 whilst he was working as a system administrator at [De Montfort University](https://www.dmu.ac.uk/), Leicester, UK.
+<!--more-->
+
+[MRTG](https://oss.oetiker.ch/mrtg/) or Multi Router Traffic Grapher is an open source network management tool originally developed by [Tobias Oetiker](https://blog.oetiker.ch/) in the spring of 1995 whilst he was working as a system administrator at [De Montfort University](https://www.dmu.ac.uk/), Leicester, UK.
 
 Tobias Oetiker was originally motivated to write MRTG in order to provide insight into the usage of the university's new internet link. Back at the dawn of the public internet, links to the internet were extremely slow. If you had students or faculty complaining about internet speed, it was helpful to know whether the slowdown was caused by a saturated link or some other problem.
 
@@ -57,21 +60,17 @@ The story of a particular location can be described in the various trenches of a
 
 ## Network management landscape
 
-MRTG was released into an internet that was before Google, Facebook and even Amazon. The web did exist but there were very few websites.
+MRTG was released into an internet that was before Google, Facebook and even Amazon. The web did exist but it was still new with very few of the websites that exist now.
 
 ## MRTG architecture
 
-MRTG version 1.0 could not be much simpler. The software consists of a single executable called `mrtg` written in Perl, a sample configuration file and rudimentary documentation (see figure 1) in the form of a web page and some images to be used in the outputted html pages.
+MRTG version 1.0 could not be much simpler. The software consists of a single executable called `mrtg` written in Perl, a sample configuration file and rudimentary documentation (see figure 1 below) in the form of a web page and some images to be used in the outputted html pages.
 
-In order to install MRTG you first need to copy the sample configuration file and modify it to point to a local router supporting SNMP. You then need to schedule a cron job to run every 5 minutes to run the MRTG executable with the configuration file as the first parameter. The `mrtg` executable will run and query your local router via SNMP for the in/out octets and slowly build a series of graphs embedded onto a single web page. If you have multiple routers, create a configuration file for each one and a new cron job. Your output will be a series of web pages with the in/out octets displayed in a series of graphs as well as a file with the raw time series data.
+In order to install MRTG you first need to copy the sample configuration file and modify it to point to a local router supporting SNMP. You then need to schedule a cron job to run every 5 minutes to run the MRTG executable with the configuration file as the first parameter. The `mrtg` executable will run and query your router via SNMP for the in/out octets and slowly build a series of graphs embedded onto a single web page. If you have multiple routers, create a configuration file for each one and a new cron job. Your output will be a series of web pages with the in/out octets displayed in a series of graphs as well as a file with the raw time series data.
 
 {{< figure src="images/mrtg-help-v1-0.png#center"
            alt="MRTG v1.0 documentation"
            caption="Figure 1: MRTG v1.0 documentation" >}}
-
-{{< figure src="images/dmu-ac-uk-mrtg-jips.png#center"
-           alt="De Montfort University internet link throughput graphs"
-           caption="Figure 2: De Montfort University internet link throughput graphs last updated 16th October 1995" >}}
 
 ## Dependencies
 
@@ -79,8 +78,16 @@ In order for MRTG to exist a number of tools needed to exist. The following tool
 
 - *cmu-snmp* - a set of command line tools for interacting with SNMP enabled devices as well as an extensible SNMP agent (eventually morphed into [ucd-snmp and then net-snmp](http://www.net-snmp.org/about/history.html)
 - *netpbm* - a [very old set of command line tools](http://netpbm.sourceforge.net/) for image manipulation harking back to the 1980s when a vast number of image formats proliferated and a desperate need emerged to be able to convert between all of the different formats
-- *perl* - the undisputed language of the web back in the 1990s
-- *cron* - a unix tool for running episodic jobs on unix systems. MRTG expects to be run every 5 minutes
+- *perl* - the [undisputed language of the web](https://opensource.com/life/16/11/perl-and-birth-dynamic-web) back in the 1990s
+- *cron* - a built-in Unix tool for running episodic jobs. MRTG expects to be run every 5 minutes
+
+## Output
+
+MRTG outputs a web page embedded with graphs detailing some time series data.
+
+{{< figure src="images/dmu-ac-uk-mrtg-jips.png#center"
+           alt="De Montfort University internet link throughput graphs"
+           caption="Figure 2: De Montfort University internet link throughput graphs last updated 16th October 1995" >}}
 
 Time series output
 
