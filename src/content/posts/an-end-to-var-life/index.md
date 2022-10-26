@@ -88,6 +88,8 @@ Xsensior Lite was born to fit into minimum configuration brief. Xsensior Lite wa
 
 Producing the software was one of the highlights of my time at OPENXTRA. It was an exciting time when everything seemed possible. As ever, reality has a habit of getting in the way. The big problem we had was that no one had any electronic engineering skills. We could do the software side but we just didn't have the ability to design our own gadgets. This became quite a big limiting factor on Xsensior and effectively killed it when we were unable to source the hardware devices.
 
+{{< figure src="images/xsensior-live-25-home.png#center" alt="Xsensior Live home" caption="Figure 4: Xsensior Live Home Page" >}}
+
 It was a *missed* opportunity because customers absolutely loved the product.
 
 ## Google Gave and Google Hath Taken Away
