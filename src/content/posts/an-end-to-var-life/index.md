@@ -1,12 +1,11 @@
 ---
 title: "(An End to) VAR Life"
 description: "My reflections on nearly 20 years with OPENXTRA Limited a Value Added Reseller I co-founded all the way back in early 2003."
-date: 2022-10-20T09:10:53+01:00
+lead: "My reflections on nearly 20 years with OPENXTRA Limited a Value Added Reseller I co-founded all the way back in early 2003."
+date: 2022-10-26
 thumbnail: "/images/openxtra-logo.png"
 draft: true
 ---
-
-My reflections on nearly 20 years with OPENXTRA Limited a Value Added Reseller I co-founded all the way back in early 2003.
 
 <!--more-->
 
@@ -28,7 +27,7 @@ Our one lucky break, in spite of all the effort we put into trying to get it, wa
 
 This period in the company I look back with a huge amount of fondness. There was a real mission all four of us felt and we were all determined to get there.
 
-I didn't get paid for more than a year so I remember a strange combination of being completely enthused with our mission and being completely *skint*. In fact, I sold pretty well everything I owned at the time. If I still own anything from back then, it is because I couldn't find anybody to sell it to. :smile:
+I didn't get paid for more than a year so, I remember a strange combination of being completely enthused with our mission and being completely *skint*. In fact, I sold pretty well everything I owned at the time. If I still own anything from back then, it is because I couldn't find anybody to sell it to. :smile:
 
 ## VAR Life Begins
 
