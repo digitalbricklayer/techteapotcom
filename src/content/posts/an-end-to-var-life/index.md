@@ -82,11 +82,11 @@ We put a lot of effort into building a customer base for some of these companies
 
 Around about 2010, we noticed a gap in the products we were selling. There was room for a simple temperature measuring device that required the very minimum of configuration.
 
-{{< figure src="images/EnvironmentAd.gif#floatright" alt="Xsensior online advert" >}}
-
 Xsensior Lite was born to fit into minimum configuration brief. Xsensior Lite was a cheap USB thermometer combined with a Microsoft Windows based GUI to log and display the data as well as alert when things go wrong. We added [a cloud version of the software called Xsensior Live]({{< ref "/posts/things-i-wished-id-known-before-developing-xsensior-live/index.md" >}}) not long afterwards.
 
-Producing the software was one of the highlights of my time at OPENXTRA. It was an exciting time when everything seemed possible. As ever, reality has a habit of getting in the way. The big problem we had was that no one had any electronic engineering skills. We could do the software side but we just didn't have the hardware ability to design our own gadgets. This became quite a big limiting factor on Xsensior and effectively killed it when we were unable to source the hardware devices any more.
+{{< figure src="images/xsensior-lite.png#center" alt="Xsensior Lite GUI" caption="Figure 3: Xsensior Lite Graphical Interface Running on Microsoft Windows" >}}
+
+Producing the software was one of the highlights of my time at OPENXTRA. It was an exciting time when everything seemed possible. As ever, reality has a habit of getting in the way. The big problem we had was that no one had any electronic engineering skills. We could do the software side but we just didn't have the ability to design our own gadgets. This became quite a big limiting factor on Xsensior and effectively killed it when we were unable to source the hardware devices.
 
 It was a *missed* opportunity because customers absolutely loved the product.
 
