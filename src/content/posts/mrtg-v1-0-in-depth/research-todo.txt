@@ -1,4 +1,0 @@
-1. MRTG in context - what else was around in 1995?
-2. Output - what output did MRTG create?
-3. Revision history up until v2
-4. What ecosystem grew up around MRTG? Competitors, add-ons etc
