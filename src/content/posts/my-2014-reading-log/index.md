@@ -52,7 +52,7 @@ Mark Ellen: **Rock Stars Stole My Life!** (Non-Fiction)
 
 John Crowley: **The Deep** (Fiction)
 
-Neil Gaiman: **The Ocean at the End of the Lane **(Fiction)
+Neil Gaiman: **The Ocean at the End of the Lane** (Fiction)
 
 Philip K. Dick: **A Maze of Death** (Fiction)
 

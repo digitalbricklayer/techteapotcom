@@ -27,7 +27,7 @@ Robert Llewellyn: **News from the Clouds** (Fiction)
 
 Claire North: **The First Fifteen Lives of Harry August** (Fiction)
 
-Stephen Baxter: **Proxima**
+Stephen Baxter: **Proxima** (Fiction)
 
 <span style="color: #ff0000;">June</span>
 
