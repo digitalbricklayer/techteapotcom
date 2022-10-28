@@ -6,13 +6,13 @@ tags: ["network tap"]
 aliases: [/budget-network-taps/]
 ---
 
-{{< figure src="ntap1.jpg#floatright" alt="NTap Network Tap" >}}
-
 Sometimes you fall over a product and it blows you away. Network taps have until now been exotic hardware affordable only by large IT departments with the budget to match.
 
-Not any more! [nmon](http://www.nmon.net/) have brought out a range of [low cost network taps and network traffic analysers](http://www.ntop.org/products/nbox-2/nbox/) with [NetFlow](https://en.wikipedia.org/wiki/Netflow) support. Looks like network taps just got affordable to the masses.
+{{< figure src="ntap1.jpg#floatright" alt="NTap Network Tap" >}}
 
-Why should you be interested? They're just enterprise doodads aren't they?
+Not any more! nmon have brought out a range of [low cost network taps and network traffic analysers](http://www.ntop.org/products/nbox-2/nbox/) with [NetFlow](https://en.wikipedia.org/wiki/Netflow) support. Looks like network taps just got affordable to the masses.
+
+Why should you be interested? They're just enterprise doodahs aren't they?
 
 Traditionally they have been enterprise tools...but that's mainly because of price, not because large enterprises are the only ones with a requirement for them.
 
