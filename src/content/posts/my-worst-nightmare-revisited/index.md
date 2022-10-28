@@ -1,7 +1,7 @@
 ---
 title: "My Worst Nightmare Revisited"
 date: 2022-10-27
-lead: "It is a testament to how far consumer electronics has come in the last 20 years that I don't get pestered any more about fixing PCs. Why is that?"
+lead: "It is a testament to how far consumer electronics has come in the last 20 years that I don't get pestered any more about fixing PCs."
 ---
 
 <!--more-->
@@ -12,7 +12,7 @@ I just read the [my worst nightmare]({{< ref "posts/my-worst-nightmare/index.md"
 
 Twenty years ago, if you wanted access to the internet you needed a PC of some kind. In all probability it would run Microsoft Windows.
 
-Microsoft Windows going back 20 years was incredibly insecure. Most people ran their PC in logged into an admin account giving all programs unfettered access to the entire system. If you visited a website or clicked on an email attachment, whatever was loaded on the page could do pretty much as it wished.
+Microsoft Windows going back 20 years was incredibly insecure. Most people ran their PC logged into an admin account giving all programs unfettered access to the entire system. If you visited a website or clicked on an email attachment, whatever was loaded on the page could do pretty much as it wished.
 
 Not surprisingly, nefarious people took advantage of this digital wild west.
 
