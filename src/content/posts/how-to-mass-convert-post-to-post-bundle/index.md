@@ -57,10 +57,8 @@ for markdown_file in non_bundled_posts:
     os.mkdir(full_bundle_dir)
 
     # Move the non-bundle markdown file into the bundle directory
-    x = os.path.join(full_bundle_dir, "index.md")
-    print("src:", markdown_path)
-    print("dest:", x)
-    os.rename(markdown_path, x)
+    destination_path = os.path.join(full_bundle_dir, "index.md")
+    os.rename(markdown_path, destination_path)
 ```
 
 To run the script, simply copy it locally. You will need to modify the directory where the script finds the posts. Make the change on line `18` where it says `src/content/posts`. You probably need to change it to `content/posts`. Then run the script from your site's root directory.
