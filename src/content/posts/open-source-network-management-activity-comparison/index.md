@@ -8,7 +8,7 @@ aliases: [/open-source-network-management-activity-comparison/]
 
 The recent [controversy over the ICINGA Nagios fork]({{< ref "/posts/nagios-begets-icinga/index.md" >}}) brought into focus the relative activity of the various network management projects.
 
-One of the main complaints aimed at Nagios [was the slow speed of development](http://www.vertical-visions.de/2009/05/06/icinga-is-a-nagios-fork/). The following graphs, taken from the open source directory ohloh, show the number of commiters and the number of commits over the last three years for [Nagios](http://www.nagios.org/), [OpenNMS](https://www.opennms.org/) and [Wireshark](http://www.wireshark.org/). I can't vouch for how accurate the stats are but I think they do provide some insight into the development processes of the respective projects.
+One of the main complaints aimed at Nagios [was the slow speed of development](http://www.vertical-visions.de/2009/05/06/icinga-is-a-nagios-fork/). The following graphs, taken from the open source directory ohloh, show the number of committers and the number of commits over the last three years for [Nagios](http://www.nagios.org/), [OpenNMS](https://www.opennms.org/) and [Wireshark](http://www.wireshark.org/). I can't vouch for how accurate the stats are but I think they do provide some insight into the development processes of the respective projects.
 
 {{< gallery match="images/*"
             sortOrder="desc"

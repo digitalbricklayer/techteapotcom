@@ -11,4 +11,4 @@ Whilst I've no intention of working on TimeTag, I figured that it would be usefu
 
 Feel free to fork...
 
-***Update June 2013***: moved the code over to GitHub to make things easier to fork.
+**Update June 2013**: moved the code over to GitHub to make things easier to fork.

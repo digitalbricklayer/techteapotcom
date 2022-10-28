@@ -72,7 +72,7 @@ The simplest strategy is to isolate the problem. You need to focus solely on you
 
 Most programmers end up with a disk full of small projects used to solve technical problems. A useful side effect is that they make asking good questions on Q&A sites a lot easier too.
 
-If you have doubts about a particular technical area at the beginning of a project, it can help to tackle that right at the start. Then if you do get stuck you will at least be brimming full of enthusiam and therefore be less likely to give up.
+If you have doubts about a particular technical area at the beginning of a project, it can help to tackle that right at the start. Then if you do get stuck you will at least be brimming full of enthusiasm and therefore be less likely to give up.
 
 ## No Version Control
 
@@ -80,7 +80,7 @@ Version control systems give you a lot of benefits whether working on your own o
 
 I remember a lot of projects when I first started programming, when source control was not commonly used by PC programmers, a lot of projects were destroyed by experiments gone bad. I'd have an idea for a change and then hours or days into the change I'd want to abandon the changes but couldn't. Either I somehow got the project back to a position I wanted it to be, or I'd abandon it. There is nothing worse than getting into a change and knowing you can't go back.
 
-There are no excuses for not using source control now. There are loads of providers, most with free plans, and the tooling is great too. You don't even have to learn the command line anymore, Visual Studio and lots of other IDEs have source control tools baked right in.
+There are no excuses for not using source control now. There are loads of providers, most with free plans, and the tooling is great too. You don't even have to learn the command line any more, Visual Studio and lots of other IDEs have source control tools baked right in.
 
 ## Summary
 

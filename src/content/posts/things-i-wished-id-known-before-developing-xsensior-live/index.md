@@ -75,4 +75,4 @@ Next would be the client side. The more resilient you can make the client, the e
 
 Third would be to make sure your site is returning a pucka error HTTP status code. There is no point in displaying some kind of error message and then returning a 2XX status code. Your monitor in all probability is just looking for a status code in the 2XX range and that's it. If you fail, then you must return an appropriate error code, something in the 5XX range. There is absolutely no point in having monitoring that does not pick up errors. Obvious I know, but it does happen. Writing a test for each controller to get one of your stubs to throw and then ensure a 5XX status code does not take very long.
 
-***Update 10 March 2015***: Adds the status code should be in the 5XX range section in the conclusion.
+**Update 10 March 2015**: Adds the status code should be in the 5XX range section in the conclusion.

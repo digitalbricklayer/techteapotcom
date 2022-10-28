@@ -4,7 +4,7 @@ date: "2013-08-21T15:29:12+00:00"
 aliases: [/social-animals/]
 ---
 
-I volunteered for a rabbit sanctuary a few weeks ago. I stumbed onto [Cample Nibble's website](http://campnibble.com/) and saw the advert for volunteers to help with packing groceries in a supermarket.
+I volunteered for a rabbit sanctuary a few weeks ago. I stumbled onto [Cample Nibble's website](http://campnibble.com/) and saw the advert for volunteers to help with packing groceries in a supermarket.
 
 Looking back on it, my abiding memory is the social difficulty a lot of people had when dealing with a charity bag packer.
 

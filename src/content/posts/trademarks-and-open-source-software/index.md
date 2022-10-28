@@ -34,6 +34,6 @@ If you wrote a book about an open source project, you may have freely used the p
 
 People often get upset when a project name that was previously as open as the project source code, changes to being proprietary.
 
-**Update 1**: Ethan Galstad on [why Nagios requres a trademark](http://community.nagios.org/2009/05/11/the-nagios-trademark-policy-why-its-necessary/).
+**Update 1**: Ethan Galstad on [why Nagios requires a trademark](http://community.nagios.org/2009/05/11/the-nagios-trademark-policy-why-its-necessary/).
 
 **Update 2**: Fleshed matters out quite a lot. All a bit vague before.

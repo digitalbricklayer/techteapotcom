@@ -17,4 +17,4 @@ Whatever the legalities involved, and I am not legally qualified to comment eith
 
 The sad thing is that there is a lot in SmartStore.NET to like. Wouldn't a better option have been to merge the changes into NOP Commerce so that everybody wins?
 
-Update: if you are after a .NET based e-commerce system then [Virto Commerce](http://virtocommerce.com/) is worth a look. Looks to be maturing qickly.
+Update: if you are after a .NET based e-commerce system then [Virto Commerce](http://virtocommerce.com/) is worth a look. Looks to be maturing quickly.

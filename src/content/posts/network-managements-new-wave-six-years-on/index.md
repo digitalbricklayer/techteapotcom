@@ -15,7 +15,7 @@ Open source wasn't new to the network management scene in 2007, there had been w
 
 What was different was combining open source licensing with big wads of venture capital. A total of $79.2M has been invested into the *new wave* over the last 9 years.
 
-What has been the effect on network management software of the combinaton of open source licensing and oodles of venture capital?
+What has been the effect on network management software of the combination of open source licensing and oodles of venture capital?
 
 ## Current state of play
 

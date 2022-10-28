@@ -10,7 +10,7 @@ I've had a look at the great work the [Ruby on Rails](http://www.rubyonrails.org
 
 Learning Ruby is too big an investment for the simple application I want to write.
 
-PHP does indeed have a number of Rails like frameworks. Unfortunately, none are as mature as Rails. Pitty. PHP 5 is a very capable object oriented language and needs a decent framework to make it competitive.
+PHP does indeed have a number of Rails like frameworks. Unfortunately, none are as mature as Rails. Pity. PHP 5 is a very capable object oriented language and needs a decent framework to make it competitive.
 
 I've had a look at the [Zend Framework](http://framework.zend.com/), [Cake PHP](http://www.cakephp.org/) and [Prado](http://www.pradosoft.com/). All three are nearly there, but not quite.
 

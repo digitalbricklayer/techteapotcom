@@ -18,7 +18,7 @@ How many times do you check some dashboard and then action something? Me? Very r
 
 I call this obsessive need to view all of my various dashboards my **dashboard merry-go-round**.
 
-The *merry-go-round* is particularly a problem with real time stats. When [Google Analytics implemented real time stats](http://analytics.blogspot.co.uk/2011/09/whats-happening-on-your-site-right-now.html) I guarantee that webmaster productivity plumeted the very next day.
+The *merry-go-round* is particularly a problem with real time stats. When [Google Analytics implemented real time stats](http://analytics.blogspot.co.uk/2011/09/whats-happening-on-your-site-right-now.html) I guarantee that webmaster productivity plummeted the very next day.
 
 But the *merry-go-round* is not confined to Google Analytics or even website statistics. Any kind of statistics will do.
 
