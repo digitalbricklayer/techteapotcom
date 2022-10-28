@@ -6,6 +6,8 @@ aliases: [/a-retrospective-on-dyna-project-version-0-1/]
 
 Whilst version 0.1 of the Dyna Project isn't quite finished, I thought it would make sense to take stock before work starts on version 0.2.
 
+<!--more-->
+
 But first some introductions would probably be helpful.
 
 ## What is the Dyna Project?

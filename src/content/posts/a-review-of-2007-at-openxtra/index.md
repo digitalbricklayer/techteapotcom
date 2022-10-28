@@ -6,6 +6,8 @@ aliases: [/a-review-of-2007-at-openxtra/]
 
 Following the 2006 review I thought it'd be nice to see the highlights for 2007.
 
+<!--more-->
+
 ## Senturion
 
 Towards the end of 2007 Sensatronics released the Senturion rack environment monitor. This is something of a landmark release for Sensatronics, as the first rack-mounted device they've ever released. We expect the Senturion platform to generate plenty of interest in 2008 and beyond.

@@ -6,6 +6,8 @@ aliases: [/a-review-of-2006-at-openxtra/]
 
 Well, 2007 is here and I thought it would be interesting to review 2006 at OPENXTRA.
 
+<!--more-->
+
 I don't think that 2006 was a great year for new products...in fact I'd say it was quite poor.
 
 The highlight on the cable testing side is the Test-Um Validator-NT, solid 1 gig testing with the addition of network testing features makes for a good all round tester.
