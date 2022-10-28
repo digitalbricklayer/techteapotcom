@@ -12,25 +12,25 @@ My favourite non-fiction book is a fascinating book by Sir Trevor Phillips the e
 
 <span style="color: #ff0000;">January</span>
 
-Ballard, J.G: ***Miracles of Life*** (non-fiction)
+Ballard, J.G: **Miracles of Life** (non-fiction)
 
-Edwards, Eddie: ***Eddie the Eagle: My Story*** (non-fiction)
+Edwards, Eddie: **Eddie the Eagle: My Story** (non-fiction)
 
 <span style="color: #ff0000;">February</span>
 
 <span style="color: #ff0000;">March</span>
 
-Meier, Sid: ***Sid Meier's Memoir: A Life in Computer Games*** (non-fiction)
+Meier, Sid: **Sid Meier's Memoir: A Life in Computer Games** (non-fiction)
 
 <span style="color: #ff0000;">April</span>
 
-Hackett, John W.: ***The Third World War: The Untold Story***
+Hackett, John W.: **The Third World War: The Untold Story**
 
-Rayson, Steve: ***The Fall of the Red Wall*** (non-fiction)
+Rayson, Steve: **The Fall of the Red Wall** (non-fiction)
 
 <span style="color: #ff0000;">May</span>
 
-Coyle, Harold: ***Sword Point***
+Coyle, Harold: **Sword Point**
 
 <span style="color: #ff0000;">June</span>
 
@@ -40,20 +40,20 @@ Coyle, Harold: ***Sword Point***
 
 <span style="color: #ff0000;">September</span>
 
-Morton, Michael: ***Getting Life: An Innocent Man's 25-Year Journey from Prison to Peace*** (non-fiction)
+Morton, Michael: **Getting Life: An Innocent Man's 25-Year Journey from Prison to Peace** (non-fiction)
 
-Samworth, Neil: ***Strangeways: A Prison Officer's Life*** (non-fiction)
+Samworth, Neil: **Strangeways: A Prison Officer's Life** (non-fiction)
 
 <span style="color: #ff0000;">October</span>
 
-Williams, John: ***Stoner***
+Williams, John: **Stoner**
 
-Currie, Evan: ***Archangel One***
+Currie, Evan: **Archangel One**
 
-Phillips, Trevor: ***Race and Faith: The Deafening Silence*** (non-fiction)
+Phillips, Trevor: **Race and Faith: The Deafening Silence** (non-fiction)
 
 <span style="color: #ff0000;">November</span>
 
 <span style="color: #ff0000;">December</span>
 
-Kershaw, Robert: ***Tank Men, The Human Story of Tanks at War*** (non-fiction)
+Kershaw, Robert: **Tank Men, The Human Story of Tanks at War** (non-fiction)
