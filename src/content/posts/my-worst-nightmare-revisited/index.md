@@ -1,7 +1,8 @@
 ---
 title: "My Worst Nightmare Revisited"
 date: 2022-10-27
-lead: "It is a testament to how far consumer electronics has come in the last 20 years that I don't get pestered any more about fixing PCs."
+description: "It is a testament to how far consumer electronics has come in the last 15 years that I don't get pestered any more about fixing PCs."
+lead: "It is a testament to how far consumer electronics has come in the last 15 years that I don't get pestered any more about fixing PCs."
 ---
 
 <!--more-->
