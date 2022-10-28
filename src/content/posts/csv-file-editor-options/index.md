@@ -11,7 +11,7 @@ Excel is of no use whatsoever. Whilst I can use pipe field separators, I can't u
 What are the alternatives?
 
 - [Csved](http://csved.sjfrancke.nl/index.html) -- looks just the job except that it assumes fixed width fields;
-- Windows notepad -- this would work OK, but would be pretty nasty to work with. All of the colums would be all over the place, so it would be difficult to ensure that all of the data is valid;
+- Windows notepad -- this would work OK, but would be pretty nasty to work with. All of the columns would be all over the place, so it would be difficult to ensure that all of the data is valid;
 - Excel -- enter the data in the wrong format, and hope I can convert to the correct format later using something like [Windows PowerShell](http://www.microsoft.com/windowsserver2003/technologies/management/powershell/default.mspx).
 
 None of the alternatives is particularly appetising. Anybody know of a ninja CSV file editor? Help...!

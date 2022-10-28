@@ -13,7 +13,7 @@ Whenever I'm taking on a new programming language or some other technology it al
 
 {{< figure src="inside-drupal.jpg#center" alt="Inside Drupal book cover" >}}
 
-Using Drual by Angela Byron et al is a book aimed at people with little or no experience of Drupal who want a leg up in implementing their first site. As such it delivers very well. It outlines the basic elements of Drupal, like what the basic content types are, simple navigation and, best of all, explores some of the many high quality modules available for Drupal.
+Using Drupal by Angela Byron et al is a book aimed at people with little or no experience of Drupal who want a leg up in implementing their first site. As such it delivers very well. It outlines the basic elements of Drupal, like what the basic content types are, simple navigation and, best of all, explores some of the many high quality modules available for Drupal.
 
 The downside with all such beginner books is that things tend to be dealt with very quickly. Taxonomies are dealt with in just a few pages, which is a shame because taxonomies are absolutely key to organising all but the smallest Drupal site. In fact, I have yet to find any book or online documentation that outlines taxonomies well or provides a set of best practice for your use of taxonomies. I know that we've created a bit of a mess with ours that will need to be sorted out over the coming weeks. If anybody has any good suggestions for online or offline resources that can explain Drupal taxonomies clearly and succinctly with good real world examples I am all ears. Please leave a comment if you know of anything...
 

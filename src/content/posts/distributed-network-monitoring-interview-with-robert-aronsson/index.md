@@ -14,7 +14,7 @@ The interview was conducted via email. My questions are in bold with Robert's an
 
 The most obvious factor is network location, doing direct network monitoring over, for example, a branch office VPN is not something I would recommend. Depending on what you are monitoring it can be a huge resource drain on a VPN that should be used for "normal" office work.
 
-By placing a remote gateway at a branch office, INM can monitor all aspects of the remote servers to just a fraction of the "bandwith cost" compared to direct monitoring.
+By placing a remote gateway at a branch office, INM can monitor all aspects of the remote servers to just a fraction of the "bandwidth cost" compared to direct monitoring.
 
 There is a second factor that might not be that obvious, but Intellipool's take on distributed monitoring can be used as a "clustering" solution, splitting the monitoring workload over several machines if you have a very large network to monitor. Since all management is done from the central INM server it's very easy to move monitored objects between different gateways when you for example needs to take down a machine for maintenance.
 

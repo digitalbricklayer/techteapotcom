@@ -8,7 +8,7 @@ aliases: [/continuous-delivery-every-single-day/]
 
 It has taken 20 years as a professional programmer to get to this point, but I have finally taken the final step to continuous delivery.
 
-We've been practicing continuous integration for well over a year now. It seemed a logical step to deploy the software automatically. When a process is done manually you tend to make a lot of mistakes. I did anyway. I'd run the database upgrade script before the new one had been installed and of course I would take a long time performing the upgrade. The machine is able to do the upgrade in a matter of a few seconds, I used to take several heart thumping minutes to do the same job.
+We've been practising continuous integration for well over a year now. It seemed a logical step to deploy the software automatically. When a process is done manually you tend to make a lot of mistakes. I did anyway. I'd run the database upgrade script before the new one had been installed and of course I would take a long time performing the upgrade. The machine is able to do the upgrade in a matter of a few seconds, I used to take several heart thumping minutes to do the same job.
 
 {{< figure src="xsensior-2.3-teamcity.png#center" alt="Xsensior 2.3 in TeamCity" title="Xsensior 2.3 build status in TeamCity" >}}
 

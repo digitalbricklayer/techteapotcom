@@ -32,4 +32,4 @@ I bought [Microsoft C version 6](http://www.drdobbs.com/windows/optimizing-with-
 
 The first version of [Visual Basic](https://en.wikipedia.org/wiki/Visual_Basic) was released in 1991. I am not sure why I didn't buy it, I imagine there was some programming language snobbery on my part. I know there are plenty of programmers of a certain age who go all glassy eyed at the mere thought of BASIC, but I'm not one of them. Visual Basic also had an integrated editor and debugger.
 
-Both Quick C and Visual Basic are the immediate predecesors of the [Visual Studio](https://en.wikipedia.org/wiki/Microsoft_Visual_Studio) product of today.
+Both Quick C and Visual Basic are the immediate predecessors of the [Visual Studio](https://en.wikipedia.org/wiki/Microsoft_Visual_Studio) product of today.
