@@ -14,4 +14,4 @@ Anyway, the point of this post isn't to demonstrate my complete idiocy in admini
 
 Oh, and make sure your servers reboot *with* all of the required services switched on. :smile:
 
-UPDATE: The server rebooted because of a "**power issue**"...roughly translated from ISP speak, somebody unplugged it!
+**UPDATE**: The server rebooted because of a "**power issue**"...roughly translated from ISP speak, somebody unplugged it!

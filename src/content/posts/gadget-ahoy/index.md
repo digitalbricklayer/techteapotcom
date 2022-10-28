@@ -4,9 +4,9 @@ date: "2006-12-06T18:57:59+00:00"
 aliases: [/gadget-ahoy/]
 ---
 
-{{< figure src="openxtra-console.gif#floatright" alt="OPENXTRA Console Screenshot" >}}
-
 I've been seeing lots of activity on the Desktop recently. [Apple](http://www.apple.com/) started it all off with their [Dashboard](http://www.apple.com/macosx/leopard/dashboard.html) built into [OSX](http://www.apple.com/macosx/). All very impressive but hardly of much interest to [Microsoft Windows](http://www.microsoft.com/windows/) users.
+
+{{< figure src="openxtra-console.gif#floatright" alt="OPENXTRA Console Screenshot" >}}
 
 Anyway. [Google](http://www.google.com/) have brought out a similar system for Windows users called [Google Desktop](http://desktop.google.com/). It has been through a few versions now and it looks pretty good.
 

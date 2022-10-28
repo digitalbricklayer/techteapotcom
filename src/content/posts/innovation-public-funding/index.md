@@ -27,4 +27,4 @@ Jim Farmery, head of innovation at Yorkshire Forward, the public body who donate
 
 I can think of a lot of uses for public money, but saving a public company a few quid in interest charges isn't one of them. It is often said that banks won't lend to you unless you can prove you don't need the money. It would appear that the same criteria applies to public funds from Yorkshire Forward.
 
-**Update August 2013**: Yorkshire Forward doesn't exist anymore. It was scrapped as part of the government belt tighening.
+**Update August 2013**: Yorkshire Forward doesn't exist any more. It was scrapped as part of the government belt tightening.

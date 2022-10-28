@@ -4,7 +4,7 @@ date: "2006-11-28T11:16:34+00:00"
 aliases: [/give-me-a-boost-boost/]
 ---
 
-I've not been programming full time since the end of 2002. Ah, those were the days...strong coffee and err [RSI](http://web.archive.org/web/20150202123346/http://www.rsi.org.uk/) a plenty 🙂
+I've not been programming full time since the end of 2002. Ah, those were the days...strong coffee and err [RSI](http://web.archive.org/web/20150202123346/http://www.rsi.org.uk/) a plenty :smile:
 
 I am just about to embark on a heavy duty bit of programming, likely to last a few intense months. I'll fill you in about the reason why in another post.
 

@@ -11,7 +11,7 @@ Back in 2005 I knew there was a tool missing from [Apache](http://www.apache.org
 
 What I wanted was a tool for finding each entry in my Apache access log of all requests for a specific page or from a specific referrer. Something quick and easy without the need to learn complex commands. Quite often I find something in [AWStats](http://awstats.sourceforge.net/) and I want to check it out in the raw log.
 
-You're probably thinking, why not just use [grep](http://www.gnu.org/software/grep/)? Well, grep doesn't work very well in access logs. Say you want to find all accesses for a particular page. Greping will find all page accesses but it will also include all pages in which the page is the referrer (for images and the like referenced by the page) too. So, you will still have to sift through all of the other accesses to find what you're looking for.
+You're probably thinking, why not just use [grep](http://www.gnu.org/software/grep/)? Well, grep doesn't work very well in access logs. Say you want to find all accesses for a particular page. Grep'ing will find all page accesses but it will also include all pages in which the page is the referrer (for images and the like referenced by the page) too. So, you will still have to sift through all of the other accesses to find what you're looking for.
 
 Logfilter treats each field separately so you can search on a specific field, or multiple fields.
 
