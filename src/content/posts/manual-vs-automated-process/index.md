@@ -1,7 +1,7 @@
 ---
 title: "Manual vs automated process"
 date: "2022-10-06"
-lastmod: "2022-10-24"
+lastmod: "2022-10-31"
 description: "How do you decide to automate or part automate a particular process."
 lead: "You have a one off task you need to do. There's an automated process you can build to achieve the end result or you could do the process manually. How do you decide which route to go down?"
 tags: ['Hugo']
@@ -20,6 +20,10 @@ It wouldn't be too difficult to determine whether you should automate if you kne
 The size of the job plainly has a very big part to play in the decision to automate. If the job is small, then you almost certainly aren't going to save yourself much time if any time. On the other hand, a job with many thousands or even millions of items would be unthinkable to do manually.
 
 The problem lies in the middle. It is entirely possible that you could manually undertake the process with the minimum of automation. But it is always tempting to think there is some easier way to do it. Especially when faced with a tedious and often extremely boring process to carry out.
+
+## Repetitive strain injury
+
+One problem with manual processes is that they often require an awful lot of typing and/or mouse movements. Anybody who has suffered boughts of Repetitive Strain Injury (RSI) will recognise that it is just these sort of repetitive manual processes that are likely to inflame RSI. If a manual process is likely to push you close to an RSI flare up, then that is a great reason to spend some time automating away those mouse movements and repetitive keyboarding.
 
 ## Partial automation
 
