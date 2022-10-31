@@ -1,6 +1,7 @@
 ---
 title: "A new dawn for The Tech Teapot"
 date: "2020-10-06"
+lastmod: 2022-10-31
 tags: [Hugo]
 ---
 
@@ -46,3 +47,5 @@ The first two options are quite complex because you need to set up a CI/CD pipel
 Option three is my happy place of static hosting. It really does not get any easier than this. The dedicated static hosting providers have set up the CI / CD pipeline for you, you just point them at your git repo and they will build it for you. And the best thing? Netlify has a [free tier](https://www.netlify.com/pricing/) (which I'm currently using) and Github Pages is also free so long as your site has an open licence.
 
 All told the conversion process has taken a couple of weeks or so. Not quick by any means, but certainly not too excessive. Much of the process in the later stages was taken with redirecting old pages and the like. If you are starting afresh, then you'll find the process a lot quicker.
+
+*Update 2022-10-31*: It has actually taken until October 2022 to completely port the site over to Hugo and remove the vast majority of the HTML from the posts. Only some tables remain on an old comparison series of posts remain.
