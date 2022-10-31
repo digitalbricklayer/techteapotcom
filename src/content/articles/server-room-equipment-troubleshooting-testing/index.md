@@ -21,7 +21,7 @@ Each monitor point should have a temperature and relative humidity sensor placed
 
 {{< figure src="images/Equipment_monitoring_3U_to_6U_0.jpg#center" alt="" caption="Figure 2: Monitoring Points for 4U to 6U Equipment" >}}
 
-{{< figure src="images/Equipment_monitoring_7U_and_up_0.jpg#center" alt="" caption="Figure 3: Monitoring Points for 7U and Larger Equiment" >}}
+{{< figure src="images/Equipment_monitoring_7U_and_up_0.jpg#center" alt="" caption="Figure 3: Monitoring Points for 7U and Larger Equipment" >}}
 
 ## Test Results
 

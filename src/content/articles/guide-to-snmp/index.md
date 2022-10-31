@@ -2,14 +2,14 @@
 title: "Guide to SNMP"
 date: 2022-10-18T15:22:36+01:00
 thumbnail: "/images/snmp-logo.png"
+description: "An explanation of what SNMP is and how it can fit into your broader environmental monitoring efforts."
+lead: "An explanation of what SNMP is and how it can fit into your broader environmental monitoring efforts."
 categories:
   - Network Management
 tags:
   - snmp
 aliases: [/posts/guide-to-snmp/]
 ---
-
-An explanation of what SNMP is and how it can fit into your broader environmental monitoring efforts.
 
 <!--more-->
 
@@ -21,7 +21,7 @@ Here's what [Wikipedia has to say about SNMP](http://en.wikipedia.org/wiki/Snmp)
 
 >*Simple Network Management Protocol (SNMP) is used in network management systems to monitor network-attached devices for conditions that warrant administrative attention. SNMP is a component of the Internet Protocol Suite as defined by the Internet Engineering Task Force (IETF). It consists of a set of standards for network management, including an application layer protocol, a database schema, and a set of data objects.*
 
-The main design principle for SNMP was that it must interoperate between different platforms seemlessly. In other words, whichever operating system or hardware platform you are using, you must be able to access the information exposed via SNMP easily and reliably.
+The main design principle for SNMP was that it must interoperate between different platforms seamlessly. In other words, whichever operating system or hardware platform you are using, you must be able to access the information exposed via SNMP easily and reliably.
 
 Much of the complexity of SNMP stems from the requirement to interoperate, especially between hardware platforms with different [endian alignments](http://en.wikipedia.org/wiki/Endianness).
 
@@ -39,7 +39,9 @@ Serves up values identified by an OID via SNMP to a SNMP client. The client is c
 
 The SNMP client requests information from the managed device. Typically the SNMP client will be in the form of a network management system (NMS) or management console. A NMS and management console are just different terms for the same thing.
 
-{{< figure src="images/snmp-request-response.png#center" alt="SNMP Request / Response Overview" >}}
+{{< figure  src="images/snmp-request-response.png#center"
+            alt="SNMP Request / Response Overview"
+            title="Figure 1: SNMP Request / Response Overview" >}}
 
 Network management systems typically request the same information periodically, like the number of packets sent through a particular switch port, and then log and graph the information to provide trending information.
 
@@ -49,7 +51,9 @@ You can request SNMP information interactively using command line SNMP tools, as
 
 Up until now the SNMP agent has been completely passive. The client requests data and the agent responds. What if an event happens between one request and the next? Happily the designers of SNMP thought of that and designed SNMP traps. Traps are very useful because instead of the agent being completely passive, it can tell one or more clients when something of interest has happened.
 
-{{< figure src="images/snmp-trap.png#center" alt="SNMP Trap Overview" >}}
+{{< figure  src="images/snmp-trap.png#center"
+            alt="SNMP Trap Overview"
+            title="Figure 2: SNMP Trap Overview" >}}
 
 In the case of environmental monitoring that is usually something like a temperature threshold has been exceeded. Instead of having to continually poll and hope that the important reading is captured in time, you can rely on your environment monitor to tell you when a heat emergency is happening.
 
@@ -87,7 +91,7 @@ All of the above mentioned tools use SNMP to fetch performance information. The 
 
 Your environment monitoring system is the SNMP agent and your network management system is the SNMP client. Your network management system requests information, like the current temperature reading from a temperature sensor, from the environment monitor by using the OID that matches the required data. The management system then logs and graphs the data appropriately and fires an alert if it is outside your pre-defined safe threshold.
 
-SNMP is useful because it is supported by most envioronment monitors from many different manufacturers. There is no standard MIB for environment monitors so you will need to configure each environment monitor seperately, but at least you can have a single system responsible for all of your network, environmental and system management information. By centralising all of your information you only need to set up one logging system and one alerting system.
+SNMP is useful because it is supported by most environment monitors from many different manufacturers. There is no standard MIB for environment monitors so you will need to configure each environment monitor separately, but at least you can have a single system responsible for all of your network, environmental and system management information. By centralising all of your information you only need to set up one logging system and one alerting system.
 
 ## Conclusion
 

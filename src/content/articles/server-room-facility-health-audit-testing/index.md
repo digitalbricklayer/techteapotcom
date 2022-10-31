@@ -58,7 +58,7 @@ Temperature and humidity levels at the HVAC unit should be consistent with desig
 
 ## Summary
 
-Facility health and audit testing should be carried out on a regular basis to ensure that the inlet temperature for your equipment is within the recommended range for that equpment environment class. You should mark your measurement locations so that you are able to reliably repeat the testing. The sensor data should be recorded, stored and analysed so that future trends can be spotted and corrected as necessary.
+Facility health and audit testing should be carried out on a regular basis to ensure that the inlet temperature for your equipment is within the recommended range for that equipment environment class. You should mark your measurement locations so that you are able to reliably repeat the testing. The sensor data should be recorded, stored and analysed so that future trends can be spotted and corrected as necessary.
 
 ## References
 
