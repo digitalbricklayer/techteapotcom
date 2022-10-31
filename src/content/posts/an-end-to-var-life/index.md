@@ -15,7 +15,7 @@ OPENXTRA Limited closed their doors for the last time on X. OPENXTRA was a Value
 
 ## The Beginning
 
-I co-founded OPENXTRA Limited all the way back in February 2003. The original idea was to curate a set of open source tools running on Microsoft Windows and provide paid support. The first product was called [OPENXTRA BASICS](https://openxtra.org/project/basics). It consisted of a single installer for Ethereal (now called [Wireshark](https://www.wireshark.org)), [MRTG](https://oss.oetiker.ch/mrtg/), [NTop](https://www.ntop.org/) and quite a few other smaller tools like [Nmap](https://nmap.org/) and [net-snmp](http://www.net-snmp.org/) all with a nice easy to use Window based installer. The goal was to make installing the network management tools as easy as installing a regular Windows application. No messy configuration. We largely achieved that goal too.
+I co-founded OPENXTRA Limited all the way back in February 2003. The original idea was to curate a set of open source tools running on Microsoft Windows and provide paid support. The first product was called [OPENXTRA BASICS](https://openxtra.org/project/basics). It consisted of a single installer for Ethereal (now called [Wireshark](https://www.wireshark.org)), [MRTG](https://oss.oetiker.ch/mrtg/), [NTop](https://www.ntop.org/) and quite a few other smaller tools like [Nmap](https://nmap.org/), [tcpdump](https://www.tcpdump.org/) and [net-snmp](http://www.net-snmp.org/) all with a nice easy to use Window based installer. The goal was to make installing network management tools as easy as installing a regular Windows application. No messy configuration. We largely achieved that goal too.
 
 Back in the late 1990s and early 2000s, open source tools were very painful to install and configure. Microsoft Windows was also not a huge priority for many open source projects. That was the world into which the original idea for OPENXTRA Limited was born in late 2002.
 
@@ -23,7 +23,7 @@ The tools were wildly popular far exceeding my expectations. The paid support wa
 
 The upside is that at least we knew pretty quickly that it wasn't working and that we needed to find something else. The venture capitalists tell you to fail fast and we *definitely* did that.
 
-Our one lucky break, in spite of all the effort we put into trying to get it, was that we didn't have any external investors like angel investors or venture capital. That would not have been fun. We had a small *friends and family* round and they lost all of their investment. Those conversations were not the easiest to have and I have no plans to *ever* have them again.
+Our one lucky break, in spite of all the effort we put into trying to get it, was that we didn't have any external investors like angel investors or venture capital. That would not have been fun. We had a small *friends and family* round and they lost all of their investment. Those conversations were not the easiest and I have no plans to *ever* have them again.
 
 This period in the company I look back with a huge amount of fondness. There was a real mission all four of us felt and we were all determined to get there.
 
@@ -119,6 +119,6 @@ It has certainly been a roller coaster ride. I have made my fair share of mistak
 
 ## A New Beginning
 
-As for me personally, I am busy up-training in [DevOps](https://en.wikipedia.org/wiki/DevOps). Cisco in co-operation with the Open University offer remote digital skills training courses. The Department for Education in England have funded a number of places and luckily I managed to be selected. I am currently studying the [Cisco DevNet Associate](https://developer.cisco.com/certification/devnet-associate/) course. I already have a couple of decades Linux experience and a few years of using Ansible to deploy websites. Or, I might go back to programming full time.
+As for me personally, I am busy up-training in [DevOps](https://en.wikipedia.org/wiki/DevOps). Cisco, in co-operation with the Open University, offer remote digital skills training courses. The Department for Education in England have funded a number of places and luckily I managed to be selected. I am currently studying the [Cisco DevNet Associate](https://developer.cisco.com/certification/devnet-associate/) course. I already have a couple of decades Linux experience and a few years of using Ansible to deploy websites. Or, I might go back to programming full time.
 
 I do seem to specialise in job hunting during a recession. When I first exited university it was during the early 1990s recession and here I am trying to do the same during the 2022 version.
