@@ -9,6 +9,6 @@ Hope you like the new theme! We were bored with the bog [standard Wordpress them
 
 The theme, and the blog for that matter, are intended to be a bit folksy and characterful whilst at the same time giving a nice I.T. feel to the place. Please let us know if we've succeeded. :smile:
 
-The theme isn't completely finished, we're short of a decent photo for the about us page. It will probably take until September before everybody is together again...because of the summer holidays. So the pictures will have to wait till then!
+The theme isn't completely finished, we're short of a decent photo for the about us page. It will probably take until September before everybody is together again... because of the summer holidays. So the pictures will have to wait till then!
 
-![New blog theme](blog.JPG)
+![New blog theme](blog.jpg)
