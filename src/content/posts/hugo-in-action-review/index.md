@@ -2,7 +2,7 @@
 title: "Hugo in Action book review"
 date: "2020-10-20"
 tags: [Hugo]
-lead: "A short review of the *Hugo in Action* book published by Manning Publications."
+lead: "A short review of the Hugo in Action book published by Manning Publications."
 series: ["Reading Log"]
 ---
 
