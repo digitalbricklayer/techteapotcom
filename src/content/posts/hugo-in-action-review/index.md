@@ -2,8 +2,11 @@
 title: "Hugo in Action book review"
 date: "2020-10-20"
 tags: [Hugo]
+lead: "A short review of the *Hugo in Action* book published by Manning Publications."
 series: ["Reading Log"]
 ---
+
+<!--more-->
 
 I have recently ported this [blog over to Hugo]({{< ref "/posts/a-new-dawn/index.md" >}}). [Hugo](https://gohugo.io/) is a static site generator written in the [Go language](https://golang.org/). In preparation, I thought it would be a good idea to read a book on the topic. The world is not exactly overburdened with up to date books about Hugo so the shortlist was very short. In Hugo's defence, the documentation provided by the project is pretty good. But, it is always helpful to have an outside perspective.
 

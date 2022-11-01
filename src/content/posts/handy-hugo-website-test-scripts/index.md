@@ -1,11 +1,10 @@
 ---
 title: "Handy scripts for testing your Hugo website"
 date: 2020-11-18T10:09:19Z
+lead: "Whilst developing this website and porting it over to Hugo, I have written a few handy scripts to help me test the site for errors. I am going to present the scripts with a little explanation about what each script achieves so maybe you can use them too."
 tags:
   - Hugo
 ---
-
-Whilst developing this website and porting it over to Hugo, I have written a few handy scripts to help me test the site for errors. I am going to present the scripts with a little explanation about what each script achieves so maybe you can use them too.
 
 <!--more-->
 
@@ -25,7 +24,7 @@ The script also shows how to check external links as well.
 
 {{< gist digitalbricklayer f46b889d55a7e17ade3672f9698b3b65 >}}
 
-The script will fail cleanly if `linkchecker` is missing. I would like to improve the script by removing the dependency on the `linkchecker` tool. Or at least place the dependency in a more manageable docker container. I will update this post when I have managed to dockerise `linkchecker`.
+The script will fail cleanly if `linkchecker` is missing. I would like to improve the script by removing the dependency on the `linkchecker` tool. Or at least place the dependency in a more manageable docker container. I will update this post when I have managed to dockerize `linkchecker`.
 
 ## checkredirects.sh
 
