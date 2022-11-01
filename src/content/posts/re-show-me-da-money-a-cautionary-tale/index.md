@@ -8,7 +8,7 @@ aliases: [/re-show-me-da-money-a-cautionary-tale/]
 
 This is a reply to Tarus Balog's Show Me Da Money (a Cautionary Tale) post.
 
-Tarus has labelled the business model of giving away an open source core but selling proprietary extensions as ***shareware open source***.
+Tarus has labelled the business model of giving away an open source core but selling proprietary extensions as **shareware open source**.
 
 It's a great term, but I don't think it's wholly appropriate.
 
@@ -20,6 +20,6 @@ If a proprietary software company provides tools under terms not acceptable to y
 
 Both Zenoss and Hyperic have opened up their core platform. Their users have a choice. If they wish they can circumvent any commercial offerings.
 
-I'm not saying that, to use Tarus's phrase, ***shareware open source*** is the same as a completely open source product. I am saying that both Hyperic &amp; Zenoss have opened up as much as they can, and that by doing so, they have sown the seeds that will prevent them from straying too far from the best interests of their respective communities.
+I'm not saying that, to use Tarus's phrase, **shareware open source** is the same as a completely open source product. I am saying that both Hyperic &amp; Zenoss have opened up as much as they can, and that by doing so, they have sown the seeds that will prevent them from straying too far from the best interests of their respective communities.
 
 So, Zenoss &amp; Hyperic: don't upset your respective communities or you may find they go off and create a new community without you. That's just not possible with a completely proprietary product.
