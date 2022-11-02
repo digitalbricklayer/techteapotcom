@@ -9,7 +9,7 @@ title: Research Still Required
 
 ## Research
 
-See [Rutgers MRTG installation](https://people.cs.rutgers.edu/~terminals/mrtg/mrtg-2.5.4c/) for a *real world* installation and data.
+See [Rutgers MRTG installation](https://people.cs.rutgers.edu/~terminals/mrtg/mrtg-2.5.4c/) for a *real world* installation and data. There is some history [here](https://people.cs.rutgers.edu/~terminals/mrtg/mrtg-2.5.4c/readme.html#HIST).
 
 ### MRTG in Context
 
@@ -28,26 +28,6 @@ MRTG creates six files:
 
 ### Revision history until v2.0
 
-1.6 (29/6/1995)
----
-
-Support Tricklet & getone SNMP packages
-
-Configurable SNMP community string
-
-Graphs all equally wide. Now 31 hours in daily and 8 days in the weekly
-
-Support for multiple stats in the same graph
-
-First release with multiple contributors: Johannes Demel & Mike Convey
-
-1.1 (20/5/1995)
----
-
-Small fixes to code and generated HTML
-
-Under Netscape, generated pages reload automatically
-
 1.0 (28/4/1995)
 ---
 
@@ -61,7 +41,27 @@ Simple command line program written in Perl generates a web page for each input 
 
 Command line program is run every 5 minutes by scheduling it via cron
 
+1.1 (20/5/1995)
+---
+
+Small fixes to code and generated HTML
+
+Under Netscape, generated pages reload automatically
+
+1.6 (29/6/1995)
+---
+
+Support Tricklet & getone SNMP packages
+
+Configurable SNMP community string
+
+Graphs all equally wide. Now 31 hours in daily and 8 days in the weekly
+
+Support for multiple stats in the same graph
+
+First release with multiple contributors: Johannes Demel & Mike Convey
+
 ### MRTG ecosystem
 
-- MRTG v1.6 support Tricklet and getone SNMP packages
-- cfgmake and indexmaker introduced somewhere down the line
+- MRTG v1.6 support *Tricklet* and *getone* SNMP packages
+- `cfgmake` and `indexmaker` introduced somewhere down the line
