@@ -9,7 +9,7 @@ title: Research Still Required
 
 ## Research
 
-See [Rutgers MRTG installation](https://people.cs.rutgers.edu/~terminals/mrtg/mrtg-2.5.4c/) for a *real world* installation and data. There is some history [here](https://people.cs.rutgers.edu/~terminals/mrtg/mrtg-2.5.4c/readme.html#HIST).
+See [Rutgers MRTG installation](https://people.cs.rutgers.edu/~terminals/mrtg/mrtg-2.5.4c/) for a *real world* installation and data. There is some history [here](https://people.cs.rutgers.edu/~terminals/mrtg/mrtg-2.5.4c/readme.html#HIST). There is an archive.org version fo the same page [here](http://ee-staff.ethz.ch/~oetiker/webtools/mrtg/mrtg.html).
 
 ### MRTG in Context
 
