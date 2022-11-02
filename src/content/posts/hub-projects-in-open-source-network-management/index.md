@@ -9,7 +9,7 @@ Almost as a doodle I thought I'd create a graph depicting the dependencies betwe
 
 Once I'd done it, it occurred to me how much just about everything depends on just a couple of projects or project variants of, RRDTool &amp; Net-SNMP.
 
-![A Selection of Open Source Network Management Dependencies]("ossnms-dependencies1.jpg)
+![A Selection of Open Source Network Management Dependencies](ossnms-dependencies1.jpg)
 
 The main conclusion I draw from the above graph is that if you wish to create a thriving platform for open source network management, you'd better have something like those two hub projects.
 
