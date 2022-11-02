@@ -11,7 +11,7 @@ Whenever I'm taking on a new programming language or some other technology it al
 
 ## Using Drupal
 
-{{< figure src="inside-drupal.jpg#center" alt="Inside Drupal book cover" >}}
+{{< figure src="inside-drupal.gif#center" alt="Inside Drupal book cover" >}}
 
 Using Drupal by Angela Byron et al is a book aimed at people with little or no experience of Drupal who want a leg up in implementing their first site. As such it delivers very well. It outlines the basic elements of Drupal, like what the basic content types are, simple navigation and, best of all, explores some of the many high quality modules available for Drupal.
 
