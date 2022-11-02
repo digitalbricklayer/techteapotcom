@@ -6,7 +6,7 @@ aliases: [/my-server-uptime/]
 
 I was messing around inside *top* trying to diagnose a server slowdown and I noticed that my server has been up for 463 days. The server runs Linux Centos 4.4.
 
-![uptime](uptime.PNG)
+![uptime](uptime.png)
 
 Want to share your server uptime? :wink:
 
