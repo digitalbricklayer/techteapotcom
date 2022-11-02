@@ -19,5 +19,5 @@ done
 # --check-extern \
 docker run --rm -it -u $(id -u):$(id -g) \
     ghcr.io/linkchecker/linkchecker:latest \
-    --verbose --ignore-url=/livereload.js --ignore-url=/dist --no-status \
+    --verbose --ignore-url=/dist --no-status \
     $SITE_URL/

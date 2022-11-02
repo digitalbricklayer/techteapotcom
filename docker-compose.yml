@@ -1,6 +1,6 @@
 server:
   image: klakegg/hugo:0.102.2-ext-ubuntu
-  command: server -D --gc
+  command: server -D --gc --disableLiveReload
   volumes:
     - "$PWD/src:/src"
   ports:
