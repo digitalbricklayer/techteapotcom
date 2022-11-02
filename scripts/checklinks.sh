@@ -17,7 +17,7 @@ done
 # To check external links add:
 # --ignore-url=https://fonts.gstatic.com \
 # --check-extern \
-docker run --rm -it -u $(id -u):$(id -g) \
+docker run --rm -it --network="host" -u $(id -u):$(id -g) \
     ghcr.io/linkchecker/linkchecker:latest \
-    --verbose --ignore-url=/dist --no-status \
+    --ignore-url=/dist --no-status \
     $SITE_URL/
