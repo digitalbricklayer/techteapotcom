@@ -32,4 +32,4 @@ What is the most significant feature of them? What struck me is the downward dec
 
 The only search not showing a decline is [Icinga](http://www.icinga.org/). But, that may just be because it is a relatively recent project so it doesn't have a history of higher volumes of searches it probably would have had if it were a bit older.
 
-{{< figure src="icinga.png#center" title="Icinga Search Trend" alt="ICINGA" >}}
+{{< figure src="images/icinga.png#center" title="Icinga Search Trend" alt="ICINGA" >}}
