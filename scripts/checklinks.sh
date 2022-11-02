@@ -2,14 +2,7 @@
 
 # Check all internal links on the dev site
 
-echoerr() { printf "%s\n" "$*" >&2; }
-
-# Script requires linkchecker
-if ! [ -x "$(command -v linkchecker)" ]; then
-    echoerr "Error: linkchecker is not installed"
-    exit 1
-fi
-
+# default port used when `hugo serve` command is used
 SITE_URL="http://localhost:1313"
 
 # Start the test server
@@ -24,7 +17,7 @@ done
 # To check external links add:
 # --ignore-url=https://fonts.gstatic.com \
 # --check-extern \
-linkchecker --ignore-url=/livereload.js \
-            --ignore-url=/dist \
-            --no-status \
-            $SITE_URL
+docker run --rm -it -u $(id -u):$(id -g) \
+    ghcr.io/linkchecker/linkchecker:latest \
+    --verbose --ignore-url=/livereload.js --ignore-url=/dist --no-status \
+    $SITE_URL/
