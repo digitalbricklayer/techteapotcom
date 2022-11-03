@@ -3,6 +3,8 @@ title: Network Mapping Introduction
 date: 2015-11-03
 description: "Beyond a certain size networks become difficult to visualize without graphical aids. There are a number of tools to aid in the production of network maps. This article provides reasons why you should be interested in network mapping, as well as an overview of the available tools."
 lead: "Beyond a certain size networks become difficult to visualize without graphical aids. There are a number of tools to aid in the production of network maps. This article provides reasons why you should be interested in network mapping, as well as an overview of the available tools."
+categories:
+  - Network Management
 series:
   - Teapot Bitesize
 ---
