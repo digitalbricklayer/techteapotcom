@@ -8,6 +8,8 @@ categories:
   - Network Management
 tags:
   - snmp
+series:
+  - Teapot Bitesize
 aliases: [/posts/guide-to-snmp/]
 ---
 
