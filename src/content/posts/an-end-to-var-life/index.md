@@ -2,7 +2,7 @@
 title: "(An End to) VAR Life"
 description: "My reflections on nearly 20 years with OPENXTRA Limited a Value Added Reseller I co-founded all the way back in early 2003."
 lead: "My reflections on nearly 20 years with OPENXTRA Limited a Value Added Reseller I co-founded all the way back in early 2003."
-date: 2022-10-26
+date: 2022-11-03
 thumbnail: "/images/openxtra-logo.png"
 draft: true
 ---
@@ -15,13 +15,13 @@ OPENXTRA Limited closed their doors for the last time on X. OPENXTRA was a Value
 
 ## The Beginning
 
-I co-founded OPENXTRA Limited all the way back in February 2003. The original idea was to curate a set of open source tools running on Microsoft Windows and provide paid support. The first product was called [OPENXTRA BASICS](https://openxtra.org/project/basics). It consisted of a single installer for Ethereal (now called [Wireshark](https://www.wireshark.org)), [MRTG](https://oss.oetiker.ch/mrtg/), [NTop](https://www.ntop.org/) and quite a few other smaller tools like [Nmap](https://nmap.org/), [tcpdump](https://www.tcpdump.org/) and [net-snmp](http://www.net-snmp.org/) all with a nice easy to use Window based installer. The goal was to make installing network management tools as easy as installing a regular Windows application. No messy configuration. We largely achieved that goal too.
+I co-founded OPENXTRA Limited all the way back in February 2003. The original idea was to curate a set of open source tools running on Microsoft Windows and provide paid support. The first product was called [OPENXTRA BASICS](https://openxtra.org/project/basics). It consisted of a single installer for Ethereal (now called [Wireshark](https://www.wireshark.org)), [MRTG](https://oss.oetiker.ch/mrtg/), [NTop](https://www.ntop.org/) and quite a few other smaller tools like [Nmap](https://nmap.org/), [tcpdump](https://www.tcpdump.org/) and [net-snmp](http://www.net-snmp.org/) all with a single nice easy to use Window based installer. The goal was to make installing network management tools as easy as installing any regular Windows application. No messy configuration. We largely achieved that goal too.
 
-Back in the late 1990s and early 2000s, open source tools were very painful to install and configure. Microsoft Windows was also not a huge priority for many open source projects. That was the world into which the original idea for OPENXTRA Limited was born in late 2002.
+Back in the late 1990s and early 2000s, open source tools were very painful to install and configure. Microsoft Windows was also not a huge priority for many open source projects. In fact, many projects had a lack of Windows support as a kind of badge of honour. That was the world into which the original product idea for OPENXTRA Limited was born in late 2002.
 
-The tools were wildly popular far exceeding my expectations. The paid support was really *not* popular. In fact, over a period of at least six months we managed to sell just a single support contract for the princely sum of around $49.00. Not the kind of money that is going to keep four people in rent.
+The tools were wildly popular far exceeding my expectations. The paid support was really *unpopular*. In fact, over a period of at least six months we managed to sell just a single support contract for the princely sum of around $49.00. Not the kind of money that is going to keep four people in rent.
 
-The upside is that at least we knew pretty quickly that it wasn't working and that we needed to find something else. The venture capitalists tell you to fail fast and we *definitely* did that.
+The upside is that at least we knew pretty quickly that it wasn't working and that we needed to find something else *fast*. The venture capitalists tell you to fail fast and we *definitely* did that.
 
 Our one lucky break, in spite of all the effort we put into trying to get it, was that we didn't have any external investors like angel investors or venture capital. That would not have been fun. We had a small *friends and family* round and they lost all of their investment. Those conversations were not the easiest and I have no plans to *ever* have them again.
 
