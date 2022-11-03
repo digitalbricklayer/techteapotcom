@@ -67,7 +67,7 @@ Rarely have I seen a worse set of product pages than the [NetRule](http://www.ne
 
 A good first bet is to find yourself a spare machine somewhere. Visit the various open source tool websites and see which suits you best. Then give it a go. Try some of the tutorials and gradually build up your confidence.
 
-If you find yourself in trouble, join a tool mailing list and ask away. Im sure that you will receive a warm welcome.
+If you find yourself in trouble, join a tool mailing list and ask away. I'm sure that you will receive a warm welcome.
 
 If you require phone support etc, or would like printed manuals, then you may want to move onto a commercial tool.
 
