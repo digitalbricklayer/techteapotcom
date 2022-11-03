@@ -6,7 +6,7 @@
   # root directory if a base has not been set.
   publish = "public/"
 
-  # Default build command - build production site. Can be overriden below for
+  # Default build command - build production site. Can be overridden below for
   # specific branches.
   command = "hugo --environment development"
 
