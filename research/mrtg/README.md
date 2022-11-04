@@ -69,8 +69,8 @@ Paper presented by Tobi Oetiker at LISA 98 is [here](https://www.usenix.org/lega
 
 ## Post ideas
 
-* A disection of MRTG v1.0
+* A dissection of MRTG v1.0
 * Open source when v1.0 emerged and the state of the internet at the time
-* A disection of v2.0 rateup
-* A disection of the first version to introduce rrdtool
+* A dissection of v2.0 rateup
+* A dissection of the first version to introduce rrdtool
 * MRTG: a history
