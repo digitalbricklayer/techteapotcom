@@ -1,5 +1,5 @@
 ---
-title: "Teapot Bitesize"
+title: "Teapot Bite-size"
 ---
 
 A series of articles giving short, bite-sized introductions to topics in network management.
