@@ -23,7 +23,7 @@ If you are the manager of a growing network, with ever greater demands being pla
 
 Making changes to your network are expensive. Mistakes can cost you a lot of money to rectify.
 
-If you had a tool that allowed you to model your current network, then make changes to it to see what happened. That would be useful wouldn't it? The network simulator would remove some of the uncertainty surrounding the changes you were making. Of course, it wont remove all of the uncertainty, but at least it will remove some of it.
+If you had a tool that allowed you to model your current network, then make changes to it to see what happened. That would be useful wouldn't it? The network simulator would remove some of the uncertainty surrounding the changes you were making. Of course, it won't remove all of the uncertainty, but at least it will remove some of it.
 
 Network simulators are most useful when used to model large networks. Modelling two machines, whilst interesting as a tutorial exercise, is probably not worth the effort. Modelling changes to a large network however is a worthwhile activity.
 
@@ -42,7 +42,7 @@ A number of open source network simulators are available like [ns-2](http://www.
 The SSFNet is a mature network simulation tool started in 1998. Most SSFNet components are licensed under the GNU General Public License. SSFNet is made up of the following components:
 
 * Scalable Simulation Framework (SSF): a discrete event simulation of large complex systems written in Java and C++. The SSF is open source.
-* Domain Modelling Language (DML): a language for describing the model of your network you wish to simulate. The DML is open source.
+* Domain Modelling Language (DML): a language for describing the model of your network you wish to simulate. DML is open source.
 * Integrated Development Environments (IDEs): a range of tools to make the process of building your model easier. Some of the IDEs are free, some are not.
 
 A number of tutorials are available on the website.
@@ -51,7 +51,7 @@ A number of tutorials are available on the website.
 
 J-Sim is a network simulator with a Java based simulation engine. J-Sim can be extended using Java classes. Models can also be constructed using Java too, though most people will probably prefer to use one of a number of supported scripting languages to do the modelling, like Perl, TCL or Python. A new Java based GUI tool is also available for constructing models.
 
-Of the two tools I have described here, J-Sim is aimed towards people who are comfortable with their favourite programming language. SSFNet does have a language to learn, but it is not as onerous a task as learning a language like Perl or Python. Having said that, the GUI modelling tool available as part of the J-Sim package looks promising. If GUI modelling tool delivers then you will be relieved of the burden of learning a language like Perl. This will certainly lower the threshold necessary to use the J-Sim tool.
+Of the two tools I have described here, J-Sim is aimed towards people who are comfortable with their favourite programming language. SSFNet does have a language to learn, but it is not as onerous a task as learning a language like Perl or Python. Having said that, the GUI modelling tool available as part of the J-Sim package looks promising. If the GUI modelling tool delivers, then you will be relieved of the burden of learning a language like Perl. This will certainly lower the threshold necessary to use the J-Sim tool.
 
 ### Commercial Network Simulation Players
 
@@ -61,7 +61,7 @@ Of the two tools I have described here, J-Sim is aimed towards people who are co
 
 #### NetRule
 
-Rarely have I seen a worse set of product pages than the [NetRule](http://www.netrule.com/) website. Ill be polite and call it functional. I sure hope their product is better than the website. But, they have been around for a long time so one must assume it is.
+Rarely have I seen a worse set of product pages than the [NetRule](http://www.netrule.com/) website. I'll be polite and call it functional. I sure hope their product is better than the website. But, they have been around for a long time so one must assume it is.
 
 ## How do you get Started in Network Simulation?
 
