@@ -97,7 +97,7 @@ We had a good run. From mid 2004 until 2012 the website was an absolute ranking 
 
 In 2012 we were hit pretty hard by one of Google's periodic updates. Google makes changes to their ranking algorithm and some websites go up and some go down. It was our turn to go down. We were not dropped down by much but the difference between appearing in first place and third place is the difference between night and day.
 
-Things are a bit different these days, the difference aren't so marked because all organic listings are so far down the page underneath all of the very large paid adverts. The result in \#1 position in 2022 is in the same place as \#3 or lower from the 2008 search results. (As an aside, see for a comparison of one [Google search result between 2001, 2008 and 2022]({{< ref "/posts/open-source-network-management-in-google-2001-vs-google-2008/index.md" >}}). You will notice just how far down the page the \#1 result is in the 2022 results.)
+Things are a bit different these days, the difference isn't so marked because all organic listings are so far down the page underneath all of the paid adverts. The result in \#1 position in 2022 is in the same place as \#3 or lower from the 2008 search results. As an aside, see for a comparison of one [Google search result between 2001, 2008 and 2022]({{< ref "/posts/open-source-network-management-in-google-2001-vs-google-2008/index.md" >}}). You will notice just how far down the page the \#1 result is in the 2022 results.
 
 ## COVID-19
 
@@ -105,7 +105,7 @@ It was only 23rd March 2020. But it feels like a lifetime ago. I knew something 
 
 You will not be surprised that COVID had some pretty large effects upon the business. First of all the environment monitoring end of the business pretty well disappeared overnight. Monitoring the server room became rather a small concern. And the sales of environment monitors soon reflected that.
 
-Thankfully, being able to remote control the power to various devices located in the office whilst everybody is working from home became a *huge* concern. The only problem was that we had an early foretaste of the pernicious COVID supply problems. Because literally everybody in the world had exactly the same requirement and the manufacturers could not keep up with demand.
+Thankfully, being able to remote control the power to various devices located in the office whilst everybody was working from home became a *huge* concern. The only problem was that we had an early foretaste of the pernicious COVID supply problems. Because literally everybody in the world had exactly the same requirement and the manufacturers could not keep up with demand.
 
 If it hadn't been for remote power switch sales in 2020, this post would have been written much *sooner*. :wink:
 
@@ -115,7 +115,7 @@ OPENXTRA has always been run quite conservatively. We don't have flash cars and 
 
 There comes a time when you run out of road. The good trading conditions likely to appear after the Ukraine crisis are just too far away for us.
 
-It has certainly been a roller coaster ride. I have made my fair share of mistakes over the last twenty years. But I don't regret *any* of it.
+It has certainly been a roller coaster ride. I have made my fair share of mistakes over the last twenty years. But it's been fun. :smile:
 
 ## A New Beginning
 
