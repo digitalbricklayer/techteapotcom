@@ -1,7 +1,6 @@
 ---
 title: "Strange case of the missing application"
 date: "2008-03-07T12:43:42+00:00"
-lastmod: "2015-12-01"
 aliases: [/strange-case-of-the-missing-application/]
 ---
 
@@ -18,7 +17,7 @@ I thought that I'd be able to find a tool to solve the problem quite easily. Tur
 If you need to solve a [constraint satisfaction](https://en.wikipedia.org/wiki/Constraint_satisfaction) problem you've two choices:
 
 - Get hold of a vertical application designed specifically to solve your particular type of problem; or
-- Write your own application using one of a [number of programming languages suited to the task or use a constraint satisfaction library](http://www.dmoz.org/Computers/Programming/Languages/Constraint/) tacked on to a regular programming language.
+- Write your own application using one of a number of programming languages suited to the task or use a constraint satisfaction library tacked on to a regular programming language.
 
 It occurs to me that there really ought to be a third option. An application or toolkit that allows regular users to specify their problem in an easy to use way and then have the application solve the problem for them.
 
@@ -32,6 +31,6 @@ The representation problem is solvable too with a number of compromises on the t
 
 Believe it or not I've been working on this on and off for the best part of twenty years. :smile:
 
-**Update June 2015**: I'm currently prototyping the missing application over [here](https://github.com/digitalbricklayer/dyna).
+**Update June 2015**: I'm currently prototyping the missing application over [here](https://github.com/digitalbricklayer/workbench).
 
-**Update December 2015**: The prototype is now called [Constraint Capers Workbench](http://constraint-capers.github.io/) and the source code is hosted [here](https://github.com/digitalbricklayer/workbench).
+**Update December 2015**: The prototype is now called Constraint Capers Workbench and the source code is hosted [here](https://github.com/digitalbricklayer/workbench).
