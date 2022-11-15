@@ -39,3 +39,7 @@ post_meta: ["author", "date", "categories"]
 dateformat: "2006-01-02"
 # Load jquery for the gallery only
 galleryLoadJQuery: true
+
+opengraph: true
+schema: true
+twitter_cards: true
