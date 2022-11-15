@@ -21,3 +21,5 @@ docker run --rm -it --network="host" -u $(id -u):$(id -g) \
     ghcr.io/linkchecker/linkchecker:latest \
     --ignore-url=/dist --no-status \
     $SITE_URL/
+
+docker-compose down
