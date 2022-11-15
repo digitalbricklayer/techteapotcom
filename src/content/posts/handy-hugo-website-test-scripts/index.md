@@ -1,6 +1,7 @@
 ---
 title: "Handy scripts for testing your Hugo website"
 date: 2020-11-18T10:09:19Z
+lastmod: 2022-11-15
 lead: "Whilst developing this website and porting it over to Hugo, I have written a few handy scripts to help me test the site for errors. I am going to present the scripts with a little explanation about what each script achieves so maybe you can use them too."
 tags:
   - Hugo
@@ -77,3 +78,5 @@ The script reads the sitemap from the website and then validates each link in tu
 ## Conclusion
 
 Some of these scripts will save you a ton of time. I can particularly recommend the `checklinks.sh` script. It is an absolute life saver when editing your site. It would take days to manually check all of the links on your site, but this little script can do the whole lot in a few minutes.
+
+*Update 2022-11-15*: If you wish to check your links, there is now a much easier option available if you are deploying your site using Netlify. Netlify have a plugin called `netlify-plugin-checklinks` you can use that checks your website links after each build. If one or more bad links are found, your build will fail and the new version of your site will not go live. There is enough [documentation on the project github page](https://github.com/Munter/netlify-plugin-checklinks) to get you started.
