@@ -1,6 +1,6 @@
 ---
 title: "A new dawn for The Tech Teapot"
-date: "2020-10-06"
+date: 2020-10-06
 lastmod: 2022-10-31
 lead: "Some big changes to The Tech Teapot blog including porting it over to use the Hugo static site generator Hugo."
 tags: [Hugo]
@@ -12,7 +12,7 @@ The Tech Teapot first started in late 2006. It wasn't called that then, it start
 
 Latterly, I kinda assumed that *The Tech Teapot* was dead. The website was still live but not in its original form. I converted the old Wordpress site to static HTML using the very good [Simply Static](https://www.simplystatic.co/) Wordpress plugin so I couldn't easily modify the site even if I wanted.
 
-Still, here we are in 2020 and I have ported the content over to [Hugo](https://gohugo.io/). Hugo is a (very fast) static site generator in a similar style to [jekyll](https://jekyllrb.com/), perhaps the original static site generator.
+Still, here we are in 2020 and I have ported the content over to [Hugo]({{< ref "/tags/hugo" >}}). Hugo is a (very fast) static site generator in a similar style to [jekyll](https://jekyllrb.com/), perhaps the original static site generator.
 
 ## Wordpress to Hugo
 
@@ -37,7 +37,9 @@ Both of these goals have been achieved. Hugo content development has a nice work
 
 One of the nicer things about static websites is they are very cheap to host. You don't need any powerful databases, you don't need a powerful server. No CMS code is executed when a webpage is served. All the web server does is fetch content from a (hopefully) very fast disk.
 
-{{< figure src="tech-teapot-hugo-compilation.png#center" title="Compiling the Tech Teapot from the command line" alt="Compiling the Tech Teapot" >}}
+{{< figure  src="tech-teapot-hugo-compilation.png#center"
+            title="Compiling the Tech Teapot from the command line"
+            alt="Compiling the Tech Teapot" >}}
 
 There are a number of ways you can host a static site:
 
@@ -51,4 +53,4 @@ Option three is my happy place of static hosting. It really does not get any eas
 
 All told the conversion process has taken a couple of weeks or so. Not quick by any means, but certainly not too excessive. Much of the process in the later stages was taken with redirecting old pages and the like. If you are starting afresh, then you'll find the process a lot quicker.
 
-*Update 2022-10-31*: It has actually taken until October 2022 to completely port the site over to Hugo and remove the vast majority of the HTML from the posts. Only some tables remain on an old comparison series of posts remain.
+*Update 2022-10-31*: It has actually taken until October 2022 to completely port the site over to Hugo and remove the vast majority of the HTML tags from the posts. Only some tables remain on an old comparison series of posts.
