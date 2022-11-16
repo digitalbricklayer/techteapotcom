@@ -7,10 +7,10 @@
 	{{- $logoMix := and $logoImage $logoTitle -}}
 
 	<div class="logo{{ with $logoMix }} logo--mixed{{ end }}">
-		<a class="logo__link" href="{{ "" | relLangURL }}"{{ with $logoTitle }} title="{{ . }}"{{ end }} rel="home">
+		<a class="logo__link" href="{{ "" | absLangURL }}"{{ with $logoTitle }} title="{{ . }}"{{ end }} rel="home">
 			{{ with $logoImage -}}
 				<div class="logo__item logo__imagebox">
-					<img class="logo__img" src="{{ . | relURL }}" alt="The Tech Teapot Logo">
+					<img class="logo__img" src="{{ . | absURL }}" alt="The Tech Teapot Logo">
 				</div>
 			{{- end -}}
 			{{ with $logoTitle -}}
