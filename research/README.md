@@ -1,4 +1,6 @@
-# Research
+# Tech Teapot Research
+
+Research for the *in depth* article series.
 
 Why did a lot of network management applications emerge in the period 1995-200X?
 
