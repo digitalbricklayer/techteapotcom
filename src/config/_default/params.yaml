@@ -43,3 +43,13 @@ galleryLoadJQuery: true
 opengraph: true
 schema: true
 twitter_cards: true
+
+csp:
+  - childsrc: ["'self'"]
+  - fontsrc: ["'self'"]
+  - formaction: ["'self'"]
+  - framesrc: ["'self'"]
+  - imgsrc: ["'self'"]
+  - objectsrc: ["'none'"]
+  - stylesrc: ["'self'"]
+  - scriptsrc: ["'self'"]
