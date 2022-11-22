@@ -17,6 +17,8 @@ draft: true
 
 <!--more-->
 
+## Introduction
+
 [MRTG](https://oss.oetiker.ch/mrtg/) or Multi Router Traffic Grapher is an open source network management tool originally developed by [Tobias Oetiker](https://blog.oetiker.ch/) in the spring of 1995 whilst he was working as a system administrator at [De Montfort University](https://www.dmu.ac.uk/), Leicester, UK.
 
 Tobias Oetiker was originally motivated to write MRTG in order to provide insight into the usage of the university's new internet link. Back at the dawn of the public internet, links to the internet were extremely slow. If you had students or faculty complaining about internet speed, it was helpful to know whether the slowdown was caused by a saturated link or some other problem.
@@ -55,19 +57,25 @@ for several routers.
 >Enjoy!
 >tobi
 
-MRTG appeared just at the time that it was possible for it to exist. Perl had to exist, cmu-snmp had to exist and netpbm had to exist too. Without these things existing and the wherewithal to distribute them freely, MRTG would either not have existed at all or would have been a small local utility used exclusively inside De Montfort University.
+MRTG appeared just at the time that it was possible for it to exist. *Perl* had to exist, *cmu-snmp* had to exist and *netpbm* had to exist too. Without these things existing and the wherewithal to distribute them freely, MRTG would either not have existed at all or would have been a small local utility used exclusively inside De Montfort University.
 
 The story of a particular location can be described in the various trenches of an archaeological dig. In a similar way, the story of an open source project is set out in how the source code has evolved over the project's lifetime. It may also be possible to discern broader technical changes through the evolution of the project.
 
-## Network management landscape
+## Network Management in April 1995
 
-MRTG was released into an internet that was before Google, Facebook and even Amazon. The web did exist but it was still new with very few of the websites that exist now.
+MRTG was released into an internet that was before Google, Facebook and even Amazon. The web did exist but it was still very new with very few of the websites that exist now. All told there [were 23,500 websites in total on the internet in 1995](https://www.internetlivestats.com/total-number-of-websites/).
 
-## MRTG architecture
+Corporate networks were unreliable and primitive to say the least and not widespread. Networks were dominated by [Novell Netware](https://en.wikipedia.org/wiki/NetWare) servers and some variant of Windows 3.1. Network configuration was not built into Windows 3.1. The first version of Microsoft Windows to have integrated peer to peer networking only appeared with Windows for Workgroups in late 1992.
 
-MRTG version 1.0 could not be much simpler. The software consists of a single executable called `mrtg` written in Perl, a sample configuration file and rudimentary documentation (see figure 1 below) in the form of a web page and some images to be used in the outputted html pages.
+Windows 95 was only released in August 1995. If you wanted a computer with lots of horse power and memory you would be using a [dedicated workstation](https://en.wikipedia.org/wiki/Workstation) from the likes of [Sun Microsystems](https://en.wikipedia.org/wiki/Sun_Microsystems). Dedicated workstations aren't really a category of computer that exists any more. Microsoft ate the whole category with what was originally called [Windows NT](https://en.wikipedia.org/wiki/Windows_NT).
 
-In order to install MRTG you first need to copy the sample configuration file and modify it to point to a local router supporting SNMP. You then need to schedule a cron job to run every 5 minutes to run the MRTG executable with the configuration file as the first parameter. The `mrtg` executable will run and query your router via SNMP for the in/out octets and slowly build a series of graphs embedded onto a single web page. If you have multiple routers, create a configuration file for each one and a new cron job. Your output will be a series of web pages with the in/out octets displayed in a series of graphs as well as a file with the raw time series data.
+MRTG was written using a dedicated workstation. I doubt the tool would exist without access to a workstation given how difficult development was on MS-DOS derived systems.
+
+## MRTG Architecture
+
+MRTG version 1.0 could not be much simpler. The software consists of a single executable called `mrtg` written in Perl, a sample configuration file and rudimentary documentation (see figure 1 below) in the form of a web page and some images to be used in the outputted HTML pages.
+
+In order to install MRTG you first need to copy the sample configuration file and modify it to point to a local router supporting SNMP. You then need to schedule a cron job to run every 5 minutes to run the MRTG executable with the configuration file as the first argument. The `mrtg` executable will run and query your router via SNMP for the in/out octets and slowly build a series of graphs embedded in a single web page. If you have multiple routers, create a configuration file for each one and a new cron job. Your output will be a series of individual web pages with the in/out octets displayed in a series of graphs as well as a text file with the raw time series data.
 
 {{< figure src="images/mrtg-help-v1-0.png#center"
            alt="MRTG v1.0 documentation"
