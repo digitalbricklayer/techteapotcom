@@ -1,6 +1,6 @@
 ---
 title: "An in-depth examination of MRTG v1.0"
-date: "2022-11-03"
+date: "2022-11-22"
 description: "An in-depth examination of MRTG v1.0 and how and why it came into being and how it took advantage of the emerging public internet to conquer the world."
 lead: "An in-depth examination of MRTG v1.0 and how and why it came into being and how it took advantage of the emerging public internet to conquer the world."
 thumbnail: "images/mrtg_logo.gif"
@@ -21,11 +21,25 @@ draft: true
 
 [MRTG](https://oss.oetiker.ch/mrtg/) or Multi Router Traffic Grapher is an open source network management tool originally developed by [Tobias Oetiker](https://blog.oetiker.ch/) in the spring of 1995 whilst he was working as a system administrator at [De Montfort University](https://www.dmu.ac.uk/), Leicester, UK.
 
+Tobias Oetiker's MRTG is a simple tool for graphing various metrics available from network devices supporting the widely used [SNMP protocol]({{< ref "articles/guide-to-snmp/index.md" >}}).
+
 Tobias Oetiker was originally motivated to write MRTG in order to provide insight into the usage of the university's new internet link. Back at the dawn of the public internet, links to the internet were extremely slow. If you had students or faculty complaining about internet speed, it was helpful to know whether the slowdown was caused by a saturated link or some other problem.
+## MRTG Significance
+
+I first came into contact with MRTG when a *very* enthusiastic customer gave me a demonstration of his use of the tool to chart the traffic over one of his network switches. It was slightly embarrassing as we were upgrading his installation of a proprietary, venture capital backed and very expensive network management tool. There was very little gushing over my upgrade.
+
+So, why am I interested in a network management tool first released 27 years ago and that isn't popular today?
+
+I think the reason I'm writing about it is twofold.
+
+1. MRTG was the first superstar open source network management tool. Plenty of tools have come after MRTG and an awful lot of them eclipsed MRTG in an awful lot of ways, but MRTG was the first;
+2. MRTG used the web in innovative ways but it also used the internet as a collaborative medium too.
+
+Take a look at the [SLAC Network Monitoring Tools](https://www.slac.stanford.edu/xorg/nmtf/nmtf-tools.html) catalog. The very first entry is MRTG.
 
 ## First Public Announcement
 
-The [original announcement of the MRTG project](https://groups.google.com/g/comp.lang.perl/c/FaAWCOBdgKo/m/g7IAn-LRGicJ) took place on 28th April 1995 when Tobias Oetiker posted the following message to the [comp.lang.perl](https://groups.google.com/g/comp.lang.perl) news group.
+The [original announcement of the MRTG project](https://groups.google.com/g/comp.lang.perl/c/FaAWCOBdgKo/m/g7IAn-LRGicJ) took place on 28th April 1995 when Tobias Oetiker posted a message to the [comp.lang.perl](https://groups.google.com/g/comp.lang.perl) news group.
 
 Here is the text of the announcement in full:
 
