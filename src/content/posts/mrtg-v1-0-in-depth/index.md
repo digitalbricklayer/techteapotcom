@@ -24,20 +24,8 @@ draft: true
 Tobias Oetiker's MRTG is a simple tool for graphing various metrics available from network devices supporting the widely used [SNMP protocol]({{< ref "articles/guide-to-snmp/index.md" >}}).
 
 Tobias Oetiker was originally motivated to write MRTG in order to provide insight into the usage of the university's new internet link. Back at the dawn of the public internet, links to the internet were extremely slow. If you had students or faculty complaining about internet speed, it was helpful to know whether the slowdown was caused by a saturated link or some other problem.
-## MRTG Significance
 
-I first came into contact with MRTG when a *very* enthusiastic customer gave me a demonstration of his use of the tool to chart the traffic over one of his network switches. It was slightly embarrassing as we were upgrading his installation of a proprietary, venture capital backed and very expensive network management tool. There was very little gushing over my upgrade.
-
-So, why am I interested in a network management tool first released 27 years ago and that isn't popular today?
-
-I think the reason I'm writing about it is twofold.
-
-1. MRTG was the first superstar open source network management tool. Plenty of tools have come after MRTG and an awful lot of them eclipsed MRTG in an awful lot of ways, but MRTG was the first;
-2. MRTG used the web in innovative ways but it also used the internet as a collaborative medium too.
-
-Take a look at the [SLAC Network Monitoring Tools](https://www.slac.stanford.edu/xorg/nmtf/nmtf-tools.html) catalog. The very first entry is MRTG.
-
-## First Public Announcement
+## Announcing MRTG v1.0
 
 The [original announcement of the MRTG project](https://groups.google.com/g/comp.lang.perl/c/FaAWCOBdgKo/m/g7IAn-LRGicJ) took place on 28th April 1995 when Tobias Oetiker posted a message to the [comp.lang.perl](https://groups.google.com/g/comp.lang.perl) news group.
 
@@ -68,22 +56,22 @@ for several routers.
 >
 >If you have comments on this program please get in touch
 >
->Enjoy!
+>Enjoy!<br>
 >tobi
 
 MRTG appeared just at the time that it was possible for it to exist. *Perl* had to exist, *cmu-snmp* had to exist and *netpbm* had to exist too. Without these things existing and the wherewithal to distribute them freely, MRTG would either not have existed at all or would have been a small local utility used exclusively inside De Montfort University.
 
-The story of a particular location can be described in the various trenches of an archaeological dig. In a similar way, the story of an open source project is set out in how the source code has evolved over the project's lifetime. It may also be possible to discern broader technical changes through the evolution of the project.
+Notice at the end that Tobi Oetiker was soliciting feedback from the very first announcement.
 
 ## Network Management in April 1995
 
-MRTG was released into an internet that was before Google, Facebook and even Amazon. The web did exist but it was still very new with very few of the websites that exist now. All told there [were 23,500 websites in total on the internet in 1995](https://www.internetlivestats.com/total-number-of-websites/).
+MRTG was released into an internet that was before Google, Facebook and even Amazon's website went live a few months after v1.0. The web did exist but it was still very new with very few of the websites that exist now. All told there [were 23,500 websites on the internet in 1995](https://www.internetlivestats.com/total-number-of-websites/).
 
-Corporate networks were unreliable and primitive to say the least and not widespread. Networks were dominated by [Novell Netware](https://en.wikipedia.org/wiki/NetWare) servers and some variant of Windows 3.1. Network configuration was not built into Windows 3.1. The first version of Microsoft Windows to have integrated peer to peer networking only appeared with Windows for Workgroups in late 1992.
+Corporate networks were unreliable and primitive to say the least and not widespread. Networks were dominated by [Novell Netware](https://en.wikipedia.org/wiki/NetWare) servers and some variant of Windows 3.1. The first version of Microsoft Windows to have integrated peer to peer networking only appeared with Windows for Workgroups in late 1992.
 
 Windows 95 was only released in August 1995. If you wanted a computer with lots of horse power and memory you would be using a [dedicated workstation](https://en.wikipedia.org/wiki/Workstation) from the likes of [Sun Microsystems](https://en.wikipedia.org/wiki/Sun_Microsystems). Dedicated workstations aren't really a category of computer that exists any more. Microsoft ate the whole category with what was originally called [Windows NT](https://en.wikipedia.org/wiki/Windows_NT).
 
-MRTG was written using a dedicated workstation. I doubt the tool would exist without access to a workstation given how difficult development was on MS-DOS derived systems.
+MRTG was written using a dedicated workstation. I doubt the tool would exist without access to a workstation given the difficulty of developing on an MS-DOS derived system.
 
 ## MRTG Architecture
 
@@ -95,18 +83,16 @@ In order to install MRTG you first need to copy the sample configuration file an
            alt="MRTG v1.0 documentation"
            caption="Figure 1: MRTG v1.0 documentation" >}}
 
-## Dependencies
-
 In order for MRTG to exist a number of tools needed to exist. The following tools were dependencies of MRTG v1.0.
 
-- *cmu-snmp* - a set of command line tools for interacting with SNMP enabled devices as well as an extensible SNMP agent (eventually morphed into [ucd-snmp and then net-snmp](http://www.net-snmp.org/about/history.html)
-- *netpbm* - a [very old set of command line tools](http://netpbm.sourceforge.net/) for image manipulation harking back to the 1980s when a vast number of image formats proliferated and a desperate need emerged to be able to convert between all of the different formats
-- *perl* - the [undisputed language of the web](https://opensource.com/life/16/11/perl-and-birth-dynamic-web) back in the 1990s
-- *cron* - a built-in Unix tool for running episodic jobs. MRTG expects to be run every 5 minutes
+- *cmu-snmp* - a set of command line tools for interacting with SNMP enabled devices as well as an extensible SNMP agent (eventually morphed into [ucd-snmp and then net-snmp](http://www.net-snmp.org/about/history.html);
+- *netpbm* - a [very old set of command line tools](http://netpbm.sourceforge.net/) for image manipulation harking back to the 1980s when a vast number of image formats proliferated and a desperate need emerged to be able to convert between all of the different formats;
+- *perl* - the [undisputed language of the web](https://opensource.com/life/16/11/perl-and-birth-dynamic-web) back in the 1990s;
+- *cron* - a built-in Unix tool for running episodic jobs. MRTG expects to be run every 5 minutes.
 
 ## Output
 
-MRTG outputs a web page embedded with graphs detailing some time series data.
+MRTG outputs a web page embedded with graphs detailing some time series data for each configuration file.
 
 {{< figure src="images/dmu-ac-uk-mrtg-jips.png#center"
            alt="De Montfort University internet link throughput graphs"
@@ -117,6 +103,17 @@ Time series output
 Open source collaboration - how quickly changes to the software were made by a community of people who began to make improvements to the project.
 
 Why did such a simple tool take off in such a big way? MRTG just prior to 1995 would have just been a script produced internally and then used exclusively internally by a very small number of people. At best, it might have been shared around a few other colleagues in other similar institutions with a similar itch to scratch.
+
+## MRTG Significance
+
+I first came into contact with MRTG when a *very* enthusiastic customer gave me a demonstration of his use of the tool to chart the traffic over one of his network switches. It was slightly embarrassing as we were upgrading his installation of a proprietary, venture capital backed and very expensive network management tool. There was very little gushing over my upgrade.
+
+So, why am I interested in a network management tool first released 27 years ago? I think the reason I'm interested about MRTG is twofold.
+
+1. MRTG was the first superstar open source network management tool. Plenty of tools have come after MRTG and an awful lot of them eclipsed MRTG in an awful lot of ways, but MRTG was the first;
+2. MRTG used the web in innovative ways but it also used the internet as a collaborative medium too.
+
+Take a look at the [SLAC Network Monitoring Tools](https://www.slac.stanford.edu/xorg/nmtf/nmtf-tools.html) catalog. The very first entry is MRTG.
 
 ## Early Release History
 
