@@ -66,8 +66,7 @@ First release with multiple contributors: Johannes Demel & Mike Convey
 - MRTG v1.6 support *Tricklet* and *getone* SNMP packages
 - `cfgmake` and `indexmaker` introduced somewhere down the line
 
-
-# MRTG
+## MRTG
 
 Freshmeat [entry for MRTG](http://freshmeat.sourceforge.net/projects/mrtg). Has quite a lot of version info including dates.
 
@@ -131,15 +130,15 @@ Paper presented by Tobi Oetiker at LISA 98 is [here](https://www.usenix.org/lega
 
 ## Outstanding research
 
-* Most significant milestone releases - when did major features ship?
-* Most significate contributors - what were the contributors doing? Were they sysadmins doing their job using MRTG?
-* Project activity - when did the project reach its peak and when did it start to lose momentum
-* Diff all of the releases to gauge the changes
+- Most significant milestone releases - when did major features ship?
+- Most significant contributors - what were the contributors doing? Were they sysadmins doing their job using MRTG?
+- Project activity - when did the project reach its peak and when did it start to lose momentum
+- Diff all of the releases to gauge the changes
 
 ## Post ideas
 
-* A dissection of MRTG v1.0
-* Open source when v1.0 emerged and the state of the internet at the time
-* A dissection of v2.0 rateup
-* A dissection of the first version to introduce rrdtool
-* MRTG: a history
+- A dissection of MRTG v1.0
+- Open source when v1.0 emerged and the state of the internet at the time
+- A dissection of v2.0 rateup
+- A dissection of the first version to introduce rrdtool
+- MRTG: a history

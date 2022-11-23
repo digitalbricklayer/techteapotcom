@@ -115,6 +115,10 @@ So, why am I interested in a network management tool first released 27 years ago
 
 Take a look at the [SLAC Network Monitoring Tools](https://www.slac.stanford.edu/xorg/nmtf/nmtf-tools.html) catalog. The very first entry is MRTG.
 
+## MRTG Eco-system
+
+Add-ons etc
+
 ## Early Release History
 
 See for [MRTG 1.1 announcement](https://groups.google.com/g/comp.lang.perl.misc/c/bhOhM6Grii4/m/1Y8LlDrkKzcJ)
