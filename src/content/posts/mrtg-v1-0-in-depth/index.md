@@ -111,7 +111,7 @@ I first came into contact with MRTG when a *very* enthusiastic customer gave me 
 So, why am I interested in a network management tool first released 27 years ago? I think the reason I'm interested about MRTG is twofold.
 
 1. MRTG was the first superstar open source network management tool. Plenty of tools have come after MRTG and an awful lot of them eclipsed MRTG in an awful lot of ways, but MRTG was the first;
-2. MRTG used the web in innovative ways but it also used the internet as a collaborative medium too.
+2. MRTG used the web in innovative ways but it also very early in using the internet as a collaborative medium too.
 
 Take a look at the [SLAC Network Monitoring Tools](https://www.slac.stanford.edu/xorg/nmtf/nmtf-tools.html) catalog. The very first entry is MRTG.
 
