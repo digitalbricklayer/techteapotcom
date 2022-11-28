@@ -31,32 +31,32 @@ The [original announcement of the MRTG project](https://groups.google.com/g/comp
 
 Here is the text of the announcement in full:
 
->ANNOUNCE: mrtg - Network Traffic Stats on the Web
+>```ANNOUNCE: mrtg - Network Traffic Stats on the Web
 >
 >MULTI ROUTER TRAFFIC GRAPHER
 >============================
->Here at DMU, our Internet link is always under heavy load. Therefore
-everybody is keen to know how the state of the link is.
+>Here at DMU, our Internet link is always under heavy load. Therefore 
+>everybody is keen to know how the state of the link is.
 >
 >I have written a small perl script which gathers the traffic stats from our
-backbone router. (the tool uses "snmpget" to read the information from the
-router.)
+>backbone router. (the tool uses "snmpget" to read the information from the
+>router.)
 >
 >The tool the creates a daily, weekly and yearly traffic graphs and makes
-them accessible trough a html document. (It uses ppmtogif to create the
-graphics)
+>them accessible trough a html document. (It uses ppmtogif to create the
+>graphics)
 >
 >If you are interested, you are welcome to download a
-copy and see the output of the tool, take a look at my homepage server:
+>copy and see the output of the tool, take a look at my homepage server:
 >
 >http://engelberg.dmu.ac.uk
 >
 >The tool can be easily configured for other sites, and it can also keep stats
-for several routers.
+>for several routers.
 >
 >If you have comments on this program please get in touch
 >
->Enjoy!<br>
+>Enjoy!
 >tobi
 
 MRTG appeared just at the time that it was possible for it to exist. *Perl* had to exist, *cmu-snmp* had to exist and *netpbm* had to exist too. Without these things existing and the wherewithal to distribute them freely, MRTG would either not have existed at all or would have been a small local utility used exclusively inside De Montfort University.
@@ -72,6 +72,8 @@ Corporate networks were unreliable and primitive to say the least and not widesp
 Windows 95 was only released in August 1995. If you wanted a computer with lots of horse power and memory you would be using a [dedicated workstation](https://en.wikipedia.org/wiki/Workstation) from the likes of [Sun Microsystems](https://en.wikipedia.org/wiki/Sun_Microsystems). Dedicated workstations aren't really a category of computer that exists any more. Microsoft ate the whole category with what was originally called [Windows NT](https://en.wikipedia.org/wiki/Windows_NT).
 
 MRTG was written using a dedicated workstation. I doubt the tool would exist without access to a workstation given the difficulty of developing on an MS-DOS derived system.
+
+[//]: # (Describe the other tools available at this time like OpenView, SNMPc etc...)
 
 ## MRTG Architecture
 
@@ -97,6 +99,10 @@ MRTG outputs a web page embedded with graphs detailing some time series data for
 {{< figure src="images/dmu-ac-uk-mrtg-jips.png#center"
            alt="De Montfort University internet link throughput graphs"
            caption="Figure 2: De Montfort University internet link throughput graphs last updated 16th October 1995" >}}
+
+## Time series database
+
+[//]: # (Description of the time series database used in early versions of MRTG goes here...)
 
 Time series output
 
