@@ -3,7 +3,6 @@ title: Network Configuration Management Introduction
 date: 2015-11-03
 description: "An exploration of the reasons why you should be interested in network configuration management. An outline is also presented of the available tools."
 lead: "An exploration of the reasons why you should be interested in network configuration management."
-thumbnail: "/images/accessories_tn.png"
 categories:
   - Network Management
 series:
