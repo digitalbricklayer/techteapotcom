@@ -1,7 +1,6 @@
 ---
 title: "Off Topic: Chin up"
 date: "2008-10-10T14:34:01+00:00"
-categories: ["Off Topic"]
 aliases: [/off-topic-chin-up/]
 ---
 

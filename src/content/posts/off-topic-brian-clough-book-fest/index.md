@@ -2,7 +2,6 @@
 title: "Brian Clough book fest"
 date: "2008-10-09T08:00:50+00:00"
 lastmod: "2013-08-01"
-categories: ["Off Topic"]
 aliases: [/off-topic-brian-clough-book-fest/]
 ---
 

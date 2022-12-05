@@ -1,7 +1,6 @@
 ---
 title: "Off Topic: Featureless software for $1,000"
 date: "2008-08-08T09:46:37+00:00"
-categories: ["Off Topic"]
 aliases: [/off-topic-featureless-software-for-1000/]
 ---
 
