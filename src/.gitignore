@@ -1,0 +1,6 @@
+# Hugo default output directory
+public
+# Hugo generated file cache
+resources/*
+!resources/.gitkeep
+.hugo_build.lock
