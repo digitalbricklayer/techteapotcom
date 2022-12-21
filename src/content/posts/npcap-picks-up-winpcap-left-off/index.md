@@ -3,7 +3,7 @@ title: "Npcap picks up where WinPcap left off"
 date: "2020-11-02"
 categories: [Protocol Analysis]
 tags: [WinPcap, npcap, Wireshark, libpcap, Win10Pcap]
-lead: "WinPcap is the major open source packet sniffing library for Microsoft Windows. Unfortunately it is no longer under active maintenance and hasn't been for quite some time. But, fear not, Npcap have picked up the baton. Sort of..."
+lead: "WinPcap is the major open source packet sniffing library for Microsoft Windows. Unfortunately it is no longer under active maintenance and hasn't been for quite some time. But, fear not, Npcap have picked up the baton."
 ---
 
 <!--more-->
@@ -18,7 +18,7 @@ Things doesn't get much more specialised than protocol analysis. Protocol analys
 
 Not too many people have the requirement for such detailed analysis of the inner workings of their network.
 
-If you are a student learning how networks work under the hood, you'll find protocol analysis  absolutely invaluable as a learning tool. Same goes for developers creating pretty well anything talking to a network. Making sure your program is sending and receiving the correct network traffic is absolutely invaluable. If you are a network administrator and you are troubleshooting a problem on the network, then it can be helpful to see what is happening at the very lowest level on the network.
+If you are a student learning how networks work under the hood, you'll find protocol analysis absolutely invaluable as a learning tool. Same goes for developers creating pretty well anything talking to a network. Making sure your program is sending and receiving the correct network traffic is absolutely invaluable. If you are a network administrator and you are troubleshooting a problem on the network, then it can be helpful to see what is happening at the very lowest level on the network.
 
 There are many tools that can be used to analyse packets on a network. From very expensive dedicated hardware to commercial software and open source solutions.
 
