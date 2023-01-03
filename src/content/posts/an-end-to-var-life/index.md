@@ -11,15 +11,17 @@ draft: true
 
 ## An End
 
-OPENXTRA Limited closed their doors for the last time on X. OPENXTRA was a Value Added Reseller in the server room environment monitoring market principally with a sideline as a supplier of ethernet enabled power switches.
+OPENXTRA Limited closed their doors for the last time on 29th December 2022. OPENXTRA was a Value Added Reseller in the server room environment monitoring market principally with a sideline as a supplier of network enabled power switches.
 
 ## The Beginning
 
-I co-founded OPENXTRA Limited all the way back in February 2003. The original idea was to curate a set of open source tools running on Microsoft Windows and provide paid support. The first product was called [OPENXTRA BASICS](https://openxtra.org/project/basics). It consisted of a single installer for Ethereal (now called [Wireshark](https://www.wireshark.org)), [MRTG](https://oss.oetiker.ch/mrtg/), [NTop](https://www.ntop.org/) and quite a few other smaller tools like [Nmap](https://nmap.org/), [tcpdump](https://www.tcpdump.org/) and [net-snmp](http://www.net-snmp.org/) all with a single nice easy to use Window based installer. The goal was to make installing network management tools as easy as installing any regular Windows application. No messy configuration. We largely achieved that goal too.
+I co-founded OPENXTRA Limited with Denis Laverty all the way back in February 2003. The original idea was to curate a set of open source tools running on Microsoft Windows and provide paid support. The first product was called [OPENXTRA BASICS](https://openxtra.org/project/basics). It consisted of a single installer for Ethereal (now called [Wireshark](https://www.wireshark.org)), [MRTG](https://oss.oetiker.ch/mrtg/), [NTop](https://www.ntop.org/) and quite a few other smaller tools like [Nmap](https://nmap.org/), [tcpdump](https://www.tcpdump.org/) and [net-snmp](http://www.net-snmp.org/) all with a single nice easy to use Window based installer. The goal was to make installing network management tools as easy as installing any regular Windows application. No messy configuration. We largely achieved that goal too.
 
 Back in the late 1990s and early 2000s, open source tools were very painful to install and configure. Microsoft Windows was also not a huge priority for many open source projects. In fact, many projects had a lack of Windows support as a kind of badge of honour. That was the world into which the original product idea for OPENXTRA Limited was born in late 2002.
 
-The tools were wildly popular far exceeding my expectations. The paid support was really *unpopular*. In fact, over a period of at least six months we managed to sell just a single support contract for the princely sum of around $49.00. Not the kind of money that is going to keep four people in rent.
+Building OPENXTRA BASICS was quite a large undertaking. By the time we were done, we'd written 3,000 lines of Python as a build system for it. 
+
+The tools were wildly popular far exceeding my expectations. The paid support was really *unpopular*. In fact, over a period of at least six months we managed to sell just a single support contract for the princely sum of around $49. Not the kind of money that is going to keep four people in rent.
 
 The upside is that at least we knew pretty quickly that it wasn't working and that we needed to find something else *fast*. The venture capitalists tell you to fail fast and we *definitely* did that.
 
@@ -79,7 +81,7 @@ We put a lot of effort into building a customer base for some of these companies
 
 ## The Xsensior Years
 
-Around about 2010, we noticed a gap in the products we were selling. There was room for a simple temperature measuring device that required the very minimum of configuration.
+Around about 2010, we noticed a gap in the products we were selling. There was room for a simple temperature measuring device that required the very minimum of configuration. The problem with network enabled devices is that you have to configure them to work on your network. Quite often the network is outsourced to some third party service provider making adding new devices to the network quite complex and possibly expensive.
 
 Xsensior Lite was born to fit into minimum configuration brief. Xsensior Lite was a cheap USB thermometer combined with a Microsoft Windows based GUI to log and display the data as well as alert when things go wrong. We added [a cloud version of the software called Xsensior Live]({{< ref "/posts/things-i-wished-id-known-before-developing-xsensior-live/index.md" >}}) not long afterwards.
 
@@ -121,4 +123,4 @@ It has certainly been a roller coaster ride. I have made my fair share of mistak
 
 As for me personally, I am busy up-training in [DevOps](https://en.wikipedia.org/wiki/DevOps). Cisco, in co-operation with the Open University, offer remote digital skills training courses. The Department for Education in England have funded a number of places and luckily I managed to be selected. I am currently studying the [Cisco DevNet Associate](https://developer.cisco.com/certification/devnet-associate/) course. I already have a couple of decades Linux experience and a few years of using Ansible to deploy websites. Or, I might go back to programming full time.
 
-I do seem to specialise in job hunting during a recession. When I first exited university it was during the early 1990s recession and here I am trying to do the same during the 2022 version.
+I do seem to specialise in job hunting during a recession. When I first exited university it was during the early 1990s recession and here I am trying to do the same during the 2023 version.
