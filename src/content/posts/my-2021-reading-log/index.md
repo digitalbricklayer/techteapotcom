@@ -7,7 +7,7 @@ series: ["Reading Log"]
 
 <!--more-->
 
-The older I get the more I tend to be attracted to non-fiction books. It isn't a conscious thing, come book choosing time I seem to veer towards non-fiction for some reason. If I was guessing as to why, I would suspect it is due to a bit of risk aversion kicking in. Fiction seems like much riskier proposition especially when a lot of fiction is pushing 400-500 pages and almost inevitably each book is port of a trilogy especially in my favorite genre science fiction &amp; fantasy.
+The older I get the more I tend to be attracted to non-fiction books. It isn't a conscious thing, come book choosing time I seem to veer towards non-fiction for some reason. If I was guessing as to why, I would suspect it is due to a bit of risk aversion kicking in. Fiction seems like a much riskier proposition especially when a lot of fiction is pushing 400-500 pages and almost inevitably each book is part of a trilogy especially in my favorite genre science fiction &amp; fantasy.
 
 My favorite book of 2021 was *Stoner* by John Williams. Nothing very exciting happens in the book, but the small events that did happen were of great significance to the protagonists in the book. A life, when all is said and done, boils down to significant interactions with very few people. Maybe a dozen if you are lucky.
 
