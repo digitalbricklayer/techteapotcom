@@ -1,6 +1,7 @@
 ---
 title: "Hugo in Action book review"
 date: "2020-10-20"
+lastmod: 2023-01-16
 tags: [Hugo]
 lead: "A short review of the Hugo in Action book published by Manning Publications."
 thumbnail: "/images/hugo-in-action-cover.jpg"
