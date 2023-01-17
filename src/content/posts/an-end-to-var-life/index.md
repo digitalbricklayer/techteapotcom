@@ -2,16 +2,15 @@
 title: "(An End to) VAR Life"
 description: "My reflections on nearly 20 years with OPENXTRA Limited a Value Added Reseller I co-founded all the way back in early 2003."
 lead: "My reflections on nearly 20 years with OPENXTRA Limited a Value Added Reseller I co-founded all the way back in early 2003."
-date: 2022-11-03
+date: 2023-01-17
 thumbnail: "/images/openxtra-logo.png"
-draft: true
 ---
 
 <!--more-->
 
 ## An End
 
-OPENXTRA Limited closed their doors for the last time on 29th December 2022. OPENXTRA was a Value Added Reseller in the server room environment monitoring market principally with a sideline as a supplier of network enabled power switches.
+OPENXTRA Limited was [purchased by AVTECH Software on 29th December 2022](https://www.openxtra.co.uk/server-room-monitoring-blog/announcement-openxtra-acquired-by-avtech-software-inc.html) and I decided to step back from my involvement. OPENXTRA is a Value Added Reseller in the server room environment monitoring market principally with a sideline as a supplier of network enabled power switches.
 
 ## The Beginning
 
@@ -57,8 +56,6 @@ When we introduced the *Config &amp; Buy* feature, calls from customers anxious 
 
 {{< figure src="images/confignbuy.png#center" caption="Figure 2: Config &amp; Buy circa 2006." alt="Config and buy from circa 2006" >}}
 
-Many thanks to *Dean* for his sterling work on the various websites.
-
 ## Cable Testers
 
 Once we were settled into selling environment monitors we looked around for other things we could sell to a similar audience.
@@ -93,29 +90,9 @@ Producing the software was one of the highlights of my time at OPENXTRA. It was 
 
 It was a *missed* opportunity because customers absolutely loved the product.
 
-## Google Gave and Google Hath Taken Away
-
-We had a good run. From mid 2004 until 2012 the website was an absolute ranking machine. I could put up a page and in an hour or two we'd be top 5 for it on Google. Quite often even in relatively competitive areas too. You do begin to take it for granted after a while.
-
-In 2012 we were hit pretty hard by one of Google's periodic updates. Google makes changes to their ranking algorithm and some websites go up and some go down. It was our turn to go down. We were not dropped down by much but the difference between appearing in first place and third place is the difference between night and day.
-
-Things are a bit different these days, the difference isn't so marked because all organic listings are so far down the page underneath all of the paid adverts. The result in \#1 position in 2022 is in the same place as \#3 or lower from the 2008 search results. As an aside, see for a comparison of one [Google search result between 2001, 2008 and 2022]({{< ref "/posts/open-source-network-management-in-google-2001-vs-google-2008/index.md" >}}). You will notice just how far down the page the \#1 result is in the 2022 results.
-
-## COVID-19
-
-It was only 23rd March 2020. But it feels like a lifetime ago. I knew something bad was happening a week before because my Father's care home went into full lock down.
-
-You will not be surprised that COVID had some pretty large effects upon the business. First of all the environment monitoring end of the business pretty well disappeared overnight. Monitoring the server room became rather a small concern. And the sales of environment monitors soon reflected that.
-
-Thankfully, being able to remote control the power to various devices located in the office whilst everybody was working from home became a *huge* concern. The only problem was that we had an early foretaste of the pernicious COVID supply problems. Because literally everybody in the world had exactly the same requirement and the manufacturers could not keep up with demand.
-
-If it hadn't been for remote power switch sales in 2020, this post would have been written much *sooner*. :wink:
-
 ## The End
 
-OPENXTRA has always been run quite conservatively. We don't have flash cars and our offices could politely be described as utilitarian. We've always kept things as lean as possible. We have kept a sizeable five figure sum in the bank for rainy days. This got us through the tough times of the *Great Recession*, the Google ranking drop and COVID-19. But we were lucky that each of the previous crises were well spaced out. We were able to slowly top up the rainy day fund between crises. Unfortunately, the most recent Ukraine crisis has come hot on the heals of COVID-19. We just didn't have the opportunity to build our rainy day fund back up after COVID.
-
-There comes a time when you run out of road. The good trading conditions likely to appear after the Ukraine crisis are just too far away for us.
+OPENXTRA has been purchased by AVTECH Software at the end of 2022. I decided after 20 years I wanted to step away and do something else. I am sure all of OPENXTRA's many customers will find a good home with AVTECH. We've always found them very straightforward to deal with and I am sure our customers will too.
 
 It has certainly been a roller coaster ride. I have made my fair share of mistakes over the last twenty years. But it's been fun. :smile:
 
