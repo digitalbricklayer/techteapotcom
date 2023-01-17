@@ -28,7 +28,7 @@ Our one lucky break, in spite of all the effort we put into trying to get it, wa
 
 This period in the company I look back with a huge amount of fondness. There was a real mission all four of us felt and we were all determined to get there.
 
-I didn't get paid for more than a year so, I remember a strange combination of being completely enthused with our mission and being completely *skint*. In fact, I sold pretty well everything I owned at the time. If I still own anything from back then, it is because I couldn't find anybody to sell it to. :smile:
+I didn't get paid for more than a year or so, I remember a strange combination of being completely enthused with our mission and being completely *skint*. In fact, I sold pretty well everything I owned at the time. If I still own anything from back then, it is because I couldn't find anybody to sell it to. :smile:
 
 ## VAR Life Begins
 
