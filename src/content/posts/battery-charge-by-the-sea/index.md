@@ -1,7 +1,6 @@
 ---
 title: "Battery charge by the sea"
 date: "2007-10-25T12:54:44+00:00"
-tags: [holiday, "Robin Hood's Bay", Scarborough]
 aliases: [/battery-charge-by-the-sea/]
 ---
 
