@@ -18,11 +18,16 @@ sidebar:
   list: "left"  # Configure layout for list pages
   single: false # Configure layout for single pages
   # Enable widgets in given order
-  widgets: ["search", "authorbio", "authorstackoverflow", "recent", "categories", "links", "taglist"]
+  widgets: ["search", "authorbio", "authorstackoverflow", "social", "recent", "categories", "links", "taglist"]
 
 widgets:
-  recent_num: 5 # Set the number of articles in the "Recent articles" widget
-  tags_counter: false # Enable counter for each tag in "Tags" widget
+  recent_num: 5 # Number of articles in the "recent" widget
+  tags_counter: false
+
+widgets:
+  social:
+    linkedin: "jack-hughes-16662613"
+    github: "digitalbricklayer"
 
 authorbox: true # Show authorbox at bottom of pages
 
