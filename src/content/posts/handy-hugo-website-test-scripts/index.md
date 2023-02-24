@@ -1,7 +1,7 @@
 ---
 title: "Handy scripts for testing your Hugo website"
 date: 2020-11-18T10:09:19Z
-lastmod: 2022-11-15
+lastmod: 2023-02-24
 lead: "Whilst developing this website and porting it over to Hugo, I have written a few handy scripts to help me test the site for errors. I am going to present the scripts with a little explanation about what each script achieves so maybe you can use them too."
 tags:
   - Hugo
@@ -25,7 +25,7 @@ The script also shows how to check external links as well.
 
 {{< gist digitalbricklayer f46b889d55a7e17ade3672f9698b3b65 >}}
 
-The script will fail cleanly if `linkchecker` is missing. I would like to improve the script by removing the dependency on the `linkchecker` tool. Or at least place the dependency in a more manageable docker container. I will update this post when I have managed to dockerize `linkchecker`.
+The script now uses a `linkchecker` docker container so you don't need to install `linkchecker` in order to use the script.
 
 ## checkredirects.sh
 
@@ -80,3 +80,5 @@ The script reads the sitemap from the website and then validates each link in tu
 Some of these scripts will save you a ton of time. I can particularly recommend the `checklinks.sh` script. It is an absolute life saver when editing your site. It would take days to manually check all of the links on your site, but this little script can do the whole lot in a few minutes.
 
 *Update 2022-11-15*: If you wish to check your links, there is now a much easier option available if you are deploying your site using Netlify. Netlify have a plugin called `netlify-plugin-checklinks` you can use that checks your website links after each build. If one or more bad links are found, your build will fail and the new version of your site will not go live. There is enough [documentation on the project github page](https://github.com/Munter/netlify-plugin-checklinks) to get you started.
+
+*Update 2022-02-24*: Updates `checklinks.sh` script to use the `checklinks` docker container saving you from having to install the `linkchecker` program.

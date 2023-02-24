@@ -5,7 +5,8 @@
 # default port used when `hugo serve` command is used
 SITE_URL="http://localhost:1313"
 
-# Start the test server
+# Start the test server in daemon mode 
+# so as not to block the script
 docker-compose up -d
 
 # Wait for the test server to start up
