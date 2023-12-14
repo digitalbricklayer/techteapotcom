@@ -23,23 +23,43 @@ draft: true
 
 <span style="color: #ff0000;">May</span>
 
+Cornwell, Bernard: **The Last Kingdom**
+
+Gaiman, Neil: **Stardust**
+
+Martin, George R.R.: **A Game of Thrones**
 
 <span style="color: #ff0000;">June</span>
 
+Naylor, Doug: **Last Human**
 
 <span style="color: #ff0000;">July</span>
 
 <span style="color: #ff0000;">August</span>
 
+Sagan, Carl: **Contact**
+
+Sanderson, Brandon: **The Emperor's Soul**
+
+Divya, S.B.: **Meru**
 
 <span style="color: #ff0000;">September</span>
 
-
 <span style="color: #ff0000;">October</span>
 
+Fahme, Minhaz-Us-Salakeen: **How to Make a Game: Go From Idea to Publication Avoiding the Common Pitfalls Along the Way**
+
+Corey, James S.A.: **Leviathan Wakes**
+
+Yang, Neon: **The Black Tides of Heaven**
+
+Gemmell, David: **Sword in the Storm**
 
 <span style="color: #ff0000;">November</span>
 
+Keenan, Brian: **An Evil Cradling**
+
+Waite, Terry: **Taken on Trust: An Autobiography**
 
 <span style="color: #ff0000;">December</span>
 
