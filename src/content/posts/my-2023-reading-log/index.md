@@ -1,9 +1,8 @@
 ---
 title: "My 2023 Reading Log"
 date: 2023-12-14T15:14:30Z
-description: ""
-thumbnail: "img/placeholder.png" # Thumbnail image
 lead: "Example lead - highlighted near the title" # Lead text
+thumbnail: "/images/game-of-thrones-cover.jpg"
 series: ["Reading Log"]
 draft: true
 ---
