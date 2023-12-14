@@ -1,7 +1,7 @@
 ---
 title: "My 2023 Reading Log"
 date: 2023-12-14T15:14:30Z
-lead: "Example lead - highlighted near the title" # Lead text
+lead: "I am happy to report that I have met my 2022 goal to read more fiction this year. "
 thumbnail: "/images/game-of-thrones-cover.jpg"
 series: ["Reading Log"]
 draft: true
@@ -16,7 +16,6 @@ draft: true
 <span style="color: #ff0000;">March</span>
 
 <span style="color: #ff0000;">April</span>
-
 
 <span style="color: #ff0000;">May</span>
 
