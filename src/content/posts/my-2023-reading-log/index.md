@@ -12,9 +12,7 @@ draft: true
 
 <span style="color: #ff0000;">January</span>
 
-
 <span style="color: #ff0000;">February</span>
-
 
 <span style="color: #ff0000;">March</span>
 
@@ -47,7 +45,7 @@ Divya, S.B.: **Meru**
 
 <span style="color: #ff0000;">October</span>
 
-Fahme, Minhaz-Us-Salakeen: **How to Make a Game: Go From Idea to Publication Avoiding the Common Pitfalls Along the Way**
+Fahme, Minhaz-Us-Salakeen: **How to Make a Game: Go From Idea to Publication Avoiding the Common Pitfalls Along the Way** (non-fiction)
 
 Corey, James S.A.: **Leviathan Wakes**
 
@@ -57,9 +55,9 @@ Gemmell, David: **Sword in the Storm**
 
 <span style="color: #ff0000;">November</span>
 
-Keenan, Brian: **An Evil Cradling**
+Keenan, Brian: **An Evil Cradling** (non-fiction)
 
-Waite, Terry: **Taken on Trust: An Autobiography**
+Waite, Terry: **Taken on Trust: An Autobiography** (non-fiction)
 
 <span style="color: #ff0000;">December</span>
 
