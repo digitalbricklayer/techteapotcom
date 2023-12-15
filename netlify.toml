@@ -6,16 +6,18 @@
   # root directory if a base has not been set.
   publish = "public/"
 
-  # Default build command - build production site. Can be overridden below for
+  # Default build command - build site. Can be overridden below for
   # specific branches.
   command = "hugo --environment development"
 
 [build.environment]
   HUGO_VERSION = "0.107.0"
 
-# Production context: this is the live website (master branch)
+# Production context: this is the production website (master branch)
 [context.production]
   command = "hugo --environment production --minify"
+  [context.production.environment]
+    HUGO_ENV = "production"
 
 [[plugins]]
 package = "netlify-plugin-checklinks"
