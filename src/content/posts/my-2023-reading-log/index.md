@@ -1,13 +1,16 @@
 ---
 title: "My 2023 Reading Log"
-date: 2023-12-14T15:14:30Z
-lead: "I am happy to report that I have met my 2022 goal to read more fiction this year. "
+date: 2024-01-02
+lead: "I am happy to report that I met my 2022 goal to read more fiction this year. After a slow start to 2023, I managed a reasonable year including a couple of large tomes I've had on my list for a long time."
 thumbnail: "/images/game-of-thrones-cover.jpg"
 series: ["Reading Log"]
-draft: true
 ---
 
 <!--more-->
+
+I read a total of 13 books in 2023. Of those 10 books were fiction. And of those 10 fiction books, 5 were fantasy. I hope 2024 brings a lot more fantasy books as I really enjoyed my selections this year.
+
+I had a late spurt reading around the Lebanon hostage crisis of the 1980s and 1990s. I found Terry Waite's book absolutely superb. My book of 2023 is definitely **A Game of Thrones** by George R.R. Martin. For such a long book with so many characters, I never got to the point where I lost track of a character. Some feat in such a long and complex book.
 
 <span style="color: #ff0000;">January</span>
 
@@ -58,4 +61,3 @@ Keenan, Brian: **An Evil Cradling** (non-fiction)
 Waite, Terry: **Taken on Trust: An Autobiography** (non-fiction)
 
 <span style="color: #ff0000;">December</span>
-
