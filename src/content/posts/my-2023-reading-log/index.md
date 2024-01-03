@@ -2,7 +2,7 @@
 title: "My 2023 Reading Log"
 date: 2024-01-02
 lead: "I am happy to report that I met my 2022 goal to read more fiction this year. After a slow start to 2023, I managed a reasonable year including a couple of large tomes I've had on my list for a long time."
-thumbnail: "/images/game-of-thrones-cover.jpg"
+thumbnail: "/images/game-of-thrones-cover.png"
 series: ["Reading Log"]
 ---
 
