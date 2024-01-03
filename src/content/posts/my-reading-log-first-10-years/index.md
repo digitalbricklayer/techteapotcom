@@ -41,7 +41,7 @@ Hopefully I can find some more time to read in the next ten years. I guess my TV
 
 Another goal is to read contemporary books hot off the press. Reading the classics is fine, but I really want to read the most up-to-date books tackling early 21st century issues.
 
-This goal is probably in direct conflict with my desire to read more contemporary books so I better not over do it. I want to read all of the [Hugo](https://www.thehugoawards.org/) and [Nebula](https://nebulas.sfwa.org/) winners over the next ten years. So long as I pace myself and choose a few per year I should be okay.
+This goal is probably in direct conflict with my desire to read more contemporary books so I better not over do it. I want to read all of the [Hugo](https://www.thehugoawards.org/) and [Nebula](https://nebulas.sfwa.org/) winners over the next ten years. So long as I pace myself and tick off a few per year I should be okay.
 
 I don't have too many of these 10 year summary posts left to write. So I better make 'em good.
 
