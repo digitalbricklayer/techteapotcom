@@ -3,4 +3,4 @@
 docker run --rm -it \
   -v $(pwd)/src:/src \
   -u $(id -u):$(id -g) \
-  klakegg/hugo:0.105.0-ext-ubuntu
+  hugomods/hugo:0.121.1
