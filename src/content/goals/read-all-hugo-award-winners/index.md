@@ -82,3 +82,5 @@ description: "My goal is to read all of the Hugo Award winners by the end of 203
 | 2023 | Nettle &amp; Bone | Ursula Vernon |  |
 
 [^1]: Did Not Finish
+
+Of the 71 winners (there are a few years when a joint award was made) of the Hugo Award, I had already read 18 winners before I started to track my progress.
