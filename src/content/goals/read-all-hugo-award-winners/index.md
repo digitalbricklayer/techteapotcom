@@ -1,7 +1,10 @@
 ---
 title: "Read All Hugo Award Winners"
-lead: "A table tracking all of the Hugo Award winners since the prizes inception and whether I have read the book. My goals is to read all of the Hugo Award winners by the end of 2033."
+lead: "A table tracking all of the Hugo Award winners since the prize's inception and whether I have read the book. My goal is to read all of the Hugo Award winners by the end of 2033."
+description: "My goal is to read all of the Hugo Award winners by the end of 2033. This page will track my progress towards that goal."
 ---
+
+<!--more-->
 
 | Year | Title | Author | Read |
 |------|-------|--------|------|
@@ -19,7 +22,7 @@ lead: "A table tracking all of the Hugo Award winners since the prizes inception
 | 1966 | Dune | Frank Herbert |  |
 | 1966 | ...And Call Me Conrad | Roger Zelazny |  |
 | 1967 | The Moon is a Harsh Mistress | Robert A. Heinlein |  |
-| 1968 | Lord of Light | Rober Zelazny |  |
+| 1968 | Lord of Light | Rober Zelazny | DNF[^1] |
 | 1969 | Stand on Zanzibar | John Brunner |  |
 | 1970 | The Left Hand of Darkness | Ursula K. Le Guin |  |
 | 1971 | Ringworld | Larry Niven | X |
@@ -77,3 +80,5 @@ lead: "A table tracking all of the Hugo Award winners since the prizes inception
 | 2021 | Network Effect | Martha Wells |  |
 | 2022 | A Desolation Called Peace | Arkady Martine |  |
 | 2023 | Nettle &amp; Bone | Ursula Vernon |  |
+
+[^1]: Did Not Finish
