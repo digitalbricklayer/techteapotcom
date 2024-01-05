@@ -1,8 +1,7 @@
 ---
-title: "Hugo Award Winners"
+title: "Read All Hugo Award Winners"
+lead: "A table tracking all of the Hugo Award winners since the prizes inception and whether I have read the book. My goals is to read all of the Hugo Award winners by the end of 2033."
 ---
-
-A table tracking all of the Hugo Award winners since the prizes inception as well as whether I have read the book.
 
 | Year | Title | Author | Read |
 |------|-------|--------|------|
