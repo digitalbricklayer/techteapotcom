@@ -2,16 +2,16 @@
 title: "Hugo Award Winners"
 ---
 
-A table showing all of the Hugo Award winners since the prizes inception as well as whether I have read the book.
+A table tracking all of the Hugo Award winners since the prizes inception as well as whether I have read the book.
 
 | Year | Title | Author | Read |
 |------|-------|--------|------|
-| 1953  | The Demolished Man | Alfred Bester  | X |
-| 1955  | They'd Rather Be Right | Mark Clifton and Frank Riley |   |
-| 1956  | Double Star  | Robert A. Heinlein |   |
-| 1958  | The Big Time | Fritz Leiber  |   |
-| 1959  | A Case of Conscience  | James Blish  | X |
-| 1960  | Starship Troopers  | Robert A. Heinlein  | X |
+| 1953 | The Demolished Man | Alfred Bester  | X |
+| 1955 | They'd Rather Be Right | Mark Clifton and Frank Riley |   |
+| 1956 | Double Star | Robert A. Heinlein |   |
+| 1958 | The Big Time | Fritz Leiber |   |
+| 1959 | A Case of Conscience  | James Blish  |  |
+| 1960 | Starship Troopers  | Robert A. Heinlein  | X |
 | 1961 | A Canticle for Leibowitz | Walter M. Miller Jnr. |  |
 | 1962 | Stranger in a Strange Land | Robert A. Heinlein |  |
 | 1963 | The Man in the High Castle | Philip K. Dick | X |
@@ -29,7 +29,7 @@ A table showing all of the Hugo Award winners since the prizes inception as well
 | 1974 | Rendezvous with Rama | Arthur C. Clarke | X |
 | 1975 | The Dispossessed | Ursula K. Le Guin |  |
 | 1976 | The Forever War | Joe Haldeman | X |
-| 1977 | Where Late the Sweet Birds Sange | Kate Wilhelm |  |
+| 1977 | Where Late the Sweet Birds Sang | Kate Wilhelm |  |
 | 1978 | Gateway | Frederick Pohl | X |
 | 1979 | Dreamsnake | Vonda N. McIntyre |  |
 | 1980 | The Fountains of Paradise | Arthur C. Clarke | X |
