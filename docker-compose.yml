@@ -1,6 +1,6 @@
 server:
-  image: klakegg/hugo:0.107.0-ext-ubuntu
-  command: server -D --gc --disableLiveReload
+  image: hugomods/hugo:0.121.1
+  command: hugo server --bind 0.0.0.0 -D --gc --disableLiveReload
   volumes:
     - "$PWD/src:/src"
   ports:
