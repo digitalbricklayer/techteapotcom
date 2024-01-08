@@ -32,7 +32,7 @@ description: "My goal is to read all of the Hugo Award winners by the end of 203
 | 1975 | The Dispossessed | Ursula K. Le Guin | X |
 | 1976 | The Forever War | Joe Haldeman | X |
 | 1977 | Where Late the Sweet Birds Sang | Kate Wilhelm |  |
-| 1978 | Gateway | Frederick Pohl | X |
+| 1978 | Gateway | Frederik Pohl | X |
 | 1979 | Dreamsnake | Vonda N. McIntyre |  |
 | 1980 | The Fountains of Paradise | Arthur C. Clarke | X |
 | 1981 | The Snow Queen | Joan D. Vinge |  |
