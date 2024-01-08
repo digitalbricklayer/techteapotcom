@@ -1,6 +1,6 @@
 ---
-title: "Read All Hugo Award Winners"
-lead: "A table tracking all of the Hugo Award winners since the prize's inception and whether I have read the book. My goal is to read all of the Hugo Award winners by the end of 2033."
+title: "Read All Hugo Award Winning Novels"
+lead: "A table tracking all of the Hugo Award winning novels since the prize's inception and whether I have read the book. My goal is to read all of the Hugo Award winning novels by the end of 2033."
 description: "My goal is to read all of the Hugo Award winners by the end of 2033. This page will track my progress towards that goal."
 ---
 
@@ -83,4 +83,4 @@ description: "My goal is to read all of the Hugo Award winners by the end of 203
 
 [^1]: Did Not Finish
 
-Of the 71 winners (there are a few years when a joint award was made) of the Hugo Award, I had already read 18 winners before I started to track my progress.
+Of the 71 winning novels (there are a few years when a joint award was made) of the Hugo Award, I had already read 18 winners before I started to track my progress.
