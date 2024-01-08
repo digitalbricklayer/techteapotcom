@@ -12,7 +12,7 @@ description: "My goal is to read all of the Hugo Award winners by the end of 203
 | 1955 | They'd Rather Be Right | Mark Clifton and Frank Riley |   |
 | 1956 | Double Star | Robert A. Heinlein |   |
 | 1958 | The Big Time | Fritz Leiber |   |
-| 1959 | A Case of Conscience  | James Blish  |  |
+| 1959 | A Case of Conscience  | James Blish  | X |
 | 1960 | Starship Troopers  | Robert A. Heinlein  | X |
 | 1961 | A Canticle for Leibowitz | Walter M. Miller Jnr. |  |
 | 1962 | Stranger in a Strange Land | Robert A. Heinlein |  |
@@ -29,7 +29,7 @@ description: "My goal is to read all of the Hugo Award winners by the end of 203
 | 1972 | To Your Scattered Bodies Go | Philip José Farmer  |  |
 | 1973 | The Gods Themselves | Isaac Asimov | X |
 | 1974 | Rendezvous with Rama | Arthur C. Clarke | X |
-| 1975 | The Dispossessed | Ursula K. Le Guin |  |
+| 1975 | The Dispossessed | Ursula K. Le Guin | X |
 | 1976 | The Forever War | Joe Haldeman | X |
 | 1977 | Where Late the Sweet Birds Sang | Kate Wilhelm |  |
 | 1978 | Gateway | Frederick Pohl | X |
@@ -83,4 +83,4 @@ description: "My goal is to read all of the Hugo Award winners by the end of 203
 
 [^1]: Did Not Finish
 
-Of the 71 winning novels (there are a few years when a joint award was made) of the Hugo Award, I had already read 18 winners before I started to track my progress.
+Of the 71 winning novels (there are a few years when a joint award was made) of the Hugo Award, I had already read 20 winners before I started to track my progress.
