@@ -8,7 +8,7 @@ taxonomies:
   category: categories
   tag: tags
   series: series
-  goal: goals
+#  goal: goals
 disqusShortname: ""   # No comments
 googleAnalytics: ""   # No GA tracking
 enableRobotsTXT: true
