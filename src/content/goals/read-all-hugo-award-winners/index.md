@@ -66,7 +66,7 @@ description: "My goal is to read all of the Hugo Award winners by the end of 203
 | 2008 | The Yiddish Policemen's Union | Michael Chabon |  |
 | 2009 | The Graveyard Book | Neil Gaiman |  |
 | 2010 | The Windup Girl | Paolo Bacigulupi |  |
-| 2010 | The City &amp; the City | China Miélville | X |
+| 2010 | The City &amp; the City | China Miélville | DNF[^1] |
 | 2011 | Blackout/All Clear | Connie Willis |  |
 | 2012 | Among Others | Jo Walton |  |
 | 2013 | Redshirts | John Scalzi |  |
