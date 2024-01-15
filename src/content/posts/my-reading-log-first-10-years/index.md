@@ -43,7 +43,7 @@ Another goal is to read contemporary books hot off the press. Reading the classi
 
 This goal is probably in direct conflict with my desire to read more contemporary books, so I better not over do it. I want to read all of the [Hugo Awards](https://www.thehugoawards.org/) and [Nebula](https://nebulas.sfwa.org/) winning novels over the next ten years. So long as I pace myself and tick off a few per year, I should be okay. I've created a [Hugo Award winners goal tracking page]({{< ref "/goals/read-all-hugo-award-winners/index.md" >}}) and a [Nebula Award winners goal tracking page]({{< ref "/goals/read-all-nebula-winners/index.md" >}}) so I can track my progress.
 
-In addition, I would like to write mini reviews of the books I read. I doubt I'll review all of the books, but I think it would be good for my reading to review at least a few of the books I've read. The reviews will be short, about the typical review length on Goodreads.
+In addition, I would like to write mini reviews of the books I read. I doubt I'll review all of the books, but I think it would be good for my reading to review at least a few of the books I've read. The reviews will be short, about the typical length of a review on Goodreads.
 
 ## Conclusion
 
