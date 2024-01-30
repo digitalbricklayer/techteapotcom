@@ -16,8 +16,6 @@
 # Production context: this is the production website (master branch)
 [context.production]
   command = "hugo --environment production --minify"
-  [context.production.environment]
-    HUGO_ENV = "production"
 
 [[plugins]]
 package = "netlify-plugin-checklinks"
