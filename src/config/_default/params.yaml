@@ -1,5 +1,8 @@
 copyright: "Jack Hughes"
 
+# Home page meta description
+description: "The Tech Teapot blog is the online home of Jack Hughes and concentrates on open source network management software"
+
 style:
   vars:
     highlightColor: "#e2852d" # Override highlight color
