@@ -12,7 +12,7 @@ description: "A table tracking all of the Nebula winning novels since the prize'
 | 1974 | Rendezvous with Rama | Arthur C. Clarke | X |
 | 1975 | The Dispossessed | Ursula K. Le Guin | X |
 | 1976 | The Forever War | Joe Haldeman | X |
-| 1977 | Man Plus | Frederik Pohl |  |
+| 1977 | Man Plus | Frederik Pohl | X |
 | 1978 | Gateway | Frederik Pohl | X |
 | 1979 | Dreamsnake | Vonda N. McIntryre |  |
 | 1980 | The Fountains of Paradise | Arthur C. Clarke | X |
