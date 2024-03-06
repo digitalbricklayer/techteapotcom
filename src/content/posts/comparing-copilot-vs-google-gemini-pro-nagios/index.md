@@ -12,7 +12,7 @@ I've been tinkering with the current generation of AI for a while now. I am amaz
 
 This got me thinking. How good is generative AI at more IT related tasks and what would be a good test?
 
-There is no point in choosing something obscure to test with, so I need something old and well known to give the AI a chance. You can't get better known than Nagios in the system monitoring space and it is certainly old enough to have garnered plenty of food for the AI to learn from.
+There is no point in choosing something obscure, so I need something old and well known to give the AI a chance. You can't get better known than Nagios in the system monitoring space and it is certainly old enough to have garnered plenty of food for the AI to learn from.
 
 My test is going to be installing Nagios on an Ubuntu 22.04 host using *Ansible*. I chose Ansible because I'm familiar with it and would normally use it to configure a new host.
 
