@@ -34,7 +34,7 @@ I launched the query using the preview Copilot in Windows sidebar installed in W
             alt="Microsoft Copilot in action answering a query"
             caption="Figure 1: Microsoft Copilot in action answering the query" >}}
 
-The query produced an Ansible playbook listed below:
+The query produced the Ansible playbook listed below:
 
 ```yaml
 ---
@@ -255,4 +255,10 @@ The Gemini output could be improved further by providing an example host file an
 
 ## Conclusion
 
-I suspect your view of these very capable tools will differ based upon how you are using the tool. If you are a beginner attempting to get things done rather than as a learning tool then you will appreciate how Copilot works. I doubt either tool is quite there guiding a complete beginner through how to use Ansible to install Nagios. But, if you've done some reasearch before then I think these tools will help you a lot in speeding up your existing learning.
+I suspect your view of these very capable tools will differ based upon how you are using the tool.
+
+As a sysadmin wishing to learn how to use Ansible, I think you will find either of these tools to be a great aid in helping you learn. Both tools provide further reading at the end of there output. I doubt either tool is quite there guiding a complete beginner through how to use Ansible to install Nagios. But, if you've done some reasearch before then I think these tools will help you a lot in speeding up your existing learning.
+
+If you are a less experienced Ansible user wanting to get things done rather than as a learning tool then you will appreciate how Copilot works. 
+
+As an experienced sysadmin these tools are going to help you a lot. I think both tools would be helpful to an experienced Ansible user shortening the time to get a *good enough* script which can then be tweaked and improved. Where generative AI tools will be invaluable is removing that horrible feeling of starting a project with a blank page. Both these tools provide a starting point that cuts out the blank slate and the struggle to get started. I think Copilot on this test provided a particularly good starting point upon which an experience Ansible sysadmin could then improve.
