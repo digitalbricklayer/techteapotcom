@@ -1,36 +1,258 @@
 ---
-title: "Comparing Microsoft Copilot vs Google Gemini Pro for installing Nagios"
+title: "Comparing Microsoft Copilot vs Google Gemini Pro for installing Nagios using Ansible"
 date: 2024-03-06
-lead: "A comparison between Microsoft Copilot and Google Gemini Pro for installing Nagios using three seperate methods."
+lead: "A comparison between Microsoft Copilot and Google Gemini Pro for installing Nagios using Ansible."
+thumbnail: "/images/AI_icon.png"
 draft: true
 ---
 
 <!--more-->
 
-I've been tinkering with the current generation of AI for a while now. I am amazed by the image generation capabilities of Copilot. I've already used generative AI to suggest blog names for my personal hobby blog and to generate a logo for it is as well.
+I've been tinkering with the current generation of AI for a while now. I am amazed by the image generation capabilities of Copilot. I've already used generative AI to suggest blog names for my hobby blog and to generate a logo for it is as well.
 
-This got me thinking. How good is generative AI at more IT related tasks and what would be a good test ground?
+This got me thinking. How good is generative AI at more IT related tasks and what would be a good test?
 
 There is no point in choosing something obscure to test with, so I need something old and well known to give the AI a chance. You can't get better known than Nagios in the system monitoring space and it is certainly old enough to have garnered plenty of food for the AI to learn from.
 
-My test is going to be installing Nagios on an Ubuntu 22.04 host using three different methods: *Ansible*, *Docker* and a plain old *shell script*.
+My test is going to be installing Nagios on an Ubuntu 22.04 host using *Ansible*. I chose Ansible because I'm familiar with it and would normally use it to configure a new host.
+
+## Test setup
+
+The queries were executed on a Lenovo Thinkpad running Windows 11. The scripts were tested on an old Lenovo Thinkpad X230 running Ubuntu 22.04, Ansible 2.12.10 and LXD hosting the Ubuntu 22.04 container where Nagios is installed.
 
 ## Ansible
 
-### Ansible with Microsoft Copilot 
+Ansible is a powerful tool for ensuring a host is in an appropriate state. It can install software, create or alter configuration files among many other things.
+
+I have used the query **Write an ansible playbook for installing nagios on an ubuntu 22.04 host** with both Copilot and Google Gemini Pro.
+
+### Ansible with Microsoft Copilot
+
+I launched the query using the preview Copilot in Windows sidebar installed in Windows 11.
+
+{{< figure  src="images/copilot-nagios-ansible.png#center" 
+            alt="Microsoft Copilot in action answering a query"
+            caption="Figure 1: Microsoft Copilot in action answering the query" >}}
+
+The query produced an Ansible playbook listed below:
+
+```yaml
+---
+- name: Install Nagios
+  hosts: nagios
+  become: yes
+  vars:
+    nagios_version: 4.4.6
+    nagios_user: nagios
+    nagios_group: nagcmd
+    nagios_admin_pass: changeme
+  tasks:
+    - name: Install dependencies
+      apt:
+        name: "{{ item }}"
+        state: present
+        update_cache: yes
+      loop:
+        - apache2
+        - php
+        - libapache2-mod-php
+        - libgd-dev
+        - libmcrypt-dev
+        - libssl-dev
+        - snmp
+        - libnet-snmp-perl
+        - gettext
+        - nagios-plugins
+        - nagios-nrpe-plugin
+
+    - name: Create nagios user and group
+      user:
+        name: "{{ nagios_user }}"
+        group: "{{ nagios_group }}"
+        system: yes
+        create_home: yes
+
+    - name: Download Nagios Core
+      get_url:
+        url: "https://github.com/NagiosEnterprises/nagioscore/releases/download/nagios-{{ nagios_version }}/nagios-{{ nagios_version }}.tar.gz"
+        dest: "/tmp/nagios-{{ nagios_version }}.tar.gz"
+        mode: 0644
+
+    - name: Extract Nagios Core
+      unarchive:
+        src: "/tmp/nagios-{{ nagios_version }}.tar.gz"
+        dest: "/tmp"
+        remote_src: yes
+
+    - name: Configure Nagios Core
+      command: "{{ item }}"
+      args:
+        chdir: "/tmp/nagioscore-nagios-{{ nagios_version }}"
+      loop:
+        - ./configure --with-command-group={{ nagios_group }}
+        - make all
+        - make install
+        - make install-init
+        - make install-commandmode
+        - make install-config
+        - make install-webconf
+
+    - name: Enable Apache modules
+      apache2_module:
+        name: "{{ item }}"
+        state: present
+      loop:
+        - authz_groupfile
+        - auth_digest
+
+    - name: Set nagiosadmin password
+      command: htdigest -c /usr/local/nagios/etc/htdigest.users Nagios4 nagiosadmin <<< "{{ nagios_admin_pass }}"
+
+    - name: Start and enable Apache and Nagios services
+      service:
+        name: "{{ item }}"
+        state: started
+        enabled: yes
+      loop:
+        - apache2
+        - nagios
+```
+
+{{< figure  src="images/copilot-nagios-ansible2.png#center" 
+            alt="Microsoft Copilot ansible instructions"
+            caption="Figure 2: Microsoft Copilot ansible instructions" >}}
+
+I executed the script as generated by Copilot using the instructions provided.
+
+<<Results here...>>
 
 ### Ansible with Google Gemini Pro
 
-## Docker
+I launched the query using the [Gemini app](https://gemini.google.com/app). 
 
-### Docker with Microsoft Copilot
+{{< figure src="images/gemini-pro-nagios-ansible.png#center"
+            alt="Google Gemini Pro generating an ansible playbook to install Nagios"
+            caption="Google Gemini Pro generating an Ansible playbook to install Nagios" >}}
 
-### Docker with Google Gemini Pro
+The Ansible playbook generated by Google Gemini is listed below:
 
-## Shell Script
+```yaml
+---
+- hosts: nagios_servers  # Target group from inventory
+  become: yes
 
-### Shell script with Microosft Copilot
+  vars:
+    nagiosadmin_password: "your_strong_password"  # Change this!
 
-### Shell script with Google Gemini Pro
+  tasks:
+    - name: Install prerequisites
+      apt: 
+        name: 
+          - build-essential
+          - libgd-dev
+          - libapache2-mod-php
+          - openssl
+          - libssl-dev
+          - unzip
+          - apache2
+        state: present
+
+    - name: Create Nagios user and group
+      group:
+        name: nagios
+        state: present
+      user:
+        name: nagios
+        group: nagios
+        create_home: no
+
+    - name: Download Nagios Core
+      get_url:
+        url: https://assets.nagios.com/downloads/nagioscore/releases/nagios-4.4.10.tar.gz  # Update version as needed
+        dest: /tmp/nagios-4.4.10.tar.gz
+
+    - name: Extract Nagios Core
+      unarchive:
+        src: /tmp/nagios-4.4.10.tar.gz
+        dest: /tmp
+        copy: no
+
+    - name: Configure Nagios Core
+      shell: ./configure --with-httpd-conf=/etc/apache2/sites-enabled --with-nagios-group=nagios --with-command-group=nagcmd
+      args:
+        chdir: /tmp/nagios-4.4.10  # Update path if version changes
+
+    - name: Compile Nagios Core
+      shell: make all
+      args:
+        chdir: /tmp/nagios-4.4.10
+
+    - name: Install Nagios binaries, init script, and sample config files
+      shell: make install
+      args:
+        chdir: /tmp/nagios-4.4.10
+
+    - name: Install Nagios web interface
+      shell: make install-webconf
+      args:
+        chdir: /tmp/nagios-4.4.10
+
+    - name: Create Nagios admin account (nagiosadmin)
+      shell: htpasswd -c /usr/local/nagios/etc/htpasswd.users nagiosadmin
+      args:
+        chdir: /tmp/nagios-4.4.10
+        # You'll be prompted for the password
+
+    - name: Install and enable Nagios command file
+      shell: make install-commandmode
+      args:
+        chdir: /tmp/nagios-4.4.10
+
+    - name: Install Nagios config files
+      shell: make install-config
+      args:
+        chdir: /tmp/nagios-4.4.10
+
+    - name: Install Nagios example service and host definitions
+      shell: make install-init
+      args:
+        chdir: /tmp/nagios-4.4.10
+
+    - name: Enable Apache modules
+      apache2ctl:
+        name: "{{ item }}"
+        state: enabled
+      with_items:
+        - rewrite
+        - cgi
+
+    - name: Verify Nagios configuration
+      command: /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg
+
+    - name: Start and enable Nagios service
+      service:
+        name: nagios
+        state: started
+        enabled: yes
+
+    # Optional: Install Nagios Plugins
+    - name: Download Nagios Plugins
+      get_url:
+        url: https://nagios-plugins.org/download/nagios-plugins-2.4.4.tar.gz # Update as needed
+        dest: /tmp/nagios-plugins-2.4.4.tar.gz
+      # ... (Similar installation steps as Nagios Core) 
+```
+
+One thing that I immediately notice is that the Nagios version number is hard coded throughout the Gemini generated script. In the Copilot script, the Nagios version is stored in a variable at the top of the script. This makes the Copilot script much easier to maintain when you need to upgrade to a new version of Nagios. Simply go to the top of the script, find the nagios version number variable and enter the desired Nagios version number. With the Gemini script, you have to go through the script and find all of the places that the Nagios version number is used. This makes it very easy to miss one of the references and potentially end up installing either the wrong version number or fail to install any version of Nagios.
+
+{{< figure src="images/gemini-pro-nagios-ansible2.png#center"
+            alt="Google Gemini ansible instructions"
+            caption="Google Gemini Ansible instructions" >}}
+
+The Gemini script also installs the Nagios core plugins and marks them as optional. The Copilot generated script does not mention plugins at all. Which is understandable as my query didn't mention plugins either. But, given how Nagios is architected, Nagios doesn't do very much without plugins so kudos to Copilot for installing the core add-ons.
+
+The Gemini output could be improved further by providing an example host file and the instructions how to use it. The Copilot instructions are much easier to follow for a beginner because all of the steps are clearly outlined with examples and sample commands. The Gemini instructions are nearly there but leave out crucial details like an example hosts file and the specific command for executing the playbook using the example hosts file.
 
 ## Conclusion
+
+I suspect your view of these very capable tools will differ based upon how you are using the tool. If you are a beginner attempting to get things done rather than as a learning tool then you will appreciate how Copilot works. I doubt either tool is quite there guiding a complete beginner through how to use Ansible to install Nagios. But, if you've done some reasearch before then I think these tools will help you a lot in speeding up your existing learning.
