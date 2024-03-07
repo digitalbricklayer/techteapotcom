@@ -1,6 +1,6 @@
 ---
 title: "Comparing Microsoft Copilot vs Google Gemini Pro for installing Nagios using Ansible"
-date: 2024-03-06
+date: 2024-03-07
 lead: "A comparison between Microsoft Copilot and Google Gemini Pro for installing Nagios using Ansible."
 thumbnail: "/images/copilot-vs-gemini-leader.jpg"
 ---
