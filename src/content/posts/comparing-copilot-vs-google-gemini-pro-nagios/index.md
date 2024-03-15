@@ -1,14 +1,14 @@
 ---
 title: "Comparing Microsoft Copilot vs Google Gemini Pro for installing Nagios using Ansible"
 date: 2024-03-07
-lead: "A comparison between Microsoft Copilot and Google Gemini Pro for installing Nagios using Ansible."
+lead: "A comparison between Microsoft Copilot and Google Gemini Pro for generating an Ansible playbook to install Nagios."
 thumbnail: "/images/copilot-vs-gemini-leader.jpg"
 tags: [Google Gemini, Microsoft Copilot, Nagios, Ansible]
 ---
 
 <!--more-->
 
-I've been tinkering with the current generation of AI for a while now. I am amazed by the image generation capabilities of Copilot. I've already used generative AI to suggest blog names for my hobby blog and to generate a logo for it is as well.
+I've been tinkering with the current generation of AI for a while now. I am amazed by the image generation capabilities of Copilot. I've already used generative AI to suggest blog names for my hobby blog and to generate a logo for it as well.
 
 This got me thinking. How good is generative AI at more IT related tasks and what would be a good test?
 
