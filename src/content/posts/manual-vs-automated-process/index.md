@@ -23,7 +23,7 @@ The problem lies in the middle. It is entirely possible that you could manually 
 
 ## Repetitive strain injury
 
-One problem with manual processes is that they often require an awful lot of typing and/or mouse movements. Anybody who has suffered boughts of Repetitive Strain Injury (RSI) will recognise that it is just these sort of repetitive manual processes that are likely to inflame RSI. If a manual process is likely to push you close to an RSI flare up, then that is a great reason to spend some time automating away those mouse movements and repetitive keyboarding.
+One problem with manual processes is that they often require an awful lot of typing and/or mouse movements. Anybody who has suffered bouts of Repetitive Strain Injury (RSI) will recognise that it is just these sort of repetitive manual processes that are likely to inflame RSI. If a manual process is likely to push you close to an RSI flare up, then that is a great reason to spend some time automating away those mouse movements and repetitive keyboarding.
 
 ## Partial automation
 
