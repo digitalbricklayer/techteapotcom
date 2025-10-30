@@ -19,7 +19,7 @@ description: "My goal is to read all of the Hugo Award winners by the end of 203
 | 1963 | The Man in the High Castle | Philip K. Dick | X |
 | 1964 | Here Gather the Stars | Clifford D. Simak |  |
 | 1965 | The Wanderer | Fritz Leiber |  |
-| 1966 | Dune | Frank Herbert |  |
+| 1966 | Dune | Frank Herbert | X |
 | 1966 | ...And Call Me Conrad | Roger Zelazny |  |
 | 1967 | The Moon is a Harsh Mistress | Robert A. Heinlein |  |
 | 1968 | Lord of Light | Rober Zelazny | DNF[^1] |
