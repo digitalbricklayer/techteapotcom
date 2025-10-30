@@ -56,7 +56,7 @@ description: "My goal is to read all of the Hugo Award winners by the end of 203
 | 1998 | Forever Peace | Joe Haldeman |  |
 | 1999 | To Say Nothing of the Dog | Connie Willis |  |
 | 2000 | The Deepness in the Sky | Vernor Vinge |  |
-| 2001 | Harry Potter and the Goblet of Fire | J. K. Rowling |  |
+| 2001 | Harry Potter and the Goblet of Fire | J. K. Rowling | X |
 | 2002 | American Gods | Neil Gaiman |  |
 | 2003 | Hominids | Robert J. Sawyer |  |
 | 2004 | Paladin of Souls | Lois McMaster Bujold |  |
