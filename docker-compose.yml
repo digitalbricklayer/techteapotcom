@@ -1,5 +1,5 @@
 server:
-  image: hugomods/hugo:0.121.1
+  image: hugomods/hugo:0.147.9
   command: hugo server --bind 0.0.0.0 -D --gc --disableLiveReload
   volumes:
     - "$PWD/src:/src"
