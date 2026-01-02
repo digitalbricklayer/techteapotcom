@@ -1,12 +1,12 @@
-[submodule "mainroad"]
+[submodule "src/themes/mainroad"]
 	path = src/themes/mainroad
 	url = https://github.com/vimux/mainroad
-[submodule "hugo-notice"]
+[submodule "src/themes/hugo-notice"]
 	path = src/themes/hugo-notice
 	url = https://github.com/martignoni/hugo-notice.git
-[submodule "hugo-shortcode-gallery"]
+[submodule "src/themes/hugo-shortcode-gallery"]
 	path = src/themes/hugo-shortcode-gallery
 	url = https://github.com/digitalbricklayer/hugo-shortcode-gallery.git
-[submodule "hugo-cloak-email"]
+[submodule "src/themes/hugo-cloak-email"]
 	path = src/themes/hugo-cloak-email
 	url = https://github.com/martignoni/hugo-cloak-email.git
