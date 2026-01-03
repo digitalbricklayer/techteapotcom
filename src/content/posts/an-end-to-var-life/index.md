@@ -10,7 +10,7 @@ thumbnail: "/images/openxtra-logo.png"
 
 ## An End
 
-OPENXTRA Limited was [purchased by AVTECH Software on 29th December 2022](https://www.openxtra.co.uk/server-room-monitoring-blog/announcement-openxtra-acquired-by-avtech-software-inc.html) and I decided to step back from my involvement. OPENXTRA is a Value Added Reseller in the server room environment monitoring market principally with a sideline as a supplier of network enabled power switches.
+OPENXTRA Limited was purchased by AVTECH Software on 29th December 2022 and I decided to step back from my involvement. OPENXTRA is a Value Added Reseller in the server room environment monitoring market principally with a sideline as a supplier of network enabled power switches.
 
 ## The Beginning
 
