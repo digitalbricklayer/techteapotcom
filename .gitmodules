@@ -1,6 +1,6 @@
 [submodule "src/themes/mainroad"]
 	path = src/themes/mainroad
-	url = https://github.com/vimux/mainroad
+	url = https://github.com/vimux/mainroad.git
 [submodule "src/themes/hugo-notice"]
 	path = src/themes/hugo-notice
 	url = https://github.com/martignoni/hugo-notice.git
