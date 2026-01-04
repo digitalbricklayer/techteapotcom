@@ -1,6 +1,3 @@
-[submodule "src/themes/mainroad"]
-	path = src/themes/mainroad
-	url = https://github.com/vimux/mainroad.git
 [submodule "src/themes/hugo-notice"]
 	path = src/themes/hugo-notice
 	url = https://github.com/martignoni/hugo-notice.git
@@ -10,3 +7,6 @@
 [submodule "src/themes/hugo-cloak-email"]
 	path = src/themes/hugo-cloak-email
 	url = https://github.com/martignoni/hugo-cloak-email.git
+[submodule "src/themes/roadster"]
+	path = src/themes/roadster
+	url = https://github.com/mansoorbarri/roadster.git

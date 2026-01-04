@@ -2,7 +2,7 @@ baseURL: "https://techteapot.com/"
 languageCode: "en-gb"
 title: "The Tech Teapot"
 # Theme extensions must appear before the website theme
-theme: ["hugo-cloak-email", "hugo-notice", "hugo-shortcode-gallery", "mainroad"]
+theme: ["hugo-cloak-email", "hugo-notice", "hugo-shortcode-gallery", "roadster"]
 enableEmoji: true
 taxonomies:
   category: categories
