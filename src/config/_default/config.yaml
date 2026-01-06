@@ -8,9 +8,6 @@ taxonomies:
   category: categories
   tag: tags
   series: series
-#  goal: goals
-disqusShortname: ""   # No comments
-googleAnalytics: ""   # No GA tracking
 enableRobotsTXT: true
 frontmatter:
   lastmod: ["lastmod", ":default"]
