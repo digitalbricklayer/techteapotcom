@@ -32,7 +32,7 @@ widgets:
     linkedin: "jack-hughes-16662613"
     github: "digitalbricklayer"
 
-authorbox: false # Authorbox is broken with Roadster theme
+authorbox: true # Authorbox is broken with Roadster theme
 
 pager: true  # Show pager navigation (prev/next links) at the bottom of pages
 
