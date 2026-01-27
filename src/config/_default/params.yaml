@@ -32,7 +32,12 @@ widgets:
     linkedin: "jack-hughes-16662613"
     github: "digitalbricklayer"
 
-authorbox: true # Authorbox is broken with Roadster theme
+authorbox: true # show author box on single posts
+
+[author]
+  name: "Jack Hughes"
+  bio: "Jack Hughes is an experienced software developer with 30+ years experience writing products for Microsoft Windows based operating systems as well as many years experience hosting websites on Linux and Windows including e-commerce and CMS systems."
+  avatar: "/images/shy-jack.jpg"
 
 pager: true  # Show pager navigation (prev/next links) at the bottom of pages
 
