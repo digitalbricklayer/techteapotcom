@@ -26,8 +26,6 @@ sidebar:
 widgets:
   recent_num: 5 # Number of articles in the "recent" widget
   tags_counter: false
-
-widgets:
   social:
     linkedin: "jack-hughes-16662613"
     github: "digitalbricklayer"
@@ -35,7 +33,7 @@ widgets:
 authorbox: true # show author box on single posts
 
 author:
-  name: "Jack Hughes"
+#  name: "Jack Hughes"
   bio: "Jack Hughes is an experienced software developer with 30+ years experience writing products for Microsoft Windows based operating systems as well as many years experience hosting websites on Linux and Windows including e-commerce and CMS systems."
   avatar: "/images/shy-jack.jpg"
 

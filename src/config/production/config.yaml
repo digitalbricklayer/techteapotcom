@@ -1,1 +1,2 @@
-minify: true
+minify:
+  minifyOutput true
