@@ -4,5 +4,8 @@
   "workers_dev": false,
   "assets": {
     "directory": "./src/public/"
-  }
+  },
+  "observability": {
+    "enabled": true
+  },
 }
