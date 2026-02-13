@@ -10,7 +10,7 @@ To add a new post type: `hugo new --kind post-bundle posts/my-post`.
 
 ## Thanks
 
-The site uses the [mainroad theme](https://themes.gohugo.io/mainroad/).
+The site uses the [roadster theme](https://github.com/mansoorbarri/roadster/).
 
 Hugo supports the use of emojis. A cheat sheet for the codes is [here](https://www.webfx.com/tools/emoji-cheat-sheet/).
 
