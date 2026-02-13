@@ -19,5 +19,3 @@ The following theme shortcodes are used by the website:
 - [gallery-shortcode-gallery](https://github.com/digitalbricklayer/hugo-shortcode-gallery.git) - grouping pictures into a single gallery
 - [hugo-notice](https://github.com/martignoni/hugo-notice) - providing helpful notices
 - [hugo-cloak-email](https://github.com/martignoni/hugo-cloak-email) - cloaks email addresses from spam bots.
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/33c3f309-fdab-4890-9115-ed95236511c1/deploy-status)](https://app.netlify.com/sites/compassionate-jackson-c54028/deploys)
