@@ -1,5 +1,6 @@
 ---
 title: "Hugo"
+description: "Posts about Hugo, the fast open source static site generator written in Go that powers The Tech Teapot."
 ---
 
 [Hugo](https://gohugo.io/) is a static site generator written in Go and is well known mainly for its compilation speed and ease of use.

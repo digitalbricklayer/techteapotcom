@@ -1,5 +1,6 @@
 ---
 title: "The Tech Teapot"
+description: "The Tech Teapot is the personal blog of Jack Hughes covering technology, network management, open source software, and occasional personal musings."
 ---
 
 <div class="widget-sidemenu widget">
