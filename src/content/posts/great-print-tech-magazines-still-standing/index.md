@@ -2,6 +2,7 @@
 title: "Great print tech magazines still standing"
 date: "2007-08-01T09:01:25+00:00"
 aliases: [/great-print-tech-magazines-still-standing/]
+description: "Tech magazines are becoming a rare breed. Even more rare for them to be in print. I'm sure you read a good number, but I thought it would be good to share."
 ---
 
 Tech magazines are becoming a rare breed. Even more rare for them to be in print. I'm sure you read a good number, but I thought it would be good to share my list. Hopefully, you'll share your list. :wink:

@@ -2,6 +2,7 @@
 title: "A start to 2007"
 date: "2007-01-04T13:54:03+00:00"
 aliases: [/a-start-to-2007/]
+description: "The new year has started off well. We kept the on-line shop working over the holiday period and most days there was activity on it (not Christmas day mind."
 ---
 
 Happy New Year to all our readers!

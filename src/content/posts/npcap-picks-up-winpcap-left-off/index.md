@@ -4,6 +4,7 @@ date: "2020-11-02"
 categories: [Protocol Analysis]
 tags: [WinPcap, npcap, Wireshark, libpcap, Win10Pcap]
 lead: "WinPcap is the major open source packet sniffing library for Microsoft Windows. Unfortunately it is no longer under active maintenance and hasn't been for quite some time. But, fear not, Npcap have picked up the baton."
+description: "WinPcap is the major open source packet sniffing library for Microsoft Windows. Unfortunately it is no longer under active maintenance and hasn't been for quite some time. But, fear not, Npcap have picked up the baton."
 ---
 
 <!--more-->

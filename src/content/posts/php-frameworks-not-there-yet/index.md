@@ -2,6 +2,7 @@
 title: "PHP frameworks: not there yet"
 date: "2008-02-13T11:36:13+00:00"
 aliases: [/php-frameworks-not-there-yet/]
+description: "Over the last week I've been designing a mini-PHP application. No big deal, just a back end admin system with a simple display on the front end with some."
 ---
 
 Over the last week I've been designing a mini-PHP application. No big deal, just a back end admin system with a simple display on the front end with some blog like feedback mechanisms.

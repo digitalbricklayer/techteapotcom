@@ -2,6 +2,7 @@
 title: "RE: Why Only Two?"
 date: "2008-04-25T14:53:13+00:00"
 aliases: [/re-why-only-two/]
+description: "John Willis over at IT Management and Cloud Blog posted an interesting post I'd like to reply to."
 ---
 
 John Willis over at [IT Management and Cloud Blog](http://www.johnmwillis.com/) posted an [interesting post](http://www.johnmwillis.com/nagios/why-only-two/) I'd like to reply to.

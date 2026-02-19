@@ -3,6 +3,7 @@ title: "Subscribing to blogs the easy way"
 date: "2008-11-19T09:00:02+00:00"
 lastmod: "2015-03-01"
 aliases: [/subscribing-to-blogs-the-easy-way/]
+description: "One of the things that has surprised me about running this blog has been the number of people who subscribe via email."
 ---
 
 One of the things that has surprised me about running this blog has been the number of people who subscribe via email.

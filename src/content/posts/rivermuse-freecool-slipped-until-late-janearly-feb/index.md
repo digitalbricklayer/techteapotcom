@@ -3,6 +3,7 @@ title: "RiverMuse FreeCool slipped until late Jan/early Feb"
 date: "2009-01-08T09:00:10+00:00"
 tags: [Rivermuse]
 aliases: [/rivermuse-freecool-slipped-until-late-janearly-feb/]
+description: "... at least the public release anyway. I expect if you work somewhere interesting, then it may be worthwhile contacting them in the meantime."
 ---
 
 ... [at least the public release anyway](http://www.rivermuse.com/trial/). I expect if you work somewhere interesting, then it may be worthwhile contacting them in the meantime.

@@ -2,6 +2,7 @@
 title: "bug labs democratise gadget design &amp; manufacture"
 date: "2007-11-05T10:36:37+00:00"
 aliases: [/bug-labs-democratise-gadget-design-manufacture/]
+description: "bug labs has come out of stealth mode at last. If you've got a gadget in you screaming to get out then I've got good news. :smile:"
 ---
 
 {{< figure src="bug_logo_whiteback_sm.jpg#floatright" alt="Bug Labs Logo" >}}

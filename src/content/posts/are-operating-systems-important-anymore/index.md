@@ -2,6 +2,7 @@
 title: "Are operating systems important anymore?"
 date: "2007-08-15T09:01:53+00:00"
 aliases: [/are-operating-systems-important-anymore/]
+description: "I was thinking about Jim Forbes post, and my reply to it. The more I think about it, the more the Windows vs OSX battle really is getting kinda irrelevant."
 ---
 
 I was thinking about [Jim Forbes post](http://forbesontech.typepad.com/my_weblog/2007/08/microsoft-wake-.html), and [my reply to it]({{< ref "/posts/re-microsoft-wake-up-apple-is-gaining-intellectual-capital-and-market/index.md" >}}). The more I think about it, the more the Windows vs OSX battle really is getting kinda irrelevant.

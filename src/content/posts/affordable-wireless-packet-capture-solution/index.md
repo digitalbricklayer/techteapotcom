@@ -4,6 +4,7 @@ date: "2007-09-04T09:30:56+00:00"
 categories: ["Open Source", "Protocol Analysis", Wireless]
 tags: ["packet capture", wireless]
 aliases: [/affordable-wireless-packet-capture-solution/]
+description: "Tools like the Test-Um Wi-Net are great for trouble shooting wireless networks. But, Wi-Net falls a long way short of giving you real low level technical."
 ---
 
 Tools like the Test-Um Wi-Net are great for trouble shooting wireless networks. But, Wi-Net falls a long way short of giving you real low level technical insight into your wireless network. What do you do if you need more? Say, you need to capture packets and the like.

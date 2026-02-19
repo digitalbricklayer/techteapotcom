@@ -2,6 +2,7 @@
 title: "Paper prototyping: IT's best kept secret?"
 date: "2007-10-11T12:57:00+00:00"
 aliases: [/paper-prototyping-its-best-kept-secret/]
+description: "One of the biggest problems when developing a system, be it software or a website, is getting the customer to visualise how your proposed solution is."
 ---
 
 {{< figure src="paper-prototyping.jpg#floatright" alt="Paper Prototyping Book Cover" >}}

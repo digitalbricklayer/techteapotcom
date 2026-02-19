@@ -3,6 +3,7 @@ title: "My early career planning"
 date: "2007-05-21T16:52:02+00:00"
 lastMod: "2020-10-13"
 aliases: [/my-early-career-planning/]
+description: "The first time I can ever remember thinking about work was when my Father asked me what I wanted to do when I grew up. Naturally, as a five year old, I."
 ---
 
 Thanks [Chris](http://www.chrisg.com/) for [tagging me](http://www.chrisg.com/how-my-career-found-me/).

@@ -2,6 +2,7 @@
 title: "The big IT worker's bug bear"
 date: "2008-08-29T09:45:04+00:00"
 aliases: [/the-big-it-workers-bug-bear/]
+description: "Looks like I'm not the only one to have problems with friends and family wanting help with their computers. I've talked about this before and, whilst my."
 ---
 
 Looks like I'm not the only one to have [problems with friends and family wanting help with their computers](http://www.reddit.com/r/programming/comments/6ygwg/how_do_you_deal_wfriends_and_family_constantly/). I've [talked about this before]({{< ref "/posts/my-worst-nightmare/index.md" >}}) and, whilst my own problem has been much reduced, plainly a lot of people in IT have problems associated with people expecting unreasonable amounts of help with their home electrical equipment.

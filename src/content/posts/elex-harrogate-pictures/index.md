@@ -3,6 +3,7 @@ title: "ELEX Harrogate Pictures"
 date: "2008-03-18T11:41:01+00:00"
 categories: [Cabling]
 aliases: [/elex-harrogate-pictures/]
+description: "Many thanks to everybody who attended the ELEX show in Harrogate last week. OPENXTRA had a stand and we enjoyed meeting you all."
 ---
 
 Many thanks to everybody who attended the [ELEX show in Harrogate](http://www.elexshow.info/) last week. OPENXTRA had a stand and we enjoyed meeting you all.

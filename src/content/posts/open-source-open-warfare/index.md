@@ -3,6 +3,7 @@ title: "Open source, open conflict?"
 date: "2014-01-29T12:54:07+00:00"
 categories: ["Open Source"]
 aliases: [/open-source-open-warfare/]
+description: "I am currently messing around in the pits of .NET e-commerce. I thought it would be the last place I'd find open source inspired disharmony. But no, even."
 ---
 
 I am currently messing around in the pits of .NET e-commerce. I thought it would be the last place I'd find open source inspired disharmony. But no, even here it is to be found. :wink:

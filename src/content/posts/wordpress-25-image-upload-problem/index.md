@@ -2,6 +2,7 @@
 title: "Wordpress 2.5 image upload problem"
 date: "2008-04-07T16:35:52+00:00"
 aliases: [/wordpress-25-image-upload-problem/]
+description: "If you've made the upgrade to WordPress 2.5 you may have problems with image uploading. The simple answer is to disable the Bad Behavior plug-in and it."
 ---
 
 If you've made the upgrade to WordPress 2.5 you may have problems with image uploading. The simple answer is to disable the Bad Behavior plug-in and it works just tickety boo. :smile:

@@ -4,6 +4,7 @@ date: "2007-09-06T08:00:25+00:00"
 categories: [Cabling]
 tags: ["copper cabling", "fibre cabling"]
 aliases: [/copper-vs-fibre/]
+description: "You might assume that because the technology involved in manufacturing optical fibre cable is more complex than copper, installation of fibre networks."
 ---
 
 You might assume that because the technology involved in manufacturing [optical fibre cable](https://en.wikipedia.org/wiki/Optical_Fiber) is more complex than copper, installation of fibre networks would inevitably be more expensive than using copper. However, with the advent of [CAT6 cabling](https://en.wikipedia.org/wiki/Category_6_cable) means that copper *is getting faster* -- but at a cost.

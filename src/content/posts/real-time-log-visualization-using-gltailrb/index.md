@@ -2,6 +2,7 @@
 title: "Real time log visualization using glTail.rb"
 date: "2007-10-19T14:38:03+00:00"
 aliases: [/real-time-log-visualization-using-gltailrb/]
+description: "Hat tip to Dougal Campbell over at Geek Ramblings for finding this."
 ---
 
 {{< figure src="gltail-partial.gif#floatright" alt="Partial screenshot of glTail.rb in action" >}}

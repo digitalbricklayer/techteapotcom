@@ -2,6 +2,7 @@
 title: "The great domain telephone test"
 date: "2006-12-14T10:53:52+00:00"
 aliases: [/the-great-domain-telephone-test/]
+description: "I wish I'd known this 3 and a half years ago :smile:"
 ---
 
 I wish I'd known this 3 and a half years ago :smile:

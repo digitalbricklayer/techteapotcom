@@ -3,6 +3,7 @@ title: "Hyperic joins SpringSource"
 date: "2009-05-06T09:32:27+00:00"
 tags: [hyperic]
 aliases: [/hyperic-joins-springsource/]
+description: "Congrats to Hyperic for the purchase by SpringSource. If you'd bet me which of the new wave were going to be bought first I would have bet on Hyperic."
 ---
 
 Congrats to [Hyperic for the purchase by SpringSource](http://www.hyperic.com/blog/springsource/). If you'd bet me which of the [new wave]({{< ref "/posts/network-managements-new-wave/index.md" >}}) were going to be bought first I would have bet on [Hyperic](http://www.hyperic.com/) every time.

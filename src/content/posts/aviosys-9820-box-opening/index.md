@@ -2,6 +2,7 @@
 title: "New Aviosys IP Power 9820 Box Opening"
 date: "2014-05-13T09:36:31+00:00"
 aliases: [/aviosys-9820-box-opening/]
+description: "A series of box opening photos of the newly released Aviosys IP Power 9820 8 port rack-mountable power switch which arrived in the office this morning."
 ---
 
 A series of box opening photos of the newly released Aviosys IP Power 9820 8 port rack-mountable power switch which arrived in the office this morning. This new model replaces the older IP Power Switch 9258-PRO model.

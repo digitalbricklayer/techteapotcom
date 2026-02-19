@@ -2,6 +2,7 @@
 title: "PowerShell + network monitor = powerful network management tool"
 date: "2007-08-29T11:12:35+00:00"
 aliases: [/powershell-network-monitor-powerful-netman-tool/]
+description: "I am surprised that no network monitor manufacturer has jumped onto Windows PowerShell in a major way. Whilst tools like PowerGadgets use the full power."
 ---
 
 I am surprised that no network monitor manufacturer has jumped onto [Windows PowerShell](http://www.microsoft.com/windowsserver2003/technologies/management/powershell/default.mspx) in a major way. Whilst tools like [PowerGadgets](http://www.softwarefx.com/powergadgets/) use the full power of PowerShell, it isn't really aimed at the network manager. It is more of a general IT visualisation tool.

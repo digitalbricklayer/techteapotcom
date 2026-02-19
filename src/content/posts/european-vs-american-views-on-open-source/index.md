@@ -3,6 +3,7 @@ title: "European vs American views on open source"
 date: "2008-09-25T15:28:16+00:00"
 categories: ["Open Source"]
 aliases: [/european-vs-american-views-on-open-source/]
+description: "Larry Augustin created an excellent comparison between European &amp; American attitudes towards commercial open source software."
 ---
 
 [Larry Augustin](http://lmaugustin.typepad.com/lma/) created an excellent [comparison between European &amp; American attitudes towards commercial open source software](http://lmaugustin.typepad.com/lma/2008/09/commercial-open-source-in-europe-verses-the-us.html).

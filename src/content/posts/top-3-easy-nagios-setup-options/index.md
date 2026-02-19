@@ -3,6 +3,7 @@ title: "Top 3 easy Nagios setup options"
 date: "2007-05-13T09:01:10+00:00"
 tags: [Nagios]
 aliases: [/top-3-easy-nagios-setup-options/]
+description: "Everybody loves Nagios, but let's be honest, it can be a pain to set up, especially if you work in a Windows only environment. A few solutions do exist to."
 ---
 
 {{< figure src="status-detail-t.jpg#floatright" alt="Nagios" >}}

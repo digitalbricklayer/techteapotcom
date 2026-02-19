@@ -2,6 +2,7 @@
 title: "Re: Show Me Da Money (a Cautionary Tale)"
 date: "2008-01-23T17:15:31+00:00"
 aliases: [/re-show-me-da-money-a-cautionary-tale/]
+description: "This is a reply to Tarus Balog's Show Me Da Money (a Cautionary Tale) post."
 ---
 
 {{< figure src="piggy-bank-1.jpg#floatright" alt="Piggy bank with dollar bills sticking out of the top" >}}

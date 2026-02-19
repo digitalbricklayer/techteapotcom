@@ -2,6 +2,7 @@
 title: "Survey results"
 date: "2008-10-20T14:26:25+00:00"
 aliases: [/survey-results/]
+description: "I ran a survey a couple of weeks ago asking for feedback on The Tech Teapot. A number of you were kind enough to take the time to fill it in."
 ---
 
 I ran a survey a couple of weeks ago asking for feedback on The Tech Teapot. A number of you were kind enough to take the time to fill it in.

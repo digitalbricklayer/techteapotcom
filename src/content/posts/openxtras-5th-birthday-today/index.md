@@ -2,6 +2,7 @@
 title: "OPENXTRA's 5th birthday today"
 date: "2008-02-02T01:01:34+00:00"
 aliases: [/openxtras-5th-birthday-today/]
+description: "Many moons ago back in the mists of time, well late 2002, Denis &amp; myself thought it would be a good idea to start a company."
 ---
 
 {{< figure src="birthday-cake.jpg#floatright" alt="Birthday Cake" >}}

@@ -5,6 +5,7 @@ date: "2008-07-17T14:14:09+00:00"
 categories: ["Network Management", "Open Source"]
 tags: [nagios, Zenoss, Zabbix, "OpenNMS"]
 aliases: [/open-source-network-management-comparison-general/]
+description: "Attribute / Project OpenNMS Nagios Zenoss Hyperic Zabbix General Licence GPL GPL GPL GPL GPL First released 2000 1998 2006 2006 2001 Development languages."
 ---
 
 <table class="attribute-tbl" border="0">

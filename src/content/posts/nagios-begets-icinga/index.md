@@ -4,6 +4,7 @@ date: "2009-05-06T16:21:08+00:00"
 categories: ["Network Management"]
 tags: [nagios, icinga]
 aliases: [/nagios-begets-icinga/]
+description: "Nagios is probably the best known open source network management tool. Ethan Galstad created NetSaint, the tool that eventually became Nagios, many years."
 ---
 
 [Nagios](http://www.nagios.org/) is probably the [best known open source network management]({{< ref "/posts/open-source-network-management-buzz-comparison-2008/index.md" >}}) tool. [Ethan Galstad](http://archive.fosdem.org/2005/index/interviews/interviews_galstad.html) created NetSaint, the tool that eventually became Nagios, many years ago at the very dawn of using open source tools in network management.

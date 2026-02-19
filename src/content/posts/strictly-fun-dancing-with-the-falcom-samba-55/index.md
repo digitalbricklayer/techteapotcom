@@ -2,6 +2,7 @@
 title: "Strictly Fun Dancing with the Falcom Samba 55"
 date: "2006-11-28T14:13:48+00:00"
 aliases: [/strictly-fun-dancing-with-the-falcom-samba-55/]
+description: "Is it just me or does everyone find the Falcom Samba 55 GSM Modem a real pain to set up? Loading the driver is OK, but trying to get the Mobile Phone."
 ---
 
 {{< figure src="samba_phonetools.gif#floatright" alt="Samba 55 Screenshot" >}}

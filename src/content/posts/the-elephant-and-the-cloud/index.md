@@ -2,6 +2,7 @@
 title: "The elephant and the cloud"
 date: "2007-12-19T11:06:43+00:00"
 aliases: [/the-elephant-and-the-cloud/]
+description: "The most interesting thing about technology change are the odd juxtapositions it throws up. If you'd asked me a few years ago who would be the leader in."
 ---
 
 {{< figure src="elephant.gif#floatright" alt="Elephant flying on clouds" >}}

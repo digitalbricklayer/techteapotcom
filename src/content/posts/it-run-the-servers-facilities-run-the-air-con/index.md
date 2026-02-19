@@ -3,6 +3,7 @@ title: "IT run the servers, facilities run the air-con..."
 date: "2007-10-10T16:21:47+00:00"
 categories: ["Data Center"]
 aliases: [/it-run-the-servers-facilities-run-the-air-con/]
+description: "Facilities running the air-con in a data centre has to be one of the classical IT anti-patterns. You've got your nice shiny data centre, rows and rows of."
 ---
 
 Facilities running the air-con in a data centre has to be one of the classical IT [anti-patterns](https://en.wikipedia.org/wiki/Anti-pattern). You've got your nice shiny data centre, rows and rows of cabinets full to the brim with IT kit. Problem is, you don't run the air conditioning, the facilities people do.

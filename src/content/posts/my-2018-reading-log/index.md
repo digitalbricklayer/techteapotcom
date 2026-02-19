@@ -2,6 +2,7 @@
 title: "My 2018 Reading Log"
 date: "2019-01-01"
 lead: "Just eight books in 2018. A new low I think. The best book of the year would be between Larry Niven's Ringworld, Greg Bear's Hull Zero Three and Andrzej Sapkowski's The Last Wish."
+description: "Just eight books in 2018. A new low I think. The best book of the year would be between Larry Niven's Ringworld, Greg Bear's Hull Zero Three and Andrzej Sapkowski's The Last Wish."
 series: ["Reading Log"]
 ---
 

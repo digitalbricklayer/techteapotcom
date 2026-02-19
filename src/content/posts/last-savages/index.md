@@ -2,6 +2,7 @@
 title: "The Last of the Savages"
 date: "2014-03-14T10:21:19+00:00"
 aliases: [/last-savages/]
+description: "Ray Kurzweil has a history of making accurate future forecasts. One of them is that the 3D printer is coming and the current ones are but a small hint of."
 ---
 
 Ray Kurzweil has a history of [making accurate future forecasts](http://slumz.boxden.com/f244/google-s-ray-kurzweil-predicts-how-world-will-change-2023326/). One of them is that the 3D printer is coming and the current ones are but a small hint of what is to come.

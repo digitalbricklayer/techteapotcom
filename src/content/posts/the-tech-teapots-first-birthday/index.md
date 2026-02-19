@@ -2,6 +2,7 @@
 title: "The Tech Teapot's first birthday"
 date: "2007-11-27T14:01:42+00:00"
 aliases: [/the-tech-teapots-first-birthday/]
+description: "The Tech Teapot, or as it was originally called, the OPENXTRA Blog is one year old today. Ten categories, 186 posts, 156 comments &amp; trackbacks and."
 ---
 
 {{< figure src="birthday-cake.jpg#floatright" alt="Tech Teapot Logo" >}}

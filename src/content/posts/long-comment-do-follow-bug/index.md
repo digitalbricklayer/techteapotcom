@@ -2,6 +2,7 @@
 title: "Long comment do follow bug"
 date: "2008-01-04T10:41:22+00:00"
 aliases: [/long-comment-do-follow-bug/]
+description: "Any super observant readers may have noticed some problems with the blog comment system. Long comments wouldn't display properly. The comment author name."
 ---
 
 Any super observant readers may have noticed some problems with the blog comment system. Long comments wouldn't display properly. The comment author name would appear correctly but the comment itself wouldn't be displayed.

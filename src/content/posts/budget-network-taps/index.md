@@ -4,6 +4,7 @@ date: "2008-02-20T12:33:33+00:00"
 categories: ["Network Management", "Protocol Analysis"]
 tags: ["network tap"]
 aliases: [/budget-network-taps/]
+description: "Sometimes you fall over a product and it blows you away. Network taps have until now been exotic hardware affordable only by large IT departments with the."
 ---
 
 Sometimes you fall over a product and it blows you away. Network taps have until now been exotic hardware affordable only by large IT departments with the budget to match.

@@ -4,6 +4,7 @@ date: "2014-03-20T16:37:01+00:00"
 categories: ["Protocol Analysis"]
 tags: [wireshark]
 aliases: [/capturing-loopback-traffic-without-loopback-interface/]
+description: "Wireshark is a wonderful tool, no doubt about it. But, on Microsoft Windows, there is one thing it isn't so good at."
 ---
 
 Wireshark is a wonderful tool, no doubt about it. But, on Microsoft Windows, there is one thing it isn't so good at.

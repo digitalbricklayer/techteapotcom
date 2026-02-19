@@ -3,6 +3,7 @@ title: "Practical Packet Analysis Book"
 date: "2007-06-22T09:01:17+00:00"
 categories: ["Protocol Analysis"]
 aliases: [/practical-packet-analysis-book/]
+description: "Just found an interesting book...if you're a blood 'n guts comms bod then I think this book should find a place in your bookshelf. The book can be found."
 ---
 
 {{< figure src="packet_big.jpg#floatright" alt="Practical Packet Analysis" >}}

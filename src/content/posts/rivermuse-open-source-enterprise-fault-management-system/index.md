@@ -3,6 +3,7 @@ title: "RiverMuse: open source enterprise fault management system"
 date: "2008-11-14T16:51:08+00:00"
 tags: [Rivermuse]
 aliases: [/rivermuse-open-source-enterprise-fault-management-system/]
+description: "John Willis on his excellent CloudDroplets #7 podcast mentioned a very interesting development in the enterprise open source network management space."
 ---
 
 John Willis on his excellent CloudDroplets #7 podcast [mentioned a very interesting development in the enterprise open source network management space](http://www.johnmwillis.com/droplets/clouddroplets-7-we-had-to-let-jenny-go/).

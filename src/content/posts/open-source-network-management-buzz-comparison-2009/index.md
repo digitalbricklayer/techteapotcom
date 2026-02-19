@@ -4,6 +4,7 @@ date: "2010-01-07T15:05:14+00:00"
 categories: ["Network Management", "Open Source"]
 tags: [nagios, wireshark, "OpenNMS", "MRTG"]
 aliases: [/open-source-network-management-buzz-comparison-2009/]
+description: "I did a comparison of the buzz for the leading open source network management tools in 2008 so I thought it would be interesting to do the same comparison."
 ---
 
 I did a [comparison of the buzz for the leading open source network management tools in 2008]({{< ref "/posts/open-source-network-management-buzz-comparison-2008/index.md" >}}) so I thought it would be interesting to do the same comparison for 2009 and see what's changed.

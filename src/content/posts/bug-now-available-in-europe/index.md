@@ -2,6 +2,7 @@
 title: "BUG now available in Europe"
 date: "2009-09-23T09:27:52+00:00"
 aliases: [/bug-now-available-in-europe/]
+description: "Great news for gadget fans in Europe. Bug Labs have announced the availability of their amazing gadget making kit in Europe with all of the appropriate."
 ---
 
 {{< figure src="bug_logo_whiteback_sm.jpg#floatright" alt="Bug Labs Logo" >}}

@@ -3,6 +3,7 @@ title: "Even a switched off Cisco router can cause downtime"
 date: "2007-02-16T15:05:53+00:00"
 tags: [cisco]
 aliases: [/even-a-switched-off-cisco-router-can-cause-downtime/]
+description: "As we have mentioned in a previous post, our recent purchase of a Cisco router has not been entirely a happy one."
 ---
 
 As we have mentioned in a previous post, our [recent purchase of a Cisco router]({{< ref "/posts/installation-woes-in-networking-land/index.md" >}}) has not been entirely a happy one.

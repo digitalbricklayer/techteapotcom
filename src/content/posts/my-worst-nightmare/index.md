@@ -2,6 +2,7 @@
 title: "My worst nightmare..."
 date: "2007-09-20T14:24:38+00:00"
 aliases: [/my-worst-nightmare/]
+description: "Every IT person I've ever met has at least one nightmare story about being roped into fixing somebody's home PC/network/broadband and everything going."
 ---
 
 {{< figure src="headhold.gif#floatright" alt="IT person regretting he agreed to fix somebody else's PC" >}}

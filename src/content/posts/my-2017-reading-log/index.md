@@ -2,6 +2,7 @@
 title: "My 2017 Reading Log"
 date: "2018-01-01"
 lead: "A very bad year for reading over the last year. I suspect that the Playstation 4 got in the way again. No great shame in that. Games can be excellent story telling mechanisms. Just 9 books read in total."
+description: "A very bad year for reading over the last year. I suspect that the Playstation 4 got in the way again. No great shame in that. Games can be excellent story telling mechanisms. Just 9 books read in total."
 series: ["Reading Log"]
 ---
 

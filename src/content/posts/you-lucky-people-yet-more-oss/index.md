@@ -3,6 +3,7 @@ title: "You lucky people, yet more OSS"
 date: "2006-11-27T18:50:38+00:00"
 categories: ["Network Management", "Open Source"]
 aliases: [/you-lucky-people-yet-more-oss/]
+description: "It is nice to see the open source network management community is still in rude health. Another network and systems monitoring tool has popped onto my."
 ---
 
 It is nice to see the [open source](http://www.opensource.org/) network management community is still in rude health. Another network and systems monitoring tool has popped onto my horizon. Don't know how I missed this one, it looks a goodie!

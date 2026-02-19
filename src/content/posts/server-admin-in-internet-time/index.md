@@ -2,6 +2,7 @@
 title: "Server admin in Internet time"
 date: "2007-01-17"
 aliases: [/server-admin-in-internet-time/]
+description: "Over the weekend one of our web servers was hacked... fortunately it wasn't our main e-commerce server. The server is in fact in the middle of being."
 ---
 
 Over the weekend one of our web servers was hacked... fortunately it wasn't our main e-commerce server. The server is in fact in the middle of being de-commissioned. The hack happened around a day after our software vendor reported a vulnerability and provided a patch.

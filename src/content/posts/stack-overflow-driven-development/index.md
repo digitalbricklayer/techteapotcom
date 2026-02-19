@@ -2,6 +2,7 @@
 title: "Stack Overflow Driven Development"
 date: "2014-04-15T12:53:52+00:00"
 aliases: [/stack-overflow-driven-development/]
+description: "The rise of Stack Overflow has certainly changed how many programmers go about their trade."
 ---
 
 The rise of [Stack Overflow](http://stackoverflow.com/) has certainly changed how many programmers go about their trade.

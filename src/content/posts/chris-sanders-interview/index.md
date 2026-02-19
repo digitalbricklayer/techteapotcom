@@ -4,6 +4,7 @@ date: "2007-08-07T09:01:01+00:00"
 categories: ["Network Management", "Protocol Analysis"]
 tags: [wireshark]
 aliases: [/chris-sanders-interview/]
+description: "FYI there is an interesting interview with Chris Sanders, author of \"Practical Packet Analysis: Using Wireshark to solve real-world network problems\"."
 ---
 
 FYI there is an [interesting interview](http://searchnetworking.techtarget.com/qna/0,289202,sid7_gci1266202,00.html) with [Chris Sanders](http://www.chrissanders.org/?p=102), author of *"Practical Packet Analysis: Using Wireshark to solve real-world network problems"*.

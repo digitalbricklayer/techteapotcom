@@ -2,6 +2,7 @@
 title: "I've a feeling we're not in Kansas any more"
 date: "2014-05-01T14:43:30+00:00"
 aliases: [/were-not-in-kansas-any-more/]
+description: "I was researching a follow up to how will cloud computing change network management post and I came across something rather odd I'd like to share with you."
 ---
 
 I was researching a follow up to [how will cloud computing change network management]({{< ref "/posts/how-will-cloud-computing-change-network-management/index.md" >}}) post and I came across something rather odd I'd like to share with you.

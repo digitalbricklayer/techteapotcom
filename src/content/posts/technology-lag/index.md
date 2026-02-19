@@ -2,6 +2,7 @@
 title: "Technology lag"
 date: "2010-02-08T15:31:37+00:00"
 aliases: [/technology-lag/]
+description: "I was interested to see a blog post discussing the benefits of the new 4G wireless standards currently in development. It struck me just how long it."
 ---
 
 I was interested to see a blog post discussing the benefits of the new 4G wireless standards currently in development. It struck me just how long it really takes for a technology to be in use by the majority of people. Here we are at the dawn of the 4G world and yet 3G isn't widely deployed. The 3G licences were auctioned in the UK around ten years ago.

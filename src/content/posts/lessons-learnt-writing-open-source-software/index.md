@@ -3,6 +3,7 @@ title: "Lessons learnt writing open source software"
 date: "2008-01-09T18:42:40+00:00"
 categories: ["Open Source"]
 aliases: [/lessons-learnt-writing-open-source-software/]
+description: "I don't suppose many of you know my dirty little secret: I'm a failure. There I've said it. I founded an open source project and failed miserably. Sorry!."
 ---
 
 I don't suppose many of you know my dirty little secret: I'm a failure. There I've said it. I founded an open source project and failed miserably. Sorry! Please wait there whilst I go outside to self-flagellate...that's better the open source gods have been salved.

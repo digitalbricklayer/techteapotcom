@@ -4,6 +4,7 @@ date: "2008-09-03T08:47:59+00:00"
 categories: ["Network Monitoring", "Network Management", "Open Source"]
 tags: ["What's Up Gold"]
 aliases: [/distributed-network-monitoring-introduction/]
+description: "A number of mid-level network monitoring products, like What's Up Gold &amp; Intellipool for instance, have recently implemented distributed monitoring."
 ---
 
 A number of mid-level network monitoring products, like [What's Up Gold](http://www.whatsupgold.com/) &amp; Intellipool for instance, have recently implemented distributed monitoring features. Mid-level network monitoring products are now implementing distributed monitoring so it is affordable by a lot more companies.

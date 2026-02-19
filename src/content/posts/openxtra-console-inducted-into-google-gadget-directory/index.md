@@ -2,6 +2,7 @@
 title: "OPENXTRA Console inducted into Google Gadget directory"
 date: "2007-02-15T10:33:09+00:00"
 aliases: [/openxtra-console-inducted-into-google-gadget-directory/]
+description: "As I mentioned in a previous post we now have a Google Desktop Gadget. We are pleased to announce that Google have now accepted our Gadget to go on their."
 ---
 
 As I [mentioned in a previous post]({{< ref "/posts/gadget-ahoy.html" >}}) we now have a Google Desktop Gadget. We are pleased to announce that Google have now accepted our Gadget to go on their own Desktop Gadget directory.

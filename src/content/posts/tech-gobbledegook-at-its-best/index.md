@@ -2,6 +2,7 @@
 title: "Tech gobbledegook at its best"
 date: "2008-02-07T11:48:54+00:00"
 aliases: [/tech-gobbledegook-at-its-best/]
+description: "Denis received a letter from Agilent advertising a technical seminar."
 ---
 
 Denis received a letter from [Agilent](http://www.agilent.co.uk/) advertising a technical seminar.

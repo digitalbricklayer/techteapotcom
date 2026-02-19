@@ -2,6 +2,7 @@
 title: "Firefox 3 enhanced SSL certificate support"
 date: "2008-06-18T11:48:08+00:00"
 aliases: [/firefox-3-enhanced-ssl-certificate-support/]
+description: "Firefox now has full enhanced SSL certificate support at last with the arrival of version 3. Enhanced SSL certificates verify that a website is owned by."
 ---
 
 Firefox now has full [enhanced SSL certificate](https://en.wikipedia.org/wiki/Extended_Validation_Certificate) support at last with the arrival of version 3. Enhanced SSL certificates verify that a website is owned by whomever claims to own it. Very useful in the largely anonymous Internet.

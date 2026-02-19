@@ -2,6 +2,7 @@
 title: "One down, one to go..."
 date: "2007-01-30T14:02:57+00:00"
 aliases: [/one-down-one-to-go/]
+description: "I hope nobody noticed but we had some infrastructure changes over the weekend :smile:"
 ---
 
 I hope nobody noticed but we had some infrastructure changes over the weekend :smile:

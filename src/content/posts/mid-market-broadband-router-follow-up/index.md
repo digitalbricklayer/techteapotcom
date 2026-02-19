@@ -2,6 +2,7 @@
 title: "Mid market broadband router follow up"
 date: "2008-04-01T17:05:44+00:00"
 aliases: [/mid-market-broadband-router-follow-up/]
+description: "Thanks to Ken @ Ingenity for suggesting the Vyatta open source router. Only question mark is whether it works \"out of the box\" in the UK? Comes in both."
 ---
 
 Thanks to Ken @ Ingenity for suggesting the [Vyatta open source router](http://www.brocade.com/launch/vyatta/). Only question mark is whether it works "out of the box" in the UK? Comes in both software only form and as a pre-built appliance.

@@ -3,6 +3,7 @@ title: "In depth open source network management comparison"
 date: "2008-09-03T10:33:10+00:00"
 categories: ["Network Management"]
 aliases: [/in-depth-open-source-network-management-comparison/]
+description: "Jane Curry of the UK based Skills 1st network management training and consultancy company has written a rather good open source network management tool."
 ---
 
 Jane Curry of the UK based [Skills 1st network management training and consultancy company](http://www.skills-1st.co.uk/) has written a rather good [open source network management tool comparison](http://www.skills-1st.co.uk/papers/jane/open_source_mgmt_options.pdf). It is a large PDF file ~150 pages, so you have been warned!

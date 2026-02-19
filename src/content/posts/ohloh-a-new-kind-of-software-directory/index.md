@@ -3,6 +3,7 @@ title: "Ohloh, a new kind of software directory?"
 date: "2007-08-02T09:01:35+00:00"
 lastmod: "2020-10-22"
 aliases: [/ohloh-a-new-kind-of-software-directory/]
+description: "Mark Hinkle over at Zenoss mentioned Ohloh, a new open source software directory. Good find Mark!"
 ---
 
 Mark Hinkle over at Zenoss mentioned Ohloh, a new open source software directory. Good find Mark!

@@ -4,6 +4,7 @@ date: "2007-08-24T09:01:39+00:00"
 lastMod: "2020-10-13"
 categories: [Cabling]
 aliases: [/tracking-live-network-cables/]
+description: "More and more companies have systems that are in operation 24/7, that cannot in any circumstances be switched off. Sometimes the data centre cabling is."
 ---
 
 {{< figure src="200px-cat5.jpg#floatright" alt="Category 5 cable" >}}

@@ -3,6 +3,7 @@ title: "How Green Is Your Valley?"
 date: "2007-10-05T08:30:14+00:00"
 tags: ["data center"]
 aliases: [/how-green-is-your-valley/]
+description: "\"Few have made the connection between IT efficiency and green compliance\" so says Steve Nunn in The Green Room, BBC's green issues series. But I'm not so."
 ---
 
 {{< figure src="datacenter.jpg#floatright" alt="Women examining data center equipment" >}}

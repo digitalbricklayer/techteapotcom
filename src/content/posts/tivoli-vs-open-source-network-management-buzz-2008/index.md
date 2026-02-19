@@ -3,6 +3,7 @@ title: "Tivoli vs open source netwo2010rk management buzz 2008"
 date: "2009-01-07T14:19:28+00:00"
 tags: [Tivoli]
 aliases: [/tivoli-vs-open-source-network-management-buzz-2008/]
+description: "As suggested by Jane Curry in her comment on the Open source network management buzz comparison 2008 post I've compared Tivoli related keywords and."
 ---
 
 As suggested by Jane Curry in her comment on the [Open source network management buzz comparison 2008]({{< ref "/posts/open-source-network-management-buzz-comparison-2008/index.md" >}}) post I've compared Tivoli related keywords and selected open source projects. Tivoli covers a lot of ground so comparing it on its own doesn't really tell you very much.

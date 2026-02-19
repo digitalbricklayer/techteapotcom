@@ -3,6 +3,7 @@ title: "Network management's new wave six years on"
 date: "2013-06-13T10:02:15+00:00"
 categories: ["Network Management", "Open Source"]
 aliases: [/network-managements-new-wave-six-years-on/]
+description: "It has been six years since I wrote about Network management's \"new wave\" and thought it would be interesting to go back and see what has happened. We are."
 ---
 
 How time flies.

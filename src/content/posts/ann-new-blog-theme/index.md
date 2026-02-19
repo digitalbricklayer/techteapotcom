@@ -3,6 +3,7 @@ title: "ANN: New blog theme..."
 date: "2007-08-06T16:45:59+00:00"
 categories: [Announcements]
 aliases: [/ann-new-blog-theme/]
+description: "Hope you like the new theme! We were bored with the bog standard Wordpress theme so we thought we'd custom build our own."
 ---
 
 Hope you like the new theme! We were bored with the bog [standard Wordpress theme](http://themes.wordpress.net/columns/2-columns/727/nikynik-orange-2/) so we thought we'd custom build our own.

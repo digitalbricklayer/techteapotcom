@@ -2,6 +2,7 @@
 title: "My 2015 Reading Log"
 date: "2016-01-04T16:52:37+00:00"
 lead: "I've not managed to read as many books this year. Mostly due to the competition from playing Dragon Age: Inquisition for the first four months of the year."
+description: "I've not managed to read as many books this year. Mostly due to the competition from playing Dragon Age: Inquisition for the first four months of the year."
 aliases: [/my-2015-reading-log/]
 series: ["Reading Log"]
 ---

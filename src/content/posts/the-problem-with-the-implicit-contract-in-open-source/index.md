@@ -3,6 +3,7 @@ title: "The problem with the implicit contract in open source"
 date: "2009-08-06T14:50:56+00:00"
 categories: ["Open Source"]
 aliases: [/the-problem-with-the-implicit-contract-in-open-source/]
+description: "One of the things I've found very interesting about being involved in open source, and indeed business for that matter, is customer expectations."
 ---
 
 One of the things I've found very interesting about being involved in open source, and indeed business for that matter, is customer expectations.

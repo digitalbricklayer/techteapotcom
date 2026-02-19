@@ -4,6 +4,7 @@ date: "2008-09-30T08:00:03+00:00"
 categories: ["Data Center"]
 tags: [cmdb, "data center"]
 aliases: [/discoverable-data-centre-infrastructure/]
+description: "David Cuthbertson of Square Mile Systems was kind enough to demonstrate his AssetGen software to myself and Denis last week."
 ---
 
 David Cuthbertson of [Square Mile Systems](http://www.squaremilesystems.com/) was kind enough to demonstrate his [AssetGen](http://www.squaremilesystems.com/p_assetgensysmap.html) software to myself and Denis last week.

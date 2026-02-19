@@ -2,6 +2,7 @@
 title: "My tech hero: Alan Kay"
 date: "2007-12-20T17:10:53+00:00"
 aliases: [/my-tech-hero-alan-kay/]
+description: "There are very few people who really influence the world. I think one of those people is Alan Kay. If you're a programmer I would suggest that you."
 ---
 
 There are very few people who really influence the world. I think one of those people is [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay). If you're a programmer I would suggest that you [familiarise yourself with his work](http://www.mprove.de/diplom/referencesKay.html). He's got some very interesting things to say about IT and programming in particular.

@@ -4,7 +4,7 @@ date: "2007-11-02T13:58:04+00:00"
 categories: ["Network Management", "Open Source"]
 tags: [nagios, Zenoss, Zabbix, "OpenNMS"]
 aliases: [/open-source-network-management-download-comparison/]
-
+description: "One of the great things about sourceforge, apart from the cool services they provide free to open source projects, is that they provide statistics about."
 ---
 
 One of the great things about [sourceforge](http://www.sourceforge.net/), apart from the cool services they provide free to open source projects, is that they provide statistics about the projects they host.

@@ -3,6 +3,7 @@ title: 'ANN: Introducing "The Tech Teapot"'
 date: "2007-07-30T13:58:58+00:00"
 categories: [Announcements]
 aliases: [/ann-introducing-the-tech-teapot/]
+description: "Some of you may have noticed a name change. This blog is now called The Tech Teapot. Why? Well, we are pretty obsessed with tea :smile:"
 ---
 
 Some of you may have noticed a name change. This blog is now called **The Tech Teapot**. Why? Well, we are pretty obsessed with tea :smile:

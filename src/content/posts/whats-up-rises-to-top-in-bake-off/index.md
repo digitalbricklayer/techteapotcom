@@ -2,6 +2,7 @@
 title: "What's Up Rises to Top in Bake-Off"
 date: "2007-08-28T08:32:33+00:00"
 aliases: [/whats-up-rises-to-top-in-bake-off/]
+description: "CRN Tech put network management solutions up against one another and gave Ipswitch WhatsUp Gold Premium v11 first-place for its robust features, strong."
 ---
 
 {{< figure src="homewkspc-remote_sm.gif#floatright" alt="What's Up Gold screenshot" >}}

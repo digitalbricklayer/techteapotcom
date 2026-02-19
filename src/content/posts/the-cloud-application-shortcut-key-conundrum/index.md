@@ -2,6 +2,7 @@
 title: "The cloud application shortcut key conundrum"
 date: "2009-04-01T09:00:41+00:00"
 aliases: [/the-cloud-application-shortcut-key-conundrum/]
+description: "One of the more annoying things about using the new, all singing, all dancing web interface on Apple's MobileMe email service is the hijacking of my much."
 ---
 
 One of the more annoying things about using the new, all singing, all dancing web interface on Apple's MobileMe email service is the hijacking of my much used Firefox shortcut ^N (create a new browser window.)

@@ -3,6 +3,7 @@ title: "Intel study shows no effect from using none conditioned air"
 date: "2008-09-29T08:00:37+00:00"
 categories: ["Data Center"]
 aliases: [/intel-study-shows-no-effect-from-using-none-conditioned-air/]
+description: "Intel have carried out a limited pilot to find out how a data centre would perform without the usual data centre environmental controls [PDF]."
 ---
 
 Intel have carried out a limited pilot to find out how a [data centre would perform without the usual data centre environmental controls](http://www.intel.com/it/pdf/Reducing_Data_Center_Cost_with_an_Air_Economizer.pdf) [PDF].

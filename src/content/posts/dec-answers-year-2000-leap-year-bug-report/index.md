@@ -2,6 +2,7 @@
 title: "DEC answers year 2000 leap year bug report"
 date: "2008-10-29T17:17:19+00:00"
 aliases: [/dec-answers-year-2000-leap-year-bug-report/]
+description: "Digital Equipment answers a user's bug report that the year 2000 is not a leap year."
 ---
 
 Digital Equipment [answers a user's bug report that the year 2000 is not a leap year](http://www-users.cs.york.ac.uk/susan/joke/decly.htm).

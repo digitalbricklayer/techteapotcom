@@ -2,6 +2,7 @@
 title: "Social Media in Plain English"
 date: "2007-10-17T10:30:14+00:00"
 aliases: [/social-media-in-plain-english/]
+description: "Hat tip to the Elastic Path folks for finding this one."
 ---
 
 Hat tip to the [Elastic Path](http://www.elasticpath.com/) folks for [finding this one](http://www.getelastic.com/social-media-plain-english/).

@@ -2,6 +2,7 @@
 title: "Blog review by Chris Garrett"
 date: "2007-04-20T12:23:36+00:00"
 aliases: [/blog-review-by-chris-garrett/]
+description: "Chris Garret at OMIQ has been kind enough to review this 'ere blog. Chris has highlighted some things we need to do better."
 ---
 
 Chris Garret at OMIQ has been [kind enough to review this 'ere blog](http://www.chrisg.com/blog-critique-openxtra-blog/). Chris has highlighted some things we need to do better.

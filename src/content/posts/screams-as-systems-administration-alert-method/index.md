@@ -2,6 +2,7 @@
 title: "Screams as systems administration alert method"
 date: "2008-10-31T08:00:46+00:00"
 aliases: [/screams-as-systems-administration-alert-method/]
+description: "According to a recent survey carried out by Fluke Networks, 29% of IT managers say they have been alerted to business critical problems by screams."
 ---
 
 {{< figure src="istock_000005466936xsmall.jpg#floatright" alt="Screaming man" >}}

@@ -2,6 +2,7 @@
 title: "Software delivery with even less friction"
 date: "2013-12-18T09:00:34+00:00"
 aliases: [/software-delivery-with-even-less-friction/]
+description: "I've talked before about the joys of continuous software delivery before."
 ---
 
 I've talked before about the [joys of continuous software delivery]({{< ref "/posts/continuous-delivery-every-single-day/index.md" >}}) before.

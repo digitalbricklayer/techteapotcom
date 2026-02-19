@@ -2,6 +2,7 @@
 title: "Tweets as open source network management metric"
 date: "2008-03-10T09:01:07+00:00"
 aliases: [/tweets-as-open-source-network-management-metric/]
+description: "The folks over at TweetVOLUME have produced a tool for counting the mentions of words or phrases on the Twitter micro-blogging platform."
 ---
 
 The folks over at [TweetVOLUME](http://www.tweetvolume.com/) have produced a tool for counting the mentions of words or phrases on the [Twitter](http://twitter.com/) [micro-blogging](https://en.wikipedia.org/wiki/Micro-blogging) platform.

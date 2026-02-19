@@ -2,6 +2,7 @@
 title: "My 2019 Reading Log"
 date: "2020-01-01"
 lead: "I think I can say that 2019 was my best year for books in a very long time. Maybe my best ever. I certainly went to town on non-fiction this year."
+description: "I think I can say that 2019 was my best year for books in a very long time. Maybe my best ever. I certainly went to town on non-fiction this year."
 series: ["Reading Log"]
 ---
 

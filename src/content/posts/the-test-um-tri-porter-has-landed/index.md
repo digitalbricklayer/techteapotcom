@@ -2,6 +2,7 @@
 title: "The Test-Um Tri-Porter has landed!"
 date: "2007-01-26T16:16:30+00:00"
 aliases: [/the-test-um-tri-porter-has-landed/]
+description: "I am happy to announce that the Test-Um Tri-Porter (IVT600) has arrived."
 ---
 
 I am happy to announce that the Test-Um Tri-Porter (IVT600) has arrived.

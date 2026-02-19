@@ -2,6 +2,7 @@
 title: "Alarms as easy as 1,2,3?"
 date: "2006-12-19"
 aliases: [/alarms-as-easy-as-123/]
+description: "I've been trying to get my head round what the Alarm Numbers mean in Intellipool INM. Just when I think I've got it everything just slips away."
 ---
 
 I've been trying to get my head round what the Alarm Numbers mean in Intellipool INM. Just when I think I've got it everything just slips away.

@@ -2,6 +2,7 @@
 title: "A retrospective on Dyna Project version 0.1"
 date: "2015-08-05T15:46:49+00:00"
 aliases: [/a-retrospective-on-dyna-project-version-0-1/]
+description: "Whilst version 0.1 of the Dyna Project isn't quite finished, I thought it would make sense to take stock before work starts on version 0.2."
 ---
 
 Whilst version 0.1 of the Dyna Project isn't quite finished, I thought it would make sense to take stock before work starts on version 0.2.

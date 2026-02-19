@@ -4,6 +4,7 @@ date: "2009-01-06T14:24:30+00:00"
 categories: ["Network Management", "Open Source"]
 tags: [nagios, wireshark, "OpenNMS", "MRTG"]
 aliases: [/open-source-network-management-buzz-comparison-2008/]
+description: "As it's the start of a new year I thought it would be an ideal time to look back over the year just gone. I have used Google Trends to compare the number."
 ---
 
 As it's the start of a new year I thought it would be an ideal time to look back over the year just gone. I have used [Google Trends](http://www.google.com/trends) to compare the number of searches during 2008 of various open source and proprietary network management tools.

@@ -2,6 +2,7 @@
 title: "The evils of the dashboard merry-go-round"
 date: "2015-04-16T15:26:31+00:00"
 aliases: [/the-evils-of-the-dashboard-merry-go-round/]
+description: "What is the first thing you do when you get to the office? Check your email probably. Then what? I bet you go through the same routine of checking your."
 ---
 
 What is the first thing you do when you get to the office? Check your email probably. Then what? I bet you go through the same routine of checking your dashboards to see what's happened overnight.

@@ -4,6 +4,7 @@ date: "2008-05-02T15:14:13+00:00"
 categories: ["Open Source"]
 tags: [dotNET, microsoft]
 aliases: [/creating-open-source-software-using-dotnet-framework/]
+description: "Whilst developing PowerTime, I've kept in mind the requirement that I need to ensure that the software can be built using only freely available tools."
 ---
 
 Whilst developing PowerTime, I've kept in mind the requirement that I need to ensure that the software can be built using only freely available tools.

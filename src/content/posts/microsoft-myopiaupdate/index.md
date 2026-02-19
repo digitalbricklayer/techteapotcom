@@ -2,6 +2,7 @@
 title: "Microsoft myopia...update"
 date: "2008-04-28T11:10:11+00:00"
 aliases: [/microsoft-myopiaupdate/]
+description: "I complained in my recent Microsoft mypopia post that Microsoft had failed to support the main unit testing framework inside Visual Studio."
 ---
 
 I complained in my recent [Microsoft mypopia]({{< ref "/posts/microsoft-myopia/index.md" >}}) post that Microsoft had failed to support the main unit testing framework inside Visual Studio.

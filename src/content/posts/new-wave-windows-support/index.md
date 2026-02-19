@@ -4,6 +4,7 @@ date: "2007-06-14T09:51:11+00:00"
 categories: ["Network Management", "Open Source"]
 tags: [Hyperic, Zenoss, "Groundwork Open Source"]
 aliases: [/new-wave-windows-support/]
+description: "One of the odd things about the three new wave players is that, of the three, only one Hyperic supports Windows natively."
 ---
 
 One of the odd things [about the three new wave players]({{< ref "/posts/network-managements-new-wave/index.md" >}}) is that, of the three, only one [Hyperic](http://www.hyperic.com/) supports Windows natively.

@@ -2,6 +2,7 @@
 title: "Off Topic: Chin up"
 date: "2008-10-10T14:34:01+00:00"
 aliases: [/off-topic-chin-up/]
+description: "I personally think the doom &amp; gloom is being overplayed at the moment, every bit as much as the euphoria overshot during the boom years."
 ---
 
 I personally think the [doom &amp; gloom is being overplayed at the moment](http://www.independent.co.uk/opinion/commentators/hamish-mcrae/hamish-mcrae-its-bad-may-get-worse-but-its-no-great-depression-955492.html), every bit as much as the euphoria overshot during the boom years.

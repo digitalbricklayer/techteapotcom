@@ -5,6 +5,7 @@ summary: "A comparison of various open source network management tools with info
 categories: ["Network Management", "Open Source"]
 tags: [nagios, Zenoss, Zabbix, "OpenNMS"]
 aliases: [/open-source-network-management-comparison-support/]
+description: "Attribute / Project OpenNMS Nagios Zenoss Hyperic Zabbix Peer Support Forum !X !X !X !X !X Mailing list !X !X !X ![](/images/cross.png)."
 ---
 
 <table class="attribute-tbl" border="0">

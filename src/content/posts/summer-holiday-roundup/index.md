@@ -2,6 +2,7 @@
 title: "Summer holiday roundup"
 date: "2007-08-22T13:10:50+00:00"
 aliases: [/summer-holiday-roundup/]
+description: "Summer is nearly over so I thought I'd share our summer holiday destinations with you. Please feel free to leave a comment saying where you went for your."
 ---
 
 Summer is nearly over so I thought I'd share our summer holiday destinations with you. Please feel free to leave a comment saying where you went for your summer hols with an appropriate link to Wikipedia or whatever.

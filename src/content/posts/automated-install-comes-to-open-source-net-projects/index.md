@@ -5,6 +5,7 @@ lastmod: "2013-06-01"
 categories: ["Open Source"]
 tags: [dotNET]
 aliases: [/automated-install-comes-to-open-source-net-projects/]
+description: "One of the nice things about Linux is the ability to install apps (and dependencies) very easily using or similar. Windows users have been missing a."
 ---
 
 One of the nice things about Linux is the ability to install apps (and dependencies) very easily using `apt-get` or similar. Windows users have been [missing a similar tool for a long time](http://mikehadlow.blogspot.com/2009/11/make-working-with-open-source-breeze.html). Never fear, the [Scottish Alt.Net group](http://twitter.com/scotaltnet) have written [Hornget](http://code.google.com/p/hornget/), a tool for installing open source .NET projects.

@@ -4,6 +4,7 @@ date: "2007-05-22T13:40:10+00:00"
 categories: ["Network Management", "Open Source"]
 tags: [hyperic]
 aliases: [/enterprise-open-source-systems-management-confusion/]
+description: "Another commercial open source systems management software product has recently appeared on our radar. Hyperic, founded in 2004, is going after the."
 ---
 
 Another commercial open source systems management software product has recently appeared on our radar. [Hyperic](http://www.hyperic.com/), founded in 2004, is going after the enterprise market.

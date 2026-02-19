@@ -3,6 +3,7 @@ title: "Top 5 Open Source NetFlow Analyzers"
 date: "2013-07-29T12:39:42+00:00"
 tags: [NetFlow]
 aliases: [/top-5-open-source-netflow-analyzers/]
+description: "NetFlow is a standard from Cisco for transferring of network analysis data across a network. The last thing you want to do with your routers and switches."
 ---
 
 [NetFlow](https://en.wikipedia.org/wiki/NetFlow) is a standard from [Cisco](http://www.cisco.com/en/US/products/ps6601/products_ios_protocol_group_home.html) for transferring of network analysis data across a network. The last thing you want to do with your routers and switches is give them the burden of analyzing network traffic, so Cisco came up with NetFlow so that you can offload the analysis to less CPU bound devices.

@@ -2,6 +2,7 @@
 title: "Pay extra for peace of mind"
 date: "2008-01-11T14:39:23+00:00"
 aliases: [/pay-extra-for-peace-of-mind/]
+description: "Sometimes you're glad you spent that little bit more money on resiliency. Today is that day. I've just been informed by our ISP that one of the disks in."
 ---
 
 {{< figure src="istock-000003886153xsmall.jpg#floatright" alt="" >}}

@@ -4,6 +4,7 @@ date: "2007-09-13T16:41:48+00:00"
 categories: ["Network Management", "Open Source"]
 tags: [Zenoss, Hyperic, "Groundwork Open Source"]
 aliases: [/new-wave-network-management-buzz-comparison/]
+description: "Google Trends is an on-line service for comparing the search volumes for up to five keywords. I thought it would be interesting to compare the relative."
 ---
 
 [Google Trends](http://www.google.com/trends) is an on-line service for comparing the search volumes for up to five keywords. I thought it would be interesting to compare the relative buzz of the [new wave open source network management players]({{< ref "/posts/network-managements-new-wave/index.md" >}}) between themselves, but also between other open source projects and commercial products.

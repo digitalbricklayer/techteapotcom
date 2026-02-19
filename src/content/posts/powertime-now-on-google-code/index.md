@@ -3,6 +3,7 @@ title: "PowerTime now on Google Code"
 date: "2008-06-10T14:46:35+00:00"
 tags: [PowerShell]
 aliases: [/powertime-now-on-google-code/]
+description: "PowerTime is now available on Google Code. You can even browse the code without having to download anything."
 ---
 
 PowerTime is now available on Google Code. You can even browse the code without having to download anything.

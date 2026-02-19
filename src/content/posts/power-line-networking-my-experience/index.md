@@ -2,6 +2,7 @@
 title: "Power line networking: my experience"
 date: "2007-10-09T09:07:39+00:00"
 aliases: [/power-line-networking-my-experience/]
+description: "Over the weekend my wireless adaptor at home gave up the ghost. Not being the greatest fan of my wireless network at home (I find it too unreliable and."
 ---
 
 {{< figure src="highspeed.jpg#floatright" alt="Devolo Homeplug High Speed Starter Kits" >}}

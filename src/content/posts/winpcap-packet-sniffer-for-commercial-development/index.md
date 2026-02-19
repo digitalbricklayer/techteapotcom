@@ -4,6 +4,7 @@ date: "2007-09-05T09:01:52+00:00"
 categories: ["Protocol Analysis"]
 tags: ["WinPCap"]
 aliases: [/winpcap-packet-sniffer-for-commercial-development/]
+description: "WinPCap is a great Windows based, open source driver for packet sniffing wire-based networks using a bog standard network interface card. WinPCap is."
 ---
 
 [WinPCap](http://www.winpcap.org/) is a great Windows based, open source driver for packet sniffing wire-based networks using a bog standard network interface card. WinPCap is licensed under the [General Public License](http://www.gnu.org/copyleft/gpl.html) (GPL).

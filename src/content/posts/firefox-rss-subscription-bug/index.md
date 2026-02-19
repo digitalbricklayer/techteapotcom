@@ -3,6 +3,7 @@ title: "Firefox RSS subscription bug"
 date: "2008-12-05T09:00:16+00:00"
 tags: [firefox]
 aliases: [/firefox-rss-subscription-bug/]
+description: "I've recently noticed a bug in Firefox 3. If you subscribe to a lot of blogs you've probably noticed the RSS symbol on the right hand side inside your."
 ---
 
 I've recently noticed a bug in Firefox 3. If you subscribe to a lot of blogs you've probably noticed the RSS symbol on the right hand side inside your Firefox address bar.

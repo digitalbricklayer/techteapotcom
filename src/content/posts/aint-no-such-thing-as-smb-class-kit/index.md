@@ -3,6 +3,7 @@ title: "Ain't no such thing as SMB class kit"
 date: "2008-01-17T14:35:45+00:00"
 tags: [downtime, enterprise, "SMB"]
 aliases: [/aint-no-such-thing-as-smb-class-kit/]
+description: "Every bout of downtime teaches you a lesson. At least one. :smile:"
 ---
 
 Every bout of downtime teaches you a lesson. At least one. :smile:

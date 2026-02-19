@@ -2,6 +2,7 @@
 title: "A reminder of the power of the internet, again"
 date: "2020-09-30"
 lead: "A reminder of just how powerful the internet has become. Everything is being revolutionised by connecting all sort of things to the internet including astronomical telescopes."
+description: "A reminder of just how powerful the internet has become. Everything is being revolutionised by connecting all sort of things to the internet including astronomical telescopes."
 ---
 
 <!--more-->

@@ -2,6 +2,7 @@
 title: "Inch forward a bit, a bit more..."
 date: "2006-12-19T17:45:39+00:00"
 aliases: [/posts/21/, inch-forward-a-little-bit-a-bit-more/]
+description: "Programming is still way too hard. Even the smallest piece of software takes a huge amount of effort to build."
 ---
 
 Programming is still way too hard. Even the smallest piece of software takes a huge amount of effort to build.

@@ -1,7 +1,8 @@
 ---
 title: "VLOOKUP Quirks"
 date: "2025-07-07T13:55:56+02:00"
-lead: "What happens when you give VLOOKUP something it can’t find? It is supposed to return #N/A. That is true when you tell it to do full matches on the value you are looking up. But what is the default behaviour?"
+lead: "What happens when you give VLOOKUP something it can't find? It is supposed to return #N/A. That is true when you tell it to do full matches on the value you are looking up. But what is the default behaviour?"
+description: "What happens when you give VLOOKUP something it can't find? It is supposed to return #N/A. That is true when you tell it to do full matches on the value you are looking up. But what is the default behaviour?"
 thumbnail: "/images/vlookup-quirks.png"
 ---
 

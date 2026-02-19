@@ -4,6 +4,7 @@ date: "2012-08-14T10:41:40+00:00"
 lastMod: "2020-10-13"
 tags: [teamcity]
 aliases: [/continuous-delivery-every-single-day/]
+description: "It has taken 20 years as a professional programmer to get to this point, but I have finally taken the final step to continuous delivery."
 ---
 
 It has taken 20 years as a professional programmer to get to this point, but I have finally taken the final step to continuous delivery.

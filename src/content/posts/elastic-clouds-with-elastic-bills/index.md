@@ -4,6 +4,7 @@ date: "2008-11-07T12:55:59+00:00"
 categories: ["Cloud Computing"]
 tags: [amazon]
 aliases: [/elastic-clouds-with-elastic-bills/]
+description: "I mentioned this in a comment over on John M Willis ESM Blog. I thought it deserved a post all to itself because I think it's important."
 ---
 
 I mentioned [this in a comment](http://www.johnmwillis.com/amazon/clouddroplets/#comments) over on [John M Willis ESM Blog](http://www.johnmwillis.com/). I thought it deserved a post all to itself because I think it's important.

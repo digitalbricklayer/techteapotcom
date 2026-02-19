@@ -3,6 +3,7 @@ title: "New domain and last chance to subscribe via email"
 date: "2015-03-03T13:31:03+00:00"
 lastmod: "2015-03-05"
 aliases: [/new-domain-and-last-chance-to-subscribe-via-email/]
+description: "If you receive The Tech Teapot via email, this is your last chance to continue doing so. From now The Tech Teapot is moving over to use MailChimp instead."
 ---
 
 If you receive *The Tech Teapot* via email, this is your last chance to continue doing so. From now *The Tech Teapot* is moving over to use [MailChimp](http://mailchimp.com/) instead of [Google Feedburner](http://feedburner.google.com/) for delivering email with the latest posts.

@@ -2,6 +2,7 @@
 title: "PayPal and Google Checkout use in UK businesses"
 date: "2007-10-02T10:01:23+00:00"
 aliases: [/paypal-and-google-checkout-use-in-uk-businesses/]
+description: "It's technical planning week this week, so I need to know about payment options you'd like to see."
 ---
 
 {{< figure src="google_checkout.gif#floatright" alt="Google Checkout Logo" >}}

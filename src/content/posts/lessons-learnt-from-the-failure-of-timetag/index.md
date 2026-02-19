@@ -3,6 +3,7 @@ title: "Lessons learnt from the failure of TimeTag"
 date: "2010-01-15T14:02:40+00:00"
 tags: [PowerShell]
 aliases: [/lessons-learnt-from-the-failure-of-timetag/]
+description: "I have a confession to make: I've developed a failed open source project! There I've said it, it's now public knowledge and I can hang my head in shame."
 ---
 
 I have a confession to make: I've developed a [failed open source project](https://openxtra.org/project/timetag)! There I've said it, it's now public knowledge and I can hang my head in shame... lead me to the village stocks so you can all throw rotting vegetables at me.

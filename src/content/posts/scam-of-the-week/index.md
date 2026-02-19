@@ -3,6 +3,7 @@ title: "Scam of the week"
 date: "2015-07-11T08:00:35+00:00"
 lastmod: "2022-11-24"
 aliases: [/scam-of-the-week/]
+description: "Last week we had to fend off a scam attempt. The scam worked like this:"
 ---
 
 Last week we had to fend off a scam attempt. The scam worked like this:

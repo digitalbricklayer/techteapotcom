@@ -2,6 +2,7 @@
 title: "The Tech Teapot Three Today"
 date: "2009-11-30T09:50:01+00:00"
 aliases: [/the-tech-teapot-three-today/]
+description: "The Tech Teapot is three years old today. Well, if you want to be pedantic, it was three years old last Thursday but I forgot all about it!"
 ---
 
 {{< figure src="phpRrWWSsAM.jpg#floatright" alt="The Tech Teapot Third Birthday Cake" >}}

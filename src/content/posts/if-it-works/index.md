@@ -3,6 +3,7 @@ title: "If it works..."
 date: "2008-04-28T11:38:26+00:00"
 lastmod: "2013-12-01"
 aliases: [/if-it-works/]
+description: "Just ran across a great paper written by Eve Phillips documenting a history of artificial intelligence. Well worth a read. The title made me smile because."
 ---
 
 ...it's not AI.

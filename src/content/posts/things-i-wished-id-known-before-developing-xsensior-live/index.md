@@ -3,6 +3,7 @@ title: "Things I Wished I'd Known Before Developing Xsensior Live"
 date: "2015-03-09T09:00:18+00:00"
 lastmod: "2015-03-10"
 aliases: [/things-i-wished-id-known-before-developing-xsensior-live/]
+description: "One of the best features of Xsensior Lite is the ability to view your sensor data and alerts anywhere you have web access. The website that provides the."
 ---
 
 One of the best features of Xsensior Lite is the ability to view your sensor data and alerts anywhere you have web access. The website that provides the ability to see your sensor data is called Xsensior Live. Just log-in and your sensor data is displayed in pretty graphs with 24 hour highs / lows as well as any alerts that have been triggered. The feature was launched just over two years ago.

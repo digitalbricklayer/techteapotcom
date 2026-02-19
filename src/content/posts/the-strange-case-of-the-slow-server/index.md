@@ -2,6 +2,7 @@
 title: "The strange case of the slow server"
 date: "2008-10-23T08:00:47+00:00"
 aliases: [/the-strange-case-of-the-slow-server/]
+description: "Our internet presence has been slow of late. Customers were complaining that the website was slow, we couldn't log into the server reliably, sending."
 ---
 
 Our internet presence has been slow of late. Customers were complaining that the website was slow, we couldn't log into the server reliably, sending emails was slow. All told not very good.

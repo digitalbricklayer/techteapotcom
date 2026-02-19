@@ -3,6 +3,7 @@ title: "Introducing PowerGUI..."
 date: "2007-07-04T09:01:16+00:00"
 tags: [PowerShell]
 aliases: [/introducing-powergui/]
+description: "Whilst we are on the topic of PowerShell, may as well mention PowerGUI as well."
 ---
 
 Whilst we are on the topic of PowerShell, may as well mention [PowerGUI](http://powergui.org/) as well.

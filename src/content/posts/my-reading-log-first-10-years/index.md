@@ -3,6 +3,7 @@ title: "First 10 Years of My Reading Log"
 date: 2024-01-02
 thumbnail: "/images/stoner-cover.jpg"
 lead: "I have been logging the books I have read for ten years. This post will summarise what I've been reading and how that has changed over the last ten years."
+description: "I have been logging the books I have read for ten years. This post will summarise what I've been reading and how that has changed over the last ten years."
 series: ["Reading Log"]
 ---
 

@@ -2,6 +2,7 @@
 title: "Banned from Pandora internet radio station"
 date: "2008-01-08T11:05:04+00:00"
 aliases: [/banned-from-pandora-internet-radio-station/]
+description: "Sigh. Just received this email from the folks at Pandora. What a shame, Pandora is by far the best internet radio station out there."
 ---
 
 Sigh. Just received this email from the folks at [Pandora](http://www.pandora.com/). What a shame, Pandora is by far the best internet radio station out there.

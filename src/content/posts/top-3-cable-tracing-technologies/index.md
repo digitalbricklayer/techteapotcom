@@ -4,6 +4,7 @@ date: "2015-02-27T17:39:57+00:00"
 lastMod: "2020-10-12T16:22:27+00:00"
 categories: [Cabling]
 aliases: [/top-3-cable-tracing-technologies/]
+description: "Firstly, why would you need to trace network cabling? In a perfect world you wouldn't need to, but even if a network begins life properly labelled, things."
 ---
 
 Firstly, why would you need to trace network cabling? In a perfect world you wouldn't need to, but even if a network begins life properly labelled, things have a habit of changing. Documentation and cable labelling don't always keep up when changes are made.

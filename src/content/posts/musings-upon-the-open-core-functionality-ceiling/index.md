@@ -5,6 +5,7 @@ categories: ["Network Management", "Open Source"]
 tags: [Hyperic, "open core", Zenoss]
 aliases: [/musings-upon-the-open-core-functionality-ceiling/]
 lead: "One of the things you'd expect from an active open source project is that the code base is likely to grow as more and more features are added. Does a lack of growth imply that there is a functionality ceiling imposed on open core software?"
+description: "One of the things you'd expect from an active open source project is that the code base is likely to grow as more and more features are added. Does a lack of growth imply that there is a functionality ceiling imposed on open core software?"
 ---
 
 <!--more-->

@@ -2,6 +2,7 @@
 title: "Tech Support would be a lot easier if..."
 date: "2015-07-08T12:19:15+00:00"
 aliases: [/tech-support-would-be-a-lot-easier-if/]
+description: "...customers didn't start the conversation with their own fault diagnosis."
 ---
 
 ...customers didn't start the conversation with their own fault diagnosis.

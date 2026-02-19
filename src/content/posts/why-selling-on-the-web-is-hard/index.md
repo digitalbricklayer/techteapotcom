@@ -2,6 +2,7 @@
 title: "Why selling on the web is hard"
 date: "2006-11-27T16:58:43+00:00"
 aliases: [/why-selling-on-the-web-is-hard/]
+description: "We are currently on our fifth full iteration of our website. And when I say iteration, I mean full gut wrenching, throw everything out and do it again."
 ---
 
 We are currently on our fifth full iteration of our website. And when I say iteration, I mean full gut wrenching, throw everything out and do it again iteration. That works out to over one full iteration per year.

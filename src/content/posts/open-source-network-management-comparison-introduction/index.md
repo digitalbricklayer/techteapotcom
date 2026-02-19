@@ -4,6 +4,7 @@ date: "2008-07-17T12:44:59+00:00"
 categories: ["Network Management", "Open Source"]
 tags: [nagios, Zenoss, Zabbix, "OpenNMS"]
 aliases: [/open-source-network-management-comparison-introduction/]
+description: "One side effect of the increased competition in open source network management is that it is becoming increasingly hard to choose which tool is right for."
 ---
 
 One side effect of the [increased competition in open source network management]({{< ref "/posts/network-managements-new-wave/index.md" >}}) is that it is becoming increasingly hard to choose which tool is right for you.

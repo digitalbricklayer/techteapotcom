@@ -2,6 +2,7 @@
 title: "Looking forward to 2008"
 date: "2008-01-08T15:58:53+00:00"
 aliases: [/looking-forward-to-2008/]
+description: "We expect two main trends to continue to drive business throughout 2008:"
 ---
 
 We expect two main trends to continue to drive business throughout 2008:

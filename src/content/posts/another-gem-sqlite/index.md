@@ -2,6 +2,7 @@
 title: "Another gem SQLite"
 date: "2006-12-07"
 aliases: [/another-gem-sqlite/]
+description: "Open source software never ceases to amaze (and delight) me. I've found another gem, though not a network management package this time!"
 ---
 
 [Open source](https://en.wikipedia.org/wiki/Open_source) software never ceases to amaze (and delight) me. I've found another gem, though not a network management package this time!

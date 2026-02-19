@@ -3,6 +3,7 @@ title: "Back to Windows 3 with Web 2.0"
 date: "2007-10-04T12:15:48+00:00"
 tags: [AJAX, "operating systems", "system reliability", "web browsers"]
 aliases: [/back-to-windows-3/]
+description: "With the move to more applications being accessed via the web browser I am becoming more and more reminded of the bad old days under Windows 3."
 ---
 
 {{< figure src="browser-look.jpg#floatright" alt="Internet Explorer Go Button" >}}

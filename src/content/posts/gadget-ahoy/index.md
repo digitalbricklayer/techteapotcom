@@ -2,6 +2,7 @@
 title: "Gadget Ahoy"
 date: "2006-12-06T18:57:59+00:00"
 aliases: [/gadget-ahoy/]
+description: "I've been seeing lots of activity on the Desktop recently. Apple started it all off with their Dashboard built into OSX. All very impressive but hardly of."
 ---
 
 I've been seeing lots of activity on the Desktop recently. [Apple](http://www.apple.com/) started it all off with their [Dashboard](http://www.apple.com/macosx/leopard/dashboard.html) built into [OSX](http://www.apple.com/macosx/). All very impressive but hardly of much interest to [Microsoft Windows](http://www.microsoft.com/windows/) users.

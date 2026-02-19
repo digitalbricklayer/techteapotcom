@@ -2,6 +2,7 @@
 title: "Wordpress Bad Behavior hack scare"
 date: "2007-12-06T12:06:34+00:00"
 aliases: [/wordpress-bad-behavior-hack-scare/]
+description: "!Bad Behavior wordpress plug-in error message"
 ---
 
 ![Bad Behavior wordpress plug-in error message](bad-behaviour-bug1.jpg)

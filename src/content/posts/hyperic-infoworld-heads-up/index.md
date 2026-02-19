@@ -3,6 +3,7 @@ title: "Hyperic Infoworld heads up"
 date: "2007-05-23T08:53:56+00:00"
 tags: [hyperic]
 aliases: [/hyperic-infoworld-heads-up/]
+description: "Nice Hyperic heads up by Infoworld. $50 million worth of R&D for $1 AND three customers. Sweet!"
 ---
 
 Nice [Hyperic heads up by Infoworld](http://web.archive.org/web/20080720033856/http://www.infoworld.com/article/07/05/22/moes-hyperic_1.html). $50 million worth of R&D for $1 AND three customers. Sweet!

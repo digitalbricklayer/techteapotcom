@@ -2,6 +2,7 @@
 title: "Off Topic: A few pictures from Otley on a snowy day"
 date: "2008-12-04T14:06:09+00:00"
 aliases: [/off-topic-a-few-pictures-from-otley-on-a-snowy-day/]
+description: "A few pictures from around Otley, West Yorkshire on a snowy day in December 2008."
 ---
 
 A few pictures from around Otley, West Yorkshire on a snowy day in December 2008.

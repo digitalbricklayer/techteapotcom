@@ -2,6 +2,7 @@
 title: "Not the Dud but the Dude"
 date: "2006-12-01T15:31:03+00:00"
 aliases: [/not-the-dud-but-the-dude/]
+description: "Brendan from Sentinal was kind enough to point out a new open source network mapping tool. It looks really good and so far seems to work! It's called The."
 ---
 
 Brendan from [Sentinal](http://www.secure-eserver.com/) was kind enough to point out a new [open source ](https://en.wikipedia.org/wiki/Open_source) network mapping tool. It looks really good and so far seems to work! It's called [The Dude](http://www.mikrotik.com/thedude.php), probably sounds better in an American accent, and I tried it on our test network with the following results.

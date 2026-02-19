@@ -3,6 +3,7 @@ title: "New 6 Point Checklist for Cables"
 date: "2008-07-01T08:30:02+00:00"
 categories: [Cabling]
 aliases: [/new-6-point-checklist-for-cables/]
+description: "A couple of weeks ago BASEC (The British Approvals Service for Cables) issued a 6 point checklist pre-empting the release of the 17th Edition Wiring."
 ---
 
 A couple of weeks ago BASEC [(The British Approvals Service for Cables)](http://www.basec.org.uk/home/) issued a 6 point checklist pre-empting the release of the 17th Edition Wiring Regulations in July. They are alerting cable installers that the need to ensure the correct specification of cables for major projects has now become critical.

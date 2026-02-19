@@ -3,6 +3,7 @@ title: "Code performance tuning in .NET"
 date: "2008-07-02T16:48:53+00:00"
 tags: ["ado.net"]
 aliases: [/code-performance-tuning-in-net/]
+description: "One of the things I've been busy with over the last two weeks has been to re-write the backend to PowerTime. Binary files are a nightmare to program."
 ---
 
 One of the things I've been busy with over the last two weeks has been to re-write the backend to PowerTime. Binary files are a nightmare to program, debug and maintain. With that in mind I've re-coded the backend to use [SQLite through ADO.NET](http://system.data.sqlite.org/).

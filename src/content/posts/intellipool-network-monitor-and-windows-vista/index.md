@@ -3,6 +3,7 @@ title: "Intellipool Network Monitor and Windows Vista"
 date: "2007-06-11T09:01:58+00:00"
 tags: [intellipool]
 aliases: [/intellipool-network-monitor-and-windows-vista/]
+description: "Richard Aronsson from Intellipool has a post over on his blog concerning using Intellipool to monitor Vista based machines."
 ---
 
 Richard Aronsson from Intellipool has a post over on his blog concerning using Intellipool to monitor Vista based machines.

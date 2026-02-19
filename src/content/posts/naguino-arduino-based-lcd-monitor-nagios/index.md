@@ -3,6 +3,7 @@ title: "Naguino: an Arduino-based LCD monitor for Nagios"
 date: "2009-05-12T14:05:41+00:00"
 tags: [arduino, icinga]
 aliases: [/naguino-arduino-based-lcd-monitor-nagios/]
+description: "If you've ever wanted to know the status of your Nagios installation without having to open a browser, you may find Naguino a fun and useful addition to."
 ---
 
 {{< figure src="zz08e4cb70.jpg#center" width="435" height="315" title="Naguino: an Arduino-based LCD monitor for Nagios and Icinga" alt="Naguino: an Arduino-based LCD monitor for Nagios and Icinga" >}}

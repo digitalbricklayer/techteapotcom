@@ -2,6 +2,7 @@
 title: "RE: Microsoft Wake Up--Apple is gaining Intellectual Capital and Market"
 date: "2007-08-08T15:19:27+00:00"
 aliases: [/re-microsoft-wake-up-apple-is-gaining-intellectual-capital-and-market/]
+description: "Jim Forbes wrote an interesting piece Microsoft Wake Up--Apple is gaining Intellectual Capital and Market over on his blog."
 ---
 
 [Jim Forbes](http://forbesontech.typepad.com/my_weblog/) wrote an interesting piece *[Microsoft Wake Up--Apple is gaining Intellectual Capital and Market](http://forbesontech.typepad.com/my_weblog/2007/08/microsoft-wake-.html)* over on his blog.

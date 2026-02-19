@@ -2,6 +2,7 @@
 title: "Selecting a content management system"
 date: "2008-11-10T09:00:23+00:00"
 aliases: [/selecting-a-content-management-system/]
+description: "One of the great discoveries I made whilst writing this blog has been the ease with which I can create posts using Wordpress as the content management."
 ---
 
 One of the great discoveries I made whilst writing this blog has been the ease with which I can create posts using Wordpress as the content management system (CMS). It started good and it just keeps on getting better.

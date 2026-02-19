@@ -2,6 +2,7 @@
 title: "SpamAssassin just works..."
 date: "2007-09-27T09:00:29+00:00"
 aliases: [/spamassassin-just-works/]
+description: "One of the great tools we have discovered recently has been Apache SpamAssassin, an open source spam identifier."
 ---
 
 {{< figure src="arrowlogo.png#floatright" alt="SpamAssassin Logo" >}}

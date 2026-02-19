@@ -2,6 +2,7 @@
 title: "Whither Met Office openness"
 date: "2008-03-28T09:42:01+00:00"
 aliases: [/whither-met-office-openness/]
+description: "I'm currently in the process of putting together a unit test for an open source project. I wanted to use real met office temperature data, ideally from."
 ---
 
 I'm currently in the process of putting together a unit test for an open source project. I wanted to use real [met office](http://www.metoffice.gov.uk/) temperature data, ideally from around York or Leeds.

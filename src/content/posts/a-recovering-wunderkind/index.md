@@ -2,6 +2,7 @@
 title: 'A recovering "wunderkind"'
 date: "2015-07-01T12:30:42+00:00"
 aliases: [/a-recovering-wunderkind/]
+description: "If there is anything the IT industry loves above anything else it is youth."
 ---
 
 If there is anything the IT industry loves above anything else it is youth.

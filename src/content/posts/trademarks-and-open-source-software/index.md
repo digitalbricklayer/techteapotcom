@@ -2,6 +2,7 @@
 title: "Trademarks and open source software"
 date: "2009-05-11T10:04:20+00:00"
 aliases: [/trademarks-and-open-source-software/]
+description: "Open source is a term used to cover permissive licenses for software. Generally speaking, if software is covered by an open source license, you have a."
 ---
 
 Open source is a term used to cover permissive licenses for software. Generally speaking, if software is covered by an open source license, you have a right to the source code for that software, as well as the ability to modify that software and distribute your changes to others.

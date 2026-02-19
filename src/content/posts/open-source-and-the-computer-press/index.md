@@ -3,6 +3,7 @@ title: "Open source and the computer press"
 date: "2007-07-16T12:11:23+00:00"
 categories: ["Open Source"]
 aliases: [/open-source-and-the-computer-press/]
+description: "For a long time non-commercial open source projects had exclusive access to an audience. Sites like Slashdot are very focused on open source, commercial."
 ---
 
 For a long time non-commercial open source projects had exclusive access to an audience. Sites like [Slashdot](http://slashdot.org/) are very focused on open source, commercial software doesn't get a look in.

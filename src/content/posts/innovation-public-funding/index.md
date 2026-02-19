@@ -2,6 +2,7 @@
 title: "Innovation &amp; public funding"
 date: "2007-09-15T20:18:49+00:00"
 aliases: [/innovation-public-funding/]
+description: "I was amused to read an article celebrating the launch of a new product called Multidweller by Pace Micro in the Yorkshire Evening Post. Sounds like a."
 ---
 
 I was amused to read [an article celebrating the launch of a new product called Multidweller by Pace Micro](http://www.yorkshireeveningpost.co.uk/business-news/Pace-speeds-along-with-helping.3202062.jp) in the [Yorkshire Evening Post](http://www.yorkshireeveningpost.co.uk/). Sounds like a neat piece of technology delivering digital TV to multi-dweller buildings like blocks of apartments and the like.

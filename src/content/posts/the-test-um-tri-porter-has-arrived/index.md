@@ -3,6 +3,7 @@ title: "The Test-um Tri-Porter has arrived"
 date: "2007-01-26"
 categories: [Cabling]
 aliases: [/the-test-um-tri-porter-has-arrived/]
+description: "I am happy to announce that the Test-Um Tri-Porter (IVT600) has arrived."
 ---
 
 I am happy to announce that the Test-Um Tri-Porter (IVT600) has arrived.</p>

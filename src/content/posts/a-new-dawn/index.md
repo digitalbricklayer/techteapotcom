@@ -3,6 +3,7 @@ title: "A new dawn for The Tech Teapot"
 date: 2020-10-06
 lastmod: 2022-10-31
 lead: "Some big changes to The Tech Teapot blog including porting it over to use the Hugo static site generator Hugo."
+description: "Some big changes to The Tech Teapot blog including porting it over to use the Hugo static site generator Hugo."
 tags: [Hugo]
 ---
 

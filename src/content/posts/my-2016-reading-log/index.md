@@ -2,6 +2,7 @@
 title: "My 2016 Reading Log"
 date: "2017-01-01"
 lead: "I read a total of 13 books in 2016. Maybe slightly higher than average but not by much."
+description: "I read a total of 13 books in 2016. Maybe slightly higher than average but not by much."
 series: ["Reading Log"]
 ---
 

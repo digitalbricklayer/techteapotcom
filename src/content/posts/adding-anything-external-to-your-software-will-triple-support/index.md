@@ -2,6 +2,7 @@
 title: "Adding anything external to your software will triple support"
 date: "2013-07-30T14:41:55+00:00"
 lead: "Adding support for any external service to your software will substantially increase the support burden on you. Minimize the burden by making troubleshooting your software easier."
+description: "Adding support for any external service to your software will substantially increase the support burden on you. Minimize the burden by making troubleshooting your software easier."
 aliases: [/adding-anything-external-to-your-software-will-tripple-support/, /posts/adding-anything-external-to-your-software-will-tripple-support/]
 ---
 

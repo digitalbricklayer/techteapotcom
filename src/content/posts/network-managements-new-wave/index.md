@@ -3,6 +3,7 @@ title: "Network management's new wave"
 date: "2007-06-13T09:01:06+00:00"
 categories: ["Network Management", "Open Source"]
 aliases: [/network-managements-new-wave/]
+description: "A bunch of venture funded network management start-ups are storming the enterprise space with pockets full of venture capital money."
 ---
 
 A bunch of venture funded network management start-ups are storming the enterprise space with [pockets full of venture capital](http://www.networkworld.com/news/2007/060607-management-vc-funding.html) money.

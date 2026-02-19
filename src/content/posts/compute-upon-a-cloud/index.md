@@ -4,6 +4,7 @@ date: "2007-12-17T09:01:50+00:00"
 categories: ["Data Center"]
 tags: [amazon, "cloud computing", "data center"]
 aliases: [/compute-upon-a-cloud/]
+description: "Interesting what Amazon is up to...first with cloud storage then cloud computing and now cloud databases. Is the art of data centre management going to be."
 ---
 
 

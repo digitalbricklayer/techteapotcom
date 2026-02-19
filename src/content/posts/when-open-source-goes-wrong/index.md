@@ -3,6 +3,7 @@ title: "When open source goes wrong..."
 date: "2008-10-30T12:51:20+00:00"
 categories: ["Open Source"]
 aliases: [/when-open-source-goes-wrong/]
+description: ">\"Clearly, their VC people have no picture of the situation other than their own return of investment.\""
 ---
 
 ... [things ain't too pretty](http://blog.wikiring.com/Blog/BlogEntry28).

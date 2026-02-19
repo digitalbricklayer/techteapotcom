@@ -2,6 +2,7 @@
 title: "New blog email subscription option"
 date: "2007-06-08T12:12:22+00:00"
 aliases: [/new-blog-email-subscription-option/]
+description: "The more observant among you may have noticed some changes on this 'ere blog. The blog was a wee bit anonymous so I've added an About link at the top of."
 ---
 
 The more observant among you may have noticed some changes on this 'ere blog. The blog was a wee bit anonymous so I've added an [About link at the top of each page]({{< ref "/about/index.md" >}}). I've also added a link through to the [products section too](https://www.openxtra.co.uk/). Just so new visitors landing on the blog get an idea of what we're about.

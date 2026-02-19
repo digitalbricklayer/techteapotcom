@@ -2,6 +2,7 @@
 title: "Review of the Quicktest 500 ADSL Tester"
 date: "2010-02-17T12:58:51+00:00"
 aliases: [/review-quicktest-500-adsl-tester/,/review-of-the-quicktest-500-adsl-tester]
+description: "The Quicktest 500 is reviewed by Brendan Mulvaney of Halcyon IT."
 ---
 
 {{< figure src="quicktest-500.jpg#center" width="550" height="413" title="Front of the Vonaq Quicktest 500" alt="Quicktest 500 Front Photo" >}}

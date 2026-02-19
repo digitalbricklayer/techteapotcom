@@ -4,6 +4,7 @@ date: "2009-05-27T13:04:46+00:00"
 categories: ["Network Management", "Open Source"]
 tags: [nagios, wireshark, "OpenNMS"]
 aliases: [/open-source-network-management-activity-comparison/]
+description: "The recent controversy over the ICINGA Nagios fork brought into focus the relative activity of the various network management projects."
 ---
 
 The recent [controversy over the ICINGA Nagios fork]({{< ref "/posts/nagios-begets-icinga/index.md" >}}) brought into focus the relative activity of the various network management projects.

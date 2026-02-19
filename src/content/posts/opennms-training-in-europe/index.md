@@ -3,6 +3,7 @@ title: "OpenNMS training in Europe"
 date: "2008-04-16T09:22:24+00:00"
 tags: ["OpenNMS"]
 aliases: [/opennms-training-in-europe/]
+description: "Are you wanting to get into OpenNMS but are struggling to get started? OpenNMS are running a series of training courses in Europe during May."
 ---
 
 Are you wanting to get into [OpenNMS](https://www.opennms.org/) but are struggling to get started? OpenNMS are running a series of training courses in Europe during May.

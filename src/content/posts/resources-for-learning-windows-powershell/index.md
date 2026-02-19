@@ -3,6 +3,7 @@ title: "Resources for learning Windows Powershell"
 date: "2008-08-07T16:05:31+00:00"
 tags: [PowerShell]
 aliases: [/resources-for-learning-windows-powershell/]
+description: "I am currently in the process of broadening my knowledge of Windows Powershell and I thought I'd post some of the excellent resources I've found. Many are."
 ---
 
 I am currently in the process of broadening my knowledge of Windows Powershell and I thought I'd post some of the excellent resources I've found. Many are available for free online, some you'll have to shell out money for. The book, Windows Powershell in Action, is well worth buying if you want to gain an understanding of how Powershell works.

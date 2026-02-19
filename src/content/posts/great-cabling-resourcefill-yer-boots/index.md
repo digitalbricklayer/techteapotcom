@@ -3,6 +3,7 @@ title: "Great cabling resource...fill yer boots"
 date: "2007-05-31T10:29:00+00:00"
 categories: [Cabling]
 aliases: [/great-cabling-resourcefill-yer-boots/]
+description: "If you want to know more about voice, data and video cabling we strongly recommend a visit to Uncle Ted's Guide to VDV. Highly recommended!"
 ---
 
 If you want to know more about voice, data and video cabling we strongly recommend a visit to [Uncle Ted's Guide to VDV](http://www.vdvworks.com/UncleTed/). Highly recommended!

@@ -3,6 +3,7 @@ title: "New Aviosys IP Power 9858 Box Opening"
 date: "2014-10-20T07:00:30+00:00"
 tags: [Aviosys]
 aliases: [/new-aviosys-ip-power-9858-box-opening/]
+description: "A series of box opening photos of the new Aviosys IP Power 9858 4 port network power switch. This model will in due course replace the Aviosys IP Power."
 ---
 
 A series of box opening photos of the new Aviosys IP Power 9858 4 port network power switch. This model will in due course replace the Aviosys IP Power 9258 series of power switches. The 9258 series is still available in the mean time though, so don't worry.

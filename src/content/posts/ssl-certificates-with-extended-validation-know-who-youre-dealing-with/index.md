@@ -2,6 +2,7 @@
 title: "SSL certificates with extended validation: know who you're dealing with"
 date: "2008-02-01T16:25:18+00:00"
 aliases: [/ssl-certificates-with-extended-validation-know-who-youre-dealing-with/]
+description: "One of the biggest problems a website encounters is trust. How do you know who you are dealing with?"
 ---
 
 One of the biggest problems a website encounters is trust. How do you know who you are dealing with?

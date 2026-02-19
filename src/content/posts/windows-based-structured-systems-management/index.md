@@ -2,6 +2,7 @@
 title: "Windows based structured systems management"
 date: "2009-06-11T09:27:32+00:00"
 aliases: [/windows-based-structured-systems-management/]
+description: "Found a post whilst reading a post by the Standalone Sysadmin... and it is a beauty. Michael Janke has a post comparing ad-hoc versus structured systems."
 ---
 
 Found a post whilst reading a [post by the Standalone Sysadmin](http://standalone-sysadmin.blogspot.com/2009/06/opsview-nagios-is-simpler-better.html)... and it is a beauty. [Michael Janke](http://lastinfirstout.blogspot.com/) has a post comparing [ad-hoc versus structured systems management](http://lastinfirstout.blogspot.com/2008/04/ad-hoc-verses-structured-system.html).

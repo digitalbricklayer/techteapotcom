@@ -4,6 +4,7 @@ date: "2008-12-18T09:00:12+00:00"
 categories: ["Network Management", "Open Source"]
 tags: ["Pandora FMS"]
 aliases: [/introducing-pandora-fms/]
+description: "The open source systems management space sure is hotting up. Pandora FMS looks like a good emerging open source systems management tool."
 ---
 
 The open source systems management space sure is hotting up. [Pandora FMS](http://pandorafms.org/) looks like a good emerging open source systems management tool.

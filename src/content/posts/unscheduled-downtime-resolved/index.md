@@ -2,6 +2,7 @@
 title: "Unscheduled downtime resolved"
 date: "2007-03-19T11:16:43+00:00"
 aliases: [/unscheduled-downtime-resolved/]
+description: "Apologies for the recent downtime. The site was down for half a day yesterday and for around an hour of business hours today. All is fixed now...phew! All."
 ---
 
 Apologies for the recent downtime. The site was down for half a day yesterday and for around an hour of business hours today. All is fixed now...phew! All was a bit of a panic for a while.

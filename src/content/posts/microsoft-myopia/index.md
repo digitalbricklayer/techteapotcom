@@ -2,6 +2,7 @@
 title: "Microsoft myopia"
 date: "2008-04-08T11:44:45+00:00"
 aliases: [/microsoft-myopia/]
+description: "I've just installed Visual Studio Pro 2008 and there's one thing bugging me."
 ---
 
 {{< figure src="istock_000004306521xsmall.jpg#floatright" alt="Cross eyed man looking straight into the camera" >}}

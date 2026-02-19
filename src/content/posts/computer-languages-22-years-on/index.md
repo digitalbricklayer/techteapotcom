@@ -3,6 +3,7 @@ title: "Computer Languages 22 years on"
 date: "2008-02-19T13:02:59+00:00"
 tags: ["artificial intelligence", "computer language"]
 aliases: [/computer-languages-22-years-on/]
+description: "Many moons ago in the late 1980s, right at the start of my interest in computers, I bought a book about computer languages. The book titled Computer."
 ---
 
 Many moons ago in the late 1980s, right at the start of my interest in computers, I bought a book about computer languages. The book titled [Computer Languages: A Guide for the Perplexed](http://www.amazon.com/Computer-Languages-Perplexed-Naomi-Baron/dp/0385232144/ref=sr_1_7) by [Naomi S Baron](https://en.wikipedia.org/wiki/Naomi_Baron) inspired me to get into programming and eventually led me to program professionally (in the sense that somebody paid me :smile: .)

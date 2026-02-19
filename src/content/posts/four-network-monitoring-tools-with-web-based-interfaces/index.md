@@ -4,6 +4,7 @@ date: "2008-11-11T09:00:38+00:00"
 categories: ["Network Monitoring", "Open Source"]
 tags: [cacti, collectd, monitorix, rrdtool]
 aliases: [/four-network-monitoring-tools-with-web-based-interfaces/]
+description: "... a nice roundup by Linux.com outlining some of the options for network monitoring in a *nix environment."
 ---
 
 ... a nice roundup by Linux.com [outlining some of the options for network monitoring in a *nix environment](http://www.linux.com/feature/151982).

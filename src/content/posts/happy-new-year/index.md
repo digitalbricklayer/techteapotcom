@@ -2,6 +2,7 @@
 title: "Happy new year!"
 date: "2008-01-02T16:31:22+00:00"
 aliases: [/happy-new-year/]
+description: "I actually refused some chocolate last night...not often that happens! Geese, I need to get down the gym today. :smile:"
 ---
 
 I actually refused some chocolate last night...not often that happens! Geese, I need to get down the gym today. :smile:

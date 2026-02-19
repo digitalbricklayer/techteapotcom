@@ -2,6 +2,7 @@
 title: "My 2021 Reading Log"
 date: "2022-01-27"
 lead: "Another strange COVID-19 affected year, another above average reading year. I read a total of 12 books during 2021. Of the 12 books, 8 were non-fiction. Seems to be a bit of a trend I've noticed."
+description: "Another strange COVID-19 affected year, another above average reading year. I read a total of 12 books during 2021. Of the 12 books, 8 were non-fiction."
 thumbnail: "/images/stoner-cover.jpg"
 series: ["Reading Log"]
 ---

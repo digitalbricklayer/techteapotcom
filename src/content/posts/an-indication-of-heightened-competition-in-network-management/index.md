@@ -3,6 +3,7 @@ title: "An indication of heightened competition in network management"
 date: "2008-10-06T08:00:25+00:00"
 categories: ["Network Management"]
 aliases: [/an-indication-of-heightened-competition-in-network-management/]
+description: "When I was doing the research for the Open source network management in Google 2001 vs Google 2008 I came across the Network Monitoring Tools website run."
 ---
 
 When I was doing the research for the [Open source network management in Google 2001 vs Google 2008]({{< ref "/posts/open-source-network-management-in-google-2001-vs-google-2008.md">}}) I came across the Network Monitoring Tools website run by Stanford.

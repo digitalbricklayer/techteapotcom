@@ -3,6 +3,7 @@ title: "Data, Voice, and Video Cabling book"
 date: "2007-07-31T09:01:47+00:00"
 categories: [Cabling]
 aliases: [/data-voice-and-video-cabling-book/]
+description: "If you are involved in installing data, voice or video cabling then you won't be disappointed by Data, Voice, and Video Cabling by Jim Hayes and Paul."
 ---
 
 If you are involved in installing data, voice or video cabling then you won't be disappointed by [Data, Voice, and Video Cabling](http://www.jimhayes.com/writings/dvvc.htm) by Jim Hayes and Paul Rosenberg.

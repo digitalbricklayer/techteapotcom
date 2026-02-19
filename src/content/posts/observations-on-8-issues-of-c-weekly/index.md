@@ -2,6 +2,7 @@
 title: "Observations on 8 Issues of C# Weekly"
 date: "2015-04-23T15:10:23+00:00"
 aliases: [/observations-on-8-issues-of-c-weekly/]
+description: "At the end of 2013 I thought it would be interesting to create a C# focused weekly newsletter. I registered the domain and created a website and hooked it."
 ---
 
 At the end of 2013 I thought it would be interesting to create a C# focused weekly newsletter. I registered the domain and created a website and hooked it up to the excellent [MailChimp email service](http://mailchimp.com/). The site went live (or at least Google Analytics was added to the site) on the 18th December 2013.

@@ -2,6 +2,7 @@
 title: "Microsoft's kitchen of the future"
 date: "2007-01-25T12:22:39+00:00"
 aliases: [/microsofts-kitchen-of-the-future/]
+description: "I couldn't help but laugh at the kitchen in Microsoft's Home of the Future. Everybody knows that nothing dates like visions of the future, but this takes."
 ---
 
 I couldn't help but laugh at the kitchen in Microsoft's Home of the Future. Everybody knows that nothing dates like visions of the future, but this takes the biscuit (or the [focaccia](https://en.wikipedia.org/wiki/Focaccia), see below). I'm still waiting for my jetpack and my nuclear powered million-miles-to-the-gallon car that I was promised when I was a child, but it looks like I'll have to wait a while yet.

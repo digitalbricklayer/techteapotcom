@@ -2,6 +2,7 @@
 title: "The joy of content plagiarism"
 date: "2009-04-22T11:55:54+00:00"
 aliases: [/the-joy-of-content-plagiarism/]
+description: "One of the nice side effects of our new content management system is that you can leave comments on our articles. We received one rather intriguing."
 ---
 
 One of the nice side effects of our new content management system is that you can leave comments on our articles. We received one rather intriguing comment this week effectively accusing us of plagiarising an article. That came as a bit of a surprise given that I know Denis wrote the article in question several years ago.

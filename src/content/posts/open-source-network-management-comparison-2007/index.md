@@ -4,6 +4,7 @@ date: "2008-01-03T10:32:35+00:00"
 categories: ["Network Management", "Open Source"]
 tags: [nagios, wireshark, "OpenNMS", "MRTG"]
 aliases: [/open-source-network-management-comparison-2007/]
+description: "Mark Hinkle from Zenoss sent me a link to an interesting document he prepared yesterday."
 ---
 
 [Mark Hinkle](http://socializedsoftware.com/) from [Zenoss](http://zenoss.org/) sent me a link to an [interesting document he prepared](http://docs.google.com/Doc?id=dgrmj57q_9g8pjxpdp) yesterday.

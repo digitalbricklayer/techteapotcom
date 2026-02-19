@@ -3,6 +3,7 @@ title: "Handy scripts for testing your Hugo website"
 date: 2020-11-18T10:09:19Z
 lastmod: 2023-02-24
 lead: "Whilst developing this website and porting it over to Hugo, I have written a few handy scripts to help me test the site for errors. I am going to present the scripts with a little explanation about what each script achieves so maybe you can use them too."
+description: "Whilst developing this website and porting it over to Hugo, I have written a few handy scripts to help me test the site for errors. I am going to present the scripts with a little explanation about what each script achieves so maybe you can use them too."
 tags:
   - Hugo
 ---

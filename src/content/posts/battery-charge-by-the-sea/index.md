@@ -2,6 +2,7 @@
 title: "Battery charge by the sea"
 date: "2007-10-25T12:54:44+00:00"
 aliases: [/battery-charge-by-the-sea/]
+description: "Apologies for the lack of posts since last Friday. I managed to get a few days away in Robin Hood's Bay just north of Scarborough. The weather was."
 ---
 
 {{< figure src="ravenhall4_large.jpg#floatright" alt="View of Robin Hoods Bay from Raven Hall Hotel" >}}

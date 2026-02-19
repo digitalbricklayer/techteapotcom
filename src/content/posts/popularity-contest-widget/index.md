@@ -2,6 +2,7 @@
 title: "Popularity Contest Widget"
 date: "2007-10-29T16:19:03+00:00"
 aliases: [/popularity-contest-widget/]
+description: "Update 2nd December 2008: The Popularity Contest Widget has now moved to the wordpress.org site. All updates will now appear on the new site."
 ---
 
 **Update 2nd December 2008**: The Popularity Contest Widget has now [moved to the wordpress.org site](http://wordpress.org/extend/plugins/popularity-contest-widget/). All updates will now appear on the new site.

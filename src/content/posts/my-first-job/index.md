@@ -2,6 +2,7 @@
 title: "My first job"
 date: "2008-02-28T11:28:21+00:00"
 aliases: [/my-first-job/]
+description: "Every time I look back on my first job I realise just how odd it was."
 ---
 
 Every time I look back on my first job I realise just how odd it was.

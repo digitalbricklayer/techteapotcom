@@ -2,6 +2,7 @@
 title: "Season's greetings from OPENXTRA"
 date: "2007-12-24T12:50:42+00:00"
 aliases: [/seasons-greetings-from-openxtra/]
+description: "Merry Christmas to all our readers, from everybody at OPENXTRA. Many thanks to Tarus Balog over at OpenNMS for the lovely t-shirt."
 ---
 
 {{< figure src="office-christmas-party-2007_tn.png#floatright" alt="OPENXTRA Christmas Party" >}}

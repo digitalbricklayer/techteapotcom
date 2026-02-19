@@ -3,6 +3,7 @@ title: "TimeTag fork away!"
 date: "2012-02-21T15:09:37+00:00"
 lastmod: "2013-06-01"
 aliases: [/timetag-fork-away/]
+description: "I finally got around to posting the TimeTag source code up on ~~Google Code~~ GitHub this afternoon. You can find the project here."
 ---
 
 I finally got around to posting the [TimeTag](https://openxtra.org/project/timetag) source code up on ~~[Google Code](http://code.google.com/)~~ [GitHub](http://github.com/) this afternoon. You can find the project [here](http://github.com/openxtra/TimeTag).

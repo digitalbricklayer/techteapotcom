@@ -2,6 +2,7 @@
 title: "Last magazine still standing"
 date: "2007-01-25T15:27:31+00:00"
 aliases: [/last-magazine-still-standing/]
+description: "Things must be pretty tough in the technical magazine market. My favourite magazine has died, with another on life support. Predictably, the one I don't."
 ---
 
 Things must be pretty tough in the technical magazine market. My favourite magazine has died, with another on life support. Predictably, the one I don't like much seems to be thriving.

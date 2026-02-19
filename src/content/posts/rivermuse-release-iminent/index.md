@@ -3,6 +3,7 @@ title: "Rivermuse release iminent?"
 date: "2009-07-22T08:15:29+00:00"
 tags: [Rivermuse]
 aliases: [/rivermuse-release-iminent/]
+description: "Looks like RiverMuse may just be coming close to a release next week after a considerable delay (around six months) if the latest RiverMuse tweet is."
 ---
 
 Looks like [RiverMuse](http://www.rivermuse.com/) may just be coming close to a release next week after a considerable delay (around six months) if the latest RiverMuse tweet is authoritative.

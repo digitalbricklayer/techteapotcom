@@ -2,6 +2,7 @@
 title: "The lowdown on writing a technical book"
 date: "2009-07-14T09:40:50+00:00"
 aliases: [/the-lowdown-on-writing-a-technical-book/]
+description: "If you've ever hankered after writing a technical book then Michael Foord has some advice for you garnered from writing IronPython in Action."
 ---
 
 If you've ever hankered after writing a technical book then [Michael Foord](http://www.voidspace.org.uk/) has [some advice for you](http://www.voidspace.org.uk/python/articles/technical-writing.shtml) garnered from writing [IronPython in Action](http://www.ironpythoninaction.com/).

@@ -3,6 +3,7 @@ title: 'Do enterprise network management apps have a "low surface area"?'
 date: "2007-06-15T09:01:21+00:00"
 categories: ["Network Management"]
 aliases: [/are-network-management-apps-low-surface-area/]
+description: "I was interested to read Open Source: What Makes for Success? by Gordon Haff. Alex Fletcher has written an interesting follow up."
 ---
 
 I was interested to read Open Source: What Makes for Success? by Gordon Haff. Alex Fletcher has written [an interesting follow up](http://alexfletcher.typepad.com/all_bets_off/2007/06/the_real_comple.html).

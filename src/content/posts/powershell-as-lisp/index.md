@@ -2,6 +2,7 @@
 title: "Powershell as Lisp"
 date: "2008-08-12T15:47:19+00:00"
 aliases: [/powershell-as-lisp/]
+description: "One of the interesting things about Lisp is the ability to use macros to effectively create your own language. Instead of using Lisp to solve your."
 ---
 
 One of the interesting things about Lisp is the ability to use macros to effectively create your own language. Instead of using Lisp to solve your problem, write a language in which your problem can be solved and then solve it using your own mini-language.

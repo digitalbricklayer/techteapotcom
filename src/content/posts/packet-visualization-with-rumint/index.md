@@ -3,6 +3,7 @@ title: "Packet visualization with Rumint"
 date: "2007-08-23T14:56:33+00:00"
 categories: ["Protocol Analysis"]
 aliases: [/packet-visualization-with-rumint/]
+description: "One of the tools recommended in Chris Sander's Practical Packet Analysis book is called Rumint."
 ---
 
 One of the tools recommended in [Chris Sander's](http://www.chrissanders.org/) [Practical Packet Analysis](https://www.nostarch.com/packet2.htm) book is called [Rumint](http://www.rumint.org/).

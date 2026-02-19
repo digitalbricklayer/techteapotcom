@@ -4,6 +4,7 @@ date: "2007-06-25T10:14:10+00:00"
 categories: ["Network Management", "Open Source"]
 tags: [Hyperic, Zenoss, "Groundwork Open Source"]
 aliases: [/new-wave-network-management-licences/]
+description: "Michael Tiemann made an interesting post titled Will the Real Open Source CRM Please Stand Up. Alex Fletcher wrote an interesting follow up."
 ---
 
 Michael Tiemann made an interesting post titled [Will the Real Open Source CRM Please Stand Up](http://www.opensource.org/node/163). Alex Fletcher wrote [an interesting follow up](http://alexfletcher.typepad.com/all_bets_off/2007/06/thoughts-on-osi.html).

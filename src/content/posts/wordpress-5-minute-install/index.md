@@ -2,6 +2,7 @@
 title: "Wordpress 5 minute install..."
 date: "2008-12-12T09:00:59+00:00"
 aliases: [/wordpress-5-minute-install/]
+description: "... used to be a category leader in ease of installation. It isn't now. You can install very powerful CMS software like SilverStripe in under a minute. By."
 ---
 
 ... used to be a category leader in ease of installation. It isn't now. You can install very powerful CMS software like [SilverStripe](http://www.silverstripe.org/blog/) in under a minute. By comparison, five minutes seems like an eternity.

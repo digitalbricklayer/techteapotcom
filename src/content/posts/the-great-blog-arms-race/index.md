@@ -2,6 +2,7 @@
 title: "The great blog arms race"
 date: "2007-12-11T10:23:16+00:00"
 aliases: [/the-great-blog-arms-race/]
+description: "Spammers have automated tools to spam blog comments. Blog owners have a number of automated tools to stop them. Spammers set up dummy blogs with the."
 ---
 
 Spammers have automated tools to spam blog comments. Blog owners have a number of automated tools to stop them. Spammers set up dummy blogs with the anti-spam tools of the day so they can refine their spamming tools. Blog owners deploy new or updated anti-spam tools to stop the newly refined spamming tools...

@@ -2,6 +2,7 @@
 title: "How not to do XBox 360 support"
 date: "2008-10-29T13:35:34+00:00"
 aliases: [/how-not-to-do-xbox-360-support/]
+description: "I've had a XBox 360 for around a year now and I have to say it has been a fine console. I can't get enough of Command &amp; Conquer."
 ---
 
 I've had a [XBox 360](http://www.xbox.com/) for around a year now and I have to say it has been a fine console. I can't get enough of [Command &amp; Conquer](http://www.commandandconquer.com/).

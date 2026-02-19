@@ -2,6 +2,7 @@
 title: "Server room equipment environment specs...more info required"
 date: "2007-09-10T13:12:23+00:00"
 aliases: [/server-room-equipment-environment-specsmore-info-required/]
+description: "Manufacturers of IT equipment usually specify recommended operating temperatures for their equipment. The temperature range is usually quite wide. For."
 ---
 
 Manufacturers of IT equipment usually specify recommended operating temperatures for their equipment. The temperature range is usually quite wide. For instance, the temperature range specified for our Dell servers is 10° to 35°C (50° to 95°F).

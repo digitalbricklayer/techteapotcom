@@ -2,6 +2,7 @@
 title: "Introduction to middle age"
 date: "2008-04-21T15:58:15+00:00"
 aliases: [/introduction-to-middle-age/]
+description: "I passed the marker buoy on the journey to middle age last week. At least according to the Collins Dictionary anyway. Of course, according to the Oxford."
 ---
 
 ![Actor in makeup](twinkle-little-star.jpg)

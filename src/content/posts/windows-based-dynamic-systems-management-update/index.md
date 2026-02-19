@@ -3,6 +3,7 @@ title: "Windows based dynamic systems management update"
 date: "2009-06-18T10:55:08+00:00"
 tags: [PowerShell]
 aliases: [/windows-based-dynamic-systems-management-update/]
+description: "As a follow up to the Windows based structured systems management post, I have found a network monitor that does have some dynamic abilities."
 ---
 
 As a follow up to the [Windows based structured systems management]({{< ref "/posts/windows-based-structured-systems-management/index.md" >}}) post, I have found a network monitor that does have some dynamic abilities.

@@ -2,6 +2,7 @@
 title: "How not to comment your code"
 date: "2007-10-29T09:01:54+00:00"
 aliases: [/how-not-to-comment-your-code/]
+description: "I was talking to an old time programmer a while ago and he reminisced about a colleague who used to comment his code using Ancient Greek."
 ---
 
 I was talking to an old time programmer a while ago and he reminisced about a colleague who used to comment his code using [Ancient Greek](https://en.wikipedia.org/wiki/Ancient_Greek).

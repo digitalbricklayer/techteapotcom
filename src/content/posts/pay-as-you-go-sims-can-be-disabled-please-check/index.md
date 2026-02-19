@@ -2,6 +2,7 @@
 title: "Pay as you go SIMs can be disabled -- please check"
 date: "2007-05-17T10:56:33+00:00"
 aliases: [/pay-as-you-go-sims-can-be-disabled-please-check/]
+description: "Most temperature monitoring equipment is purchased in order for you to be alerted when things go wrong. Quite often you want to be alerted using SMS."
 ---
 
 Most [temperature monitoring equipment](https://www.openxtra.co.uk/environment-monitors.html) is purchased in order for you to be alerted when things go wrong. Quite often you want to be alerted using SMS.

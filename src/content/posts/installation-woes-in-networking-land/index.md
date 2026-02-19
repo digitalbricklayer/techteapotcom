@@ -2,6 +2,7 @@
 title: "Installation woes in networking land"
 date: "2006-12-21T16:20:43+00:00"
 aliases: [/installation-woes-in-networking-land/]
+description: "We moved office recently as some of you may know. We thought we'd treat ourselves to a professional grade broadband router more in keeping with our new."
 ---
 
 We moved office recently as some of you may know. We thought we'd treat ourselves to a professional grade broadband router more in keeping with our new surroundings.

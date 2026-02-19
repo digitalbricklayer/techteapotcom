@@ -2,6 +2,7 @@
 title: "The Tech Teapot two today!"
 date: "2008-11-27T08:00:11+00:00"
 aliases: [/the-tech-teapot-two-today/]
+description: "The Tech Teapot is two years old today. Now we've got 13 categories, 334 posts &amp; 412 comments."
 ---
 
 {{< figure src="istock_000007188544xsmall.jpg#floatright" alt="The Tech Teapot Second Birthday Cake" >}}

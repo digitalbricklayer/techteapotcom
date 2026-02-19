@@ -3,6 +3,7 @@ title: "Network management's downward trend?"
 date: "2007-09-17T14:48:29+00:00"
 categories: ["Network Management"]
 aliases: [/network-managements-downward-trend/]
+description: "The most puzzling aspect of the new wave network management buzz comparison is the OpenView &amp; NetIQ graph. I find it hard to believe that either."
 ---
 
 The most puzzling aspect of the [new wave network management buzz comparison]({{< ref "/posts/new-wave-network-management-buzz-comparison/index.md" >}}) is the OpenView &amp; NetIQ graph. I find it hard to believe that either OpenView or NetIQ are losing traction in the marketplace. So, how do you explain the fall in their respective number of searches?
