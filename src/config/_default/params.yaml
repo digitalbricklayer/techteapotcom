@@ -1,7 +1,11 @@
 copyright: "Jack Hughes"
 
-# Home page meta description
-description: "The Tech Teapot blog is the online home of Jack Hughes and concentrates on open source network management software"
+# Fallback meta description (used when a page has no description in its frontmatter)
+description: "The Tech Teapot is the personal blog of Jack Hughes covering technology, network management, open source software, and occasional personal musings."
+
+# Fallback og:image for pages with no thumbnail
+images:
+  - /images/techteapot-logo.png
 
 style:
   vars:

@@ -1,4 +1,4 @@
-<meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Params.Description }}{{ end }}">
+<meta name="description" content="{{ with .Params.Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 
 {{- if .Site.Params.opengraph }}
     {{ template "_internal/opengraph.html" . }}
