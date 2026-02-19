@@ -3,6 +3,13 @@
 {{- if .Site.Params.opengraph }}
     {{ template "_internal/opengraph.html" . }}
     <meta property="og:locale" content="en_GB">
+    {{- if not .Params.images }}
+        {{- with .Params.thumbnail }}
+    <meta property="og:image" content="{{ . | absURL }}">
+        {{- else }}
+    <meta property="og:image" content="{{ "/images/techteapot-logo.png" | absURL }}">
+        {{- end }}
+    {{- end }}
 {{- end }}
 {{- if .Site.Params.schema }}
     {{ template "_internal/schema.html" . }}
