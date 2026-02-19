@@ -1,2 +1,4 @@
 User-agent: *
 Disallow: {{ if hugo.IsDevelopment }}/{{ end }}
+
+Sitemap: {{ "sitemap.xml" | absURL }}
