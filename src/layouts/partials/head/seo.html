@@ -2,6 +2,7 @@
 
 {{- if .Site.Params.opengraph }}
     {{ template "_internal/opengraph.html" . }}
+    <meta property="og:locale" content="en_GB">
 {{- end }}
 {{- if .Site.Params.schema }}
     {{ template "_internal/schema.html" . }}
