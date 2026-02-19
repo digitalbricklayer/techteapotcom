@@ -4,6 +4,7 @@ date: "2008-10-01T12:35:10+00:00"
 lastmod: "2022-10-12"
 aliases: [/open-source-network-management-in-google-2001-vs-google-2008/]
 description: "Google have released a fully searchable version of their first available index from 2001 to celebrate their 10th birthday. I thought it would be."
+thumbnail: "/posts/open-source-network-management-in-google-2001-vs-google-2008/images/open-source-network-management-2022.png"
 ---
 
 Google have released a fully searchable version of their first available index from 2001 to celebrate their 10th birthday. I thought it would be interesting to compare and contrast a search for "*open source network management*" using the 2001 index and the 2008 index.

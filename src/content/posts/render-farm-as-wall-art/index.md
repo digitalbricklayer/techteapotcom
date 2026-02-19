@@ -3,6 +3,7 @@ title: "Render farm as wall art"
 date: "2008-10-02T08:00:28+00:00"
 aliases: [/render-farm-as-wall-art/]
 description: "sortOrder=\"desc\" rowHeight=\"150\" margins=\"5\" resizeOptions=\"600x300 q90 Lanczos\" previewType=\"none\" embedPreview=\"true\" >}}"
+thumbnail: "/posts/render-farm-as-wall-art/images/custom-wall-mounted-renderfarm-01.jpg"
 ---
 
 If only data centres looked like this...

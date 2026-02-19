@@ -3,6 +3,7 @@ title: "Software the old fashioned way"
 date: "2014-07-24T07:00:51+00:00"
 aliases: [/software-old-fashioned-way/]
 description: "I was clearing out my old bedroom after many years nagging by my parents when I came across two of my old floppy disk boxes. Contained within is a small."
+thumbnail: "/posts/software-old-fashioned-way/images/2014-07-23-161.jpg"
 ---
 
 I was clearing out my old bedroom after many years nagging by my parents when I came across two of my old floppy disk boxes. Contained within is a small snapshot of my personal computing starting from 1990 through until late 1992. Everything 

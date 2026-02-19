@@ -6,6 +6,7 @@ lead: "Whilst developing this website and porting it over to Hugo, I have writte
 description: "Whilst developing this website and porting it over to Hugo, I have written a few handy scripts to help me test the site for errors. I am going to present the scripts with a little explanation about what each script achieves so maybe you can use them too."
 tags:
   - Hugo
+thumbnail: "/posts/handy-hugo-website-test-scripts/images/rundevserver.png"
 ---
 
 <!--more-->

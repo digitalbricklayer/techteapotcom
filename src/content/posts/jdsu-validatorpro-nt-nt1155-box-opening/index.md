@@ -4,6 +4,7 @@ date: "2010-01-06T13:46:22+00:00"
 categories: ["Cabling"]
 aliases: [/jdsu-validatorpro-nt-nt1155-box-opening/]
 description: "A series of box opening photos of the recently released JDSU ValidatorPRO-NT NT1155 all-in-one copper, fibre and wireless tester with active network."
+thumbnail: "/posts/jdsu-validatorpro-nt-nt1155-box-opening/images/DSCF2177.jpg"
 ---
 
 A series of box opening photos of the recently released JDSU ValidatorPRO-NT NT1155 all-in-one copper, fibre and wireless tester with active network features.

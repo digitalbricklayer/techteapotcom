@@ -3,6 +3,7 @@ title: "Ultimate low power server"
 date: "2008-10-24T08:00:23+00:00"
 aliases: [/ultimate-low-power-server/]
 description: "Want a home server but don't want the electric bills that come from leaving a high powered machine on all of the time? Help is at hand."
+thumbnail: "/posts/ultimate-low-power-server/images/500_package.jpg"
 ---
 
 Want a home server but don't want the electric bills that come from leaving a high powered machine on all of the time? Help is at hand.

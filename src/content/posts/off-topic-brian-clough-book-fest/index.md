@@ -4,6 +4,7 @@ date: "2008-10-09T08:00:50+00:00"
 lastmod: "2013-08-01"
 aliases: [/off-topic-brian-clough-book-fest/]
 description: "Occasionally, when the mood takes me, I read up on a topic to a reasonable depth. This time it was Brian Clough, the eponymous ex-manager of football."
+thumbnail: "/posts/off-topic-brian-clough-book-fest/images/bc4.jpg"
 ---
 
 Occasionally, when the mood takes me, I read up on a topic to a reasonable depth. This time it was [Brian Clough](https://en.wikipedia.org/wiki/Brian_Clough), the eponymous ex-manager of football clubs [Derby County](https://en.wikipedia.org/wiki/Derby_County_F.C.) &amp; [Nottingham Forest](https://en.wikipedia.org/wiki/Nottingham_Forest_F.C.).

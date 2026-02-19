@@ -4,6 +4,7 @@ date: "2015-03-31T14:49:57+00:00"
 tags: ["AVTECH Software"]
 aliases: [/new-avtech-room-alert-3w-box-opening/]
 description: "AVTECH have finally released the WiFi version of the AVTECH Room Alert 3E."
+thumbnail: "/posts/new-avtech-room-alert-3w-box-opening/images/IMG_0197.jpg"
 ---
 
 [AVTECH](https://www.openxtra.co.uk/avtech-software.html) have finally released the WiFi version of the [AVTECH Room Alert 3E](https://www.openxtra.co.uk/avtech-room-alert-3e.html).
