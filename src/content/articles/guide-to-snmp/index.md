@@ -1,7 +1,7 @@
 ---
 title: "Guide to SNMP"
 date: 2022-10-18T15:22:36+01:00
-thumbnail: "/images/snmp-logo.png"
+thumbnail: "/articles/guide-to-snmp/images/snmp-logo.png"
 description: "An explanation of what SNMP is and how it can fit into your broader environmental monitoring efforts."
 lead: "An explanation of what SNMP is and how it can fit into your broader environmental monitoring efforts."
 categories:

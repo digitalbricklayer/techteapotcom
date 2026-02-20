@@ -3,7 +3,7 @@ title: "My 2020 Reading Log"
 date: "2021-01-18"
 lead: "It has been a strange year. Reading wise it has been slightly above average with another good year for non-fiction. Not sure why non-fiction is doing so well. I just find books that cast a light into areas I don't know well absolutely compelling. If the unread books on my kindle are any guide, then I doubt this trend will be going away any time soon."
 description: "It has been a strange year for reading — slightly above average, with another good year for non-fiction. Books that cast a light into areas I don't know well are absolutely compelling."
-thumbnail: "/images/britain-bc-cover.jpg"
+thumbnail: "/posts/my-2020-reading-log/images/britain-bc-cover.jpg"
 series: ["Reading Log"]
 ---
 

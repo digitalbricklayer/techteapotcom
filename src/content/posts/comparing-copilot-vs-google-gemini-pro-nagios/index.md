@@ -3,7 +3,7 @@ title: "Comparing Microsoft Copilot vs Google Gemini Pro for installing Nagios u
 date: 2024-03-07
 lead: "A comparison between Microsoft Copilot and Google Gemini Pro for generating an Ansible playbook to install Nagios."
 description: "A comparison between Microsoft Copilot and Google Gemini Pro for generating an Ansible playbook to install Nagios."
-thumbnail: "/images/copilot-vs-gemini-leader.jpg"
+thumbnail: "/posts/comparing-copilot-vs-google-gemini-pro-nagios/images/copilot-vs-gemini-leader.jpg"
 tags: [Google Gemini, Microsoft Copilot, Nagios, Ansible]
 ---
 

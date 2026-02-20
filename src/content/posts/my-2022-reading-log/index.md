@@ -3,7 +3,7 @@ title: "My 2022 Reading Log"
 date: "2023-01-03"
 lead: "Thankfully COVID-19 hasn't intruded too much into 2022 but I've still managed an above average reading year. I read a total of 15 books during 2022. Of the 15 books read during 2022, 11 were non-fiction. My goal for 2023 is to read more fiction."
 description: "An above average reading year in 2022 with 15 books read, 11 of which were non-fiction. My goal for 2023 is to read more fiction."
-thumbnail: "/images/the-godfather-cover.jpg"
+thumbnail: "/posts/my-2022-reading-log/images/the-godfather-cover.jpg"
 series: ["Reading Log"]
 ---
 

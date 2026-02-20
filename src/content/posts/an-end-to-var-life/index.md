@@ -3,7 +3,7 @@ title: "(An End to) VAR Life"
 description: "My reflections on nearly 20 years with OPENXTRA Limited a Value Added Reseller I co-founded all the way back in early 2003."
 lead: "My reflections on nearly 20 years with OPENXTRA Limited a Value Added Reseller I co-founded all the way back in early 2003."
 date: 2023-01-17
-thumbnail: "/images/openxtra-logo.png"
+thumbnail: "/posts/an-end-to-var-life/images/openxtra-logo.png"
 ---
 
 <!--more-->

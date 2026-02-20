@@ -3,7 +3,7 @@ title: "How to Mass Convert Hugo Posts to Post Bundles"
 description: "A simple python script for converting your Hugo posts into post bundles."
 lead: "A simple Python script for converting Hugo posts into post bundles to make your posts appear in alphabetical order and therefore speed code navigation."
 date: 2022-10-24T11:49:46+01:00
-thumbnail: "/images/python-logo.png"
+thumbnail: "/posts/how-to-mass-convert-post-to-post-bundle/images/python-logo.png"
 tags: [Hugo, Python]
 ---
 
