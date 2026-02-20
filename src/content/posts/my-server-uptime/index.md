@@ -11,4 +11,4 @@ I was messing around inside *top* trying to diagnose a server slowdown and I not
 
 Want to share your server uptime? :wink:
 
-**Update October 2022**: I now do realise that this is perhaps the dumbest post on this entire blog.
+**Update October 2022**: I do now realise that this is perhaps the dumbest post on this entire blog.
